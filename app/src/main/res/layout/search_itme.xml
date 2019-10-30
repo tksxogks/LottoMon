@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    app:cardCornerRadius="24dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="#F4F4F4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/card_tv_drwNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="878회차"
+            android:textStyle="bold"
+            android:textSize="32sp"
+            android:layout_gravity="center" />
+        <TextView
+            android:id="@+id/card_tv_drwNoDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(2019년 09월 28일 추첨)"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:id="@+id/card_iv_drwNo1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball01"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball12"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo3"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball23"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo4"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball34"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo5"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball45"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo6"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/ball06"/>
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/plus"
+                android:layout_marginRight="8dp"
+                android:layout_gravity="center"/>
+            <ImageView
+                android:id="@+id/card_iv_drwBNo"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/ball28"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/line1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/card_tv_first"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1등"/>
+            <TextView
+                android:id="@+id/card_tv_firstAmount"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="32억 799만 3500원"
+                android:layout_toRightOf="@id/card_tv_first"
+                android:gravity="right" />
+
+            <TextView
+                android:id="@+id/card_tv_firstWinner"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/card_tv_firstAmount"
+                android:gravity="right"
+                android:text="6명"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/card_tv_second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2등"/>
+            <TextView
+                android:id="@+id/card_tv_secondAmount"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="4649만 2660원"
+                android:layout_toRightOf="@id/card_tv_second"
+                android:gravity="right" />
+            <TextView
+                android:id="@+id/card_tv_secondWinner"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/card_tv_secondAmount"
+                android:gravity="right"
+                android:text="69명"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/card_tv_third"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3등"/>
+            <TextView
+                android:id="@+id/card_tv_thirdAmount"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="107만 9769원"
+                android:layout_toRightOf="@id/card_tv_third"
+                android:gravity="right" />
+            <TextView
+                 android:id="@+id/card_tv_thirdWinner"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/card_tv_thirdAmount"
+                android:gravity="right"
+                android:text="2,971명"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/card_tv_fourth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4등"/>
+            <TextView
+                android:id="@+id/card_tv_fourthAmount"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="5만 0000원"
+                android:layout_toRightOf="@id/card_tv_fourth"
+                android:gravity="right" />
+            <TextView
+                android:id="@+id/card_tv_fourthWinner"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/card_tv_fourthAmount"
+                android:gravity="right"
+                android:text="129,139명"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/card_tv_fifth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5등"/>
+            <TextView
+                android:id="@+id/card_tv_fifthAmount"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="5000원"
+                android:layout_toRightOf="@id/card_tv_fifth"
+                android:gravity="right" />
+            <TextView
+                android:id="@+id/card_tv_fifthWinner"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/card_tv_fifthAmount"
+                android:gravity="right"
+                android:text="1,994,188명"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
