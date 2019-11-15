@@ -2,15 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@+id/bnv_home"
-        android:title="home"
-        android:icon="@drawable/ic_home_white_24dp"></item>
-    <item android:id="@+id/bnv_saved"
-        android:title="saved"
-        android:icon="@drawable/ic_star_border_white_24dp"></item>
-    <item android:id="@+id/bnv_profile"
-        android:title="profile"
-        android:icon="@drawable/ic_perm_identity_white_24dp"></item>
+        android:title="홈"
+        android:icon="@drawable/ic_home_black_24dp"></item>
+    <item android:id="@+id/bnv_menu"
+        android:title="메뉴"
+        android:icon="@drawable/ic_menu_black_24dp"></item>
+    <item android:id="@+id/bnv_map"
+        android:title="지도"
+        android:icon="@drawable/ic_location_on_black_24dp"></item>
     <item android:id="@+id/bnv_setting"
-        android:title="setting"
+        android:title="설정"
         android:icon="@drawable/ic_settings_black_24dp"></item>
 </menu>

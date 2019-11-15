@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<androidx.drawerlayout.widget.DrawerLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawerLayout"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:theme="@style/AppTheme.Toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="회차조회"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:fontFamily="@font/dovemayo"
+            android:layout_gravity="center"/>
+
+    </androidx.appcompat.widget.Toolbar>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
@@ -11,8 +35,23 @@
         android:layout_height="match_parent"
         android:padding="16dp"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_below="@+id/toolbar"
         android:orientation="vertical">
-    </androidx.recyclerview.widget.RecyclerView>\
+    </androidx.recyclerview.widget.RecyclerView>
+
+        <com.futuremind.recyclerviewfastscroll.FastScroller
+            android:id="@+id/fastScroller"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:orientation="vertical"
+            android:scrollbarStyle="insideOverlay"
+            app:fastscroll__handleColor="@color/colorPrimary"
+            app:fastscroll__bubbleColor="@color/colorPrimary"
+            app:fastscroll__bubbleTextAppearance="@style/StyledScrollerTextAppearance"/>
+
+    </RelativeLayout>
 
 
-</RelativeLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

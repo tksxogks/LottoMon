@@ -9,9 +9,13 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+
+import com.futuremind.recyclerviewfastscroll.SectionTitleProvider;
+
 import java.util.ArrayList;
 
-public class SearchAdapter extends RecyclerView.Adapter {
+public class SearchAdapter extends RecyclerView.Adapter implements SectionTitleProvider {
 
     ArrayList<SearchItem> searchItems;
     Context context;
@@ -19,7 +23,6 @@ public class SearchAdapter extends RecyclerView.Adapter {
     public SearchAdapter(ArrayList<SearchItem> searchItems, Context context) {
         this.searchItems = searchItems;
         this.context = context;
-
     }
 
     @NonNull
@@ -37,25 +40,25 @@ public class SearchAdapter extends RecyclerView.Adapter {
 
         SearchItem searchItem = searchItems.get(position);
 
-        vh.card_tv_drwNo.setText(searchItem.card_tv_drwNo);
-        vh.card_tv_drwNoDate.setText(searchItem.card_tv_drwNoDate);
-        vh.card_iv_drwNo1.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo1-1);
-        vh.card_iv_drwNo2.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo2-1);
-        vh.card_iv_drwNo3.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo3-1);
-        vh.card_iv_drwNo4.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo4-1);
-        vh.card_iv_drwNo5.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo5-1);
-        vh.card_iv_drwNo6.setImageResource(R.drawable.ball01+searchItem.card_iv_drwNo6-1);
-        vh.card_iv_drwBNo.setImageResource(R.drawable.ball01+searchItem.card_iv_drwBNo-1);
-        vh.card_tv_firstAmount.setText(searchItem.card_tv_firstAmount);
-        vh.card_tv_firstWinner.setText(searchItem.card_tv_firstWinner);
-        vh.card_tv_secondAmount.setText(searchItem.card_tv_secondAmount);
-        vh.card_tv_secondWinner.setText(searchItem.card_tv_secondWinner);
-        vh.card_tv_thirdAmount.setText(searchItem.card_tv_thirdAmount);
-        vh.card_tv_thirdWinner.setText(searchItem.card_tv_thirdWinner);
-        vh.card_tv_fourthAmount.setText(searchItem.card_tv_fourthAmount);
-        vh.card_tv_fourthWinner.setText(searchItem.card_tv_fourthWinner);
-        vh.card_tv_fifthAmount.setText(searchItem.card_tv_fifthAmount);
-        vh.card_tv_fifthWinner.setText(searchItem.card_tv_fifthWinner);
+        vh.card_tv_drwNo.setText(searchItem.getDrwNo());
+        vh.card_tv_drwNoDate.setText(searchItem.getDrwNoDate());
+        vh.card_iv_drwNo1.setImageResource(R.drawable.ball01+searchItem.getDrwNo1()-1);
+        vh.card_iv_drwNo2.setImageResource(R.drawable.ball01+searchItem.getDrwNo2()-1);
+        vh.card_iv_drwNo3.setImageResource(R.drawable.ball01+searchItem.getDrwNo3()-1);
+        vh.card_iv_drwNo4.setImageResource(R.drawable.ball01+searchItem.getDrwNo4()-1);
+        vh.card_iv_drwNo5.setImageResource(R.drawable.ball01+searchItem.getDrwNo5()-1);
+        vh.card_iv_drwNo6.setImageResource(R.drawable.ball01+searchItem.getDrwNo6()-1);
+        vh.card_iv_drwBNo.setImageResource(R.drawable.ball01+searchItem.getDrwBNo()-1);
+        vh.card_tv_firstAmount.setText(searchItem.getFirstAmount());
+        vh.card_tv_firstWinner.setText(searchItem.getFirstWinner());
+        vh.card_tv_secondAmount.setText(searchItem.getSecondAmount());
+        vh.card_tv_secondWinner.setText(searchItem.getSecondWinner());
+        vh.card_tv_thirdAmount.setText(searchItem.getThirdAmount());
+        vh.card_tv_thirdWinner.setText(searchItem.getThirdWinner());
+        vh.card_tv_fourthAmount.setText(searchItem.getFourthAmount());
+        vh.card_tv_fourthWinner.setText(searchItem.getFourthWinner());
+        vh.card_tv_fifthAmount.setText(searchItem.getFifthAmount());
+        vh.card_tv_fifthWinner.setText(searchItem.getFifthWinner());
 
     }
 
@@ -65,6 +68,13 @@ public class SearchAdapter extends RecyclerView.Adapter {
     public int getItemCount() {
         return searchItems.size();
     }
+
+    @Override
+    public String getSectionTitle(int position) {
+        SearchItem searchItem = searchItems.get(position);
+        return searchItem.getDrwNo();
+    }
+
 
     class ViewHolder extends RecyclerView.ViewHolder {
 

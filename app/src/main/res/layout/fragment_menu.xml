@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/AppTheme.Toolbar">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="로또몬"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:fontFamily="@font/dovemayo"
+            android:layout_gravity="center"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+    <TextView
+        android:id="@+id/searchMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회차 조회"
+        android:textSize="24dp"
+        android:fontFamily="@font/dovemayo"
+        android:clickable="true"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/analysisMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="번호 분석"
+        android:textSize="24dp"
+        android:fontFamily="@font/dovemayo"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/createMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="번호 생성"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/dovemayo"
+        android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/saveNumberMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="저장 번호 확인"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/dovemayo"
+            android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/storeSearchMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="당첨 판매점 조회"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/dovemayo"
+            android:textSize="24dp" />
+
+    <TextView
+        android:id="@+id/calculatorMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="세금 계산기"
+        android:fontFamily="@font/dovemayo"
+        android:textSize="24dp"
+        android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/DrawVideoMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="추첨 방송 보기"
+            android:fontFamily="@font/dovemayo"
+            android:textSize="24dp"
+            android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/infoMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로또 정보"
+        android:fontFamily="@font/dovemayo"
+        android:textSize="24dp"
+        android:layout_marginBottom="8dp" />
+        <!-- 로또소개와규칙, 추첨안내, 당첨금지급안내, 추첨방송참관, 미수령당첨금현황, 로또 히스토리(홈페이지) -->
+
+        <!-- 건전구매 메뉴 - 과몰입자가진단test, 도박중독test -->
+        <TextView
+            android:id="@+id/testMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="셀프 자가 진단"
+            android:fontFamily="@font/dovemayo"
+            android:textSize="24dp"
+            android:layout_marginBottom="8dp" />
+
+
+    </LinearLayout>
+</LinearLayout>

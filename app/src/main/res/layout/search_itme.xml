@@ -25,6 +25,7 @@
             android:text="878회차"
             android:textStyle="bold"
             android:textSize="32sp"
+            android:fontFamily="@font/dovemayo"
             android:layout_gravity="center" />
         <TextView
             android:id="@+id/card_tv_drwNoDate"
@@ -32,6 +33,7 @@
             android:layout_height="wrap_content"
             android:text="(2019년 09월 28일 추첨)"
             android:layout_gravity="center"
+            android:fontFamily="@font/dovemayo"
             android:layout_marginBottom="16dp"/>
 
         <LinearLayout
@@ -99,12 +101,14 @@
                 android:id="@+id/card_tv_first"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="1등"/>
             <TextView
                 android:id="@+id/card_tv_firstAmount"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="32억 799만 3500원"
+                android:fontFamily="@font/dovemayo"
                 android:layout_toRightOf="@id/card_tv_first"
                 android:gravity="right" />
 
@@ -114,6 +118,7 @@
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/card_tv_firstAmount"
                 android:gravity="right"
+                android:fontFamily="@font/dovemayo"
                 android:text="6명"/>
         </RelativeLayout>
 
@@ -125,18 +130,21 @@
                 android:id="@+id/card_tv_second"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="2등"/>
             <TextView
                 android:id="@+id/card_tv_secondAmount"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="4649만 2660원"
+                android:fontFamily="@font/dovemayo"
                 android:layout_toRightOf="@id/card_tv_second"
                 android:gravity="right" />
             <TextView
                 android:id="@+id/card_tv_secondWinner"
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:layout_toRightOf="@id/card_tv_secondAmount"
                 android:gravity="right"
                 android:text="69명"/>
@@ -149,19 +157,22 @@
                 android:id="@+id/card_tv_third"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="3등"/>
             <TextView
                 android:id="@+id/card_tv_thirdAmount"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="107만 9769원"
+                android:fontFamily="@font/dovemayo"
                 android:layout_toRightOf="@id/card_tv_third"
                 android:gravity="right" />
             <TextView
-                 android:id="@+id/card_tv_thirdWinner"
+                android:id="@+id/card_tv_thirdWinner"
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/card_tv_thirdAmount"
+                android:fontFamily="@font/dovemayo"
                 android:gravity="right"
                 android:text="2,971명"/>
         </RelativeLayout>
@@ -173,17 +184,20 @@
                 android:id="@+id/card_tv_fourth"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="4등"/>
             <TextView
                 android:id="@+id/card_tv_fourthAmount"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="5만 0000원"
                 android:layout_toRightOf="@id/card_tv_fourth"
                 android:gravity="right" />
             <TextView
                 android:id="@+id/card_tv_fourthWinner"
                 android:layout_width="100dp"
+                android:fontFamily="@font/dovemayo"
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/card_tv_fourthAmount"
                 android:gravity="right"
@@ -197,6 +211,7 @@
                 android:id="@+id/card_tv_fifth"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
                 android:text="5등"/>
             <TextView
                 android:id="@+id/card_tv_fifthAmount"
@@ -204,6 +219,7 @@
                 android:layout_height="wrap_content"
                 android:text="5000원"
                 android:layout_toRightOf="@id/card_tv_fifth"
+                android:fontFamily="@font/dovemayo"
                 android:gravity="right" />
             <TextView
                 android:id="@+id/card_tv_fifthWinner"
@@ -211,6 +227,7 @@
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/card_tv_fifthAmount"
                 android:gravity="right"
+                android:fontFamily="@font/dovemayo"
                 android:text="1,994,188명"/>
         </RelativeLayout>
 
