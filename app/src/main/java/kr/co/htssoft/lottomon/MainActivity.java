@@ -1,187 +1,134 @@
 package kr.co.htssoft.lottomon;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBarDrawerToggle;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.viewpager.widget.ViewPager;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.zxing.integration.android.IntentIntegrator;
+import com.google.zxing.integration.android.IntentResult;
 
-import org.json.JSONException;
-import org.json.JSONObject;
+import kr.co.htssoft.lottomon.Fragment.HomeFragment;
+import kr.co.htssoft.lottomon.Fragment.MapFragment;
+import kr.co.htssoft.lottomon.Fragment.MenuFragment;
+import kr.co.htssoft.lottomon.Fragment.SettingFragment;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.URL;
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
-import java.util.Calendar;
-import java.util.Locale;
-
-import javax.net.ssl.HttpsURLConnection;
 
 public class MainActivity extends AppCompatActivity {
 
-    Toolbar toolbar;
-    DrawerLayout drawerLayout;
-    ActionBarDrawerToggle drawerToggle;
-
-    ImageView iv_refresh;
-    TextView tv_round;
-    TextView tv_drtdate;
-    ImageView iv_num1;
-    ImageView iv_num2;
-    ImageView iv_num3;
-    ImageView iv_num4;
-    ImageView iv_num5;
-    ImageView iv_num6;
-    ImageView iv_num7;
-    TextView tv_winnerinfo;
+    ViewPager pager;
+    ViewAdapter adapter;
 
     BottomNavigationView bnv;
 
-    long lotto_round;
+    HomeFragment homeFragment;
+    MenuFragment menuFragment;
+    MapFragment mapFragment;
+    SettingFragment settingFragment;
+
+    MenuItem menuItem;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //로딩화면
+        Intent intent = new Intent(this, RodingActivity.class);
+        startActivity(intent);
 
-        drawerLayout = findViewById(R.id.layout_drawer);
-        drawerToggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.app_name, R.string.app_name);
-        drawerLayout.addDrawerListener(drawerToggle);
-        drawerToggle.syncState();
-
-        iv_refresh = findViewById(R.id.iv_refresh);
-        tv_round = findViewById(R.id.tv_round);
-        tv_drtdate = findViewById(R.id.tv_drtdate);
-        iv_num1 = findViewById(R.id.iv_num1);
-        iv_num2 = findViewById(R.id.iv_num2);
-        iv_num3 = findViewById(R.id.iv_num3);
-        iv_num4 = findViewById(R.id.iv_num4);
-        iv_num5 = findViewById(R.id.iv_num5);
-        iv_num6 = findViewById(R.id.iv_num6);
-        iv_num7 = findViewById(R.id.iv_num7);
-        tv_winnerinfo = findViewById(R.id.tv_winnerinfo);
-
-        //새로고침 버튼 리스너
-        iv_refresh.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                main_lotto();
-            }
-        });
-
+        pager = findViewById(R.id.pager);
         bnv = findViewById(R.id.bnv);
         //바텀 네비게이션뷰 리스너
         bnv.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
-                switch (item.getItemId()){
+                switch (item.getItemId()) {
                     case R.id.bnv_home:
+                        pager.setCurrentItem(0);
                         break;
-                    case R.id.bnv_saved:
+                    case R.id.bnv_menu:
+                        pager.setCurrentItem(1);
                         break;
-                    case R.id.bnv_profile:
+                    case R.id.bnv_map:
+                        pager.setCurrentItem(2);
                         break;
                     case R.id.bnv_setting:
+                        pager.setCurrentItem(3);
                         break;
                 }
                 return true;
             }
         });
 
-        //날짜로 로또 회차수 계산하여 lotto_round 변수에 집어넣기
-        Calendar calendar = Calendar.getInstance();
-        calendar.set(2002, 11, 07, 20, 45, 0);
-        long criterionTime = calendar.getTimeInMillis();
-        long nowTime = System.currentTimeMillis();
-        lotto_round = ((nowTime - criterionTime) / (long) (1000 * 60 * 60 * 24 * 7)) + 1;
 
-        main_lotto();
+        pager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+                //스크롤될때
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                //페이지가 선택될때
+                if(menuItem !=null){
+                    menuItem.setChecked(false);
+                }else{
+                    bnv.getMenu().getItem(0).setChecked(false);
+                }
+                bnv.getMenu().getItem(position).setChecked(true);
+                menuItem = bnv.getMenu().getItem(position);
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+                //스크롤이변경될때
+            }
+        });
+        setupViewPager(pager);
     }
 
-    public void main_lotto(){
-            new Thread(){
-                @Override
-                public void run() {
-                    try {
-                        final JSONObject result;
-                        HttpsURLConnection connection = (HttpsURLConnection) new URL("https://www.nlotto.co.kr/common.do?method=getLottoNumber&drwNo="+lotto_round).openConnection();
-                        connection.setUseCaches(false);
-                        InputStreamReader isr = new InputStreamReader(connection.getInputStream(), "UTF-8");
-                        BufferedReader br = new BufferedReader(isr);
-                        String str = "";
-                        str = br.readLine();
-                        result = new JSONObject(str);
+    private void setupViewPager(ViewPager viewPager){
+        adapter = new ViewAdapter(getSupportFragmentManager());
+        homeFragment = new HomeFragment();
+        menuFragment = new MenuFragment();
+        mapFragment = new MapFragment();
+        settingFragment = new SettingFragment();
+        adapter.addFragment(homeFragment);
+        adapter.addFragment(menuFragment);
+        adapter.addFragment(mapFragment);
+        adapter.addFragment(settingFragment);
+        viewPager.setAdapter(adapter);
+    }
 
-                        if(result.getString("returnValue").equals("success")){
-                            runOnUiThread(new Runnable() {
-                                @Override
-                                public void run() {
-                                    try {
-                                        tv_round.setText(result.getString("drwNo")+"회차");
-                                        tv_drtdate.setText(result.getString("drwNoDate")+" 추첨");
-                                        iv_num1.setImageResource(R.drawable.ball01+result.getInt("drwtNo1")-1);
-                                        iv_num2.setImageResource(R.drawable.ball01+result.getInt("drwtNo2")-1);
-                                        iv_num3.setImageResource(R.drawable.ball01+result.getInt("drwtNo3")-1);
-                                        iv_num4.setImageResource(R.drawable.ball01+result.getInt("drwtNo4")-1);
-                                        iv_num5.setImageResource(R.drawable.ball01+result.getInt("drwtNo5")-1);
-                                        iv_num6.setImageResource(R.drawable.ball01+result.getInt("drwtNo6")-1);
-                                        iv_num7.setImageResource(R.drawable.ball01+result.getInt("bnusNo")-1);
-
-                                        long value = Long.parseLong(result.getString("firstWinamnt"));
-                                        DecimalFormat format = new DecimalFormat("####,####");
-                                        String s = format.format(value);
-                                        String[] mnt = s.split(",");
-
-                                        tv_winnerinfo.setText("1등 : "+mnt[0]+"억 "+Integer.parseInt(mnt[1])+"만 "+Integer.parseInt(mnt[2])+"원 / 총 "+result.getInt("firstPrzwnerCo")+"명");
-                                    } catch (JSONException e) {
-                                        e.printStackTrace();
-                                    }
-                                }
-                            });
-                        }else if(result.getString("returnValue").equals("fail")){
-                            connection = (HttpsURLConnection) new URL("https://www.nlotto.co.kr/common.do?method=getLottoNumber&drwNo=" + (lotto_round - 1)).openConnection();
-                            isr = new InputStreamReader(connection.getInputStream(), "UTF-8");
-                            br = new BufferedReader(isr);
-                            str = "";
-                            str = br.readLine();
-                            JSONObject result_fail = new JSONObject(str);
-                            try {
-                                tv_round.setText(result.getString("drwNo")+"회차");
-                                tv_drtdate.setText(result.getString("drwNoDate")+" 추첨");
-                                iv_num1.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo1")-1);
-                                iv_num2.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo2")-1);
-                                iv_num3.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo3")-1);
-                                iv_num4.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo4")-1);
-                                iv_num5.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo5")-1);
-                                iv_num6.setImageResource(R.drawable.ball01+result_fail.getInt("drwtNo6")-1);
-                                iv_num7.setImageResource(R.drawable.ball01+result_fail.getInt("bnusNo")-1);
-                                tv_winnerinfo.setText("1등 : "+(NumberFormat.getCurrencyInstance(Locale.KOREA).format(result_fail.getInt("firstWinamnt")))+" / 총 "+result_fail.getInt("firstPrzwnerCo")+"명");
-                            } catch (JSONException e) {
-                                e.printStackTrace();
-                            }
-                        }
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    } catch (JSONException e) {
-                        e.printStackTrace();
-                    }
+    @Override
+    public void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        IntentResult result = IntentIntegrator.parseActivityResult(requestCode, resultCode, data);
+        if (result != null) {
+            //qrcode 가 없으면
+            if (result.getContents() == null) {
+                Toast.makeText(this, "잘못된 QR코드 입니다.", Toast.LENGTH_SHORT).show();
+            } else {
+                //qrcode 결과가 있으면
+                try {
+                    Toast.makeText(this, "스캔완료", Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(result.getContents().toString()));
+                    startActivityForResult(intent, 0);
+                } catch (Exception e){
                 }
-            }.start();
+            }
+        } else {
+            super.onActivityResult(requestCode, resultCode, data);
         }
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -193,10 +140,4 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void clickSearch(View view) {
-
-        Intent intent = new Intent(this, SearchActivity.class);
-        startActivity(intent);
-
-    }
 }

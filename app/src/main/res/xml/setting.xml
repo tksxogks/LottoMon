@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory>
+        <PreferenceScreen
+            android:key="login"
+            android:title="로그인 / 회원가입"
+            android:defaultValue="false"
+            app:iconSpaceReserved="false">
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:key="buyNumber"
+            android:title="구매번호"
+            android:dependency="login">
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:key="saveNumber"
+            android:title="저장번호"
+            android:dependency="login"
+            app:allowDividerBelow="true">
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreference
+            android:key="alram"
+            android:title="알림"
+            android:defaultValue="true"
+            app:iconSpaceReserved="false"/>
+        <SwitchPreference
+            android:key="alram"
+            android:title="푸시알림"
+            android:dependency="alram"/>
+        <SwitchPreference
+            android:key="alram"
+            android:title="당첨알림"
+            android:dependency="alram"
+            app:allowDividerBelow="true" />
+    </PreferenceCategory>
+
+<PreferenceCategory>
+    <PreferenceScreen
+        android:key="share"
+        android:title="공유하기"
+        app:iconSpaceReserved="false">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="help"
+        android:title="도움말"
+        app:iconSpaceReserved="false">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="notice"
+        android:title="공지사항"
+        app:iconSpaceReserved="false">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="terms"
+        android:title="이용약관"
+        app:iconSpaceReserved="false">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="notice"
+        android:title="버전정보"
+        android:summary="V1.0.0"
+        app:iconSpaceReserved="false">
+    </PreferenceScreen>
+</PreferenceCategory>
+
+</PreferenceScreen>

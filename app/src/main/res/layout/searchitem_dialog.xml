@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp">
+
+        <TextView
+            android:id="@+id/card_tv_drwNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="878회차"
+            android:textStyle="bold"
+            android:textSize="32sp"
+            android:layout_centerInParent="true"/>
+
+        <ImageButton
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/plus"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+
+            <ImageView
+                android:id="@+id/card_iv_drwNo1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball01"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball12"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo3"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball23"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo4"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball34"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo5"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball45"/>
+            <ImageView
+                android:id="@+id/card_iv_drwNo6"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/ball06"/>
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/plus"
+                android:layout_marginRight="8dp"
+                android:layout_gravity="center"/>
+            <ImageView
+                android:id="@+id/card_iv_drwBNo"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/ball28"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="총 판매 금액 : 744억 4322만 5000원 "/>
+
+            <TextView
+                android:id="@+id/dialog_tv_"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1등 (자동 14명, 수동 1명)"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="당첨 수 합 127"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="홀짝 5:1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
