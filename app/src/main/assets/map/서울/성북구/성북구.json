@@ -1,0 +1,346 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(정릉3점)",
+  "phoneNumber": "02-916-0103",
+  "address": "서울 성북구 정릉동 372-7",
+  "latitude": "37.608643",
+  "longitude": "127.00773"
+},
+{
+  "number": "2",
+  "storeName": "CU(정릉센터점)",
+  "phoneNumber": "02-941-6690",
+  "address": "서울 성북구 정릉동 1020 101~104호 CU정릉센터점 내",
+  "latitude": "37.614983",
+  "longitude": "127.05812"
+},
+{
+  "number": "3",
+  "storeName": "CU(성북진영점)",
+  "phoneNumber": "02-942-1529",
+  "address": "서울 성북구 종암동 10-78",
+  "latitude": "37.597263",
+  "longitude": "127.03549"
+},
+{
+  "number": "4",
+  "storeName": "CU(길음타운점)",
+  "phoneNumber": "02-911-6435",
+  "address": "서울 성북구 길음동 1284 지2층 A동 8호 CU길음타운점",
+  "latitude": "37.604958",
+  "longitude": "127.02188"
+},
+{
+  "number": "5",
+  "storeName": "CU(월곡동아점)",
+  "phoneNumber": "000-0000-0000",
+  "address": "서울 성북구 상월곡동 55-76",
+  "latitude": "37.606243",
+  "longitude": "127.045715"
+},
+{
+  "number": "6",
+  "storeName": "로또복권",
+  "phoneNumber": "02-918-0457",
+  "address": "서울 성북구 하월곡동 62-4번지",
+  "latitude": "37.60419",
+  "longitude": "127.037674"
+},
+{
+  "number": "7",
+  "storeName": "여명슈퍼마켓",
+  "phoneNumber": "02-916-6303",
+  "address": "서울 성북구 장위동 230-188번지",
+  "latitude": "37.614292",
+  "longitude": "127.0415"
+},
+{
+  "number": "8",
+  "storeName": "행운마트",
+  "phoneNumber": "02-913-3535",
+  "address": "서울 성북구 하월곡동 90-121번지",
+  "latitude": "37.605335",
+  "longitude": "127.03177"
+},
+{
+  "number": "9",
+  "storeName": "아이지에이",
+  "phoneNumber": "02-917-1988",
+  "address": "서울 성북구 정릉동 780번지 산장아파트산장상가1층15호",
+  "latitude": "37.61667",
+  "longitude": "127.00266"
+},
+{
+  "number": "10",
+  "storeName": "데이앤나잇",
+  "phoneNumber": "02-916-6584",
+  "address": "서울 성북구 종암동 132 종암우림카이저팰리스 1층 101호",
+  "latitude": "37.60182",
+  "longitude": "127.03354"
+},
+{
+  "number": "11",
+  "storeName": "일공일사(1014)",
+  "phoneNumber": "02-3443-0022",
+  "address": "서울 성북구 성북동1가 116",
+  "latitude": "37.590687",
+  "longitude": "127.0036"
+},
+{
+  "number": "12",
+  "storeName": "한양슈퍼복권",
+  "phoneNumber": "02-921-1971",
+  "address": "서울 성북구 보문동5가 148번지",
+  "latitude": "37.581676",
+  "longitude": "127.02056"
+},
+{
+  "number": "13",
+  "storeName": "보원상회",
+  "phoneNumber": "02-923-2136",
+  "address": "서울 성북구 보문동7가 22-14번지",
+  "latitude": "37.580418",
+  "longitude": "127.022255"
+},
+{
+  "number": "14",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-923-7930",
+  "address": "서울 성북구 동소문동5가 56-3",
+  "latitude": "37.591442",
+  "longitude": "127.015236"
+},
+{
+  "number": "15",
+  "storeName": "대박복권방",
+  "phoneNumber": "070-8818-0645",
+  "address": "서울 성북구 석관동 127-55번지",
+  "latitude": "37.611805",
+  "longitude": "127.06372"
+},
+{
+  "number": "16",
+  "storeName": "대만상사",
+  "phoneNumber": "02-6368-5949",
+  "address": "서울 성북구 정릉동 394-3",
+  "latitude": "37.608723",
+  "longitude": "127.00833"
+},
+{
+  "number": "17",
+  "storeName": "로또복권방",
+  "phoneNumber": "02-921-6317",
+  "address": "서울 성북구 동소문동3가 34번지",
+  "latitude": "37.589466",
+  "longitude": "127.01034"
+},
+{
+  "number": "18",
+  "storeName": "천하명당복권방동소문점",
+  "phoneNumber": "02-922-5161",
+  "address": "서울 성북구 동소문동7가 115-3",
+  "latitude": "37.59613",
+  "longitude": "127.01462"
+},
+{
+  "number": "19",
+  "storeName": "복권전문점",
+  "phoneNumber": "02-912-4788",
+  "address": "서울 성북구 장위동 66-289번지",
+  "latitude": "37.611137",
+  "longitude": "127.05303"
+},
+{
+  "number": "20",
+  "storeName": "Proto샵종암점",
+  "phoneNumber": "02-927-7880",
+  "address": "서울 성북구 종암동 68-1 큰 길쪽 복권방",
+  "latitude": "37.59836",
+  "longitude": "127.034386"
+},
+{
+  "number": "21",
+  "storeName": "영광정보통신",
+  "phoneNumber": "02-911-5016",
+  "address": "서울 성북구 하월곡동 37-18번지",
+  "latitude": "37.601868",
+  "longitude": "127.04177"
+},
+{
+  "number": "22",
+  "storeName": "황금알나눔로또",
+  "phoneNumber": "02-968-7183",
+  "address": "서울 성북구 상월곡동 26-5 코너 부동산",
+  "latitude": "37.60695",
+  "longitude": "127.04915"
+},
+{
+  "number": "23",
+  "storeName": "소문난복권명당",
+  "phoneNumber": "02-966-6372",
+  "address": "서울 성북구 석관동 332-667번지",
+  "latitude": "37.60688",
+  "longitude": "127.06084"
+},
+{
+  "number": "24",
+  "storeName": "대명씨앤씨",
+  "phoneNumber": "02-929-6525",
+  "address": "서울 성북구 보문동1가 208번지",
+  "latitude": "37.58544",
+  "longitude": "127.02025"
+},
+{
+  "number": "25",
+  "storeName": "행복슈퍼",
+  "phoneNumber": "02-741-5788",
+  "address": "서울 성북구 동소문동4가 115번지",
+  "latitude": "37.591",
+  "longitude": "127.01112"
+},
+{
+  "number": "26",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-941-1606",
+  "address": "서울 성북구 하월곡동 21-103번지",
+  "latitude": "37.60415",
+  "longitude": "127.04278"
+},
+{
+  "number": "27",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-912-3974",
+  "address": "서울 성북구 정릉동 16-169 1층 세븐일레븐내 일부",
+  "latitude": "37.602055",
+  "longitude": "127.019295"
+},
+{
+  "number": "28",
+  "storeName": "복권방",
+  "phoneNumber": "02-928-0979",
+  "address": "서울 성북구 동소문동5가 107번지",
+  "latitude": "37.591328",
+  "longitude": "127.01656"
+},
+{
+  "number": "29",
+  "storeName": "태광통신",
+  "phoneNumber": "02-919-3201",
+  "address": "서울 성북구 길음동 1276 105동 1층 1호",
+  "latitude": "37.603523",
+  "longitude": "127.023735"
+},
+{
+  "number": "30",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-965-1553",
+  "address": "서울 성북구 석관동 250-10번지",
+  "latitude": "37.609135",
+  "longitude": "127.05895"
+},
+{
+  "number": "31",
+  "storeName": "행운식품",
+  "phoneNumber": "02-742-7958",
+  "address": "서울 성북구 동소문동2가 22번지",
+  "latitude": "37.588886",
+  "longitude": "127.008"
+},
+{
+  "number": "32",
+  "storeName": "우리마트",
+  "phoneNumber": "02-928-0450",
+  "address": "서울 성북구 동선동4가 178",
+  "latitude": "37.594276",
+  "longitude": "127.01715"
+},
+{
+  "number": "33",
+  "storeName": "드림복권방",
+  "phoneNumber": "",
+  "address": "서울 성북구 장위동 238-400번지",
+  "latitude": "37.613503",
+  "longitude": "127.04952"
+},
+{
+  "number": "34",
+  "storeName": "성북의별",
+  "phoneNumber": "02-6080-2602",
+  "address": "서울 성북구 정릉동 409-38번지",
+  "latitude": "37.607548",
+  "longitude": "127.01053"
+},
+{
+  "number": "35",
+  "storeName": "재원마트",
+  "phoneNumber": "02-928-0103",
+  "address": "서울 성북구 종암동 3-556",
+  "latitude": "37.601707",
+  "longitude": "127.03193"
+},
+{
+  "number": "36",
+  "storeName": "나눔로또수입과자",
+  "phoneNumber": "070-4125-2542",
+  "address": "서울 성북구 삼선동4가 333-2번지",
+  "latitude": "37.589935",
+  "longitude": "127.015"
+},
+{
+  "number": "37",
+  "storeName": "복있는가게",
+  "phoneNumber": "02-913-2491",
+  "address": "서울 성북구 장위동 64-121번지",
+  "latitude": "37.610836",
+  "longitude": "127.056496"
+},
+{
+  "number": "38",
+  "storeName": "성진",
+  "phoneNumber": "02-969-0538",
+  "address": "서울 성북구 석관동 133-62 위드미점 내 위치함.",
+  "latitude": "37.613514",
+  "longitude": "127.06495"
+},
+{
+  "number": "39",
+  "storeName": "신문다이길음시장앞",
+  "phoneNumber": "02-918-0192",
+  "address": "서울 성북구 길음동 540-7 가판",
+  "latitude": "37.60311",
+  "longitude": "127.02246"
+},
+{
+  "number": "40",
+  "storeName": "미래통신",
+  "phoneNumber": "02-941-8288",
+  "address": "서울 성북구 장위동 237-214",
+  "latitude": "37.616203",
+  "longitude": "127.0489"
+},
+{
+  "number": "41",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "02-914-1708",
+  "address": "서울 성북구 정릉동 151-15번지",
+  "latitude": "37.60333",
+  "longitude": "127.012924"
+},
+{
+  "number": "42",
+  "storeName": "일등복권방",
+  "phoneNumber": "02-913-5809",
+  "address": "서울 성북구 하월곡동 81-466번지",
+  "latitude": "37.610107",
+  "longitude": "127.03303"
+},
+{
+  "number": "43",
+  "storeName": "대박복권",
+  "phoneNumber": "",
+  "address": "서울 성북구 장위제1동 238-142 1층",
+  "latitude": "37.615704",
+  "longitude": "127.04805"
+}
+]

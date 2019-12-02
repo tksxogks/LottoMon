@@ -1,0 +1,434 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(중계위성점)",
+  "phoneNumber": "02-937-7009",
+  "address": "서울 노원구 중계동 360-13",
+  "latitude": "37.648167",
+  "longitude": "127.07628"
+},
+{
+  "number": "2",
+  "storeName": "GS25(상계역점)",
+  "phoneNumber": "02-939-9764",
+  "address": "서울 노원구 상계동 155-13번지",
+  "latitude": "37.663136",
+  "longitude": "127.07349"
+},
+{
+  "number": "3",
+  "storeName": "CU(상계벽산점)",
+  "phoneNumber": "02-939-3035",
+  "address": "서울 노원구 상계동 169-197번지 자양현대홈타운10차아파트 101호",
+  "latitude": "37.66208",
+  "longitude": "127.07234"
+},
+{
+  "number": "4",
+  "storeName": "씨스페이스(노원점)",
+  "phoneNumber": "02-932-0346",
+  "address": "서울 노원구 상계동 720 아파트상가 101호",
+  "latitude": "37.65481",
+  "longitude": "127.064186"
+},
+{
+  "number": "5",
+  "storeName": "GS25(중계동진점)",
+  "phoneNumber": "02-934-0207",
+  "address": "서울 노원구 중계동 364-23번지 동진빌딩103호",
+  "latitude": "37.650448",
+  "longitude": "127.07744"
+},
+{
+  "number": "6",
+  "storeName": "CU(노원마들점)",
+  "phoneNumber": "02-937-2155",
+  "address": "서울 노원구 상계동 649-3 1층 CU노원마들점",
+  "latitude": "37.666653",
+  "longitude": "127.0576"
+},
+{
+  "number": "7",
+  "storeName": "CU(상계주공점)",
+  "phoneNumber": "02-931-3570",
+  "address": "서울 노원구 상계동 763-6번지",
+  "latitude": "37.64867",
+  "longitude": "127.06185"
+},
+{
+  "number": "8",
+  "storeName": "우주로또",
+  "phoneNumber": "02-973-0329",
+  "address": "서울 노원구 상계동 65-36 1층",
+  "latitude": "37.669163",
+  "longitude": "127.07844"
+},
+{
+  "number": "9",
+  "storeName": "인동상회",
+  "phoneNumber": "02-951-0303",
+  "address": "서울 노원구 상계동 173-1번지 벽산아파트상가108-116",
+  "latitude": "37.661476",
+  "longitude": "127.07357"
+},
+{
+  "number": "10",
+  "storeName": "동아슈퍼",
+  "phoneNumber": "02-935-7864",
+  "address": "서울 노원구 상계동 673번지 9단지유치원104호",
+  "latitude": "37.66112",
+  "longitude": "127.06098"
+},
+{
+  "number": "11",
+  "storeName": "아이티텔랜드",
+  "phoneNumber": "02-996-3114",
+  "address": "서울 노원구 상계동 749번지 1층",
+  "latitude": "37.651264",
+  "longitude": "127.06175"
+},
+{
+  "number": "12",
+  "storeName": "스파",
+  "phoneNumber": "02-951-6465",
+  "address": "서울 노원구 상계동 666-3 주공10단지종합상가111",
+  "latitude": "37.661438",
+  "longitude": "127.05788"
+},
+{
+  "number": "13",
+  "storeName": "로또복권",
+  "phoneNumber": "02-6013-1788",
+  "address": "서울 노원구 공릉동 386-1번지",
+  "latitude": "37.6261",
+  "longitude": "127.07305"
+},
+{
+  "number": "14",
+  "storeName": "황금대박점",
+  "phoneNumber": "02-948-7116",
+  "address": "서울 노원구 하계동 180-11번지",
+  "latitude": "37.635956",
+  "longitude": "127.071014"
+},
+{
+  "number": "15",
+  "storeName": "가판점",
+  "phoneNumber": "02-973-8951",
+  "address": "서울 노원구 중계동 507-3 노원구민회관앞",
+  "latitude": "37.638943",
+  "longitude": "127.06632"
+},
+{
+  "number": "16",
+  "storeName": "신문판매대",
+  "phoneNumber": "02-975-1893",
+  "address": "서울 노원구 공릉동 661-1 공릉1동사무소앞",
+  "latitude": "37.6189",
+  "longitude": "127.07725"
+},
+{
+  "number": "17",
+  "storeName": "동우정보통신",
+  "phoneNumber": "02-939-6955",
+  "address": "서울 노원구 상계동 111-561 1층",
+  "latitude": "37.67035",
+  "longitude": "127.0804"
+},
+{
+  "number": "18",
+  "storeName": "복권명당",
+  "phoneNumber": "02-972-9846",
+  "address": "서울 노원구 공릉동 567-5번지",
+  "latitude": "37.62229",
+  "longitude": "127.074554"
+},
+{
+  "number": "19",
+  "storeName": "키스톤상계점",
+  "phoneNumber": "02-937-5277",
+  "address": "서울 노원구 상계동 389-50번지",
+  "latitude": "37.65897",
+  "longitude": "127.06715"
+},
+{
+  "number": "20",
+  "storeName": "지원물산",
+  "phoneNumber": "02-978-5479",
+  "address": "서울 노원구 공릉동 644-12번지",
+  "latitude": "37.61979",
+  "longitude": "127.0781"
+},
+{
+  "number": "21",
+  "storeName": "기린통신",
+  "phoneNumber": "02-932-2859",
+  "address": "서울 노원구 중계동 157-26 101호 보고프라자",
+  "latitude": "37.658356",
+  "longitude": "127.07541"
+},
+{
+  "number": "22",
+  "storeName": "대진전자",
+  "phoneNumber": "02-937-6800",
+  "address": "서울 노원구 상계동 1025-40번지",
+  "latitude": "37.67329",
+  "longitude": "127.05585"
+},
+{
+  "number": "23",
+  "storeName": "동양마트",
+  "phoneNumber": "02-930-9290",
+  "address": "서울 노원구 상계동 1305번지 상계동동양메이져아파트제상가동108호,109호",
+  "latitude": "37.65682",
+  "longitude": "127.06436"
+},
+{
+  "number": "24",
+  "storeName": "꽃제비칼국수",
+  "phoneNumber": "02-911-8371",
+  "address": "서울 노원구 월계동 407-16번지",
+  "latitude": "37.621265",
+  "longitude": "127.05988"
+},
+{
+  "number": "25",
+  "storeName": "대박나는집",
+  "phoneNumber": "02-3391-7625",
+  "address": "서울 노원구 중계동 586 상가 104호",
+  "latitude": "37.66139",
+  "longitude": "127.076004"
+},
+{
+  "number": "26",
+  "storeName": "서울상사",
+  "phoneNumber": "02-997-0426",
+  "address": "서울 노원구 월계동 600 주공월계아파트1단지내복합상가제101호",
+  "latitude": "37.628796",
+  "longitude": "127.05637"
+},
+{
+  "number": "27",
+  "storeName": "노다지 노원역점 복권방",
+  "phoneNumber": "02-937-8686",
+  "address": "서울 노원구 상계동 340-1번지",
+  "latitude": "37.656185",
+  "longitude": "127.063736"
+},
+{
+  "number": "28",
+  "storeName": "로또복권",
+  "phoneNumber": "02-975-9123",
+  "address": "서울 노원구 월계동 17번지 미성상가내104호현대슈퍼",
+  "latitude": "37.62099",
+  "longitude": "127.06773"
+},
+{
+  "number": "29",
+  "storeName": "행운복권",
+  "phoneNumber": "02-975-3500",
+  "address": "서울 노원구 공릉동 617-7번지 1층",
+  "latitude": "37.619583",
+  "longitude": "127.07526"
+},
+{
+  "number": "30",
+  "storeName": "내복권방",
+  "phoneNumber": "02-975-3335",
+  "address": "서울 노원구 공릉동 240-228 1층",
+  "latitude": "37.62124",
+  "longitude": "127.082855"
+},
+{
+  "number": "31",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-936-0964",
+  "address": "서울 노원구 상계동 111-475번지",
+  "latitude": "37.670826",
+  "longitude": "127.07998"
+},
+{
+  "number": "32",
+  "storeName": "로또수락산점",
+  "phoneNumber": "02-939-3352",
+  "address": "서울 노원구 상계동 1262번지 대덕하이베라스101호",
+  "latitude": "37.67908",
+  "longitude": "127.05493"
+},
+{
+  "number": "33",
+  "storeName": "로또복권",
+  "phoneNumber": "02-952-6767",
+  "address": "서울 노원구 상계동 649-7번지 다모아빌딩103",
+  "latitude": "37.665028",
+  "longitude": "127.05801"
+},
+{
+  "number": "34",
+  "storeName": "예언(로또)",
+  "phoneNumber": "02-971-2775",
+  "address": "서울 노원구 중계동 504-1번지 중계아파트상가1층",
+  "latitude": "37.640877",
+  "longitude": "127.06203"
+},
+{
+  "number": "35",
+  "storeName": "로또노원역점",
+  "phoneNumber": "02-934-2134",
+  "address": "서울 노원구 상계동 593-2번지 1층",
+  "latitude": "37.656956",
+  "longitude": "127.06248"
+},
+{
+  "number": "36",
+  "storeName": "성보복권",
+  "phoneNumber": "070-8950-0269",
+  "address": "서울 노원구 월계동 414-2",
+  "latitude": "37.62334",
+  "longitude": "127.06108"
+},
+{
+  "number": "37",
+  "storeName": "로또판매",
+  "phoneNumber": "02-939-9381",
+  "address": "서울 노원구 중계동 430-37번지 원산빌딩1층 토마토편의점",
+  "latitude": "37.65699",
+  "longitude": "127.07413"
+},
+{
+  "number": "38",
+  "storeName": "로또복권",
+  "phoneNumber": "02-976-6424",
+  "address": "서울 노원구 하계동 272번지 시영아파트5단지상가104",
+  "latitude": "37.63325",
+  "longitude": "127.06561"
+},
+{
+  "number": "39",
+  "storeName": "행운마트",
+  "phoneNumber": "",
+  "address": "서울 노원구 중계동 27-79번지",
+  "latitude": "37.64439",
+  "longitude": "127.08329"
+},
+{
+  "number": "40",
+  "storeName": "럭키복권방",
+  "phoneNumber": "02-933-2799",
+  "address": "서울 노원구 상계동 1282번지 중앙하이츠상가제106호",
+  "latitude": "37.655006",
+  "longitude": "127.06825"
+},
+{
+  "number": "41",
+  "storeName": "평강슈퍼",
+  "phoneNumber": "02-936-7687",
+  "address": "서울 노원구 상계동 704번지 중앙빌딩1층",
+  "latitude": "37.654278",
+  "longitude": "127.057594"
+},
+{
+  "number": "42",
+  "storeName": "굿데이",
+  "phoneNumber": "02-915-5119",
+  "address": "서울 노원구 공릉동 683-16번지 106호",
+  "latitude": "37.61742",
+  "longitude": "127.07433"
+},
+{
+  "number": "43",
+  "storeName": "장수식품",
+  "phoneNumber": "02-931-0197",
+  "address": "서울 노원구 상계동 751-1번지 상계주공4단지 라상가 106호",
+  "latitude": "37.652107",
+  "longitude": "127.065475"
+},
+{
+  "number": "44",
+  "storeName": "행복로또",
+  "phoneNumber": "",
+  "address": "서울 노원구 중계동 154-8번지 1층",
+  "latitude": "37.660095",
+  "longitude": "127.074814"
+},
+{
+  "number": "45",
+  "storeName": "엄지크린",
+  "phoneNumber": "",
+  "address": "서울 노원구 상계동 1285 아파트 상가 101동 101호",
+  "latitude": "37.666676",
+  "longitude": "127.0791"
+},
+{
+  "number": "46",
+  "storeName": "행운사",
+  "phoneNumber": "",
+  "address": "서울 노원구 월계동 486-6 1층",
+  "latitude": "37.616432",
+  "longitude": "127.063"
+},
+{
+  "number": "47",
+  "storeName": "한국이동통신미래판매소",
+  "phoneNumber": "02-978-2011",
+  "address": "서울 노원구 공릉동 398-4 1층",
+  "latitude": "37.624973",
+  "longitude": "127.07218"
+},
+{
+  "number": "48",
+  "storeName": "로또클럽",
+  "phoneNumber": "02-913-3665",
+  "address": "서울 노원구 상계동 389-447 1층",
+  "latitude": "37.659294",
+  "longitude": "127.06824"
+},
+{
+  "number": "49",
+  "storeName": "로또복권",
+  "phoneNumber": "02-932-1764",
+  "address": "서울 노원구 상계동 651-4번지 1층 미니스탑편의점",
+  "latitude": "37.666515",
+  "longitude": "127.056915"
+},
+{
+  "number": "50",
+  "storeName": "천하명당로또",
+  "phoneNumber": "02-948-9997",
+  "address": "서울 노원구 공릉동 715 1층 CU편의점 일부",
+  "latitude": "37.62787",
+  "longitude": "127.06815"
+},
+{
+  "number": "51",
+  "storeName": "나눔의 로또",
+  "phoneNumber": "",
+  "address": "서울 노원구 상계동 173-1 109동 1층 36호",
+  "latitude": "37.660473",
+  "longitude": "127.07254"
+},
+{
+  "number": "52",
+  "storeName": "나눔로또수락점",
+  "phoneNumber": "070-8835-3579",
+  "address": "서울 노원구 상계동 656-3 CU상계11단지점 내 일부",
+  "latitude": "37.666924",
+  "longitude": "127.05254"
+},
+{
+  "number": "53",
+  "storeName": "수락등산로점",
+  "phoneNumber": "",
+  "address": "서울 노원구 상계동 1265",
+  "latitude": "37.682087",
+  "longitude": "127.05609"
+},
+{
+  "number": "54",
+  "storeName": "행운나눔로또",
+  "phoneNumber": "02-973-0804",
+  "address": "서울 노원구 월계동 26-10 1층 CU편의점내 일부",
+  "latitude": "37.61532",
+  "longitude": "127.06641"
+}
+]

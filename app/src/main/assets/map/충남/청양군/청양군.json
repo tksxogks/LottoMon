@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "굿데이",
+  "phoneNumber": "041-942-5949",
+  "address": "충남 청양군 청양읍 읍내리 397-17",
+  "latitude": "36.450912",
+  "longitude": "126.80384"
+},
+{
+  "number": "2",
+  "storeName": "청양복권방",
+  "phoneNumber": "041-943-7017",
+  "address": "충남 청양군 청양읍 읍내리 326-4",
+  "latitude": "36.447292",
+  "longitude": "126.80109"
+},
+{
+  "number": "3",
+  "storeName": "도깨비복권방",
+  "phoneNumber": "04-193-2343",
+  "address": "충남 청양군 정산면 서정리 161",
+  "latitude": "36.411114",
+  "longitude": "126.98635"
+}
+]

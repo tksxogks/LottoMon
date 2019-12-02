@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "대영멋쟁이마트",
+  "phoneNumber": "063-291-5882",
+  "address": "전북 완주군 삼례읍 삼례리 297-10",
+  "latitude": "35.916466",
+  "longitude": "127.081024"
+},
+{
+  "number": "2",
+  "storeName": "삼례로또복권",
+  "phoneNumber": "063-291-8311",
+  "address": "전북 완주군 삼례읍 삼례리 910-20번지",
+  "latitude": "35.910645",
+  "longitude": "127.07487"
+},
+{
+  "number": "3",
+  "storeName": "로또복권토토위드미완주공단점",
+  "phoneNumber": "063-263-3326",
+  "address": "전북 완주군 봉동읍 둔산리 903-2번지",
+  "latitude": "35.938812",
+  "longitude": "127.16618"
+},
+{
+  "number": "4",
+  "storeName": "혁신나눔로또",
+  "phoneNumber": "063-285-9252",
+  "address": "전북 완주군 이서면 갈산리 650",
+  "latitude": "35.834213",
+  "longitude": "127.05354"
+},
+{
+  "number": "5",
+  "storeName": "세븐맘유통",
+  "phoneNumber": "063-263-0645",
+  "address": "전북 완주군 봉동읍 둔산리 884-4",
+  "latitude": "35.950005",
+  "longitude": "127.17857"
+},
+{
+  "number": "6",
+  "storeName": "복권1번지편의점",
+  "phoneNumber": "",
+  "address": "전북 완주군 봉동읍 낙평리 522-1",
+  "latitude": "35.92802",
+  "longitude": "127.162895"
+}
+]

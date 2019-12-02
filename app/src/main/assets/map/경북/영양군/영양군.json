@@ -1,0 +1,18 @@
+[
+{
+  "number": "1",
+  "storeName": "일화로또",
+  "phoneNumber": "054-682-6450",
+  "address": "경북 영양군 영양읍 서부리 237-3번지",
+  "latitude": "36.664303",
+  "longitude": "129.11385"
+},
+{
+  "number": "2",
+  "storeName": "희망나눔로또",
+  "phoneNumber": "054-683-5151",
+  "address": "경북 영양군 영양읍 서부리 176-2 경북 영양군 중앙로 95-1 푸른과일",
+  "latitude": "36.663963",
+  "longitude": "129.11751"
+}
+]

@@ -1,0 +1,74 @@
+[
+{
+  "number": "1",
+  "storeName": "룰루복권",
+  "phoneNumber": "051-832-0635",
+  "address": "부산 강서구 화전동 564-1 101호",
+  "latitude": "35.110806",
+  "longitude": "128.87857"
+},
+{
+  "number": "2",
+  "storeName": "녹산로또",
+  "phoneNumber": "",
+  "address": "부산 강서구 송정동 1631-5 1층",
+  "latitude": "35.09047",
+  "longitude": "128.85481"
+},
+{
+  "number": "3",
+  "storeName": "대박명당",
+  "phoneNumber": "",
+  "address": "부산 강서구 대저1동 1703-5",
+  "latitude": "35.21397",
+  "longitude": "128.94954"
+},
+{
+  "number": "4",
+  "storeName": "서원복권방",
+  "phoneNumber": "051-973-3338",
+  "address": "부산 강서구 대저2동 1938-5번지",
+  "latitude": "35.17945",
+  "longitude": "128.9573"
+},
+{
+  "number": "5",
+  "storeName": "GS25 뉴강서역점",
+  "phoneNumber": "051-973-8301",
+  "address": "부산 강서구 대저1동 2342-5 1층",
+  "latitude": "35.212715",
+  "longitude": "128.98175"
+},
+{
+  "number": "6",
+  "storeName": "공항상회로또판매점",
+  "phoneNumber": "051-971-2453",
+  "address": "부산 강서구 대저1동 3683-4",
+  "latitude": "35.202515",
+  "longitude": "128.941"
+},
+{
+  "number": "7",
+  "storeName": "명지복권방",
+  "phoneNumber": "051-271-7515",
+  "address": "부산 강서구 명지동 3239-11번지 103호",
+  "latitude": "35.082836",
+  "longitude": "128.90422"
+},
+{
+  "number": "8",
+  "storeName": "씨스페이스(죽림점)",
+  "phoneNumber": "070-4101-7310",
+  "address": "부산 강서구 죽림동 590번지",
+  "latitude": "35.196316",
+  "longitude": "128.90068"
+},
+{
+  "number": "9",
+  "storeName": "에이마트 로또판매점",
+  "phoneNumber": "051-205-9553",
+  "address": "부산 강서구 명지동 3357-2 110호",
+  "latitude": "35.098534",
+  "longitude": "128.91829"
+}
+]

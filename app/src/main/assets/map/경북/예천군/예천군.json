@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "로또판매점",
+  "phoneNumber": "054-654-4489",
+  "address": "경북 예천군 예천읍 서본리 3-10번지",
+  "latitude": "36.65632",
+  "longitude": "128.45284"
+},
+{
+  "number": "2",
+  "storeName": "조은로또",
+  "phoneNumber": "054-652-0089",
+  "address": "경북 예천군 예천읍 대심리 441-10 CU예천대심점",
+  "latitude": "36.652283",
+  "longitude": "128.44063"
+},
+{
+  "number": "3",
+  "storeName": "로또세븐예천점",
+  "phoneNumber": "070-4204-1222",
+  "address": "경북 예천군 예천읍 노하리 73-1번지 세븐일레븐 내",
+  "latitude": "36.657276",
+  "longitude": "128.45442"
+},
+{
+  "number": "4",
+  "storeName": "행복충전소",
+  "phoneNumber": "054-653-0888",
+  "address": "경북 예천군 호명면 산합리 1398 상가 102호",
+  "latitude": "36.656605",
+  "longitude": "128.45541"
+}
+]

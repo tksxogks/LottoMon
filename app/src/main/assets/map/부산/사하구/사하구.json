@@ -1,0 +1,250 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(다대제일점)",
+  "phoneNumber": "051-266-8356",
+  "address": "부산 사하구 다대동 820-12번지",
+  "latitude": "35.056515",
+  "longitude": "128.97157"
+},
+{
+  "number": "2",
+  "storeName": "GS25(사하중앙점)",
+  "phoneNumber": "051-294-9125",
+  "address": "부산 사하구 감천동 648-6",
+  "latitude": "35.090546",
+  "longitude": "128.99876"
+},
+{
+  "number": "3",
+  "storeName": "CU(다대사랑점)",
+  "phoneNumber": "051-262-2027",
+  "address": "부산 사하구 다대동 35",
+  "latitude": "35.06371",
+  "longitude": "128.98076"
+},
+{
+  "number": "4",
+  "storeName": "GS25(다대포점)",
+  "phoneNumber": "051-265-9280",
+  "address": "부산 사하구 다대동 1548-35번지",
+  "latitude": "35.04895",
+  "longitude": "128.96504"
+},
+{
+  "number": "5",
+  "storeName": "복터진날",
+  "phoneNumber": "051-262-7759",
+  "address": "부산 사하구 장림동 779-5번지 복권판매점",
+  "latitude": "35.082382",
+  "longitude": "128.96693"
+},
+{
+  "number": "6",
+  "storeName": "로또복권방",
+  "phoneNumber": "051-204-7597",
+  "address": "부산 사하구 하단동 484-33번지",
+  "latitude": "35.11142",
+  "longitude": "128.96083"
+},
+{
+  "number": "7",
+  "storeName": "복왕복권방",
+  "phoneNumber": "",
+  "address": "부산 사하구 괴정동 429-52 2층",
+  "latitude": "35.100945",
+  "longitude": "128.99582"
+},
+{
+  "number": "8",
+  "storeName": "노다지복권방",
+  "phoneNumber": "051-207-7674",
+  "address": "부산 사하구 당리동 316-27",
+  "latitude": "35.10543",
+  "longitude": "128.97417"
+},
+{
+  "number": "9",
+  "storeName": "슈퍼복권나라",
+  "phoneNumber": "070-8772-1507",
+  "address": "부산 사하구 하단동 870-268",
+  "latitude": "35.114048",
+  "longitude": "128.9607"
+},
+{
+  "number": "10",
+  "storeName": "이마트24 사하오렌지점",
+  "phoneNumber": "051-264-0277",
+  "address": "부산 사하구 장림동 340-8 105동 101호",
+  "latitude": "35.080917",
+  "longitude": "128.9759"
+},
+{
+  "number": "11",
+  "storeName": "농심가",
+  "phoneNumber": "051-263-4856",
+  "address": "부산 사하구 장림동 193-9번지",
+  "latitude": "35.080784",
+  "longitude": "128.9769"
+},
+{
+  "number": "12",
+  "storeName": "사하상회",
+  "phoneNumber": "051-205-6184",
+  "address": "부산 사하구 괴정동 820-8번지",
+  "latitude": "35.099403",
+  "longitude": "128.98897"
+},
+{
+  "number": "13",
+  "storeName": "로또대박복권방",
+  "phoneNumber": "051-203-1222",
+  "address": "부산 사하구 하단동 624-3",
+  "latitude": "35.0989",
+  "longitude": "128.99265"
+},
+{
+  "number": "14",
+  "storeName": "하프타임대박점",
+  "phoneNumber": "051-261-8717",
+  "address": "부산 사하구 장림동 산29-7번지",
+  "latitude": "35.080162",
+  "longitude": "128.97758"
+},
+{
+  "number": "15",
+  "storeName": "예스로또",
+  "phoneNumber": "",
+  "address": "부산 사하구 다대동 309-2 102호",
+  "latitude": "35.061462",
+  "longitude": "128.97626"
+},
+{
+  "number": "16",
+  "storeName": "우리동네MART",
+  "phoneNumber": "051-206-3587",
+  "address": "부산 사하구 하단동 506-15번지",
+  "latitude": "35.11005",
+  "longitude": "128.96622"
+},
+{
+  "number": "17",
+  "storeName": "신풍",
+  "phoneNumber": "051-203-4700",
+  "address": "부산 사하구 신평동 647-4번지",
+  "latitude": "35.09421",
+  "longitude": "128.95987"
+},
+{
+  "number": "18",
+  "storeName": "복권방",
+  "phoneNumber": "051-205-7226",
+  "address": "부산 사하구 하단동 589-1번지 강서할인마트 내",
+  "latitude": "35.105896",
+  "longitude": "128.96558"
+},
+{
+  "number": "19",
+  "storeName": "당리푸르지오 로또판매",
+  "phoneNumber": "",
+  "address": "부산 사하구 당리동 76-1 2층",
+  "latitude": "35.105145",
+  "longitude": "128.97627"
+},
+{
+  "number": "20",
+  "storeName": "로또복권방",
+  "phoneNumber": "051-294-2011",
+  "address": "부산 사하구 당리동 325-30번지",
+  "latitude": "35.102936",
+  "longitude": "128.97481"
+},
+{
+  "number": "21",
+  "storeName": "큰별",
+  "phoneNumber": "051-291-2775",
+  "address": "부산 사하구 괴정동 1001-1번지 성현빌딩1층GS25편의점",
+  "latitude": "35.100403",
+  "longitude": "128.99345"
+},
+{
+  "number": "22",
+  "storeName": "로또복권",
+  "phoneNumber": "051-208-1245",
+  "address": "부산 사하구 괴정동 1134-9번지 1층복권방",
+  "latitude": "35.10004",
+  "longitude": "128.9812"
+},
+{
+  "number": "23",
+  "storeName": "시민은 대박마당",
+  "phoneNumber": "051-208-7026",
+  "address": "부산 사하구 괴정동 319-4번지 1층복권방",
+  "latitude": "35.1029",
+  "longitude": "129.00029"
+},
+{
+  "number": "24",
+  "storeName": "월드사진관",
+  "phoneNumber": "051-261-7597",
+  "address": "부산 사하구 다대동 944-22번지",
+  "latitude": "35.05727",
+  "longitude": "128.96974"
+},
+{
+  "number": "25",
+  "storeName": "케이(k)복권방",
+  "phoneNumber": "",
+  "address": "부산 사하구 신평제1동 161-175",
+  "latitude": "35.092964",
+  "longitude": "128.9736"
+},
+{
+  "number": "26",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "부산 사하구 괴정동 1119-3",
+  "latitude": "35.10049",
+  "longitude": "128.98093"
+},
+{
+  "number": "27",
+  "storeName": "호선상회",
+  "phoneNumber": "051-293-8434",
+  "address": "부산 사하구 당리동 331-55",
+  "latitude": "35.10156",
+  "longitude": "128.97623"
+},
+{
+  "number": "28",
+  "storeName": "청솔서점",
+  "phoneNumber": "051-202-6338",
+  "address": "부산 사하구 신평동 589-5번지",
+  "latitude": "35.09882",
+  "longitude": "128.95897"
+},
+{
+  "number": "29",
+  "storeName": "하단복권",
+  "phoneNumber": "051-291-4624",
+  "address": "부산 사하구 당리동 304-3번지",
+  "latitude": "35.105408",
+  "longitude": "128.96988"
+},
+{
+  "number": "30",
+  "storeName": "장림나눔로또복권",
+  "phoneNumber": "051-000-0000",
+  "address": "부산 사하구 장림동 198-8 1층",
+  "latitude": "35.08245",
+  "longitude": "128.97351"
+},
+{
+  "number": "31",
+  "storeName": "복커피",
+  "phoneNumber": "",
+  "address": "부산 사하구 하단제1동 605-31 점포동 2호",
+  "latitude": "35.103794",
+  "longitude": "128.96266"
+}
+]

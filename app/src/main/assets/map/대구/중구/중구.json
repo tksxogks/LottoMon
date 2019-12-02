@@ -1,0 +1,226 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(포정점)",
+  "phoneNumber": "053-425-3255",
+  "address": "대구 중구 포정동 9-5번지",
+  "latitude": "35.872128",
+  "longitude": "128.59407"
+},
+{
+  "number": "2",
+  "storeName": "CU(동인동3가점)",
+  "phoneNumber": "053-253-0635",
+  "address": "대구 중구 동인동3가 192-71",
+  "latitude": "35.86535",
+  "longitude": "128.59175"
+},
+{
+  "number": "3",
+  "storeName": "GS25(중앙제일점)",
+  "phoneNumber": "053-421-7664",
+  "address": "대구 중구 동성로3가 7-7번지",
+  "latitude": "35.868317",
+  "longitude": "128.59348"
+},
+{
+  "number": "4",
+  "storeName": "CU(삼덕보성점)",
+  "phoneNumber": "053-427-2954",
+  "address": "대구 중구 삼덕동3가 358-5 1층 CU삼덕보성점",
+  "latitude": "35.862846",
+  "longitude": "128.60605"
+},
+{
+  "number": "5",
+  "storeName": "GS25(중구센타점)",
+  "phoneNumber": "053-427-6333",
+  "address": "대구 중구 공평동 57-3번지",
+  "latitude": "35.868504",
+  "longitude": "128.59798"
+},
+{
+  "number": "6",
+  "storeName": "로또복권 금성인삼사",
+  "phoneNumber": "053-255-2840",
+  "address": "대구 중구 동성로3가 49번지",
+  "latitude": "35.86798",
+  "longitude": "128.58987"
+},
+{
+  "number": "7",
+  "storeName": "돈벼락맞는곳",
+  "phoneNumber": "053-425-7513",
+  "address": "대구 중구 봉산동 185-45번지",
+  "latitude": "35.861847",
+  "longitude": "128.60005"
+},
+{
+  "number": "8",
+  "storeName": "동인마트",
+  "phoneNumber": "053-426-3683",
+  "address": "대구 중구 동인동3가 271-142번지",
+  "latitude": "35.872387",
+  "longitude": "128.60643"
+},
+{
+  "number": "9",
+  "storeName": "로또상품권롯데대구점",
+  "phoneNumber": "053-257-9877",
+  "address": "대구 중구 태평로1가 1-2 대구역 지하상가10호",
+  "latitude": "35.875183",
+  "longitude": "128.5953"
+},
+{
+  "number": "10",
+  "storeName": "명당복권",
+  "phoneNumber": "053-256-9463",
+  "address": "대구 중구 서성로2가 22-7 1층 복권판매점",
+  "latitude": "35.869926",
+  "longitude": "128.58693"
+},
+{
+  "number": "11",
+  "storeName": "복권천국",
+  "phoneNumber": "053-423-8497",
+  "address": "대구 중구 대봉동 13-17번지",
+  "latitude": "35.86238",
+  "longitude": "128.60526"
+},
+{
+  "number": "12",
+  "storeName": "자유극장옆토큰판매소",
+  "phoneNumber": "053-426-0201",
+  "address": "대구 중구 화전동 21-2번지",
+  "latitude": "35.87283",
+  "longitude": "128.59453"
+},
+{
+  "number": "13",
+  "storeName": "토큰박스(서문5지구)",
+  "phoneNumber": "053-257-5063",
+  "address": "대구 중구 대신동 115-46번지",
+  "latitude": "35.868603",
+  "longitude": "128.57848"
+},
+{
+  "number": "14",
+  "storeName": "승차권판매소삼정그린코아",
+  "phoneNumber": "053-253-1874",
+  "address": "대구 중구 남산동 665",
+  "latitude": "35.86349",
+  "longitude": "128.59293"
+},
+{
+  "number": "15",
+  "storeName": "복권명당행운점",
+  "phoneNumber": "053-784-7339",
+  "address": "대구 중구 대봉동 758 상가 11동 106호 cu편의점",
+  "latitude": "35.87432",
+  "longitude": "128.59602"
+},
+{
+  "number": "16",
+  "storeName": "토큰박스",
+  "phoneNumber": "053-257-1731",
+  "address": "대구 중구 대신동 278-2번지",
+  "latitude": "35.8624",
+  "longitude": "128.58229"
+},
+{
+  "number": "17",
+  "storeName": "토큰박스(동아쇼핑)",
+  "phoneNumber": "053-256-7740",
+  "address": "대구 중구 덕산동 53-3 현대백화점 앞 가판",
+  "latitude": "35.86583",
+  "longitude": "128.59164"
+},
+{
+  "number": "18",
+  "storeName": "국민은행대구지점앞토큰판매소",
+  "phoneNumber": "053-255-7030",
+  "address": "대구 중구 남일동 138-3번지",
+  "latitude": "35.868835",
+  "longitude": "128.59341"
+},
+{
+  "number": "19",
+  "storeName": "중앙공원앞토큰박스",
+  "phoneNumber": "053-426-9056",
+  "address": "대구 중구 공평동 15번지",
+  "latitude": "35.869556",
+  "longitude": "128.59766"
+},
+{
+  "number": "20",
+  "storeName": "승차권판매소",
+  "phoneNumber": "053-252-3984",
+  "address": "대구 중구 수창동 136번지 앞도로",
+  "latitude": "35.875782",
+  "longitude": "128.58257"
+},
+{
+  "number": "21",
+  "storeName": "안동슈퍼",
+  "phoneNumber": "053-252-4758",
+  "address": "대구 중구 북성로1가 10-14",
+  "latitude": "35.87389",
+  "longitude": "128.58885"
+},
+{
+  "number": "22",
+  "storeName": "토큰박스(아카데미)",
+  "phoneNumber": "053-427-0641",
+  "address": "대구 중구 동성로3가 11-1번지 승강장옆",
+  "latitude": "35.867767",
+  "longitude": "128.59392"
+},
+{
+  "number": "23",
+  "storeName": "포미나",
+  "phoneNumber": "053-255-0560",
+  "address": "대구 중구 남산동 700-66번지",
+  "latitude": "35.86012",
+  "longitude": "128.59195"
+},
+{
+  "number": "24",
+  "storeName": "동산슈퍼",
+  "phoneNumber": "053-255-0935",
+  "address": "대구 중구 동산동 340번지",
+  "latitude": "35.866604",
+  "longitude": "128.58669"
+},
+{
+  "number": "25",
+  "storeName": "중앙복권",
+  "phoneNumber": "053-422-8281",
+  "address": "대구 중구 남산동 2937-1번지 남산그린타운CU남산그린점",
+  "latitude": "35.86226",
+  "longitude": "128.57732"
+},
+{
+  "number": "26",
+  "storeName": "메트로센터점",
+  "phoneNumber": "053-254-3485",
+  "address": "대구 중구 덕산동 88번지 메트로센터C412호",
+  "latitude": "35.864662",
+  "longitude": "128.59798"
+},
+{
+  "number": "27",
+  "storeName": "복권명당",
+  "phoneNumber": "053-255-7985",
+  "address": "대구 중구 포정동 31-6번지",
+  "latitude": "35.871735",
+  "longitude": "128.5914"
+},
+{
+  "number": "28",
+  "storeName": "럭키하우스",
+  "phoneNumber": "",
+  "address": "대구 중구 삼덕동2가 184-1 1층",
+  "latitude": "35.86454",
+  "longitude": "128.60039"
+}
+]

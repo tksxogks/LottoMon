@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "꿈나라복권방",
+  "phoneNumber": "063-653-5346",
+  "address": "전북 순창군 순창읍 남계리 335번지",
+  "latitude": "35.373955",
+  "longitude": "127.1464"
+},
+{
+  "number": "2",
+  "storeName": "순창복권방",
+  "phoneNumber": "063-653-0203",
+  "address": "전북 순창군 순창읍 남계리 207-6번지",
+  "latitude": "35.376465",
+  "longitude": "127.142784"
+},
+{
+  "number": "3",
+  "storeName": "신일복권방",
+  "phoneNumber": "063-653-1900",
+  "address": "전북 순창군 순창읍 순화리 114-1번지 순창터미널내이동통신",
+  "latitude": "35.37715",
+  "longitude": "127.141235"
+}
+]

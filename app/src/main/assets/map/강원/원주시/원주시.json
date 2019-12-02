@@ -1,0 +1,378 @@
+[
+{
+  "number": "1",
+  "storeName": "황금돼지",
+  "phoneNumber": "033-765-1890",
+  "address": "강원 원주시 관설동 1771-6 1층 CU편의점 내",
+  "latitude": "37.315277",
+  "longitude": "127.96166"
+},
+{
+  "number": "2",
+  "storeName": "로또토토대박",
+  "phoneNumber": "033-744-1346",
+  "address": "강원 원주시 일산동 154-112 1층",
+  "latitude": "37.345604",
+  "longitude": "127.94554"
+},
+{
+  "number": "3",
+  "storeName": "복권세상도영점",
+  "phoneNumber": "033-764-7346",
+  "address": "강원 원주시 명륜동 422 1층",
+  "latitude": "37.33426",
+  "longitude": "127.94391"
+},
+{
+  "number": "4",
+  "storeName": "대광슈퍼마켓",
+  "phoneNumber": "033-765-2280",
+  "address": "강원 원주시 단구동 81-7 세븐일레븐 1층",
+  "latitude": "37.322594",
+  "longitude": "127.965675"
+},
+{
+  "number": "5",
+  "storeName": "써니복권유통",
+  "phoneNumber": "",
+  "address": "강원 원주시 반곡동 2056-3 102호",
+  "latitude": "37.319695",
+  "longitude": "127.97432"
+},
+{
+  "number": "6",
+  "storeName": "유성로또복권상회",
+  "phoneNumber": "033-742-5419",
+  "address": "강원 원주시 중앙동 66-1 1층",
+  "latitude": "37.350357",
+  "longitude": "127.95021"
+},
+{
+  "number": "7",
+  "storeName": "신덕슈퍼",
+  "phoneNumber": "033-743-5509",
+  "address": "강원 원주시 우산동 201-34 1층 신덕슈퍼",
+  "latitude": "37.36986",
+  "longitude": "127.935486"
+},
+{
+  "number": "8",
+  "storeName": "원일식품",
+  "phoneNumber": "033-742-1086",
+  "address": "강원 원주시 중앙동 181-1 1층 원일식품",
+  "latitude": "37.34831",
+  "longitude": "127.95205"
+},
+{
+  "number": "9",
+  "storeName": "문막로또명당",
+  "phoneNumber": "033-746-5886",
+  "address": "강원 원주시 문막읍 문막리 484-2 1층",
+  "latitude": "37.308586",
+  "longitude": "127.81782"
+},
+{
+  "number": "10",
+  "storeName": "daily24로또",
+  "phoneNumber": "033-748-0907",
+  "address": "강원 원주시 단계동 1121-3 1층 데일리편의점",
+  "latitude": "37.346523",
+  "longitude": "127.927124"
+},
+{
+  "number": "11",
+  "storeName": "데일리",
+  "phoneNumber": "033-766-7810",
+  "address": "강원 원주시 단구동 1682-1 상가동 101호",
+  "latitude": "37.319603",
+  "longitude": "127.95602"
+},
+{
+  "number": "12",
+  "storeName": "데일리마켓한신점",
+  "phoneNumber": "033-742-9815",
+  "address": "강원 원주시 개운동 451-4 한신프라자 116호",
+  "latitude": "37.331963",
+  "longitude": "127.94855"
+},
+{
+  "number": "13",
+  "storeName": "미스터잉크",
+  "phoneNumber": "033-744-5900",
+  "address": "강원 원주시 일산동 151-2 1층",
+  "latitude": "37.34668",
+  "longitude": "127.94741"
+},
+{
+  "number": "14",
+  "storeName": "복권방",
+  "phoneNumber": "033-763-6676",
+  "address": "강원 원주시 관설동 1702-1 1층 CU편의점 내",
+  "latitude": "37.31874",
+  "longitude": "127.96503"
+},
+{
+  "number": "15",
+  "storeName": "로또부자세상",
+  "phoneNumber": "033-731-7793",
+  "address": "강원 원주시 태장동 778-28 1층",
+  "latitude": "37.354507",
+  "longitude": "127.95463"
+},
+{
+  "number": "16",
+  "storeName": "황금복권",
+  "phoneNumber": "033-743-7080",
+  "address": "강원 원주시 단계동 808 삼익상가 105호",
+  "latitude": "37.351192",
+  "longitude": "127.92942"
+},
+{
+  "number": "17",
+  "storeName": "드림로또",
+  "phoneNumber": "033-743-8885",
+  "address": "강원 원주시 일산동 233-8 1층",
+  "latitude": "37.34924",
+  "longitude": "127.94216"
+},
+{
+  "number": "18",
+  "storeName": "황금로또",
+  "phoneNumber": "033-732-4477",
+  "address": "강원 원주시 태장동 1390-16 1층",
+  "latitude": "37.381954",
+  "longitude": "127.95033"
+},
+{
+  "number": "19",
+  "storeName": "복권나라",
+  "phoneNumber": "033-732-8082",
+  "address": "강원 원주시 중앙동 151-2 1층",
+  "latitude": "37.34884",
+  "longitude": "127.95265"
+},
+{
+  "number": "20",
+  "storeName": "주택복권방",
+  "phoneNumber": "033-744-0410",
+  "address": "강원 원주시 우산동 232-2 1층",
+  "latitude": "37.36732",
+  "longitude": "127.93791"
+},
+{
+  "number": "21",
+  "storeName": "행운유통",
+  "phoneNumber": "033-764-0220",
+  "address": "강원 원주시 명륜동 104-6 1층",
+  "latitude": "37.34113",
+  "longitude": "127.953926"
+},
+{
+  "number": "22",
+  "storeName": "복권나라",
+  "phoneNumber": "033-735-3824",
+  "address": "강원 원주시 학성동 436-15 1층",
+  "latitude": "37.355946",
+  "longitude": "127.943924"
+},
+{
+  "number": "23",
+  "storeName": "프로토원주점(복권나라)",
+  "phoneNumber": "033-745-8335",
+  "address": "강원 원주시 태장동 1367-2 1층",
+  "latitude": "37.38504",
+  "longitude": "127.947914"
+},
+{
+  "number": "24",
+  "storeName": "종합복권나라",
+  "phoneNumber": "033-764-8185",
+  "address": "강원 원주시 명륜동 261-1 1층",
+  "latitude": "37.33847",
+  "longitude": "127.95133"
+},
+{
+  "number": "25",
+  "storeName": "토토세상",
+  "phoneNumber": "033-736-0071",
+  "address": "강원 원주시 지정면 가곡리 978 1층",
+  "latitude": "37.36058",
+  "longitude": "127.86038"
+},
+{
+  "number": "26",
+  "storeName": "황금대박복권",
+  "phoneNumber": "033-747-4620",
+  "address": "강원 원주시 중앙동 73-1 1층",
+  "latitude": "37.350933",
+  "longitude": "127.95028"
+},
+{
+  "number": "27",
+  "storeName": "CU(원주상지대점)",
+  "phoneNumber": "033-734-9993",
+  "address": "강원 원주시 우산동 200-16 1층 CU편의점",
+  "latitude": "37.36929",
+  "longitude": "127.93658"
+},
+{
+  "number": "28",
+  "storeName": "CU(단계공원점)",
+  "phoneNumber": "033-735-4832",
+  "address": "강원 원주시 단계동 853 1층 CU편의점",
+  "latitude": "37.34585",
+  "longitude": "127.93047"
+},
+{
+  "number": "29",
+  "storeName": "CU(원주역점)",
+  "phoneNumber": "033-745-7540",
+  "address": "강원 원주시 학성동 425-11 1층 CU편의점",
+  "latitude": "37.356365",
+  "longitude": "127.94498"
+},
+{
+  "number": "30",
+  "storeName": "CU(원주단관점)",
+  "phoneNumber": "033-763-4989",
+  "address": "강원 원주시 단구동 1654-4 1층 cu",
+  "latitude": "37.32163",
+  "longitude": "127.95606"
+},
+{
+  "number": "31",
+  "storeName": "CU(원주명륜점)",
+  "phoneNumber": "033-761-0638",
+  "address": "강원 원주시 명륜동 751 1층 CU편의점",
+  "latitude": "37.332973",
+  "longitude": "127.94183"
+},
+{
+  "number": "32",
+  "storeName": "CU(태장점)",
+  "phoneNumber": "033-743-8833",
+  "address": "강원 원주시 태장동 1365-4 1층 CU편의점",
+  "latitude": "37.386074",
+  "longitude": "127.94821"
+},
+{
+  "number": "33",
+  "storeName": "CU(원주W-CITY점)",
+  "phoneNumber": "033-738-9560",
+  "address": "강원 원주시 단계동 877-1 1층 CU 시외버스터미널 내",
+  "latitude": "37.344845",
+  "longitude": "127.93085"
+},
+{
+  "number": "34",
+  "storeName": "로또쉼터",
+  "phoneNumber": "033-748-1133",
+  "address": "강원 원주시 문막읍 건등리 204-10 1층",
+  "latitude": "37.31974",
+  "longitude": "127.81259"
+},
+{
+  "number": "35",
+  "storeName": "서연로또",
+  "phoneNumber": "070-4202-1530",
+  "address": "강원 원주시 개운동 394-34 1층",
+  "latitude": "37.34162",
+  "longitude": "127.96079"
+},
+{
+  "number": "36",
+  "storeName": "나눔로또왕대박",
+  "phoneNumber": "033-762-1036",
+  "address": "강원 원주시 흥업면 흥업리 586-10 1층",
+  "latitude": "37.30212",
+  "longitude": "127.92017"
+},
+{
+  "number": "37",
+  "storeName": "풍물24시하이퍼",
+  "phoneNumber": "033-732-7178",
+  "address": "강원 원주시 우산동 125-17 1층 풍물24시하이퍼",
+  "latitude": "37.368504",
+  "longitude": "127.939064"
+},
+{
+  "number": "38",
+  "storeName": "창원편의점",
+  "phoneNumber": "033-743-4991",
+  "address": "강원 원주시 우산동 176-4 1층",
+  "latitude": "37.34783",
+  "longitude": "127.92798"
+},
+{
+  "number": "39",
+  "storeName": "또이대박로또",
+  "phoneNumber": "070-8822-0645",
+  "address": "강원 원주시 개운동 446-3 102호",
+  "latitude": "37.33708",
+  "longitude": "127.933685"
+},
+{
+  "number": "40",
+  "storeName": "북원복권",
+  "phoneNumber": "",
+  "address": "강원 원주시 관설동 1713-1 상가101호",
+  "latitude": "37.317482",
+  "longitude": "127.965126"
+},
+{
+  "number": "41",
+  "storeName": "흥양마중물",
+  "phoneNumber": "",
+  "address": "강원 원주시 소초면 흥양리 1718-4",
+  "latitude": "37.229214",
+  "longitude": "128.08199"
+},
+{
+  "number": "42",
+  "storeName": "삼성24시편의점",
+  "phoneNumber": "033-745-5056",
+  "address": "강원 원주시 학성동 212-11 1층",
+  "latitude": "37.35289",
+  "longitude": "127.9466"
+},
+{
+  "number": "43",
+  "storeName": "나눔로또판매점",
+  "phoneNumber": "",
+  "address": "강원 원주시 문막읍 건등리 1742-2 상가 102호",
+  "latitude": "37.31671",
+  "longitude": "127.8274"
+},
+{
+  "number": "44",
+  "storeName": "건등로또",
+  "phoneNumber": "033-745-9663",
+  "address": "강원 원주시 문막읍 건등리 1624-4 1층 미니스톰 내",
+  "latitude": "37.323082",
+  "longitude": "127.82915"
+},
+{
+  "number": "45",
+  "storeName": "CU(원주무실대로점)",
+  "phoneNumber": "033-735-9722",
+  "address": "강원 원주시 무실동 1641-10 1층 CU편의점",
+  "latitude": "37.33633",
+  "longitude": "127.92803"
+},
+{
+  "number": "46",
+  "storeName": "로또(Lotto)",
+  "phoneNumber": "",
+  "address": "강원 원주시 무실동 1850-5 1층 106호",
+  "latitude": "37.33308",
+  "longitude": "127.92967"
+},
+{
+  "number": "47",
+  "storeName": "신림아모르",
+  "phoneNumber": "050-7132-0862",
+  "address": "강원 원주시 신림면 신림리 693-6 1호 1층 (중간상가)",
+  "latitude": "37.22964",
+  "longitude": "128.08176"
+}
+]

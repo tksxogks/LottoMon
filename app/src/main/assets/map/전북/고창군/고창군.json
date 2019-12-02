@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "고인돌대박천국",
+  "phoneNumber": "063-561-5888",
+  "address": "전북 고창군 고창읍 읍내리 656번지",
+  "latitude": "35.436157",
+  "longitude": "126.69641"
+},
+{
+  "number": "2",
+  "storeName": "한진롯또대박판매점",
+  "phoneNumber": "",
+  "address": "전북 고창군 부안면 중흥리 139 전북 고창군 복분자로 900 일심이용원",
+  "latitude": "35.51286",
+  "longitude": "126.67391"
+},
+{
+  "number": "3",
+  "storeName": "행운복권방",
+  "phoneNumber": "063-563-2183",
+  "address": "전북 고창군 고창읍 월곡리 636번지",
+  "latitude": "35.43494",
+  "longitude": "126.69745"
+},
+{
+  "number": "4",
+  "storeName": "CU고창강호점",
+  "phoneNumber": "063-561-3006",
+  "address": "전북 고창군 고창읍 덕산리 3-2 1층 103호",
+  "latitude": "35.427845",
+  "longitude": "126.69767"
+},
+{
+  "number": "5",
+  "storeName": "가은온라인복권판매",
+  "phoneNumber": "063-563-1980",
+  "address": "전북 고창군 고창읍 교촌리 53-3 농수산물 직판장 내",
+  "latitude": "35.434956",
+  "longitude": "126.70605"
+},
+{
+  "number": "6",
+  "storeName": "명품복권방",
+  "phoneNumber": "",
+  "address": "전북 고창군 고창읍 교촌리 501 CU 고창 월곡점",
+  "latitude": "35.431637",
+  "longitude": "126.70072"
+},
+{
+  "number": "7",
+  "storeName": "로또마트",
+  "phoneNumber": "",
+  "address": "전북 고창군 고창읍 읍내리 588-1 1층",
+  "latitude": "35.43348",
+  "longitude": "126.69563"
+}
+]

@@ -1,0 +1,266 @@
+[
+{
+  "number": "1",
+  "storeName": "보성종합상사",
+  "phoneNumber": "031-466-2979",
+  "address": "경기 안양시 만안구 안양동 622-41",
+  "latitude": "37.396877",
+  "longitude": "126.92628"
+},
+{
+  "number": "2",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "031-468-2494",
+  "address": "경기 안양시 만안구 안양동 194번지",
+  "latitude": "37.390705",
+  "longitude": "126.93416"
+},
+{
+  "number": "3",
+  "storeName": "황금복권방",
+  "phoneNumber": "031-448-0092",
+  "address": "경기 안양시 만안구 안양동 598-19번지",
+  "latitude": "37.382965",
+  "longitude": "126.93251"
+},
+{
+  "number": "4",
+  "storeName": "J마트",
+  "phoneNumber": "031-468-7373",
+  "address": "경기 안양시 만안구 안양동 504-22",
+  "latitude": "37.387302",
+  "longitude": "126.93061"
+},
+{
+  "number": "5",
+  "storeName": "스카이편의점",
+  "phoneNumber": "031-444-9629",
+  "address": "경기 안양시 만안구 박달동 74-5번지",
+  "latitude": "37.40271",
+  "longitude": "126.91126"
+},
+{
+  "number": "6",
+  "storeName": "가두판매점",
+  "phoneNumber": "031-442-8350",
+  "address": "경기 안양시 만안구 안양동 689-180번지",
+  "latitude": "37.40134",
+  "longitude": "126.91974"
+},
+{
+  "number": "7",
+  "storeName": "버스가판점",
+  "phoneNumber": "031-468-8497",
+  "address": "경기 안양시 만안구 안양동 517-14 517-15번지 공터와 겹침",
+  "latitude": "37.387287",
+  "longitude": "126.9313"
+},
+{
+  "number": "8",
+  "storeName": "버스가판점",
+  "phoneNumber": "031-466-8414",
+  "address": "경기 안양시 만안구 안양동 164-1 진흥아파트앞 버스정류장",
+  "latitude": "37.397263",
+  "longitude": "126.93054"
+},
+{
+  "number": "9",
+  "storeName": "시내버스가판점",
+  "phoneNumber": "031-466-0309",
+  "address": "경기 안양시 만안구 안양동 836-18",
+  "latitude": "37.407013",
+  "longitude": "126.91447"
+},
+{
+  "number": "10",
+  "storeName": "버스표가판점",
+  "phoneNumber": "031-448-9615",
+  "address": "경기 안양시 만안구 안양동 847-16번지",
+  "latitude": "37.403957",
+  "longitude": "126.917465"
+},
+{
+  "number": "11",
+  "storeName": "교보생명가두판매점",
+  "phoneNumber": "031-443-9930",
+  "address": "경기 안양시 만안구 안양동 695-207번지",
+  "latitude": "37.40131",
+  "longitude": "126.91913"
+},
+{
+  "number": "12",
+  "storeName": "올웨이복권방편의점",
+  "phoneNumber": "031-445-4060",
+  "address": "경기 안양시 만안구 박달동 68-29번지 1층",
+  "latitude": "37.40241",
+  "longitude": "126.911385"
+},
+{
+  "number": "13",
+  "storeName": "행운나라복권방",
+  "phoneNumber": "031-471-7609",
+  "address": "경기 안양시 만안구 석수동 785-14번지",
+  "latitude": "37.40743",
+  "longitude": "126.897934"
+},
+{
+  "number": "14",
+  "storeName": "휴먼복권방",
+  "phoneNumber": "031-441-6334",
+  "address": "경기 안양시 만안구 안양동 622-253번지",
+  "latitude": "37.396282",
+  "longitude": "126.92418"
+},
+{
+  "number": "15",
+  "storeName": "대박열린슈퍼",
+  "phoneNumber": "031-471-3040",
+  "address": "경기 안양시 만안구 석수동 177-6",
+  "latitude": "37.41648",
+  "longitude": "126.91374"
+},
+{
+  "number": "16",
+  "storeName": "ING",
+  "phoneNumber": "031-443-7404",
+  "address": "경기 안양시 만안구 안양동 574-1번지 1층",
+  "latitude": "37.383625",
+  "longitude": "126.93366"
+},
+{
+  "number": "17",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-472-5677",
+  "address": "경기 안양시 만안구 석수동 104-98번지 103호",
+  "latitude": "37.42011",
+  "longitude": "126.90889"
+},
+{
+  "number": "18",
+  "storeName": "복권명당",
+  "phoneNumber": "031-472-0645",
+  "address": "경기 안양시 만안구 안양동 31-2 1층",
+  "latitude": "37.41428",
+  "longitude": "126.91686"
+},
+{
+  "number": "19",
+  "storeName": "주택복권방",
+  "phoneNumber": "031-441-3176",
+  "address": "경기 안양시 만안구 안양동 508-25번지",
+  "latitude": "37.38934",
+  "longitude": "126.93167"
+},
+{
+  "number": "20",
+  "storeName": "천하명당",
+  "phoneNumber": "031-444-7999",
+  "address": "경기 안양시 만안구 안양동 707-361번지",
+  "latitude": "37.394913",
+  "longitude": "126.92115"
+},
+{
+  "number": "21",
+  "storeName": "GS25(안양동영점)",
+  "phoneNumber": "031-445-7221",
+  "address": "경기 안양시 만안구 안양동 202-4",
+  "latitude": "37.385212",
+  "longitude": "126.93573"
+},
+{
+  "number": "22",
+  "storeName": "CU(안양석수점)",
+  "phoneNumber": "031-473-1134",
+  "address": "경기 안양시 만안구 석수동 325-13번지",
+  "latitude": "37.41078",
+  "longitude": "126.91185"
+},
+{
+  "number": "23",
+  "storeName": "GS25(명학역점)",
+  "phoneNumber": "031-441-5317",
+  "address": "경기 안양시 만안구 안양동 534-4번지",
+  "latitude": "37.385117",
+  "longitude": "126.93462"
+},
+{
+  "number": "24",
+  "storeName": "네비천국",
+  "phoneNumber": "031-464-4679",
+  "address": "경기 안양시 만안구 안양동 707-26",
+  "latitude": "37.39465",
+  "longitude": "126.91867"
+},
+{
+  "number": "25",
+  "storeName": "가두판매점",
+  "phoneNumber": "031-441-9632",
+  "address": "경기 안양시 만안구 안양동 627-252 우리은행앞도로",
+  "latitude": "37.396164",
+  "longitude": "126.923195"
+},
+{
+  "number": "26",
+  "storeName": "주택복권방",
+  "phoneNumber": "031-444-1125",
+  "address": "경기 안양시 만안구 안양동 707-329",
+  "latitude": "37.395695",
+  "longitude": "126.91966"
+},
+{
+  "number": "27",
+  "storeName": "행운드림복권판매점",
+  "phoneNumber": "031-473-0630",
+  "address": "경기 안양시 만안구 석수동 289-6 1층 102호",
+  "latitude": "37.412613",
+  "longitude": "126.90867"
+},
+{
+  "number": "28",
+  "storeName": "세븐일레븐 안양문예점",
+  "phoneNumber": "",
+  "address": "경기 안양시 만안구 안양동 553-6",
+  "latitude": "37.383926",
+  "longitude": "126.92898"
+},
+{
+  "number": "29",
+  "storeName": "꿀떡이네로또",
+  "phoneNumber": "",
+  "address": "경기 안양시 만안구 박달동 23-15 1층",
+  "latitude": "37.406223",
+  "longitude": "126.908516"
+},
+{
+  "number": "30",
+  "storeName": "GS25(안양병목점)",
+  "phoneNumber": "031-469-6257",
+  "address": "경기 안양시 만안구 안양동 782-7 신광빌딩",
+  "latitude": "37.399555",
+  "longitude": "126.9194"
+},
+{
+  "number": "31",
+  "storeName": "용꿈 행운 복권방",
+  "phoneNumber": "",
+  "address": "경기 안양시 만안구 안양2동 823-6 1층",
+  "latitude": "37.406136",
+  "longitude": "126.91305"
+},
+{
+  "number": "32",
+  "storeName": "대박복권방",
+  "phoneNumber": "",
+  "address": "경기 안양시 만안구 박달동 138-4 1층 3호",
+  "latitude": "37.401325",
+  "longitude": "126.90505"
+},
+{
+  "number": "33",
+  "storeName": "수리산 복권방",
+  "phoneNumber": "",
+  "address": "경기 안양시 만안구 안양동 714-93 1층",
+  "latitude": "37.396374",
+  "longitude": "126.91589"
+}
+]

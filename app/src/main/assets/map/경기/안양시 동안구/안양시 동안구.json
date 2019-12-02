@@ -1,0 +1,346 @@
+[
+{
+  "number": "1",
+  "storeName": "버스표가판대",
+  "phoneNumber": "031-385-6545",
+  "address": "경기 안양시 동안구 비산동 1101-4번지",
+  "latitude": "37.396126",
+  "longitude": "126.95042"
+},
+{
+  "number": "2",
+  "storeName": "네잎크로바",
+  "phoneNumber": "031-479-4967",
+  "address": "경기 안양시 동안구 호계동 555-9번지",
+  "latitude": "37.3742",
+  "longitude": "126.95293"
+},
+{
+  "number": "3",
+  "storeName": "으뜸할인마트",
+  "phoneNumber": "031-429-5595",
+  "address": "경기 안양시 동안구 호계동 904 현대상가 으뜸할인마트",
+  "latitude": "37.38838",
+  "longitude": "126.94781"
+},
+{
+  "number": "4",
+  "storeName": "안양체육사",
+  "phoneNumber": "031-477-1929",
+  "address": "경기 안양시 동안구 호계동 924-9번지",
+  "latitude": "37.382153",
+  "longitude": "126.95022"
+},
+{
+  "number": "5",
+  "storeName": "대박복권방",
+  "phoneNumber": "031-444-9802",
+  "address": "경기 안양시 동안구 평촌동 126-1 두산벤처다임 앞 가판대",
+  "latitude": "37.39169",
+  "longitude": "126.97298"
+},
+{
+  "number": "6",
+  "storeName": "주택복권방",
+  "phoneNumber": "031-429-8281",
+  "address": "경기 안양시 동안구 호계동 995-18번지",
+  "latitude": "37.373726",
+  "longitude": "126.95836"
+},
+{
+  "number": "7",
+  "storeName": "스타매니아",
+  "phoneNumber": "031-384-0333",
+  "address": "경기 안양시 동안구 비산동 1026-14번지",
+  "latitude": "37.403793",
+  "longitude": "126.94903"
+},
+{
+  "number": "8",
+  "storeName": "시내버스가판점",
+  "phoneNumber": "031-423-8566",
+  "address": "경기 안양시 동안구 관양동 1459-5번지",
+  "latitude": "37.40424",
+  "longitude": "126.96598"
+},
+{
+  "number": "9",
+  "storeName": "버스표가판점",
+  "phoneNumber": "031-388-6327",
+  "address": "경기 안양시 동안구 관양동 1384-25번지",
+  "latitude": "37.403122",
+  "longitude": "126.95528"
+},
+{
+  "number": "10",
+  "storeName": "인덕원가판점",
+  "phoneNumber": "031-423-3332",
+  "address": "경기 안양시 동안구 관양동 1488-5",
+  "latitude": "37.40262",
+  "longitude": "126.97522"
+},
+{
+  "number": "11",
+  "storeName": "로또명당가두판매점",
+  "phoneNumber": "031-388-4427",
+  "address": "경기 안양시 동안구 비산동 1102번지",
+  "latitude": "37.39479",
+  "longitude": "126.94322"
+},
+{
+  "number": "12",
+  "storeName": "버스표가판점",
+  "phoneNumber": "031-384-2165",
+  "address": "경기 안양시 동안구 호계동 1039-2번지",
+  "latitude": "37.389713",
+  "longitude": "126.951065"
+},
+{
+  "number": "13",
+  "storeName": "버스표가판점",
+  "phoneNumber": "031-421-6455",
+  "address": "경기 안양시 동안구 관양동 1507-23번지",
+  "latitude": "37.398495",
+  "longitude": "126.977486"
+},
+{
+  "number": "14",
+  "storeName": "에이원",
+  "phoneNumber": "031-387-1238",
+  "address": "경기 안양시 동안구 관양동 1389-4번지",
+  "latitude": "37.405083",
+  "longitude": "126.95591"
+},
+{
+  "number": "15",
+  "storeName": "하이로또복권방",
+  "phoneNumber": "031-441-4435",
+  "address": "경기 안양시 동안구 비산동 554-37번지 서안빌라7동B02호",
+  "latitude": "37.399258",
+  "longitude": "126.93374"
+},
+{
+  "number": "16",
+  "storeName": "인덕원복권방",
+  "phoneNumber": "031-423-8289",
+  "address": "경기 안양시 동안구 관양동 1502-4",
+  "latitude": "37.40067",
+  "longitude": "126.97626"
+},
+{
+  "number": "17",
+  "storeName": "마이더스로또복권방",
+  "phoneNumber": "031-421-1311",
+  "address": "경기 안양시 동안구 관양동 1505-7번지",
+  "latitude": "37.400806",
+  "longitude": "126.97768"
+},
+{
+  "number": "18",
+  "storeName": "안양행운복권",
+  "phoneNumber": "031-386-5144",
+  "address": "경기 안양시 동안구 관양동 1711-8번지",
+  "latitude": "37.406868",
+  "longitude": "126.97225"
+},
+{
+  "number": "19",
+  "storeName": "세경로또방",
+  "phoneNumber": "031-386-5321",
+  "address": "경기 안양시 동안구 관양동 1589 1층 복권방",
+  "latitude": "37.397335",
+  "longitude": "126.95493"
+},
+{
+  "number": "20",
+  "storeName": "대박",
+  "phoneNumber": "031-382-0380",
+  "address": "경기 안양시 동안구 관양동 1606번지",
+  "latitude": "37.392944",
+  "longitude": "126.96225"
+},
+{
+  "number": "21",
+  "storeName": "주공공이로또",
+  "phoneNumber": "070-7743-3206",
+  "address": "경기 안양시 동안구 평촌동 932-4 상가동 103호 cu평촌한신점",
+  "latitude": "37.38428",
+  "longitude": "126.96519"
+},
+{
+  "number": "22",
+  "storeName": "메이",
+  "phoneNumber": "031-456-8312",
+  "address": "경기 안양시 동안구 호계동 918-19번지",
+  "latitude": "37.38547",
+  "longitude": "126.95077"
+},
+{
+  "number": "23",
+  "storeName": "하이로또복권방",
+  "phoneNumber": "031-422-9722",
+  "address": "경기 안양시 동안구 평촌동 93-2번지",
+  "latitude": "37.394077",
+  "longitude": "126.97563"
+},
+{
+  "number": "24",
+  "storeName": "하이로또복권방",
+  "phoneNumber": "031-385-1780",
+  "address": "경기 안양시 동안구 관양동 1406-44번지",
+  "latitude": "37.404156",
+  "longitude": "126.960175"
+},
+{
+  "number": "25",
+  "storeName": "복권마을",
+  "phoneNumber": "031-457-1571",
+  "address": "경기 안양시 동안구 호계동 959-19번지",
+  "latitude": "37.37394",
+  "longitude": "126.95612"
+},
+{
+  "number": "26",
+  "storeName": "씨스페이스(오비즈점)",
+  "phoneNumber": "031-389-2783",
+  "address": "경기 안양시 동안구 관양동 1802 1층 138호",
+  "latitude": "37.381905",
+  "longitude": "126.96022"
+},
+{
+  "number": "27",
+  "storeName": "행운슈퍼",
+  "phoneNumber": "070-4112-4851",
+  "address": "경기 안양시 동안구 관양동 1495-80 1층 101호",
+  "latitude": "37.399895",
+  "longitude": "126.97422"
+},
+{
+  "number": "28",
+  "storeName": "드림스페이스",
+  "phoneNumber": "070-7762-8715",
+  "address": "경기 안양시 동안구 관양동 1437-15 제1층 102호",
+  "latitude": "37.40397",
+  "longitude": "126.96951"
+},
+{
+  "number": "29",
+  "storeName": "복권방",
+  "phoneNumber": "031-381-8680",
+  "address": "경기 안양시 동안구 관양동 1126",
+  "latitude": "37.400276",
+  "longitude": "126.96116"
+},
+{
+  "number": "30",
+  "storeName": "당첨로또복권",
+  "phoneNumber": "031-477-1136",
+  "address": "경기 안양시 동안구 호계동 859-12",
+  "latitude": "37.361984",
+  "longitude": "126.96277"
+},
+{
+  "number": "31",
+  "storeName": "로또명당 로그인",
+  "phoneNumber": "031-386-0645",
+  "address": "경기 안양시 동안구 비산동 1032-21",
+  "latitude": "37.40381",
+  "longitude": "126.95052"
+},
+{
+  "number": "32",
+  "storeName": "방글유통",
+  "phoneNumber": "031-421-8583",
+  "address": "경기 안양시 동안구 평촌동 214-2 농수산물도매시장 직판상가2호",
+  "latitude": "37.38195",
+  "longitude": "126.97009"
+},
+{
+  "number": "33",
+  "storeName": "역전복권방",
+  "phoneNumber": "031-388-2060",
+  "address": "경기 안양시 동안구 호계동 1046-2번지",
+  "latitude": "37.390034",
+  "longitude": "126.9523"
+},
+{
+  "number": "34",
+  "storeName": "재호복권방",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 비산동 379-3 105호",
+  "latitude": "37.39936",
+  "longitude": "126.94481"
+},
+{
+  "number": "35",
+  "storeName": "로또슈퍼",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 비산동 1110-1 1층",
+  "latitude": "37.392647",
+  "longitude": "126.95267"
+},
+{
+  "number": "36",
+  "storeName": "복드림슈퍼",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 호계동 969-2 1층",
+  "latitude": "37.36865",
+  "longitude": "126.95774"
+},
+{
+  "number": "37",
+  "storeName": "더브라운 범계점",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 호계동 1042 1층 113호",
+  "latitude": "37.391533",
+  "longitude": "126.95345"
+},
+{
+  "number": "38",
+  "storeName": "하늘복권마트",
+  "phoneNumber": "031-452-0916",
+  "address": "경기 안양시 동안구 관양동 1433-37 1층 101호",
+  "latitude": "37.405083",
+  "longitude": "126.96726"
+},
+{
+  "number": "39",
+  "storeName": "달",
+  "phoneNumber": "031-381-4734",
+  "address": "경기 안양시 동안구 관양동 1586번지 한가람한양아파트상가 110호",
+  "latitude": "37.39996",
+  "longitude": "126.95308"
+},
+{
+  "number": "40",
+  "storeName": "관양골드점 CU",
+  "phoneNumber": "031-424-0134",
+  "address": "경기 안양시 동안구 관양동 1487-30 101호, CU편의점",
+  "latitude": "37.403053",
+  "longitude": "126.97376"
+},
+{
+  "number": "41",
+  "storeName": "관양수촌가판점",
+  "phoneNumber": "031-383-5288",
+  "address": "경기 안양시 동안구 관양동 1439-5 건물 옆 버스정거장 앞 가판점",
+  "latitude": "37.40213",
+  "longitude": "126.95474"
+},
+{
+  "number": "42",
+  "storeName": "카페로또",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 비산동 1018-22 1층 1호",
+  "latitude": "37.406685",
+  "longitude": "126.94972"
+},
+{
+  "number": "43",
+  "storeName": "로또명당",
+  "phoneNumber": "",
+  "address": "경기 안양시 동안구 호계동 996-21",
+  "latitude": "37.37168",
+  "longitude": "126.958626"
+}
+]

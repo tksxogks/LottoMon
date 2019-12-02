@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "춘향로또",
+  "phoneNumber": "063-632-7194",
+  "address": "전북 남원시 향교동 277-6",
+  "latitude": "35.416737",
+  "longitude": "127.38934"
+},
+{
+  "number": "2",
+  "storeName": "로또복권판매도통점",
+  "phoneNumber": "063-636-4883",
+  "address": "전북 남원시 도통동 584-1번지",
+  "latitude": "35.41776",
+  "longitude": "127.39724"
+},
+{
+  "number": "3",
+  "storeName": "남원복권방",
+  "phoneNumber": "063-636-6325",
+  "address": "전북 남원시 금동 565-17번지",
+  "latitude": "35.40637",
+  "longitude": "127.37659"
+},
+{
+  "number": "4",
+  "storeName": "영은",
+  "phoneNumber": "",
+  "address": "전북 남원시 죽항동 278",
+  "latitude": "35.40925",
+  "longitude": "127.38723"
+},
+{
+  "number": "5",
+  "storeName": "삼성로또복권방슈퍼",
+  "phoneNumber": "063-633-8693",
+  "address": "전북 남원시 향교동 244-1번지",
+  "latitude": "35.41578",
+  "longitude": "127.3864"
+}
+]

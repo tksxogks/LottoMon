@@ -1,0 +1,282 @@
+[
+{
+  "number": "1",
+  "storeName": "하라소",
+  "phoneNumber": "031-916-7276",
+  "address": "경기 고양시 일산서구 대화동 2239번지 1층113",
+  "latitude": "37.674767",
+  "longitude": "126.749535"
+},
+{
+  "number": "2",
+  "storeName": "대박복권",
+  "phoneNumber": "031-915-4873",
+  "address": "경기 고양시 일산서구 대화동 2241번지",
+  "latitude": "37.673386",
+  "longitude": "126.75235"
+},
+{
+  "number": "3",
+  "storeName": "흥일슈퍼",
+  "phoneNumber": "031-975-2858",
+  "address": "경기 고양시 일산서구 일산동 640-28번지",
+  "latitude": "37.685436",
+  "longitude": "126.77306"
+},
+{
+  "number": "4",
+  "storeName": "이전유통(탄현역)",
+  "phoneNumber": "031-924-4965",
+  "address": "경기 고양시 일산서구 덕이동 274-16번지",
+  "latitude": "37.69434",
+  "longitude": "126.75988"
+},
+{
+  "number": "5",
+  "storeName": "두배로마트덕이점",
+  "phoneNumber": "031-919-7031",
+  "address": "경기 고양시 일산서구 덕이동 992-1번지 삼호빌딩1층",
+  "latitude": "37.69441",
+  "longitude": "126.73985"
+},
+{
+  "number": "6",
+  "storeName": "코사마트 후곡점",
+  "phoneNumber": "031-976-3940",
+  "address": "경기 고양시 일산서구 일산동 1101 105,106호",
+  "latitude": "37.684242",
+  "longitude": "126.76966"
+},
+{
+  "number": "7",
+  "storeName": "굳프렌즈일산현대-24시편의점",
+  "phoneNumber": "031-977-3905",
+  "address": "경기 고양시 일산서구 일산동 586-16번지 1층",
+  "latitude": "37.68745",
+  "longitude": "126.77224"
+},
+{
+  "number": "8",
+  "storeName": "주엽역 로또판매점",
+  "phoneNumber": "031-914-8980",
+  "address": "경기 고양시 일산서구 주엽동 109 도로",
+  "latitude": "37.66964",
+  "longitude": "126.76089"
+},
+{
+  "number": "9",
+  "storeName": "바른행정사사무소",
+  "phoneNumber": "031-918-7179",
+  "address": "경기 고양시 일산서구 탄현동 1493-6",
+  "latitude": "37.693516",
+  "longitude": "126.76802"
+},
+{
+  "number": "10",
+  "storeName": "금성경기마트",
+  "phoneNumber": "031-975-2341",
+  "address": "경기 고양시 일산서구 일산동 632번지 1층",
+  "latitude": "37.683746",
+  "longitude": "126.77189"
+},
+{
+  "number": "11",
+  "storeName": "문촌5 6단지기산한일A가관대",
+  "phoneNumber": "031-918-0579",
+  "address": "경기 고양시 일산서구 주엽동 8 문촌마을 602동앞 도로가판대",
+  "latitude": "37.673157",
+  "longitude": "126.766556"
+},
+{
+  "number": "12",
+  "storeName": "금두꺼비복권방",
+  "phoneNumber": "031-923-0079",
+  "address": "경기 고양시 일산서구 대화동 2208번지 재성빌딩1층",
+  "latitude": "37.67672",
+  "longitude": "126.74804"
+},
+{
+  "number": "13",
+  "storeName": "행운마트",
+  "phoneNumber": "031-917-6270",
+  "address": "경기 고양시 일산서구 가좌동 969번지 104호",
+  "latitude": "37.68386",
+  "longitude": "126.71574"
+},
+{
+  "number": "14",
+  "storeName": "복권나라",
+  "phoneNumber": "031-977-8737",
+  "address": "경기 고양시 일산서구 일산동 551-13번지",
+  "latitude": "37.685047",
+  "longitude": "126.7746"
+},
+{
+  "number": "15",
+  "storeName": "이마트24 일산덕이점",
+  "phoneNumber": "070-4414-0789",
+  "address": "경기 고양시 일산서구 덕이동 548",
+  "latitude": "37.693077",
+  "longitude": "126.746864"
+},
+{
+  "number": "16",
+  "storeName": "오렌지25",
+  "phoneNumber": "031-975-8591",
+  "address": "경기 고양시 일산서구 일산동 555-1번지 양우에이스스타디움109",
+  "latitude": "37.684986",
+  "longitude": "126.77715"
+},
+{
+  "number": "17",
+  "storeName": "CU(일산동문점)",
+  "phoneNumber": "031-911-2004",
+  "address": "경기 고양시 일산서구 일산동 957-3번지 현대밀라트2차오피스텔",
+  "latitude": "37.685997",
+  "longitude": "126.76499"
+},
+{
+  "number": "18",
+  "storeName": "CU(탄현센스빌점)",
+  "phoneNumber": "031-919-3352",
+  "address": "경기 고양시 일산서구 탄현동 1574-7번지 풍원리빙프라자",
+  "latitude": "37.6895",
+  "longitude": "126.76204"
+},
+{
+  "number": "19",
+  "storeName": "국민복권방",
+  "phoneNumber": "031-917-7664",
+  "address": "경기 고양시 일산서구 대화동 2203-3 1층 CU편의점",
+  "latitude": "37.678566",
+  "longitude": "126.75493"
+},
+{
+  "number": "20",
+  "storeName": "로또모형방",
+  "phoneNumber": "031-911-5732",
+  "address": "경기 고양시 일산서구 대화동 1464-7",
+  "latitude": "37.669712",
+  "longitude": "126.73241"
+},
+{
+  "number": "21",
+  "storeName": "일산복권",
+  "phoneNumber": "031-813-7711",
+  "address": "경기 고양시 일산서구 주엽동 138번지 애비뉴상가1090호",
+  "latitude": "37.6722",
+  "longitude": "126.7546"
+},
+{
+  "number": "22",
+  "storeName": "현대25시편의점",
+  "phoneNumber": "031-911-8743",
+  "address": "경기 고양시 일산서구 덕이동 304-3번지",
+  "latitude": "37.698997",
+  "longitude": "126.75944"
+},
+{
+  "number": "23",
+  "storeName": "대박나라행운잔치",
+  "phoneNumber": "031-913-7027",
+  "address": "경기 고양시 일산서구 일산동 1054번지 백암빌딩101호",
+  "latitude": "37.679653",
+  "longitude": "126.76248"
+},
+{
+  "number": "24",
+  "storeName": "나눔로또 한라점",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 대화동 2142-1 한라프라자 상가 1층 105호 CU대화한라점",
+  "latitude": "37.67824",
+  "longitude": "126.75417"
+},
+{
+  "number": "25",
+  "storeName": "로또월드",
+  "phoneNumber": "031-976-7575",
+  "address": "경기 고양시 일산서구 일산동 555-1번지 에이스빌딩116",
+  "latitude": "37.684986",
+  "longitude": "126.77715"
+},
+{
+  "number": "26",
+  "storeName": "1등대박 로또명당",
+  "phoneNumber": "031-925-3661",
+  "address": "경기 고양시 일산서구 탄현동 131-7 106,107호 CU편의점내",
+  "latitude": "37.69893",
+  "longitude": "126.76552"
+},
+{
+  "number": "27",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 송산동 145-1 108호",
+  "latitude": "37.69048",
+  "longitude": "126.72446"
+},
+{
+  "number": "28",
+  "storeName": "아성",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 대화동 2606 1층 1224호",
+  "latitude": "37.664345",
+  "longitude": "126.75438"
+},
+{
+  "number": "29",
+  "storeName": "럭키복권",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 덕이동 219-65 2A-103호",
+  "latitude": "37.689575",
+  "longitude": "126.75798"
+},
+{
+  "number": "30",
+  "storeName": "일산탑복권",
+  "phoneNumber": "031-914-7575",
+  "address": "경기 고양시 일산서구 일산동 1088-1 107호",
+  "latitude": "37.67642",
+  "longitude": "126.76997"
+},
+{
+  "number": "31",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 일산동 655-268 1층 101호",
+  "latitude": "37.682907",
+  "longitude": "126.77014"
+},
+{
+  "number": "32",
+  "storeName": "오마트 나눔로또",
+  "phoneNumber": "031-912-3326",
+  "address": "경기 고양시 일산서구 덕이동 997-1 오마트",
+  "latitude": "37.696053",
+  "longitude": "126.73941"
+},
+{
+  "number": "33",
+  "storeName": "로또마트",
+  "phoneNumber": "031-922-5517",
+  "address": "경기 고양시 일산서구 가좌동 237-5 1층 103호",
+  "latitude": "37.685146",
+  "longitude": "126.72299"
+},
+{
+  "number": "34",
+  "storeName": "희망로또복권",
+  "phoneNumber": "",
+  "address": "경기 고양시 일산서구 주엽2동 31-1 1층 105호",
+  "latitude": "37.674957",
+  "longitude": "126.763756"
+}
+]
+{
+  "number": "35",
+  "storeName": "복길로또",
+  "phoneNumber": "",
+  "address": "경기 과천시 문원동 143",
+  "latitude": "37.42437",
+  "longitude": "127.00811"
+},

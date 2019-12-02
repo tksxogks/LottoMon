@@ -1,0 +1,114 @@
+[
+{
+  "number": "1",
+  "storeName": "일등유통",
+  "phoneNumber": "033-633-8157",
+  "address": "강원 속초시 영랑동 134-4번지",
+  "latitude": "38.201828",
+  "longitude": "128.5857"
+},
+{
+  "number": "2",
+  "storeName": "D-마트담배",
+  "phoneNumber": "033-637-7772",
+  "address": "강원 속초시 조양동 1498-2번지",
+  "latitude": "38.190014",
+  "longitude": "128.58003"
+},
+{
+  "number": "3",
+  "storeName": "대박복권",
+  "phoneNumber": "033-637-5692",
+  "address": "강원 속초시 교동 741-3번지",
+  "latitude": "38.198997",
+  "longitude": "128.57738"
+},
+{
+  "number": "4",
+  "storeName": "이화로또복권",
+  "phoneNumber": "033-632-7965",
+  "address": "강원 속초시 조양동 1490-258 강원도 속초시 동해대로 3932-1",
+  "latitude": "38.18576",
+  "longitude": "128.60074"
+},
+{
+  "number": "5",
+  "storeName": "복권나라",
+  "phoneNumber": "033-636-8245",
+  "address": "강원 속초시 교동 668-9번지",
+  "latitude": "38.198746",
+  "longitude": "128.58011"
+},
+{
+  "number": "6",
+  "storeName": "왕대박복권",
+  "phoneNumber": "033-638-0292",
+  "address": "강원 속초시 동명동 559-4번지",
+  "latitude": "38.211487",
+  "longitude": "128.5895"
+},
+{
+  "number": "7",
+  "storeName": "복권전당",
+  "phoneNumber": "033-638-3325",
+  "address": "강원 속초시 조양동 1410-30 1층",
+  "latitude": "38.19023",
+  "longitude": "128.59685"
+},
+{
+  "number": "8",
+  "storeName": "속초등대로또복권",
+  "phoneNumber": "033-633-4880",
+  "address": "강원 속초시 동명동 38-3번지",
+  "latitude": "38.212704",
+  "longitude": "128.59903"
+},
+{
+  "number": "9",
+  "storeName": "동명슈퍼",
+  "phoneNumber": "033-633-3059",
+  "address": "강원 속초시 동명동 458-6",
+  "latitude": "38.208836",
+  "longitude": "128.59276"
+},
+{
+  "number": "10",
+  "storeName": "속초복권샵",
+  "phoneNumber": "033-633-8167",
+  "address": "강원 속초시 청학동 486-42번지 1층",
+  "latitude": "38.20198",
+  "longitude": "128.58363"
+},
+{
+  "number": "11",
+  "storeName": "사계절로또",
+  "phoneNumber": "",
+  "address": "강원 속초시 교동 949-12",
+  "latitude": "38.198936",
+  "longitude": "128.57135"
+},
+{
+  "number": "12",
+  "storeName": "153황금복권",
+  "phoneNumber": "033-633-7713",
+  "address": "강원 속초시 조양동 1571 1층",
+  "latitude": "38.186905",
+  "longitude": "128.59677"
+},
+{
+  "number": "13",
+  "storeName": "훈민로또점",
+  "phoneNumber": "",
+  "address": "강원 속초시 중앙동 494-18 강원약초상회",
+  "latitude": "38.205467",
+  "longitude": "128.58875"
+},
+{
+  "number": "14",
+  "storeName": "설악슈퍼",
+  "phoneNumber": "033-633-6363",
+  "address": "강원 속초시 중앙동 471-65번지 4통1반",
+  "latitude": "38.20448",
+  "longitude": "128.59093"
+}
+]

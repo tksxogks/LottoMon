@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "홈런복권방",
+  "phoneNumber": "054-732-0219",
+  "address": "경북 영덕군 영덕읍 남석리 52-10번지",
+  "latitude": "36.409206",
+  "longitude": "129.36821"
+},
+{
+  "number": "2",
+  "storeName": "영덕로또복권",
+  "phoneNumber": "054-734-1991",
+  "address": "경북 영덕군 영덕읍 덕곡리 216-5번지",
+  "latitude": "36.412907",
+  "longitude": "129.36563"
+},
+{
+  "number": "3",
+  "storeName": "CU로또(강구터미널점)",
+  "phoneNumber": "054-734-5506",
+  "address": "경북 영덕군 강구면 오포리 557-5 1층 CU편의점내",
+  "latitude": "36.358864",
+  "longitude": "129.37938"
+},
+{
+  "number": "4",
+  "storeName": "나눔로또",
+  "phoneNumber": "054-734-7744",
+  "address": "경북 영덕군 영해면 성내리 470-31번지",
+  "latitude": "36.60078",
+  "longitude": "129.41261"
+}
+]

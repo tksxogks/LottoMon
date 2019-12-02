@@ -1,0 +1,210 @@
+[
+{
+  "number": "1",
+  "storeName": "행운 마트",
+  "phoneNumber": "032-888-0812",
+  "address": "인천 중구 운남동 507-14번지",
+  "latitude": "37.4936",
+  "longitude": "126.53779"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "032-889-2777",
+  "address": "인천 중구 신흥동2가 16-37번지",
+  "latitude": "37.4673",
+  "longitude": "126.63369"
+},
+{
+  "number": "3",
+  "storeName": "인천상회",
+  "phoneNumber": "032-766-7437",
+  "address": "인천 중구 북성동2가 9-7번지",
+  "latitude": "37.475574",
+  "longitude": "126.61941"
+},
+{
+  "number": "4",
+  "storeName": "현대하이퍼",
+  "phoneNumber": "032-772-1675",
+  "address": "인천 중구 답동 37-15번지 1층",
+  "latitude": "37.46923",
+  "longitude": "126.629005"
+},
+{
+  "number": "5",
+  "storeName": "부안슈퍼",
+  "phoneNumber": "070-7574-5887",
+  "address": "인천 중구 항동1가 2-27번지",
+  "latitude": "37.47353",
+  "longitude": "126.617805"
+},
+{
+  "number": "6",
+  "storeName": "드림복권방",
+  "phoneNumber": "032-882-1800",
+  "address": "인천 중구 신흥동 54-7",
+  "latitude": "37.47397",
+  "longitude": "126.5981"
+},
+{
+  "number": "7",
+  "storeName": "월미도매표소",
+  "phoneNumber": "032-772-0034",
+  "address": "인천 중구 북성동1가 98-559",
+  "latitude": "37.47558",
+  "longitude": "126.59958"
+},
+{
+  "number": "8",
+  "storeName": "신포시장매표소",
+  "phoneNumber": "032-763-6370",
+  "address": "인천 중구 신포동 15-3번지",
+  "latitude": "37.47116",
+  "longitude": "126.628"
+},
+{
+  "number": "9",
+  "storeName": "매표소",
+  "phoneNumber": "032-763-6542",
+  "address": "인천 중구 사동 18-45번지",
+  "latitude": "37.469887",
+  "longitude": "126.62552"
+},
+{
+  "number": "10",
+  "storeName": "인현동지하가판",
+  "phoneNumber": "032-772-0669",
+  "address": "인천 중구 인현동 1-1 가판",
+  "latitude": "37.474346",
+  "longitude": "126.63329"
+},
+{
+  "number": "11",
+  "storeName": "버스매표소 복권판매소",
+  "phoneNumber": "032-761-5555",
+  "address": "인천 중구 인현동 1-12 중앙로지하상가 163호",
+  "latitude": "37.474346",
+  "longitude": "126.63329"
+},
+{
+  "number": "12",
+  "storeName": "경준유통",
+  "phoneNumber": "032-773-6974",
+  "address": "인천 중구 용동 152-3번지 1층",
+  "latitude": "37.47297",
+  "longitude": "126.63152"
+},
+{
+  "number": "13",
+  "storeName": "대부복권방",
+  "phoneNumber": "032-746-7799",
+  "address": "인천 중구 운서동 2803-1 1동 128-1호",
+  "latitude": "37.493694",
+  "longitude": "126.491554"
+},
+{
+  "number": "14",
+  "storeName": "유진상사",
+  "phoneNumber": "032-885-4277",
+  "address": "인천 중구 신흥동3가 53-3번지",
+  "latitude": "37.448322",
+  "longitude": "126.62533"
+},
+{
+  "number": "15",
+  "storeName": "민들레로또",
+  "phoneNumber": "032-887-4049",
+  "address": "인천 중구 항동7가 58-54번지 편의점내",
+  "latitude": "37.45456",
+  "longitude": "126.601685"
+},
+{
+  "number": "16",
+  "storeName": "신일사",
+  "phoneNumber": "032-882-2089",
+  "address": "인천 중구 도원동 12-82번지",
+  "latitude": "37.468525",
+  "longitude": "126.6416"
+},
+{
+  "number": "17",
+  "storeName": "라이프마트",
+  "phoneNumber": "032-888-4055",
+  "address": "인천 중구 항동7가 58-98번지 5호",
+  "latitude": "37.45229",
+  "longitude": "126.604"
+},
+{
+  "number": "18",
+  "storeName": "CU(영종BCD몰)",
+  "phoneNumber": "032-752-5805",
+  "address": "인천 중구 중산동 1882-13번지",
+  "latitude": "37.461617",
+  "longitude": "126.63805"
+},
+{
+  "number": "19",
+  "storeName": "GS25(인천송월점)",
+  "phoneNumber": "032-766-6665",
+  "address": "인천 중구 송월동1가 1-15",
+  "latitude": "37.479637",
+  "longitude": "126.6263"
+},
+{
+  "number": "20",
+  "storeName": "천하복권방",
+  "phoneNumber": "032-764-1600",
+  "address": "인천 중구 중앙동4가 2-25번지",
+  "latitude": "37.47077",
+  "longitude": "126.6244"
+},
+{
+  "number": "21",
+  "storeName": "세븐일레븐 영종 어울림점",
+  "phoneNumber": "",
+  "address": "인천 중구 운서동 2923",
+  "latitude": "37.481712",
+  "longitude": "126.50931"
+},
+{
+  "number": "22",
+  "storeName": "이마트24신포문화의거리점",
+  "phoneNumber": "032-766-2527",
+  "address": "인천 중구 동인천동 206-2",
+  "latitude": "37.472416",
+  "longitude": "126.62875"
+},
+{
+  "number": "23",
+  "storeName": "GS25(신공항점)",
+  "phoneNumber": "032-752-1265",
+  "address": "인천 중구 운서동 2790-1 영종출장운서지소",
+  "latitude": "37.494488",
+  "longitude": "126.4884"
+},
+{
+  "number": "24",
+  "storeName": "CU(연안비취점)",
+  "phoneNumber": "032-882-8825",
+  "address": "인천 중구 항동7가 27-131번지",
+  "latitude": "37.453533",
+  "longitude": "126.60574"
+},
+{
+  "number": "25",
+  "storeName": "NBA(엔비에이)",
+  "phoneNumber": "032-772-6767",
+  "address": "인천 중구 운서동 3042-5 1층 102호 CU편의점 매장내 그린나래",
+  "latitude": "37.495487",
+  "longitude": "126.49822"
+},
+{
+  "number": "26",
+  "storeName": "천도 복권",
+  "phoneNumber": "",
+  "address": "인천 중구 신흥동 58-2",
+  "latitude": "37.46729",
+  "longitude": "126.629906"
+}
+]

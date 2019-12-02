@@ -1,0 +1,258 @@
+[
+{
+  "number": "1",
+  "storeName": "행운로또",
+  "phoneNumber": "052-243-5985",
+  "address": "울산 중구 우정동 35번지",
+  "latitude": "35.555805",
+  "longitude": "129.31656"
+},
+{
+  "number": "2",
+  "storeName": "느낌복권방",
+  "phoneNumber": "052-211-2174",
+  "address": "울산 중구 학산동 8-1번지",
+  "latitude": "35.55484",
+  "longitude": "129.32765"
+},
+{
+  "number": "3",
+  "storeName": "대박이네",
+  "phoneNumber": "052-292-1250",
+  "address": "울산 중구 반구동 106-6",
+  "latitude": "35.559284",
+  "longitude": "129.3401"
+},
+{
+  "number": "4",
+  "storeName": "복권방(행운열차)",
+  "phoneNumber": "052-222-3382",
+  "address": "울산 중구 다운동 776-4번지",
+  "latitude": "35.563095",
+  "longitude": "129.26727"
+},
+{
+  "number": "5",
+  "storeName": "미보라복권방",
+  "phoneNumber": "052-293-0442",
+  "address": "울산 중구 반구동 440-18번지",
+  "latitude": "35.559372",
+  "longitude": "129.34325"
+},
+{
+  "number": "6",
+  "storeName": "씨엔복권",
+  "phoneNumber": "052-292-3540",
+  "address": "울산 중구 반구동 450-13",
+  "latitude": "35.559895",
+  "longitude": "129.3452"
+},
+{
+  "number": "7",
+  "storeName": "CN마트",
+  "phoneNumber": "052-293-6096",
+  "address": "울산 중구 남외동 423-5 1층",
+  "latitude": "35.57018",
+  "longitude": "129.34038"
+},
+{
+  "number": "8",
+  "storeName": "우리들옥교점",
+  "phoneNumber": "",
+  "address": "울산 중구 태화동 432-14",
+  "latitude": "35.55067",
+  "longitude": "129.2937"
+},
+{
+  "number": "9",
+  "storeName": "세븐일레븐(울산우정SK점)로또",
+  "phoneNumber": "070-4806-4527",
+  "address": "울산 중구 우정동 381-10",
+  "latitude": "35.559017",
+  "longitude": "129.31126"
+},
+{
+  "number": "10",
+  "storeName": "로또복권방",
+  "phoneNumber": "052-245-8848",
+  "address": "울산 중구 성남동 190-134번지",
+  "latitude": "35.555897",
+  "longitude": "129.31807"
+},
+{
+  "number": "11",
+  "storeName": "천일복권방",
+  "phoneNumber": "",
+  "address": "울산 중구 우정동 436-124",
+  "latitude": "35.559673",
+  "longitude": "129.31226"
+},
+{
+  "number": "12",
+  "storeName": "CU태화강변점(꿈샘)",
+  "phoneNumber": "052-248-0918",
+  "address": "울산 중구 태화동 593-4 CU편의점 내",
+  "latitude": "35.550903",
+  "longitude": "129.29971"
+},
+{
+  "number": "13",
+  "storeName": "복받는복권방",
+  "phoneNumber": "052-246-2442",
+  "address": "울산 중구 성남동 182-6번지",
+  "latitude": "35.55535",
+  "longitude": "129.31793"
+},
+{
+  "number": "14",
+  "storeName": "성안복권프라자",
+  "phoneNumber": "052-244-3280",
+  "address": "울산 중구 성안동 852-1",
+  "latitude": "35.57516",
+  "longitude": "129.30862"
+},
+{
+  "number": "15",
+  "storeName": "대박찬스",
+  "phoneNumber": "052-246-2859",
+  "address": "울산 중구 우정동 283-3",
+  "latitude": "35.55567",
+  "longitude": "129.3108"
+},
+{
+  "number": "16",
+  "storeName": "우리들공경점",
+  "phoneNumber": "052-282-0061",
+  "address": "울산 중구 학성동 468-14 우리들 편의점내",
+  "latitude": "35.55327",
+  "longitude": "129.33217"
+},
+{
+  "number": "17",
+  "storeName": "복권방",
+  "phoneNumber": "052-281-3358",
+  "address": "울산 중구 복산동 64-3 GS편의점 내",
+  "latitude": "35.56319",
+  "longitude": "129.33363"
+},
+{
+  "number": "18",
+  "storeName": "일등복권방",
+  "phoneNumber": "052-297-4246",
+  "address": "울산 중구 서동 45-14번지",
+  "latitude": "35.580925",
+  "longitude": "129.34616"
+},
+{
+  "number": "19",
+  "storeName": "참조은 복권",
+  "phoneNumber": "052-222-4482",
+  "address": "울산 중구 복산동 776 118동107호",
+  "latitude": "35.563686",
+  "longitude": "129.32935"
+},
+{
+  "number": "20",
+  "storeName": "심봤다복권방",
+  "phoneNumber": "052-292-4697",
+  "address": "울산 중구 반구동 354-3번지",
+  "latitude": "35.55461",
+  "longitude": "129.34503"
+},
+{
+  "number": "21",
+  "storeName": "우리들복산점",
+  "phoneNumber": "052-292-7031",
+  "address": "울산 중구 복산동 32-29 우리들편의점",
+  "latitude": "35.56216",
+  "longitude": "129.33601"
+},
+{
+  "number": "22",
+  "storeName": "우리들성남점",
+  "phoneNumber": "052-245-1418",
+  "address": "울산 중구 성남동 68-9번지",
+  "latitude": "35.557034",
+  "longitude": "129.32043"
+},
+{
+  "number": "23",
+  "storeName": "아이러브마트복권방",
+  "phoneNumber": "052-246-9901",
+  "address": "울산 중구 태화동 22-25",
+  "latitude": "35.556366",
+  "longitude": "129.30724"
+},
+{
+  "number": "24",
+  "storeName": "한꿈복권방",
+  "phoneNumber": "052-294-9998",
+  "address": "울산 중구 남외동 486-5번지 베스트편의점내",
+  "latitude": "35.56877",
+  "longitude": "129.34587"
+},
+{
+  "number": "25",
+  "storeName": "이마트24중울산점",
+  "phoneNumber": "052-244-1745",
+  "address": "울산 중구 옥교동 161-6 1층 위드미편의점",
+  "latitude": "35.557114",
+  "longitude": "129.32379"
+},
+{
+  "number": "26",
+  "storeName": "행운복권방",
+  "phoneNumber": "052-247-8011",
+  "address": "울산 중구 다운동 549-2",
+  "latitude": "35.558376",
+  "longitude": "129.27203"
+},
+{
+  "number": "27",
+  "storeName": "대림통상",
+  "phoneNumber": "052-244-8736",
+  "address": "울산 중구 태화동 426 일신아파트상가102호",
+  "latitude": "35.552166",
+  "longitude": "129.29655"
+},
+{
+  "number": "28",
+  "storeName": "토토복권방(병영점)",
+  "phoneNumber": "052-293-5522",
+  "address": "울산 중구 남외동 243-2",
+  "latitude": "35.570297",
+  "longitude": "129.34596"
+},
+{
+  "number": "29",
+  "storeName": "모닝마트(학성점)",
+  "phoneNumber": "052-297-1273",
+  "address": "울산 중구 학성동 377-14번지",
+  "latitude": "35.55709",
+  "longitude": "129.33167"
+},
+{
+  "number": "30",
+  "storeName": "복드림로또방",
+  "phoneNumber": "",
+  "address": "울산 중구 유곡동 126-28",
+  "latitude": "35.557728",
+  "longitude": "129.30238"
+},
+{
+  "number": "31",
+  "storeName": "로또명당",
+  "phoneNumber": "052-212-8949",
+  "address": "울산 중구 서동 494-7 1층, 부동산",
+  "latitude": "35.57197",
+  "longitude": "129.34628"
+},
+{
+  "number": "32",
+  "storeName": "대박복권",
+  "phoneNumber": "",
+  "address": "울산 중구 우정동 279-2 1층 복권방",
+  "latitude": "35.557384",
+  "longitude": "129.31102"
+}
+]

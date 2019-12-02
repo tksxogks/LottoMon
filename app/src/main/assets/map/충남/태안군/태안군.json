@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "안면로또점",
+  "phoneNumber": "041-673-0645",
+  "address": "충남 태안군 안면읍 승언리 1148번지",
+  "latitude": "36.518215",
+  "longitude": "126.34523"
+},
+{
+  "number": "2",
+  "storeName": "해피복권",
+  "phoneNumber": "041-674-7884",
+  "address": "충남 태안군 태안읍 남문리 576-18",
+  "latitude": "36.75419",
+  "longitude": "126.294914"
+},
+{
+  "number": "3",
+  "storeName": "로또판매점",
+  "phoneNumber": "041-674-8114",
+  "address": "충남 태안군 태안읍 남문리 629-2",
+  "latitude": "36.75062",
+  "longitude": "126.292206"
+},
+{
+  "number": "4",
+  "storeName": "태안로또복권방",
+  "phoneNumber": "041-672-4350",
+  "address": "충남 태안군 태안읍 동문리 454-23번지",
+  "latitude": "36.753223",
+  "longitude": "126.299355"
+},
+{
+  "number": "5",
+  "storeName": "king편의점",
+  "phoneNumber": "041-674-4608",
+  "address": "충남 태안군 태안읍 평천리 611-8 2호",
+  "latitude": "36.7544",
+  "longitude": "126.32561"
+},
+{
+  "number": "6",
+  "storeName": "럭키세븐",
+  "phoneNumber": "",
+  "address": "충남 태안군 태안읍 남문리 685-8",
+  "latitude": "36.75139",
+  "longitude": "126.30263"
+},
+{
+  "number": "7",
+  "storeName": "동행복권",
+  "phoneNumber": "",
+  "address": "충남 태안군 안면읍 창기리 1262-24",
+  "latitude": "36.582905",
+  "longitude": "126.32287"
+}
+]

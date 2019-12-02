@@ -1,0 +1,170 @@
+[
+{
+  "number": "1",
+  "storeName": "에이스상사",
+  "phoneNumber": "051-852-6960",
+  "address": "부산 연제구 연산동 752-33",
+  "latitude": "35.18253",
+  "longitude": "129.07138"
+},
+{
+  "number": "2",
+  "storeName": "로또판매점",
+  "phoneNumber": "051-861-0434",
+  "address": "부산 연제구 연산동 724-8번지 세븐일레븐편의점 내",
+  "latitude": "35.18866",
+  "longitude": "129.082"
+},
+{
+  "number": "3",
+  "storeName": "바이드",
+  "phoneNumber": "051-862-7391",
+  "address": "부산 연제구 연산동 710-1번지 세븐일레븐연산점 내",
+  "latitude": "35.183964",
+  "longitude": "129.08244"
+},
+{
+  "number": "4",
+  "storeName": "나우리",
+  "phoneNumber": "051-867-1849",
+  "address": "부산 연제구 연산동 794-1 GS25편의점 내",
+  "latitude": "35.18566",
+  "longitude": "129.08319"
+},
+{
+  "number": "5",
+  "storeName": "황금돼지복권방",
+  "phoneNumber": "051-505-3097",
+  "address": "부산 연제구 거제동 70-6",
+  "latitude": "35.194668",
+  "longitude": "129.08028"
+},
+{
+  "number": "6",
+  "storeName": "미니스톱 새법조타운점",
+  "phoneNumber": "051-501-0150",
+  "address": "부산 연제구 거제동 1497-2",
+  "latitude": "35.189938",
+  "longitude": "129.06764"
+},
+{
+  "number": "7",
+  "storeName": "아이엔지",
+  "phoneNumber": "051-868-0171",
+  "address": "부산 연제구 연산동 2136-29 ING25",
+  "latitude": "35.17471",
+  "longitude": "129.0923"
+},
+{
+  "number": "8",
+  "storeName": "태염복권방",
+  "phoneNumber": "",
+  "address": "부산 연제구 연산동 1478-6 우리마트 내",
+  "latitude": "35.184887",
+  "longitude": "129.07544"
+},
+{
+  "number": "9",
+  "storeName": "아이라인안경원",
+  "phoneNumber": "051-864-8507",
+  "address": "부산 연제구 거제동 617-11번지 1층",
+  "latitude": "35.182247",
+  "longitude": "129.07024"
+},
+{
+  "number": "10",
+  "storeName": "포시즌신리점. 은비복권",
+  "phoneNumber": "051-862-6162",
+  "address": "부산 연제구 연산동 1947-5 포시즌실리점 내",
+  "latitude": "35.17442",
+  "longitude": "129.08644"
+},
+{
+  "number": "11",
+  "storeName": "경북상회",
+  "phoneNumber": "051-758-6559",
+  "address": "부산 연제구 연산동 63-12",
+  "latitude": "35.181694",
+  "longitude": "129.10803"
+},
+{
+  "number": "12",
+  "storeName": "성광복권명당",
+  "phoneNumber": "051-865-5651",
+  "address": "부산 연제구 연산동 313-21번지",
+  "latitude": "35.189987",
+  "longitude": "129.09113"
+},
+{
+  "number": "13",
+  "storeName": "연동복권",
+  "phoneNumber": "051-865-6237",
+  "address": "부산 연제구 거제동 439-5",
+  "latitude": "35.188393",
+  "longitude": "129.09457"
+},
+{
+  "number": "14",
+  "storeName": "싱글벙글6/45",
+  "phoneNumber": "051-751-0010",
+  "address": "부산 연제구 연산동 1330-10 좌측 싱글벙글복권방",
+  "latitude": "35.18154",
+  "longitude": "129.07779"
+},
+{
+  "number": "15",
+  "storeName": "성창",
+  "phoneNumber": "051-862-9141",
+  "address": "부산 연제구 연산동 312-35번지",
+  "latitude": "35.18878",
+  "longitude": "129.09328"
+},
+{
+  "number": "16",
+  "storeName": "영남건재상사",
+  "phoneNumber": "051-759-7203",
+  "address": "부산 연제구 연산동 401-25",
+  "latitude": "35.188087",
+  "longitude": "129.10538"
+},
+{
+  "number": "17",
+  "storeName": "과정미니슈퍼",
+  "phoneNumber": "051-758-9985",
+  "address": "부산 연제구 연산동 399-12번지",
+  "latitude": "35.187862",
+  "longitude": "129.10164"
+},
+{
+  "number": "18",
+  "storeName": "남경슈퍼",
+  "phoneNumber": "051-868-1408",
+  "address": "부산 연제구 연산동 1833-8번지",
+  "latitude": "35.173622",
+  "longitude": "129.09308"
+},
+{
+  "number": "19",
+  "storeName": "씨유(CU)연산오렌지점",
+  "phoneNumber": "051-852-0037",
+  "address": "부산 연제구 연산동 729-1번지 CU편의점",
+  "latitude": "35.186653",
+  "longitude": "129.08275"
+},
+{
+  "number": "20",
+  "storeName": "오렌지데이연산점",
+  "phoneNumber": "051-866-9581",
+  "address": "부산 연제구 연산동 1141-8번지",
+  "latitude": "35.188038",
+  "longitude": "129.07788"
+},
+{
+  "number": "21",
+  "storeName": "로또복권판매",
+  "phoneNumber": "051-853-5150",
+  "address": "부산 연제구 연산동 1124-1",
+  "latitude": "35.188534",
+  "longitude": "129.0807"
+}
+]

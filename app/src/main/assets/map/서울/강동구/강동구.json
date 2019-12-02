@@ -1,0 +1,482 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(고덕점)",
+  "phoneNumber": "02-429-4153",
+  "address": "서울 강동구 고덕동 503",
+  "latitude": "37.559982",
+  "longitude": "127.154495"
+},
+{
+  "number": "2",
+  "storeName": "GS25(천호점)",
+  "phoneNumber": "02-471-1634",
+  "address": "서울 강동구 천호동 427-6번지",
+  "latitude": "37.539417",
+  "longitude": "127.12531"
+},
+{
+  "number": "3",
+  "storeName": "CU(명일우량점)",
+  "phoneNumber": "02-3427-5863",
+  "address": "서울 강동구 명일동 48-12 타워팰리스 1층104호",
+  "latitude": "37.553364",
+  "longitude": "127.15312"
+},
+{
+  "number": "4",
+  "storeName": "CU(성내중앙점)",
+  "phoneNumber": "02-485-9505",
+  "address": "서울 강동구 성내동 442 동양타워",
+  "latitude": "37.52371",
+  "longitude": "127.131996"
+},
+{
+  "number": "5",
+  "storeName": "씨스페이스(강일본)",
+  "phoneNumber": "070-4196-8010",
+  "address": "서울 강동구 강일동 679-1",
+  "latitude": "37.56473",
+  "longitude": "127.174286"
+},
+{
+  "number": "6",
+  "storeName": "우성슈퍼",
+  "phoneNumber": "02-427-6715",
+  "address": "서울 강동구 암사동 421-6번지",
+  "latitude": "37.55071",
+  "longitude": "127.13974"
+},
+{
+  "number": "7",
+  "storeName": "삼익마트",
+  "phoneNumber": "02-442-8845",
+  "address": "서울 강동구 명일동 341-5번지 1층",
+  "latitude": "37.546608",
+  "longitude": "127.14614"
+},
+{
+  "number": "8",
+  "storeName": "롯데마트",
+  "phoneNumber": "02-442-8604",
+  "address": "서울 강동구 상일동 342번지",
+  "latitude": "37.5486",
+  "longitude": "127.17297"
+},
+{
+  "number": "9",
+  "storeName": "동원마트",
+  "phoneNumber": "02-476-4756",
+  "address": "서울 강동구 성내동 412-6번지",
+  "latitude": "37.52931",
+  "longitude": "127.135086"
+},
+{
+  "number": "10",
+  "storeName": "그린슈퍼",
+  "phoneNumber": "02-476-0509",
+  "address": "서울 강동구 길동 355-1번지",
+  "latitude": "37.540104",
+  "longitude": "127.14418"
+},
+{
+  "number": "11",
+  "storeName": "그루터기(상일쉼터)",
+  "phoneNumber": "070-8826-2056",
+  "address": "서울 강동구 고덕동 236-3",
+  "latitude": "37.56256",
+  "longitude": "127.16264"
+},
+{
+  "number": "12",
+  "storeName": "이마트24 강동본점",
+  "phoneNumber": "02-474-6059",
+  "address": "서울 강동구 성내동 38-3",
+  "latitude": "37.536186",
+  "longitude": "127.12559"
+},
+{
+  "number": "13",
+  "storeName": "쌍둥이네복권방",
+  "phoneNumber": "02-486-7630",
+  "address": "서울 강동구 암사동 500번지 1층",
+  "latitude": "37.552288",
+  "longitude": "127.128586"
+},
+{
+  "number": "14",
+  "storeName": "강일코사할인마트",
+  "phoneNumber": "",
+  "address": "서울 강동구 강일동 699 105호",
+  "latitude": "37.561234",
+  "longitude": "127.179695"
+},
+{
+  "number": "15",
+  "storeName": "몽유호가(夢有好家)",
+  "phoneNumber": "02-476-1007",
+  "address": "서울 강동구 성내동 319-33번지 1층5호",
+  "latitude": "37.530792",
+  "longitude": "127.121"
+},
+{
+  "number": "16",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "서울 강동구 길동 125-5",
+  "latitude": "37.537697",
+  "longitude": "127.14622"
+},
+{
+  "number": "17",
+  "storeName": "로또",
+  "phoneNumber": "",
+  "address": "서울 강동구 천호동 289",
+  "latitude": "37.548965",
+  "longitude": "127.12969"
+},
+{
+  "number": "18",
+  "storeName": "가판점",
+  "phoneNumber": "02-489-5252",
+  "address": "서울 강동구 천호동 449-49 앞 가판점",
+  "latitude": "37.536526",
+  "longitude": "127.131325"
+},
+{
+  "number": "19",
+  "storeName": "현대상회로또점",
+  "phoneNumber": "02-486-5339",
+  "address": "서울 강동구 길동 412-16번지",
+  "latitude": "37.536102",
+  "longitude": "127.13913"
+},
+{
+  "number": "20",
+  "storeName": "토큰판매소",
+  "phoneNumber": "02-3426-9472",
+  "address": "서울 강동구 명일동 312-86번지",
+  "latitude": "37.55121",
+  "longitude": "127.14376"
+},
+{
+  "number": "21",
+  "storeName": "가판점",
+  "phoneNumber": "02-489-2748",
+  "address": "서울 강동구 둔촌동 170-1 둔촌역 1번 출구 가판",
+  "latitude": "37.527508",
+  "longitude": "127.13966"
+},
+{
+  "number": "22",
+  "storeName": "행운마트",
+  "phoneNumber": "02-476-9497",
+  "address": "서울 강동구 천호동 100-3번지",
+  "latitude": "37.54283",
+  "longitude": "127.135086"
+},
+{
+  "number": "23",
+  "storeName": "대박가판장",
+  "phoneNumber": "02-427-7875",
+  "address": "서울 강동구 명일동 312-92번지",
+  "latitude": "37.55091",
+  "longitude": "127.14371"
+},
+{
+  "number": "24",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-487-5911",
+  "address": "서울 강동구 길동 458-5번지",
+  "latitude": "37.534893",
+  "longitude": "127.13852"
+},
+{
+  "number": "25",
+  "storeName": "교통카드판매대",
+  "phoneNumber": "02-426-6160",
+  "address": "서울 강동구 고덕동 210-1번지 구서울승합종점앞",
+  "latitude": "37.557274",
+  "longitude": "127.16935"
+},
+{
+  "number": "26",
+  "storeName": "돼지복권",
+  "phoneNumber": "02-6407-0998",
+  "address": "서울 강동구 천호동 315번지 101호",
+  "latitude": "37.547665",
+  "longitude": "127.12697"
+},
+{
+  "number": "27",
+  "storeName": "베네시티앞가판",
+  "phoneNumber": "02-473-1128",
+  "address": "서울 강동구 천호동 425-5번지 대우베네시티cafe7gram앞",
+  "latitude": "37.54048",
+  "longitude": "127.12496"
+},
+{
+  "number": "28",
+  "storeName": "노다지훼밀리",
+  "phoneNumber": "02-489-4858",
+  "address": "서울 강동구 천호동 393-7번지",
+  "latitude": "37.541973",
+  "longitude": "127.13101"
+},
+{
+  "number": "29",
+  "storeName": "길동방",
+  "phoneNumber": "02-482-6831",
+  "address": "서울 강동구 길동 249-1번지 3호",
+  "latitude": "37.534363",
+  "longitude": "127.14085"
+},
+{
+  "number": "30",
+  "storeName": "비디오뱅크",
+  "phoneNumber": "02-441-9132",
+  "address": "서울 강동구 암사동 493-1번지",
+  "latitude": "37.55123",
+  "longitude": "127.13143"
+},
+{
+  "number": "31",
+  "storeName": "OK마트",
+  "phoneNumber": "02-471-2781",
+  "address": "서울 강동구 천호동 166-82번지",
+  "latitude": "37.53889",
+  "longitude": "127.131836"
+},
+{
+  "number": "32",
+  "storeName": "복사문구",
+  "phoneNumber": "02-485-6852",
+  "address": "서울 강동구 천호동 45-2번지",
+  "latitude": "37.54399",
+  "longitude": "127.14204"
+},
+{
+  "number": "33",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-429-1354",
+  "address": "서울 강동구 천호동 238-1번지",
+  "latitude": "37.546352",
+  "longitude": "127.134285"
+},
+{
+  "number": "34",
+  "storeName": "럭키마켓",
+  "phoneNumber": "02-488-8848",
+  "address": "서울 강동구 둔촌동 55번지 1층",
+  "latitude": "37.5331",
+  "longitude": "127.14423"
+},
+{
+  "number": "35",
+  "storeName": "교통카드충전소",
+  "phoneNumber": "02-476-3907",
+  "address": "서울 강동구 성내동 440-30번지",
+  "latitude": "37.52396",
+  "longitude": "127.13434"
+},
+{
+  "number": "36",
+  "storeName": "후레쉬마트",
+  "phoneNumber": "02-426-7999",
+  "address": "서울 강동구 상일동 431-3",
+  "latitude": "37.54605",
+  "longitude": "127.17222"
+},
+{
+  "number": "37",
+  "storeName": "정우로또",
+  "phoneNumber": "02-474-8959",
+  "address": "서울 강동구 길동 395-16번지 1층",
+  "latitude": "37.536892",
+  "longitude": "127.14017"
+},
+{
+  "number": "38",
+  "storeName": "복권방",
+  "phoneNumber": "02-475-9020",
+  "address": "서울 강동구 성내동 245-32번지",
+  "latitude": "37.53379",
+  "longitude": "127.13606"
+},
+{
+  "number": "39",
+  "storeName": "단골집편의점",
+  "phoneNumber": "02-478-1583",
+  "address": "서울 강동구 천호동 417-7",
+  "latitude": "37.540554",
+  "longitude": "127.12624"
+},
+{
+  "number": "40",
+  "storeName": "포인트",
+  "phoneNumber": "02-484-8952",
+  "address": "서울 강동구 천호동 354-5 북쪽 코너 점포 1칸",
+  "latitude": "37.542057",
+  "longitude": "127.12439"
+},
+{
+  "number": "41",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "02-483-2288",
+  "address": "서울 강동구 성내동 430-18번지",
+  "latitude": "37.526546",
+  "longitude": "127.134125"
+},
+{
+  "number": "42",
+  "storeName": "삼정그린환경",
+  "phoneNumber": "02-482-6766",
+  "address": "서울 강동구 성내동 428-5번지 오스카상가136호",
+  "latitude": "37.52736",
+  "longitude": "127.135605"
+},
+{
+  "number": "43",
+  "storeName": "복드림복권방",
+  "phoneNumber": "02-428-8828",
+  "address": "서울 강동구 암사동 488-34번지",
+  "latitude": "37.54746",
+  "longitude": "127.13397"
+},
+{
+  "number": "44",
+  "storeName": "행운의집",
+  "phoneNumber": "02-484-1124",
+  "address": "서울 강동구 천호동 549-1",
+  "latitude": "37.540726",
+  "longitude": "127.1283"
+},
+{
+  "number": "45",
+  "storeName": "인생역전",
+  "phoneNumber": "02-3426-5900",
+  "address": "서울 강동구 고덕동 509번지",
+  "latitude": "37.560963",
+  "longitude": "127.155136"
+},
+{
+  "number": "46",
+  "storeName": "NICE",
+  "phoneNumber": "02-483-7254",
+  "address": "서울 강동구 둔촌동 448-2",
+  "latitude": "37.53193",
+  "longitude": "127.14189"
+},
+{
+  "number": "47",
+  "storeName": "복권마을",
+  "phoneNumber": "02-475-7140",
+  "address": "서울 강동구 성내동 408-12",
+  "latitude": "37.533154",
+  "longitude": "127.13165"
+},
+{
+  "number": "48",
+  "storeName": "행복공간",
+  "phoneNumber": "02-483-2143",
+  "address": "서울 강동구 성내동 292-30번지",
+  "latitude": "37.53208",
+  "longitude": "127.12509"
+},
+{
+  "number": "49",
+  "storeName": "굿데이천호",
+  "phoneNumber": "02-472-0239",
+  "address": "서울 강동구 천호동 453-18번지 1층 2호",
+  "latitude": "37.538",
+  "longitude": "127.12701"
+},
+{
+  "number": "50",
+  "storeName": "신화복권방",
+  "phoneNumber": "02-482-9363",
+  "address": "서울 강동구 길동 347-13 15호",
+  "latitude": "37.541016",
+  "longitude": "127.14274"
+},
+{
+  "number": "51",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-482-0539",
+  "address": "서울 강동구 성내동 383-20번지 1층",
+  "latitude": "37.533234",
+  "longitude": "127.13262"
+},
+{
+  "number": "52",
+  "storeName": "씨스페이스 강동현대점",
+  "phoneNumber": "02-487-1768",
+  "address": "서울 강동구 성내동 427-39번지",
+  "latitude": "37.527",
+  "longitude": "127.13319"
+},
+{
+  "number": "53",
+  "storeName": "복권명당",
+  "phoneNumber": "02-484-4011",
+  "address": "서울 강동구 천호동 550-1번지",
+  "latitude": "37.54028",
+  "longitude": "127.12834"
+},
+{
+  "number": "54",
+  "storeName": "강동로또",
+  "phoneNumber": "070-4101-0888",
+  "address": "서울 강동구 상일동 249번지",
+  "latitude": "37.55067",
+  "longitude": "127.17119"
+},
+{
+  "number": "55",
+  "storeName": "가로판매대",
+  "phoneNumber": "02-486-0580",
+  "address": "서울 강동구 천호동 455-8 천호역 3번 출구 앞",
+  "latitude": "37.539505",
+  "longitude": "127.12383"
+},
+{
+  "number": "56",
+  "storeName": "버스표 담배",
+  "phoneNumber": "02-427-3545",
+  "address": "서울 강동구 암사동 504-22번지",
+  "latitude": "37.55349",
+  "longitude": "127.12844"
+},
+{
+  "number": "57",
+  "storeName": "대박슈퍼",
+  "phoneNumber": "",
+  "address": "서울 강동구 천호동 300-7 1층 대박슈퍼",
+  "latitude": "37.544815",
+  "longitude": "127.13172"
+},
+{
+  "number": "58",
+  "storeName": "수현미니수퍼",
+  "phoneNumber": "",
+  "address": "서울 강동구 길동 378-9",
+  "latitude": "37.538094",
+  "longitude": "127.13951"
+},
+{
+  "number": "59",
+  "storeName": "행운폰스토리",
+  "phoneNumber": "02-486-6939",
+  "address": "서울 강동구 천호동 410-188 상가 1층",
+  "latitude": "37.539066",
+  "longitude": "127.12978"
+},
+{
+  "number": "60",
+  "storeName": "복돼지복권방",
+  "phoneNumber": "",
+  "address": "서울 강동구 천호동 421-10 로데오-16호 가판",
+  "latitude": "37.549057",
+  "longitude": "127.13661"
+}
+]

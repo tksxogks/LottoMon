@@ -1,0 +1,226 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(범어사역점)",
+  "phoneNumber": "051-512-4820",
+  "address": "부산 금정구 남산동 21-4번지",
+  "latitude": "35.27164",
+  "longitude": "129.09244"
+},
+{
+  "number": "2",
+  "storeName": "GS25(두실점)",
+  "phoneNumber": "051-513-3511",
+  "address": "부산 금정구 구서동 184-38",
+  "latitude": "35.254944",
+  "longitude": "129.0911"
+},
+{
+  "number": "3",
+  "storeName": "GS25(노포2호점)",
+  "phoneNumber": "051-508-0495",
+  "address": "부산 금정구 노포동 133번지 터미널내1층4호GS25종합터미널2호점",
+  "latitude": "35.283684",
+  "longitude": "129.09637"
+},
+{
+  "number": "4",
+  "storeName": "GS25(노포1호점)",
+  "phoneNumber": "051-508-0293",
+  "address": "부산 금정구 노포동 133",
+  "latitude": "35.283684",
+  "longitude": "129.09637"
+},
+{
+  "number": "5",
+  "storeName": "GS25(부대정문점)",
+  "phoneNumber": "051-512-7333",
+  "address": "부산 금정구 장전동 400-60번지",
+  "latitude": "35.23776",
+  "longitude": "129.08319"
+},
+{
+  "number": "6",
+  "storeName": "GS25남산삼성점",
+  "phoneNumber": "051-515-7852",
+  "address": "부산 금정구 남산동 35-8 상가동 101호~103호",
+  "latitude": "35.261177",
+  "longitude": "129.09325"
+},
+{
+  "number": "7",
+  "storeName": "월드칼라현상소",
+  "phoneNumber": "051-513-4819",
+  "address": "부산 금정구 부곡동 391-14",
+  "latitude": "35.221",
+  "longitude": "129.08757"
+},
+{
+  "number": "8",
+  "storeName": "로또",
+  "phoneNumber": "051-508-6925",
+  "address": "부산 금정구 청룡동 31-7번지 GS25편의점내",
+  "latitude": "35.275436",
+  "longitude": "129.09007"
+},
+{
+  "number": "9",
+  "storeName": "금정복권",
+  "phoneNumber": "051-518-9600",
+  "address": "부산 금정구 부곡동 303-5 자연애 할인마트 내",
+  "latitude": "35.22599",
+  "longitude": "129.09065"
+},
+{
+  "number": "10",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "051-529-5744",
+  "address": "부산 금정구 서동 194-14번지",
+  "latitude": "35.21558",
+  "longitude": "129.10364"
+},
+{
+  "number": "11",
+  "storeName": "행운마트",
+  "phoneNumber": "051-531-9114",
+  "address": "부산 금정구 서동 209-19번지",
+  "latitude": "35.21325",
+  "longitude": "129.10657"
+},
+{
+  "number": "12",
+  "storeName": "로또판매점",
+  "phoneNumber": "051-582-3772",
+  "address": "부산 금정구 장전동 157-33번지",
+  "latitude": "35.238014",
+  "longitude": "129.08601"
+},
+{
+  "number": "13",
+  "storeName": "노다지복권방",
+  "phoneNumber": "051-524-9287",
+  "address": "부산 금정구 금사동 132-7번지",
+  "latitude": "35.219574",
+  "longitude": "129.11101"
+},
+{
+  "number": "14",
+  "storeName": "아이마트",
+  "phoneNumber": "",
+  "address": "부산 금정구 서동 205-13",
+  "latitude": "35.21447",
+  "longitude": "129.10674"
+},
+{
+  "number": "15",
+  "storeName": "대박찬스복권방",
+  "phoneNumber": "051-528-7482",
+  "address": "부산 금정구 서동 302-643번지",
+  "latitude": "35.215603",
+  "longitude": "129.10083"
+},
+{
+  "number": "16",
+  "storeName": "효원당슈퍼",
+  "phoneNumber": "051-583-7727",
+  "address": "부산 금정구 장전동 417-39번지 효원당슈퍼",
+  "latitude": "35.231476",
+  "longitude": "129.0861"
+},
+{
+  "number": "17",
+  "storeName": "신암편의점",
+  "phoneNumber": "051-581-7752",
+  "address": "부산 금정구 남산동 225-13번지",
+  "latitude": "35.262875",
+  "longitude": "129.09224"
+},
+{
+  "number": "18",
+  "storeName": "동양슈퍼",
+  "phoneNumber": "051-518-2760",
+  "address": "부산 금정구 부곡동 338-5번지",
+  "latitude": "35.221996",
+  "longitude": "129.09128"
+},
+{
+  "number": "19",
+  "storeName": "성림슈퍼",
+  "phoneNumber": "",
+  "address": "부산 금정구 장전동 74-12 1층.이마트",
+  "latitude": "35.238033",
+  "longitude": "129.08069"
+},
+{
+  "number": "20",
+  "storeName": "블루25",
+  "phoneNumber": "051-583-9367",
+  "address": "부산 금정구 남산동 332-4",
+  "latitude": "35.269226",
+  "longitude": "129.08885"
+},
+{
+  "number": "21",
+  "storeName": "한아름문구사",
+  "phoneNumber": "051-524-3579",
+  "address": "부산 금정구 서동 122-5",
+  "latitude": "35.21518",
+  "longitude": "129.10724"
+},
+{
+  "number": "22",
+  "storeName": "민사공인중개사사무소",
+  "phoneNumber": "051-516-8530",
+  "address": "부산 금정구 구서동 167-96 민사 부동산",
+  "latitude": "35.256653",
+  "longitude": "129.09027"
+},
+{
+  "number": "23",
+  "storeName": "중앙토탈대리점",
+  "phoneNumber": "051-518-5124",
+  "address": "부산 금정구 구서동 653-20번지 1층",
+  "latitude": "35.258183",
+  "longitude": "129.08673"
+},
+{
+  "number": "24",
+  "storeName": "애니타임",
+  "phoneNumber": "051-528-5540",
+  "address": "부산 금정구 서동 204-13번지",
+  "latitude": "35.21478",
+  "longitude": "129.1061"
+},
+{
+  "number": "25",
+  "storeName": "대박복권방",
+  "phoneNumber": "051-515-1845",
+  "address": "부산 금정구 부곡동 59-1",
+  "latitude": "35.240875",
+  "longitude": "129.09392"
+},
+{
+  "number": "26",
+  "storeName": "훼밀리복권",
+  "phoneNumber": "051-512-0117",
+  "address": "부산 금정구 부곡동 225-55",
+  "latitude": "35.23768",
+  "longitude": "129.09015"
+},
+{
+  "number": "27",
+  "storeName": "씨스페이스(구서제일점)",
+  "phoneNumber": "051-997-4786",
+  "address": "부산 금정구 구서동 471",
+  "latitude": "35.243927",
+  "longitude": "129.08707"
+},
+{
+  "number": "28",
+  "storeName": "상호없음",
+  "phoneNumber": "",
+  "address": "부산 금정구 서동 302-1250 1층 복권방",
+  "latitude": "35.216713",
+  "longitude": "129.09805"
+}
+]

@@ -1,0 +1,696 @@
+{
+  "number": "1",
+  "storeName": "GS25(역삼타운점)",
+  "phoneNumber": "02-564-1025",
+  "address": "서울 강남구 역삼동 779번지 균빌딩1호",
+  "latitude": "37.49639",
+  "longitude": "127.044716"
+},
+{
+  "number": "2",
+  "storeName": "GS25(압구정역점)",
+  "phoneNumber": "02-549-3196",
+  "address": "서울 강남구 신사동 577-12번지 동헌빌딩1층",
+  "latitude": "37.52542",
+  "longitude": "127.02756"
+},
+{
+  "number": "3",
+  "storeName": "GS25(논현영동점)",
+  "phoneNumber": "02-3446-3806",
+  "address": "서울 강남구 논현동 141-7번지 1층코너",
+  "latitude": "37.51002",
+  "longitude": "127.02295"
+},
+{
+  "number": "4",
+  "storeName": "GS25(역삼충현점)",
+  "phoneNumber": "02-562-9698",
+  "address": "서울 강남구 역삼동 660-33",
+  "latitude": "37.505714",
+  "longitude": "127.03773"
+},
+{
+  "number": "5",
+  "storeName": "GS25(역삼대홍점)",
+  "phoneNumber": "02-567-2008",
+  "address": "서울 강남구 역삼동 798-29번지",
+  "latitude": "37.49243",
+  "longitude": "127.03928"
+},
+{
+  "number": "6",
+  "storeName": "GS25(강남나누리점)",
+  "phoneNumber": "000-0000-0000",
+  "address": "서울 강남구 논현동 63-19 1층 GS25강남나누리점",
+  "latitude": "37.520054",
+  "longitude": "127.03367"
+},
+{
+  "number": "7",
+  "storeName": "GS25(논현금옥점)",
+  "phoneNumber": "02-515-1843",
+  "address": "서울 강남구 논현동 56번지",
+  "latitude": "37.512917",
+  "longitude": "127.02503"
+},
+{
+  "number": "8",
+  "storeName": "GS25(논현동현점)",
+  "phoneNumber": "02-516-0245",
+  "address": "서울 강남구 논현동 99-19번지",
+  "latitude": "37.52057",
+  "longitude": "127.03772"
+},
+{
+  "number": "9",
+  "storeName": "GS25(대치중앙점)",
+  "phoneNumber": "02-508-5342",
+  "address": "서울 강남구 대치동 916-40번지 공간쉐르빌빌딩101호",
+  "latitude": "37.500763",
+  "longitude": "127.05736"
+},
+{
+  "number": "10",
+  "storeName": "GS25(압구정신사점)",
+  "phoneNumber": "02-512-2265",
+  "address": "서울 강남구 신사동 588번지",
+  "latitude": "37.53282",
+  "longitude": "127.02803"
+},
+{
+  "number": "11",
+  "storeName": "GS25(로데오점)",
+  "phoneNumber": "02-541-3043",
+  "address": "서울 강남구 신사동 659 GS25 편의점",
+  "latitude": "37.527496",
+  "longitude": "127.03781"
+},
+{
+  "number": "12",
+  "storeName": "GS25(청담삼익점)",
+  "phoneNumber": "02-511-7205",
+  "address": "서울 강남구 청담동 133-6번지 승창빌딩 103,4호",
+  "latitude": "37.520924",
+  "longitude": "127.05761"
+},
+{
+  "number": "13",
+  "storeName": "CU(타워팰리스점)",
+  "phoneNumber": "02-578-7010",
+  "address": "서울 강남구 도곡동 467번지",
+  "latitude": "37.48828",
+  "longitude": "127.05441"
+},
+{
+  "number": "14",
+  "storeName": "GS25(논현동국점)",
+  "phoneNumber": "02-541-6160",
+  "address": "서울 강남구 논현동 37-16번지",
+  "latitude": "37.5146",
+  "longitude": "127.02978"
+},
+{
+  "number": "15",
+  "storeName": "GS25(도곡점)",
+  "phoneNumber": "02-578-9424",
+  "address": "서울 강남구 도곡동 411-16 GS25",
+  "latitude": "37.485703",
+  "longitude": "127.044685"
+},
+{
+  "number": "16",
+  "storeName": "GS25(대치골드점)",
+  "phoneNumber": "02-508-8554",
+  "address": "서울 강남구 대치동 896-52번지",
+  "latitude": "37.504074",
+  "longitude": "127.05362"
+},
+{
+  "number": "17",
+  "storeName": "GS25(논현삼익점)",
+  "phoneNumber": "02-3442-7840",
+  "address": "서울 강남구 논현동 51번지 로뎀빌딩 1층",
+  "latitude": "37.512165",
+  "longitude": "127.02196"
+},
+{
+  "number": "18",
+  "storeName": "로또판매",
+  "phoneNumber": "02-549-9755",
+  "address": "서울 강남구 일원동 645-6 1층 일월마트",
+  "latitude": "37.51217",
+  "longitude": "127.04922"
+},
+{
+  "number": "19",
+  "storeName": "강남자곡로또",
+  "phoneNumber": "02-000-0000",
+  "address": "서울 강남구 자곡동 651 111-2호",
+  "latitude": "37.473675",
+  "longitude": "127.1032"
+},
+{
+  "number": "20",
+  "storeName": "행운로또방(CU양재역점)",
+  "phoneNumber": "070-4211-6109",
+  "address": "서울 강남구 도곡동 953-11 CU편의점",
+  "latitude": "37.485268",
+  "longitude": "127.034386"
+},
+{
+  "number": "21",
+  "storeName": "삼성복권",
+  "phoneNumber": "02-554-8887",
+  "address": "서울 강남구 대치동 957-3 삼성슈퍼",
+  "latitude": "37.51353",
+  "longitude": "127.03153"
+},
+{
+  "number": "22",
+  "storeName": "신사우리가판",
+  "phoneNumber": "02-516-7234",
+  "address": "서울 강남구 신사동 501-2",
+  "latitude": "37.51682",
+  "longitude": "127.02012"
+},
+{
+  "number": "23",
+  "storeName": "버스표판매소",
+  "phoneNumber": "02-542-6220",
+  "address": "서울 강남구 압구정동 426번지 신현대9차 상가1동 출입구 앞",
+  "latitude": "37.52536",
+  "longitude": "127.02436"
+},
+{
+  "number": "24",
+  "storeName": "선릉가판점",
+  "phoneNumber": "02-557-3866",
+  "address": "서울 강남구 역삼동 696-40",
+  "latitude": "37.505684",
+  "longitude": "127.04812"
+},
+{
+  "number": "25",
+  "storeName": "버스표판매소",
+  "phoneNumber": "02-3442-0452",
+  "address": "서울 강남구 신사동 584-3",
+  "latitude": "37.523308",
+  "longitude": "127.02793"
+},
+{
+  "number": "26",
+  "storeName": "가로판매대(구)-3",
+  "phoneNumber": "02-515-2494",
+  "address": "서울 강남구 압구정동 458",
+  "latitude": "37.509403",
+  "longitude": "127.022575"
+},
+{
+  "number": "27",
+  "storeName": "위드미로또판매점",
+  "phoneNumber": "02-563-5552",
+  "address": "서울 강남구 대치동 898-4",
+  "latitude": "37.50202",
+  "longitude": "127.050385"
+},
+{
+  "number": "28",
+  "storeName": "포이로또방",
+  "phoneNumber": "02-572-1044",
+  "address": "서울 강남구 개포동 1218-24 1층",
+  "latitude": "37.4776",
+  "longitude": "127.04817"
+},
+{
+  "number": "29",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-558-4262",
+  "address": "서울 강남구 역삼동 761-2번지",
+  "latitude": "37.496918",
+  "longitude": "127.04636"
+},
+{
+  "number": "30",
+  "storeName": "로또복권",
+  "phoneNumber": "000-0000-0000",
+  "address": "서울 강남구 삼성동 142-3 B동 107호 선릉24",
+  "latitude": "37.516537",
+  "longitude": "127.03832"
+},
+{
+  "number": "31",
+  "storeName": "버스카드충전소",
+  "phoneNumber": "02-563-9955",
+  "address": "서울 강남구 삼성동 170-9 삼성동 덕명빌딩 앞",
+  "latitude": "37.510117",
+  "longitude": "127.06604"
+},
+{
+  "number": "32",
+  "storeName": "교통카드충전소",
+  "phoneNumber": "02-508-2680",
+  "address": "서울 강남구 역삼동 765-9번지",
+  "latitude": "37.49701",
+  "longitude": "127.05222"
+},
+{
+  "number": "33",
+  "storeName": "GS25(대치학여울점)",
+  "phoneNumber": "02-555-8232",
+  "address": "서울 강남구 대치동 994-12번지 1층 101호 GS25대치학여울점",
+  "latitude": "37.497772",
+  "longitude": "127.06863"
+},
+{
+  "number": "34",
+  "storeName": "LOTTO복권",
+  "phoneNumber": "02-541-2852",
+  "address": "서울 강남구 삼성동 112 1층 위드미편의점",
+  "latitude": "37.510098",
+  "longitude": "127.04416"
+},
+{
+  "number": "35",
+  "storeName": "새날",
+  "phoneNumber": "02-579-8409",
+  "address": "서울 강남구 도곡동 425-3",
+  "latitude": "37.482204",
+  "longitude": "127.04354"
+},
+{
+  "number": "36",
+  "storeName": "로또",
+  "phoneNumber": "02-3468-4222",
+  "address": "서울 강남구 대치동 889-13번지 CU대치금강점",
+  "latitude": "37.504517",
+  "longitude": "127.05071"
+},
+{
+  "number": "37",
+  "storeName": "대성복권",
+  "phoneNumber": "02-445-6979",
+  "address": "서울 강남구 세곡동 164-10 164-10",
+  "latitude": "37.463192",
+  "longitude": "127.1073"
+},
+{
+  "number": "38",
+  "storeName": "대박",
+  "phoneNumber": "02-540-3631",
+  "address": "서울 강남구 신사동 528-4번지 화인빌딩1층훼미리마트",
+  "latitude": "37.522957",
+  "longitude": "127.02087"
+},
+{
+  "number": "39",
+  "storeName": "논현보람점",
+  "phoneNumber": "02-511-1431",
+  "address": "서울 강남구 논현동 86-4 1층 미니스탑",
+  "latitude": "37.51522",
+  "longitude": "127.03179"
+},
+{
+  "number": "40",
+  "storeName": "인터뱅세계주류",
+  "phoneNumber": "02-515-8246",
+  "address": "서울 강남구 논현동 211-20",
+  "latitude": "37.51431",
+  "longitude": "127.03491"
+},
+{
+  "number": "41",
+  "storeName": "아셈마트",
+  "phoneNumber": "02-562-9393",
+  "address": "서울 강남구 삼성동 153-29",
+  "latitude": "37.51125",
+  "longitude": "127.05718"
+},
+{
+  "number": "42",
+  "storeName": "우정",
+  "phoneNumber": "02-547-0775",
+  "address": "서울 강남구 신사동 652-3",
+  "latitude": "37.523315",
+  "longitude": "127.03742"
+},
+{
+  "number": "43",
+  "storeName": "베스토아",
+  "phoneNumber": "02-566-0792",
+  "address": "서울 강남구 역삼동 790",
+  "latitude": "37.495007",
+  "longitude": "127.037224"
+},
+{
+  "number": "44",
+  "storeName": "현대마트",
+  "phoneNumber": "02-3411-6524",
+  "address": "서울 강남구 일원동 684-5 101호",
+  "latitude": "37.48987",
+  "longitude": "127.0815"
+},
+{
+  "number": "45",
+  "storeName": "씨유(CU) 삼성로점 로또",
+  "phoneNumber": "02-568-2791",
+  "address": "서울 강남구 삼성동 127 CU 편의점",
+  "latitude": "37.510185",
+  "longitude": "127.05396"
+},
+{
+  "number": "46",
+  "storeName": "씨유역삼에클라트로또판매점",
+  "phoneNumber": "02-566-6851",
+  "address": "서울 강남구 역삼동 736-24 1층 씨유역삼에클라트점",
+  "latitude": "37.517063",
+  "longitude": "127.023865"
+},
+{
+  "number": "47",
+  "storeName": "신영슈퍼",
+  "phoneNumber": "02-459-7870",
+  "address": "서울 강남구 수서동 708번지 삼익아파트상가101호",
+  "latitude": "37.489067",
+  "longitude": "127.101006"
+},
+{
+  "number": "48",
+  "storeName": "삼성마트",
+  "phoneNumber": "02-518-8380",
+  "address": "서울 강남구 삼성동 34-25",
+  "latitude": "37.51257",
+  "longitude": "127.04323"
+},
+{
+  "number": "49",
+  "storeName": "은마로또",
+  "phoneNumber": "02-562-0582",
+  "address": "서울 강남구 대치동 990 건물 1층 105-1호",
+  "latitude": "37.499126",
+  "longitude": "127.06299"
+},
+{
+  "number": "50",
+  "storeName": "마녀샐러드",
+  "phoneNumber": "02-568-8874",
+  "address": "서울 강남구 역삼동 637-36 정일빌딩1층2호",
+  "latitude": "37.5007",
+  "longitude": "127.033394"
+},
+{
+  "number": "51",
+  "storeName": "알파문구",
+  "phoneNumber": "02-557-0096",
+  "address": "서울 강남구 대치동 950-1 송석빌딩1층",
+  "latitude": "37.50689",
+  "longitude": "127.062584"
+},
+{
+  "number": "52",
+  "storeName": "로또판매CU논현SK점",
+  "phoneNumber": "02-3014-9660",
+  "address": "서울 강남구 논현동 241-3 제1층 108호 CU편의점",
+  "latitude": "37.51675",
+  "longitude": "127.040855"
+},
+{
+  "number": "53",
+  "storeName": "보람로또",
+  "phoneNumber": "02-2226-4313",
+  "address": "서울 강남구 율현동 294 102-1호 CU편의점",
+  "latitude": "37.526978",
+  "longitude": "127.03486"
+},
+{
+  "number": "54",
+  "storeName": "역삼근영",
+  "phoneNumber": "02-3443-3989",
+  "address": "서울 강남구 논현동 115-14 베스트올 편의점",
+  "latitude": "37.515865",
+  "longitude": "127.03604"
+},
+{
+  "number": "55",
+  "storeName": "교통카드충전판매소",
+  "phoneNumber": "02-566-0846",
+  "address": "서울 강남구 역삼동 762-1번지 노상판매소",
+  "latitude": "37.49521",
+  "longitude": "127.04739"
+},
+{
+  "number": "56",
+  "storeName": "로또판매",
+  "phoneNumber": "02-3442-0070",
+  "address": "서울 강남구 신사동 550-19 다올 부동산",
+  "latitude": "37.523956",
+  "longitude": "127.02456"
+},
+{
+  "number": "57",
+  "storeName": "청담역 로또",
+  "phoneNumber": "02-544-8183",
+  "address": "서울 강남구 삼성동 20-4 101호 CU편의점",
+  "latitude": "37.516037",
+  "longitude": "127.050316"
+},
+{
+  "number": "58",
+  "storeName": "논현11호점",
+  "phoneNumber": "02-512-5650",
+  "address": "서울 강남구 청담동 5 CU 편의점",
+  "latitude": "37.523594",
+  "longitude": "127.04507"
+},
+{
+  "number": "59",
+  "storeName": "조은로또",
+  "phoneNumber": "02-3445-3993",
+  "address": "서울 강남구 청담동 50-7 1층",
+  "latitude": "37.523987",
+  "longitude": "127.04924"
+},
+{
+  "number": "60",
+  "storeName": "가츠몽 학동역점",
+  "phoneNumber": "02-545-4654",
+  "address": "서울 강남구 논현동 58-2",
+  "latitude": "37.513824",
+  "longitude": "127.02897"
+},
+{
+  "number": "61",
+  "storeName": "광림마트",
+  "phoneNumber": "02-562-9192",
+  "address": "서울 강남구 역삼동 788-35",
+  "latitude": "37.493076",
+  "longitude": "127.0421"
+},
+{
+  "number": "62",
+  "storeName": "달랑슈퍼",
+  "phoneNumber": "02-508-8046",
+  "address": "서울 강남구 대치동 955-1",
+  "latitude": "37.505264",
+  "longitude": "127.0595"
+},
+{
+  "number": "63",
+  "storeName": "미소마트",
+  "phoneNumber": "02-557-3112",
+  "address": "서울 강남구 대치동 891-42 1층",
+  "latitude": "37.505592",
+  "longitude": "127.05522"
+},
+{
+  "number": "64",
+  "storeName": "5분미니식품",
+  "phoneNumber": "02-515-0866",
+  "address": "서울 강남구 논현동 213-2",
+  "latitude": "37.513557",
+  "longitude": "127.03234"
+},
+{
+  "number": "65",
+  "storeName": "만물",
+  "phoneNumber": "02-554-3636",
+  "address": "서울 강남구 역삼동 674",
+  "latitude": "37.50492",
+  "longitude": "127.03964"
+},
+{
+  "number": "66",
+  "storeName": "파랑새식품",
+  "phoneNumber": "02-546-3230",
+  "address": "서울 강남구 신사동 563-1",
+  "latitude": "37.519764",
+  "longitude": "127.02629"
+},
+{
+  "number": "67",
+  "storeName": "광림마트",
+  "phoneNumber": "02-517-5788",
+  "address": "서울 강남구 논현동 7-10",
+  "latitude": "37.518597",
+  "longitude": "127.027466"
+},
+{
+  "number": "68",
+  "storeName": "진흥슈퍼",
+  "phoneNumber": "02-546-9053",
+  "address": "서울 강남구 논현동 61-19",
+  "latitude": "37.5198",
+  "longitude": "127.030914"
+},
+{
+  "number": "69",
+  "storeName": "현대슈퍼",
+  "phoneNumber": "02-564-6117",
+  "address": "서울 강남구 역삼동 746-11",
+  "latitude": "37.496357",
+  "longitude": "127.03825"
+},
+{
+  "number": "70",
+  "storeName": "형제식품",
+  "phoneNumber": "02-548-2706",
+  "address": "서울 강남구 논현동 211",
+  "latitude": "37.5142",
+  "longitude": "127.03454"
+},
+{
+  "number": "71",
+  "storeName": "티켓코리아",
+  "phoneNumber": "02-3452-8118",
+  "address": "서울 강남구 논현동 236-11 1층 당첨의 명당",
+  "latitude": "37.497543",
+  "longitude": "127.05387"
+},
+{
+  "number": "72",
+  "storeName": "바이복",
+  "phoneNumber": "02-445-5597",
+  "address": "서울 강남구 일원동 683-18",
+  "latitude": "37.491325",
+  "longitude": "127.0823"
+},
+{
+  "number": "73",
+  "storeName": "로또복권대치점",
+  "phoneNumber": "02-451-3638",
+  "address": "서울 강남구 개포동 12-4번지 석탑프라자1층",
+  "latitude": "37.49262",
+  "longitude": "127.07557"
+},
+{
+  "number": "74",
+  "storeName": "강하식품",
+  "phoneNumber": "02-562-8472",
+  "address": "서울 강남구 역삼동 640-21",
+  "latitude": "37.502384",
+  "longitude": "127.03503"
+},
+{
+  "number": "75",
+  "storeName": "종합가판점",
+  "phoneNumber": "02-538-7725",
+  "address": "서울 강남구 역삼동 832-5번지",
+  "latitude": "37.49211",
+  "longitude": "127.03094"
+},
+{
+  "number": "76",
+  "storeName": "신성복권",
+  "phoneNumber": "02-512-5515",
+  "address": "서울 강남구 청담동 76-6",
+  "latitude": "37.519142",
+  "longitude": "127.05077"
+},
+{
+  "number": "77",
+  "storeName": "강남상회",
+  "phoneNumber": "02-3448-3500",
+  "address": "서울 강남구 논현동 192-19 지층 1호 CU 편의점",
+  "latitude": "37.50746",
+  "longitude": "127.033394"
+},
+{
+  "number": "78",
+  "storeName": "예스우리들의편의점",
+  "phoneNumber": "02-566-9535",
+  "address": "서울 강남구 개포동 1238 1층 이마트 24",
+  "latitude": "37.478172",
+  "longitude": "127.04498"
+},
+{
+  "number": "79",
+  "storeName": "로또복권방",
+  "phoneNumber": "02-3444-7240",
+  "address": "서울 강남구 논현동 169 103호",
+  "latitude": "37.508877",
+  "longitude": "127.02706"
+},
+{
+  "number": "80",
+  "storeName": "프로토 포이점",
+  "phoneNumber": "02-578-9377",
+  "address": "서울 강남구 개포동 1194-7 태양빌딩103호",
+  "latitude": "37.474205",
+  "longitude": "127.04855"
+},
+{
+  "number": "81",
+  "storeName": "GS25(논현동우점)",
+  "phoneNumber": "02-514-5999",
+  "address": "서울 강남구 논현동 232-5번지",
+  "latitude": "37.509167",
+  "longitude": "127.03645"
+},
+{
+  "number": "82",
+  "storeName": "GS25(힐탑점)",
+  "phoneNumber": "02-3446-2555",
+  "address": "서울 강남구 논현동 216-10번지",
+  "latitude": "37.510887",
+  "longitude": "127.03251"
+},
+{
+  "number": "83",
+  "storeName": "GS25(역삼로점)",
+  "phoneNumber": "02-2051-4211",
+  "address": "서울 강남구 역삼동 831-11번지 서울빌딩 1층",
+  "latitude": "37.49336",
+  "longitude": "127.03042"
+},
+{
+  "number": "84",
+  "storeName": "GS25(삼성역점)",
+  "phoneNumber": "",
+  "address": "서울 강남구 삼성동 168번지",
+  "latitude": "37.510498",
+  "longitude": "127.06284"
+},
+{
+  "number": "85",
+  "storeName": "GS25(강남YBM점)",
+  "phoneNumber": "02-552-8151",
+  "address": "서울 강남구 역삼동 818-14",
+  "latitude": "37.49916",
+  "longitude": "127.02819"
+},
+{
+  "number": "86",
+  "storeName": "GS25(청담중앙점)",
+  "phoneNumber": "02-543-5333",
+  "address": "서울 강남구 청담동 21-9번지",
+  "latitude": "37.52261",
+  "longitude": "127.04217"
+},
+{
+  "number": "87",
+  "storeName": "선릉로또명당",
+  "phoneNumber": "",
+  "address": "서울 강남구 역삼동 703-8 1층 CU편의점",
+  "latitude": "37.504227",
+  "longitude": "127.04453"
+},

@@ -1,0 +1,338 @@
+[
+{
+  "number": "1",
+  "storeName": "대박찬스",
+  "phoneNumber": "061-651-7060",
+  "address": "전남 여수시 문수동 81-3번지",
+  "latitude": "34.758236",
+  "longitude": "127.71026"
+},
+{
+  "number": "2",
+  "storeName": "노다지복권방",
+  "phoneNumber": "061-643-3233",
+  "address": "전남 여수시 봉산동 274-4번지",
+  "latitude": "34.732014",
+  "longitude": "127.72236"
+},
+{
+  "number": "3",
+  "storeName": "일등로또복권점",
+  "phoneNumber": "061-652-3195",
+  "address": "전남 여수시 신월동 67번지 DC마트 신월점내",
+  "latitude": "34.72423",
+  "longitude": "127.70816"
+},
+{
+  "number": "4",
+  "storeName": "엠에스로또",
+  "phoneNumber": "061-641-4842",
+  "address": "전남 여수시 돌산읍 우두리 1030-3번지 미니스톱 내",
+  "latitude": "34.720444",
+  "longitude": "127.75077"
+},
+{
+  "number": "5",
+  "storeName": "우리로또복권방",
+  "phoneNumber": "061-686-0607",
+  "address": "전남 여수시 선원동 1247-14번지",
+  "latitude": "34.772774",
+  "longitude": "127.65183"
+},
+{
+  "number": "6",
+  "storeName": "로또GS공단점",
+  "phoneNumber": "061-681-3235",
+  "address": "전남 여수시 봉계동 457-1번지 세븐일레븐편의점 내",
+  "latitude": "34.787975",
+  "longitude": "127.66412"
+},
+{
+  "number": "7",
+  "storeName": "복권천국",
+  "phoneNumber": "061-685-5844",
+  "address": "전남 여수시 신기동 139번지 부영아파트상가4동1-2호",
+  "latitude": "34.757668",
+  "longitude": "127.66758"
+},
+{
+  "number": "8",
+  "storeName": "복권천지",
+  "phoneNumber": "061-681-5220",
+  "address": "전남 여수시 신기동 73-1번지",
+  "latitude": "34.761204",
+  "longitude": "127.67329"
+},
+{
+  "number": "9",
+  "storeName": "로또복권맥",
+  "phoneNumber": "061-652-1281",
+  "address": "전남 여수시 여서동 215-6 CU편의점내",
+  "latitude": "34.753345",
+  "longitude": "127.7045"
+},
+{
+  "number": "10",
+  "storeName": "나이스로또복권",
+  "phoneNumber": "061-663-3755",
+  "address": "전남 여수시 종화동 580번지",
+  "latitude": "34.739666",
+  "longitude": "127.74519"
+},
+{
+  "number": "11",
+  "storeName": "행운로또",
+  "phoneNumber": "061-692-5060",
+  "address": "전남 여수시 소라면 죽림리 1158-3 cu죽림대로점",
+  "latitude": "34.76494",
+  "longitude": "127.63809"
+},
+{
+  "number": "12",
+  "storeName": "여수동서상사",
+  "phoneNumber": "061-643-6645",
+  "address": "전남 여수시 국동 655번지 대영마트내",
+  "latitude": "34.7342",
+  "longitude": "127.719154"
+},
+{
+  "number": "13",
+  "storeName": "DC마트국동점",
+  "phoneNumber": "061-654-1995",
+  "address": "전남 여수시 국동 682 DC마트국동점내",
+  "latitude": "34.767357",
+  "longitude": "127.7084"
+},
+{
+  "number": "14",
+  "storeName": "서부슈퍼",
+  "phoneNumber": "061-642-4716",
+  "address": "전남 여수시 서교동 280-55번지",
+  "latitude": "34.741467",
+  "longitude": "127.72818"
+},
+{
+  "number": "15",
+  "storeName": "화이트마트",
+  "phoneNumber": "061-664-5870",
+  "address": "전남 여수시 공화동 1064번지",
+  "latitude": "34.744675",
+  "longitude": "127.742065"
+},
+{
+  "number": "16",
+  "storeName": "에이스로또",
+  "phoneNumber": "061-652-5848",
+  "address": "전남 여수시 여서동 490-3번지 참마트내",
+  "latitude": "34.74813",
+  "longitude": "127.69864"
+},
+{
+  "number": "17",
+  "storeName": "금진슈퍼",
+  "phoneNumber": "061-642-4564",
+  "address": "전남 여수시 서교동 464번지",
+  "latitude": "34.741398",
+  "longitude": "127.72768"
+},
+{
+  "number": "18",
+  "storeName": "큐마트복권",
+  "phoneNumber": "061-666-1257",
+  "address": "전남 여수시 덕충동 1747-1",
+  "latitude": "34.75367",
+  "longitude": "127.737434"
+},
+{
+  "number": "19",
+  "storeName": "DC마트미평점",
+  "phoneNumber": "061-653-6969",
+  "address": "전남 여수시 미평동 255-11 DC마트미평점내",
+  "latitude": "34.75747",
+  "longitude": "127.70925"
+},
+{
+  "number": "20",
+  "storeName": "제이스테이션",
+  "phoneNumber": "061-653-8875",
+  "address": "전남 여수시 문수동 123-5",
+  "latitude": "34.753864",
+  "longitude": "127.70323"
+},
+{
+  "number": "21",
+  "storeName": "비디오테크편의점",
+  "phoneNumber": "061-652-8622",
+  "address": "전남 여수시 신기동 12-23 세븐일레븐여수신기점내",
+  "latitude": "34.7637",
+  "longitude": "127.67681"
+},
+{
+  "number": "22",
+  "storeName": "대성전자",
+  "phoneNumber": "061-663-2450",
+  "address": "전남 여수시 충무동 541번지",
+  "latitude": "34.740726",
+  "longitude": "127.73059"
+},
+{
+  "number": "23",
+  "storeName": "황금알",
+  "phoneNumber": "061-654-0069",
+  "address": "전남 여수시 문수동 191 문수할인마트내",
+  "latitude": "34.750546",
+  "longitude": "127.69935"
+},
+{
+  "number": "24",
+  "storeName": "복권왕국",
+  "phoneNumber": "061-691-8457",
+  "address": "전남 여수시 선원동 1268-1",
+  "latitude": "34.759342",
+  "longitude": "127.66802"
+},
+{
+  "number": "25",
+  "storeName": "복권나라",
+  "phoneNumber": "061-666-9303",
+  "address": "전남 여수시 교동 448-2번지 1층",
+  "latitude": "34.73992",
+  "longitude": "127.734375"
+},
+{
+  "number": "26",
+  "storeName": "학동복권나라",
+  "phoneNumber": "061-691-7740",
+  "address": "전남 여수시 학동 69-2번지",
+  "latitude": "34.763557",
+  "longitude": "127.6635"
+},
+{
+  "number": "27",
+  "storeName": "복권왕국",
+  "phoneNumber": "061-663-2525",
+  "address": "전남 여수시 교동 626-2번지",
+  "latitude": "34.74016",
+  "longitude": "127.73028"
+},
+{
+  "number": "28",
+  "storeName": "로또카페 안산점",
+  "phoneNumber": "",
+  "address": "전남 여수시 소호동 358-1 1층",
+  "latitude": "34.760693",
+  "longitude": "127.64707"
+},
+{
+  "number": "29",
+  "storeName": "오늘또로또점",
+  "phoneNumber": "061-681-1896",
+  "address": "전남 여수시 둔덕동 586-34",
+  "latitude": "34.82171",
+  "longitude": "127.64062"
+},
+{
+  "number": "30",
+  "storeName": "삼덕복권",
+  "phoneNumber": "061-692-3235",
+  "address": "전남 여수시 봉계동 33-8",
+  "latitude": "34.78364",
+  "longitude": "127.694756"
+},
+{
+  "number": "31",
+  "storeName": "DC백화점거북점",
+  "phoneNumber": "061-691-2844",
+  "address": "전남 여수시 학동 54 상가 1층 101호",
+  "latitude": "34.76621",
+  "longitude": "127.66006"
+},
+{
+  "number": "32",
+  "storeName": "일레븐마트무선점",
+  "phoneNumber": "061-685-9797",
+  "address": "전남 여수시 화장동 871-3번지",
+  "latitude": "34.773876",
+  "longitude": "127.63982"
+},
+{
+  "number": "33",
+  "storeName": "글라스바바안경",
+  "phoneNumber": "061-685-8254",
+  "address": "전남 여수시 학동 69-7 1층 안경점",
+  "latitude": "34.762043",
+  "longitude": "127.66915"
+},
+{
+  "number": "34",
+  "storeName": "천하명당",
+  "phoneNumber": "061-692-0411",
+  "address": "전남 여수시 신기동 128-5번지",
+  "latitude": "34.757187",
+  "longitude": "127.67406"
+},
+{
+  "number": "35",
+  "storeName": "일등로또",
+  "phoneNumber": "061-653-8813",
+  "address": "전남 여수시 여서동 208번지 이마트24 편의점내",
+  "latitude": "34.7518",
+  "longitude": "127.70182"
+},
+{
+  "number": "36",
+  "storeName": "케이복권방",
+  "phoneNumber": "061-651-7944",
+  "address": "전남 여수시 둔덕동 504-5번지 거기마트 내",
+  "latitude": "34.76696",
+  "longitude": "127.701836"
+},
+{
+  "number": "37",
+  "storeName": "화장편의점",
+  "phoneNumber": "",
+  "address": "전남 여수시 화장동 773-4번지",
+  "latitude": "34.771935",
+  "longitude": "127.64219"
+},
+{
+  "number": "38",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "전남 여수시 학동 206-6 전남 여수시 시청서1길 54",
+  "latitude": "34.75726",
+  "longitude": "127.65991"
+},
+{
+  "number": "39",
+  "storeName": "큐마트학동점로또",
+  "phoneNumber": "061-684-5385",
+  "address": "전남 여수시 학동 58-20 큐마트내",
+  "latitude": "34.761944",
+  "longitude": "127.65651"
+},
+{
+  "number": "40",
+  "storeName": "소라로또",
+  "phoneNumber": "061-684-0026",
+  "address": "전남 여수시 소라면 대포리 626 세븐일레븐 여수소라휴게점내",
+  "latitude": "34.8185",
+  "longitude": "127.62198"
+},
+{
+  "number": "41",
+  "storeName": "동남로또복권방",
+  "phoneNumber": "061-662-5227",
+  "address": "전남 여수시 중앙동 741",
+  "latitude": "34.740486",
+  "longitude": "127.73518"
+},
+{
+  "number": "42",
+  "storeName": "여수로또복권판매점",
+  "phoneNumber": "",
+  "address": "전남 여수시 문수동 471-2",
+  "latitude": "34.754795",
+  "longitude": "127.69453"
+}
+]

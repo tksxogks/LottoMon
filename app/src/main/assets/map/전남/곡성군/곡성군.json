@@ -1,0 +1,18 @@
+[
+{
+  "number": "1",
+  "storeName": "삼천리로또",
+  "phoneNumber": "061-362-1144",
+  "address": "전남 곡성군 곡성읍 읍내리 250-8번지 편의점 내",
+  "latitude": "35.2798",
+  "longitude": "127.29663"
+},
+{
+  "number": "2",
+  "storeName": "홈런이래",
+  "phoneNumber": "061-363-5423",
+  "address": "전남 곡성군 옥과면 리문리 409-3",
+  "latitude": "35.27485",
+  "longitude": "127.13636"
+}
+]

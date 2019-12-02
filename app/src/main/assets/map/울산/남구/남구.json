@@ -1,0 +1,418 @@
+[
+{
+  "number": "1",
+  "storeName": "으뜸우리들복권방",
+  "phoneNumber": "052-223-7122",
+  "address": "울산 남구 무거동 258-1",
+  "latitude": "35.538982",
+  "longitude": "129.25679"
+},
+{
+  "number": "2",
+  "storeName": "로또명당",
+  "phoneNumber": "052-256-1683",
+  "address": "울산 남구 무거동 584-17 106호",
+  "latitude": "35.53598",
+  "longitude": "129.29967"
+},
+{
+  "number": "3",
+  "storeName": "복권백화점",
+  "phoneNumber": "052-256-1971",
+  "address": "울산 남구 신정동 480-11번지",
+  "latitude": "35.544968",
+  "longitude": "129.31096"
+},
+{
+  "number": "4",
+  "storeName": "로또토토",
+  "phoneNumber": "052-258-9919",
+  "address": "울산 남구 삼산동 1479-5번지 1층104호",
+  "latitude": "35.538948",
+  "longitude": "129.33714"
+},
+{
+  "number": "5",
+  "storeName": "복권백화점",
+  "phoneNumber": "052-223-6771",
+  "address": "울산 남구 무거동 1168-4번지",
+  "latitude": "35.549522",
+  "longitude": "129.27274"
+},
+{
+  "number": "6",
+  "storeName": "달동복권점",
+  "phoneNumber": "052-258-5490",
+  "address": "울산 남구 달동 592-1번지 상가 101호",
+  "latitude": "35.53705",
+  "longitude": "129.32384"
+},
+{
+  "number": "7",
+  "storeName": "LOTTO25",
+  "phoneNumber": "052-272-3999",
+  "address": "울산 남구 신정동 1834-1 111호",
+  "latitude": "35.53049",
+  "longitude": "129.31462"
+},
+{
+  "number": "8",
+  "storeName": "모닝마트",
+  "phoneNumber": "052-274-0384",
+  "address": "울산 남구 달동 567-4번지",
+  "latitude": "35.541035",
+  "longitude": "129.3257"
+},
+{
+  "number": "9",
+  "storeName": "이마트24울산삼산본동점",
+  "phoneNumber": "052-256-1225",
+  "address": "울산 남구 삼산동 166-8번지",
+  "latitude": "35.542732",
+  "longitude": "129.35352"
+},
+{
+  "number": "10",
+  "storeName": "우리들밀알점",
+  "phoneNumber": "052-268-0089",
+  "address": "울산 남구 신정동 662-11번지",
+  "latitude": "35.53427",
+  "longitude": "129.31348"
+},
+{
+  "number": "11",
+  "storeName": "보람복권방",
+  "phoneNumber": "052-269-3326",
+  "address": "울산 남구 삼산동 1567-6 우리들보람점내",
+  "latitude": "35.54176",
+  "longitude": "129.34163"
+},
+{
+  "number": "12",
+  "storeName": "선암복권(로또)",
+  "phoneNumber": "052-267-3638",
+  "address": "울산 남구 삼산동 1617-1번지 위드미편의점",
+  "latitude": "35.53769",
+  "longitude": "129.34029"
+},
+{
+  "number": "13",
+  "storeName": "우리들공업탑점",
+  "phoneNumber": "052-258-1909",
+  "address": "울산 남구 신정동 1233-3번지",
+  "latitude": "35.532135",
+  "longitude": "129.30962"
+},
+{
+  "number": "14",
+  "storeName": "썬빌리지신정점",
+  "phoneNumber": "052-260-5785",
+  "address": "울산 남구 신정동 455-27번지",
+  "latitude": "35.546833",
+  "longitude": "129.30971"
+},
+{
+  "number": "15",
+  "storeName": "수암완구",
+  "phoneNumber": "052-275-6832",
+  "address": "울산 남구 신정동 853-24번지",
+  "latitude": "35.52808",
+  "longitude": "129.3202"
+},
+{
+  "number": "16",
+  "storeName": "이마트편의점",
+  "phoneNumber": "052-227-7110",
+  "address": "울산 남구 달동 621-5 이마트24울산동평점",
+  "latitude": "35.54575",
+  "longitude": "129.30699"
+},
+{
+  "number": "17",
+  "storeName": "초이스복권방",
+  "phoneNumber": "052-260-8922",
+  "address": "울산 남구 삼산동 215-12 위드미편의점",
+  "latitude": "35.541077",
+  "longitude": "129.35074"
+},
+{
+  "number": "18",
+  "storeName": "골든복권방",
+  "phoneNumber": "",
+  "address": "울산 남구 신정2동 1644-112",
+  "latitude": "35.53578",
+  "longitude": "129.30284"
+},
+{
+  "number": "19",
+  "storeName": "우리들복권방",
+  "phoneNumber": "052-256-1909",
+  "address": "울산 남구 신정동 1108-3번지 우리들마트 내",
+  "latitude": "35.53106",
+  "longitude": "129.30562"
+},
+{
+  "number": "20",
+  "storeName": "UBC복권방",
+  "phoneNumber": "052-266-2715",
+  "address": "울산 남구 신정동 1217-18번지",
+  "latitude": "35.533607",
+  "longitude": "129.30724"
+},
+{
+  "number": "21",
+  "storeName": "우리들행운점",
+  "phoneNumber": "052-297-5353",
+  "address": "울산 남구 신정동 1334-2 우리들행운점내",
+  "latitude": "35.53476",
+  "longitude": "129.29388"
+},
+{
+  "number": "22",
+  "storeName": "공원복권방",
+  "phoneNumber": "052-257-0082",
+  "address": "울산 남구 옥동 143-11번지 위드미편의점",
+  "latitude": "35.531994",
+  "longitude": "129.29399"
+},
+{
+  "number": "23",
+  "storeName": "선봉로또",
+  "phoneNumber": "070-8202-3428",
+  "address": "울산 남구 삼산동 1468-6번지 CU판매점 내",
+  "latitude": "35.543736",
+  "longitude": "129.33269"
+},
+{
+  "number": "24",
+  "storeName": "태암로또",
+  "phoneNumber": "052-271-8249",
+  "address": "울산 남구 야음동 594-35 위드미편의점",
+  "latitude": "35.5296",
+  "longitude": "129.32552"
+},
+{
+  "number": "25",
+  "storeName": "영화유통(1등복권방)",
+  "phoneNumber": "052-269-9851",
+  "address": "울산 남구 달동 758번지 삼성아파트 상가 204-101",
+  "latitude": "35.532932",
+  "longitude": "129.32233"
+},
+{
+  "number": "26",
+  "storeName": "대박명당",
+  "phoneNumber": "052-267-3185",
+  "address": "울산 남구 달동 886-2번지",
+  "latitude": "35.534885",
+  "longitude": "129.31444"
+},
+{
+  "number": "27",
+  "storeName": "금화복권방",
+  "phoneNumber": "052-276-4342",
+  "address": "울산 남구 신정동 239번지",
+  "latitude": "35.54506",
+  "longitude": "129.31802"
+},
+{
+  "number": "28",
+  "storeName": "한우리마트",
+  "phoneNumber": "052-275-0151",
+  "address": "울산 남구 선암동 567-5",
+  "latitude": "35.534927",
+  "longitude": "129.34682"
+},
+{
+  "number": "29",
+  "storeName": "모닝마트삼산본점",
+  "phoneNumber": "052-260-7273",
+  "address": "울산 남구 삼산동 210-6",
+  "latitude": "35.541138",
+  "longitude": "129.34578"
+},
+{
+  "number": "30",
+  "storeName": "모닝마트",
+  "phoneNumber": "052-268-4759",
+  "address": "울산 남구 장생포동 170번지",
+  "latitude": "35.50197",
+  "longitude": "129.37468"
+},
+{
+  "number": "31",
+  "storeName": "윈윈로또",
+  "phoneNumber": "052-258-8398",
+  "address": "울산 남구 신정동 1228-7",
+  "latitude": "35.519978",
+  "longitude": "129.33864"
+},
+{
+  "number": "32",
+  "storeName": "CU(옥동점)",
+  "phoneNumber": "052-260-3295",
+  "address": "울산 남구 옥동 591-1번지",
+  "latitude": "35.535755",
+  "longitude": "129.28812"
+},
+{
+  "number": "33",
+  "storeName": "CU(달동초이스점)",
+  "phoneNumber": "052-271-6764",
+  "address": "울산 남구 달동 1309-1번지",
+  "latitude": "35.535603",
+  "longitude": "129.33925"
+},
+{
+  "number": "34",
+  "storeName": "GS25(울산대일점)",
+  "phoneNumber": "052-271-5433",
+  "address": "울산 남구 달동 1360-1번지",
+  "latitude": "35.53851",
+  "longitude": "129.33022"
+},
+{
+  "number": "35",
+  "storeName": "대박로또",
+  "phoneNumber": "052-266-2166",
+  "address": "울산 남구 달동 1366-13 위드미24천사점내",
+  "latitude": "35.53912",
+  "longitude": "129.33351"
+},
+{
+  "number": "36",
+  "storeName": "일공공일안경시청점",
+  "phoneNumber": "052-269-1002",
+  "address": "울산 남구 신정동 582-3번지",
+  "latitude": "35.53981",
+  "longitude": "129.31253"
+},
+{
+  "number": "37",
+  "storeName": "노다지복권방",
+  "phoneNumber": "052-272-3390",
+  "address": "울산 남구 선암동 680-1번지 우주상가3호",
+  "latitude": "35.519444",
+  "longitude": "129.31203"
+},
+{
+  "number": "38",
+  "storeName": "이마트24 울산목화점",
+  "phoneNumber": "052-271-3351",
+  "address": "울산 남구 달동 1266-8번지",
+  "latitude": "35.535824",
+  "longitude": "129.33195"
+},
+{
+  "number": "39",
+  "storeName": "로또25시",
+  "phoneNumber": "052-274-2892",
+  "address": "울산 남구 야음동 384-23번지",
+  "latitude": "35.521244",
+  "longitude": "129.33582"
+},
+{
+  "number": "40",
+  "storeName": "로또복권",
+  "phoneNumber": "052-265-6464",
+  "address": "울산 남구 달동 1305-16번지",
+  "latitude": "35.53374",
+  "longitude": "129.33795"
+},
+{
+  "number": "41",
+  "storeName": "씨엔마트",
+  "phoneNumber": "052-276-0832",
+  "address": "울산 남구 삼산동 1377-107번지",
+  "latitude": "35.548107",
+  "longitude": "129.32399"
+},
+{
+  "number": "42",
+  "storeName": "울트라복권방",
+  "phoneNumber": "052-258-6663",
+  "address": "울산 남구 야음동 828-18번지 김밥천국 내",
+  "latitude": "35.52334",
+  "longitude": "129.33063"
+},
+{
+  "number": "43",
+  "storeName": "조은복권방",
+  "phoneNumber": "052-257-9868",
+  "address": "울산 남구 야음동 698-1번지",
+  "latitude": "35.527645",
+  "longitude": "129.32076"
+},
+{
+  "number": "44",
+  "storeName": "소문난편의점",
+  "phoneNumber": "",
+  "address": "울산 남구 신정동 1235-5 나래편의점",
+  "latitude": "35.535366",
+  "longitude": "129.3418"
+},
+{
+  "number": "45",
+  "storeName": "또로또",
+  "phoneNumber": "052-257-6980",
+  "address": "울산 남구 달동 579-8",
+  "latitude": "35.539703",
+  "longitude": "129.32617"
+},
+{
+  "number": "46",
+  "storeName": "명당로또",
+  "phoneNumber": "052-276-8379",
+  "address": "울산 남구 신정동 490-10",
+  "latitude": "35.52964",
+  "longitude": "129.31439"
+},
+{
+  "number": "47",
+  "storeName": "모닝마트로또점",
+  "phoneNumber": "",
+  "address": "울산 남구 달동 860-5",
+  "latitude": "35.535103",
+  "longitude": "129.31758"
+},
+{
+  "number": "48",
+  "storeName": "삼산현대 로또판매",
+  "phoneNumber": "052-264-7110",
+  "address": "울산 남구 삼산동 1506-10번지",
+  "latitude": "35.546906",
+  "longitude": "129.32939"
+},
+{
+  "number": "49",
+  "storeName": "부자로또",
+  "phoneNumber": "",
+  "address": "울산 남구 삼산동 1508-9",
+  "latitude": "35.53298",
+  "longitude": "129.30928"
+},
+{
+  "number": "50",
+  "storeName": "민컴퓨터",
+  "phoneNumber": "",
+  "address": "울산 남구 야음동 345-14",
+  "latitude": "35.537174",
+  "longitude": "129.33044"
+},
+{
+  "number": "51",
+  "storeName": "GS25(울산무거점)",
+  "phoneNumber": "052-223-9210",
+  "address": "울산 남구 무거동 1526-13",
+  "latitude": "35.55062",
+  "longitude": "129.26077"
+},
+{
+  "number": "52",
+  "storeName": "우신유통",
+  "phoneNumber": "052-277-2460",
+  "address": "울산 남구 삼호동 1159-5",
+  "latitude": "35.552544",
+  "longitude": "129.2742"
+}
+]

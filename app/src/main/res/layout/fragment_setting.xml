@@ -10,14 +10,10 @@
         android:layout_height="?attr/actionBarSize"
         android:theme="@style/AppTheme.Toolbar">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="로또몬"
-            android:textSize="24sp"
-            android:textStyle="bold"
-            android:textColor="@color/white"
-            android:fontFamily="@font/dovemayo"
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="45dp"
+            android:src="@drawable/title"
             android:layout_gravity="center"/>
     </androidx.appcompat.widget.Toolbar>
 

@@ -1,0 +1,74 @@
+[
+{
+  "number": "1",
+  "storeName": "행운복권",
+  "phoneNumber": "055-352-8871",
+  "address": "경남 밀양시 가곡동 590-37번지 1층 2호",
+  "latitude": "35.474384",
+  "longitude": "128.76709"
+},
+{
+  "number": "2",
+  "storeName": "복권명당",
+  "phoneNumber": "055-354-1833",
+  "address": "경남 밀양시 내이동 1535-18 1층 미르통신",
+  "latitude": "35.504173",
+  "longitude": "128.74283"
+},
+{
+  "number": "3",
+  "storeName": "상남로또방",
+  "phoneNumber": "055-355-9678",
+  "address": "경남 밀양시 상남면 기산리 1475-4번지",
+  "latitude": "35.45837",
+  "longitude": "128.75133"
+},
+{
+  "number": "4",
+  "storeName": "수산로또점",
+  "phoneNumber": "055-391-6600",
+  "address": "경남 밀양시 하남읍 양동리 611-22번지",
+  "latitude": "35.3751",
+  "longitude": "128.71648"
+},
+{
+  "number": "5",
+  "storeName": "CU(밀양역광장점)",
+  "phoneNumber": "055-354-8978",
+  "address": "경남 밀양시 가곡동 447-1번지",
+  "latitude": "35.47331",
+  "longitude": "128.77174"
+},
+{
+  "number": "6",
+  "storeName": "진빈레코드",
+  "phoneNumber": "055-353-1778",
+  "address": "경남 밀양시 내이동 1187-1번지",
+  "latitude": "35.498333",
+  "longitude": "128.74396"
+},
+{
+  "number": "7",
+  "storeName": "GS25(밀양점)",
+  "phoneNumber": "055-353-9415",
+  "address": "경남 밀양시 내이동 908번지",
+  "latitude": "35.492924",
+  "longitude": "128.75105"
+},
+{
+  "number": "8",
+  "storeName": "코리아로또복권",
+  "phoneNumber": "055-353-8387",
+  "address": "경남 밀양시 가곡동 649-1 GS편의점",
+  "latitude": "35.47836",
+  "longitude": "128.76431"
+},
+{
+  "number": "9",
+  "storeName": "하늘통신",
+  "phoneNumber": "055-356-1133",
+  "address": "경남 밀양시 삼문동 111-86 1층 하늘통신",
+  "latitude": "35.48352",
+  "longitude": "128.75351"
+}
+]

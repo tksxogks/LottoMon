@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(영도대평점)",
+  "phoneNumber": "051-412-4490",
+  "address": "부산 영도구 대교동1가 84-3 대교동 사거리",
+  "latitude": "35.092613",
+  "longitude": "129.03807"
+},
+{
+  "number": "2",
+  "storeName": "GS25(남항점)",
+  "phoneNumber": "051-412-8023",
+  "address": "부산 영도구 남항동1가 63번지",
+  "latitude": "35.089806",
+  "longitude": "129.0382"
+},
+{
+  "number": "3",
+  "storeName": "씨스페이스(영도동삼점)",
+  "phoneNumber": "051-980-9990",
+  "address": "부산 영도구 동삼동 510-33 1층 101호",
+  "latitude": "35.073353",
+  "longitude": "129.06921"
+},
+{
+  "number": "4",
+  "storeName": "참좋은마트(복권방)",
+  "phoneNumber": "051-947-2237",
+  "address": "부산 영도구 영선동1가 78-1번지",
+  "latitude": "35.09134",
+  "longitude": "129.04463"
+},
+{
+  "number": "5",
+  "storeName": "행복이가득한집",
+  "phoneNumber": "051-900-7041",
+  "address": "부산 영도구 동삼제1동 231-19 1층 복권방",
+  "latitude": "35.081394",
+  "longitude": "129.0705"
+},
+{
+  "number": "6",
+  "storeName": "나나복권",
+  "phoneNumber": "",
+  "address": "부산 영도구 청학제1동 307-26 복권판매점",
+  "latitude": "35.09739",
+  "longitude": "129.05986"
+},
+{
+  "number": "7",
+  "storeName": "로타리로또",
+  "phoneNumber": "051-412-6052",
+  "address": "부산 영도구 신선동3가 127-20번지 로타리슈퍼",
+  "latitude": "35.085533",
+  "longitude": "129.04277"
+},
+{
+  "number": "8",
+  "storeName": "명신복권방",
+  "phoneNumber": "051-404-0087",
+  "address": "부산 영도구 동삼동 318-9번지",
+  "latitude": "35.078552",
+  "longitude": "129.07027"
+},
+{
+  "number": "9",
+  "storeName": "훼미리마트영도모닝점",
+  "phoneNumber": "051-415-5229",
+  "address": "부산 영도구 대교동2가 112-2",
+  "latitude": "35.091213",
+  "longitude": "129.04178"
+},
+{
+  "number": "10",
+  "storeName": "롯데무역",
+  "phoneNumber": "051-415-2964",
+  "address": "부산 영도구 영선동2가 197-2 1층 복권방",
+  "latitude": "35.087288",
+  "longitude": "129.04373"
+},
+{
+  "number": "11",
+  "storeName": "떳다복권방",
+  "phoneNumber": "",
+  "address": "부산 영도구 동삼동 770-4 태종대 입구",
+  "latitude": "35.068886",
+  "longitude": "129.08052"
+},
+{
+  "number": "12",
+  "storeName": "채민상회",
+  "phoneNumber": "",
+  "address": "부산 영도구 영선제2동 42-1",
+  "latitude": "35.086597",
+  "longitude": "129.03944"
+},
+{
+  "number": "13",
+  "storeName": "로또방소망슈퍼",
+  "phoneNumber": "",
+  "address": "부산 영도구 동삼동 983-9 1층",
+  "latitude": "35.063473",
+  "longitude": "129.08084"
+}
+]

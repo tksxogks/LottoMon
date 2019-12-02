@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "로또판매점",
+  "phoneNumber": "054-535-8469",
+  "address": "경북 상주시 남성동 36-17번지",
+  "latitude": "36.415215",
+  "longitude": "128.15585"
+},
+{
+  "number": "2",
+  "storeName": "로또복권대박",
+  "phoneNumber": "054-531-9559",
+  "address": "경북 상주시 냉림동 353-4번지",
+  "latitude": "36.420956",
+  "longitude": "128.15926"
+},
+{
+  "number": "3",
+  "storeName": "로또복권판매",
+  "phoneNumber": "054-534-6777",
+  "address": "경북 상주시 서성동 28-3번지",
+  "latitude": "36.418926",
+  "longitude": "128.16116"
+},
+{
+  "number": "4",
+  "storeName": "CU로또 상주터미널점",
+  "phoneNumber": "054-535-8996",
+  "address": "경북 상주시 무양동 281번지 CU편의점 내",
+  "latitude": "36.41813",
+  "longitude": "128.15215"
+},
+{
+  "number": "5",
+  "storeName": "복권일번지",
+  "phoneNumber": "054-536-7838",
+  "address": "경북 상주시 성동동 202-2번지",
+  "latitude": "36.415756",
+  "longitude": "128.1659"
+},
+{
+  "number": "6",
+  "storeName": "아트박스",
+  "phoneNumber": "054-532-3601",
+  "address": "경북 상주시 화서면 신봉리 134-4 경북 상주시 화서면 신봉리 134-4 아트박스",
+  "latitude": "36.444984",
+  "longitude": "127.950554"
+},
+{
+  "number": "7",
+  "storeName": "천하명당",
+  "phoneNumber": "054-535-8483",
+  "address": "경북 상주시 남성동 84-37번지",
+  "latitude": "36.414066",
+  "longitude": "128.15926"
+},
+{
+  "number": "8",
+  "storeName": "왕대박상주점",
+  "phoneNumber": "054-535-1841",
+  "address": "경북 상주시 성하동 8-14번지",
+  "latitude": "36.414757",
+  "longitude": "128.16298"
+}
+]

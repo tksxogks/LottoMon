@@ -1,0 +1,298 @@
+[
+{
+  "number": "1",
+  "storeName": "굿데이복권전문점명서점",
+  "phoneNumber": "055-273-0362",
+  "address": "경남 창원시 의창구 명서동 144-7번지",
+  "latitude": "35.248505",
+  "longitude": "128.64825"
+},
+{
+  "number": "2",
+  "storeName": "오도르캔들",
+  "phoneNumber": "055-252-4458",
+  "address": "경남 창원시 의창구 명서동 50-1",
+  "latitude": "35.2504",
+  "longitude": "128.64607"
+},
+{
+  "number": "3",
+  "storeName": "팡팡복권방",
+  "phoneNumber": "055-285-3933",
+  "address": "경남 창원시 의창구 신월동 90-2",
+  "latitude": "35.22411",
+  "longitude": "128.69159"
+},
+{
+  "number": "4",
+  "storeName": "로또봉곡점",
+  "phoneNumber": "055-238-8183",
+  "address": "경남 창원시 의창구 봉곡동 61-13번지",
+  "latitude": "35.245",
+  "longitude": "128.65947"
+},
+{
+  "number": "5",
+  "storeName": "로또방",
+  "phoneNumber": "055-237-4411",
+  "address": "경남 창원시 의창구 봉곡동 120-27번지",
+  "latitude": "35.24926",
+  "longitude": "128.66838"
+},
+{
+  "number": "6",
+  "storeName": "천하명당(팔용점)",
+  "phoneNumber": "055-252-1778",
+  "address": "경남 창원시 의창구 팔용동 134-2번지",
+  "latitude": "35.25634",
+  "longitude": "128.61029"
+},
+{
+  "number": "7",
+  "storeName": "행복복권방",
+  "phoneNumber": "055-296-6112",
+  "address": "경남 창원시 의창구 팔용동 106-10번지",
+  "latitude": "35.25286",
+  "longitude": "128.61058"
+},
+{
+  "number": "8",
+  "storeName": "블루25복권명당대원점",
+  "phoneNumber": "055-276-9278",
+  "address": "경남 창원시 의창구 대원동 95-17",
+  "latitude": "35.231777",
+  "longitude": "128.6505"
+},
+{
+  "number": "9",
+  "storeName": "도계할인마트",
+  "phoneNumber": "055-277-1521",
+  "address": "경남 창원시 의창구 도계동 347-1번지",
+  "latitude": "35.257893",
+  "longitude": "128.63512"
+},
+{
+  "number": "10",
+  "storeName": "원마트",
+  "phoneNumber": "055-263-4609",
+  "address": "경남 창원시 의창구 용호동 73-2번지 라이크빌1층102호",
+  "latitude": "35.230434",
+  "longitude": "128.68094"
+},
+{
+  "number": "11",
+  "storeName": "만복슈퍼",
+  "phoneNumber": "055-298-2988",
+  "address": "경남 창원시 의창구 북면 동전리 201-8번지",
+  "latitude": "35.31933",
+  "longitude": "128.60292"
+},
+{
+  "number": "12",
+  "storeName": "소답시내버스매표소",
+  "phoneNumber": "055-298-3427",
+  "address": "경남 창원시 의창구 소답동 114-7번지 가판",
+  "latitude": "35.261738",
+  "longitude": "128.62564"
+},
+{
+  "number": "13",
+  "storeName": "도계로또토토판매점",
+  "phoneNumber": "055-273-0204",
+  "address": "경남 창원시 의창구 도계동 410-6",
+  "latitude": "35.25693",
+  "longitude": "128.63889"
+},
+{
+  "number": "14",
+  "storeName": "로또복권방",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 동읍 용잠리 404-4",
+  "latitude": "35.278973",
+  "longitude": "128.68593"
+},
+{
+  "number": "15",
+  "storeName": "잉크와복권",
+  "phoneNumber": "055-255-1030",
+  "address": "경남 창원시 의창구 동읍 용잠리 401-10번지",
+  "latitude": "35.278606",
+  "longitude": "128.68625"
+},
+{
+  "number": "16",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 팔용동 31-2 CU편의점 내",
+  "latitude": "35.23488",
+  "longitude": "128.64246"
+},
+{
+  "number": "17",
+  "storeName": "팬시로또판매점",
+  "phoneNumber": "055-286-5985",
+  "address": "경남 창원시 의창구 사림동 105-1번지 사림프라자1층114호 요거프레소 내",
+  "latitude": "35.247463",
+  "longitude": "128.67795"
+},
+{
+  "number": "18",
+  "storeName": "LG25시",
+  "phoneNumber": "055-237-5886",
+  "address": "경남 창원시 의창구 팔용동 34-17번지 GS편의점 내",
+  "latitude": "35.23761",
+  "longitude": "128.6403"
+},
+{
+  "number": "19",
+  "storeName": "블루25 원이대로점",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 명곡동 180-20",
+  "latitude": "35.244183",
+  "longitude": "128.64833"
+},
+{
+  "number": "20",
+  "storeName": "해피드림조이",
+  "phoneNumber": "055-295-6451",
+  "address": "경남 창원시 의창구 서상동 569-5번지",
+  "latitude": "35.264206",
+  "longitude": "128.61836"
+},
+{
+  "number": "21",
+  "storeName": "해피프러스마트",
+  "phoneNumber": "055-237-1711",
+  "address": "경남 창원시 의창구 도계동 331-5번지 성신데파트 102호",
+  "latitude": "35.259487",
+  "longitude": "128.63376"
+},
+{
+  "number": "22",
+  "storeName": "GS25(봉곡제일점)",
+  "phoneNumber": "055-237-2520",
+  "address": "경남 창원시 의창구 봉곡동 33-7번지",
+  "latitude": "35.2436",
+  "longitude": "128.65121"
+},
+{
+  "number": "23",
+  "storeName": "GS25(팔용대림점)",
+  "phoneNumber": "055-251-3525",
+  "address": "경남 창원시 의창구 팔용동 154-5번지",
+  "latitude": "35.25574",
+  "longitude": "128.60776"
+},
+{
+  "number": "24",
+  "storeName": "세븐일레븐창원사림우영점",
+  "phoneNumber": "055-275-8850",
+  "address": "경남 창원시 의창구 사림동 25번지 우영프라자 104호 세븐일레븐내",
+  "latitude": "35.240864",
+  "longitude": "128.68808"
+},
+{
+  "number": "25",
+  "storeName": "도계로또방",
+  "phoneNumber": "055-288-1288",
+  "address": "경남 창원시 의창구 도계동 343-5 도계행운마트",
+  "latitude": "35.259045",
+  "longitude": "128.6371"
+},
+{
+  "number": "26",
+  "storeName": "채널큐로또복권방",
+  "phoneNumber": "055-237-2918",
+  "address": "경남 창원시 의창구 봉곡동 26-2",
+  "latitude": "35.246143",
+  "longitude": "128.65074"
+},
+{
+  "number": "27",
+  "storeName": "로또명당 용지점",
+  "phoneNumber": "055-266-7752",
+  "address": "경남 창원시 의창구 용호동 17-10 CU편의점",
+  "latitude": "35.23528",
+  "longitude": "128.68651"
+},
+{
+  "number": "28",
+  "storeName": "복권명당",
+  "phoneNumber": "055-294-3463",
+  "address": "경남 창원시 의창구 서상동 602-3번지",
+  "latitude": "35.262474",
+  "longitude": "128.61554"
+},
+{
+  "number": "29",
+  "storeName": "희망슈퍼",
+  "phoneNumber": "055-265-2973",
+  "address": "경남 창원시 의창구 봉곡동 32-7번지",
+  "latitude": "35.24397",
+  "longitude": "128.65158"
+},
+{
+  "number": "30",
+  "storeName": "오복할인마트",
+  "phoneNumber": "055-265-1477",
+  "address": "경남 창원시 의창구 팔용동 13-9번지 팔용유통단지",
+  "latitude": "35.235355",
+  "longitude": "128.63733"
+},
+{
+  "number": "31",
+  "storeName": "화성슈퍼",
+  "phoneNumber": "055-296-0522",
+  "address": "경남 창원시 의창구 팔용동 194-14번지",
+  "latitude": "35.26087",
+  "longitude": "128.61497"
+},
+{
+  "number": "32",
+  "storeName": "한아름복권",
+  "phoneNumber": "055-284-0487",
+  "address": "경남 창원시 의창구 서상동 688-7 CU편의점 내",
+  "latitude": "35.25678",
+  "longitude": "128.62276"
+},
+{
+  "number": "33",
+  "storeName": "흥진슈퍼",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 신월동 68-15번지",
+  "latitude": "35.22725",
+  "longitude": "128.69109"
+},
+{
+  "number": "34",
+  "storeName": "옥포상회",
+  "phoneNumber": "055-294-5356",
+  "address": "경남 창원시 의창구 팔용동 157-3",
+  "latitude": "35.257168",
+  "longitude": "128.60793"
+},
+{
+  "number": "35",
+  "storeName": "로또판매점",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 북면 화천리 332 우측 복권판매점",
+  "latitude": "35.246902",
+  "longitude": "128.67023"
+},
+{
+  "number": "36",
+  "storeName": "리틀마켓",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 북면 감계리 236-3 한서주차빌딩 1층 108호",
+  "latitude": "35.301575",
+  "longitude": "128.59451"
+},
+{
+  "number": "37",
+  "storeName": "행복상회",
+  "phoneNumber": "",
+  "address": "경남 창원시 의창구 봉림동 713-5 오션5빌딩 106호",
+  "latitude": "35.250397",
+  "longitude": "128.6676"
+}
+]

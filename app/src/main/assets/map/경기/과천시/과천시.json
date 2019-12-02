@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "과천별양열쇠(가로판매대)",
+  "phoneNumber": "02-504-2742",
+  "address": "경기 과천시 별양동 1-1번지 GS주유소버스정류장앞가판",
+  "latitude": "37.42838",
+  "longitude": "126.99198"
+},
+{
+  "number": "2",
+  "storeName": "관문로또",
+  "phoneNumber": "",
+  "address": "경기 과천시 별양동 1-18 제1층 28호",
+  "latitude": "37.426872",
+  "longitude": "126.99254"
+},
+{
+  "number": "3",
+  "storeName": "로또식탁",
+  "phoneNumber": "",
+  "address": "경기 과천시 별양동 14 제1층 101호",
+  "latitude": "37.42668",
+  "longitude": "126.99575"
+},
+{
+  "number": "4",
+  "storeName": "GS25(과천삼성)",
+  "phoneNumber": "02-502-8768",
+  "address": "경기 과천시 원문동 4 1005,1006호",
+  "latitude": "37.431854",
+  "longitude": "126.99781"
+},
+{
+  "number": "5",
+  "storeName": "복길로또",
+  "phoneNumber": "",
+  "address": "경기 과천시 문원동 143",
+  "latitude": "37.42437",
+  "longitude": "127.00811"
+}
+]

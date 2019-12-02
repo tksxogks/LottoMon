@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "로또복권명당방",
+  "phoneNumber": "061-284-9598",
+  "address": "전남 무안군 삼향읍 남악리 2179번지 백석프라자 104호 GS편의점 내",
+  "latitude": "34.812725",
+  "longitude": "126.46218"
+},
+{
+  "number": "2",
+  "storeName": "복권천국",
+  "phoneNumber": "061-453-3651",
+  "address": "전남 무안군 무안읍 성동리 830-1번지 복권천국",
+  "latitude": "34.98833",
+  "longitude": "126.479164"
+},
+{
+  "number": "3",
+  "storeName": "삼향복권",
+  "phoneNumber": "",
+  "address": "전남 무안군 삼향읍남악출장소 남악리 1718 108호",
+  "latitude": "34.811913",
+  "longitude": "126.47039"
+},
+{
+  "number": "4",
+  "storeName": "토마토 남악복권방",
+  "phoneNumber": "061-287-3500",
+  "address": "전남 무안군 삼향읍 남악리 1552 1층",
+  "latitude": "34.810093",
+  "longitude": "126.45966"
+},
+{
+  "number": "5",
+  "storeName": "로또복권초당판매점",
+  "phoneNumber": "061-452-9381",
+  "address": "전남 무안군 무안읍 성남리 88-1번지 CU편의점",
+  "latitude": "34.98788",
+  "longitude": "126.47414"
+},
+{
+  "number": "6",
+  "storeName": "세븐일레븐 일로점",
+  "phoneNumber": "061-285-0711",
+  "address": "전남 무안군 일로읍 월암리 186-163 세븐일레븐",
+  "latitude": "34.848198",
+  "longitude": "126.492165"
+}
+]

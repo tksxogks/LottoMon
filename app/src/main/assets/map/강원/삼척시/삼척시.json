@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "복권나라",
+  "phoneNumber": "033-541-8601",
+  "address": "강원 삼척시 도계읍 도계리 393-1번지",
+  "latitude": "37.2349",
+  "longitude": "129.04465"
+},
+{
+  "number": "2",
+  "storeName": "행운의시작복권전문점",
+  "phoneNumber": "033-574-7399",
+  "address": "강원 삼척시 남양동 24-7번지 8통1반",
+  "latitude": "37.44425",
+  "longitude": "129.16542"
+},
+{
+  "number": "3",
+  "storeName": "CU(삼척대학로점)",
+  "phoneNumber": "033-574-4676",
+  "address": "강원 삼척시 남양동 17-14",
+  "latitude": "37.44421",
+  "longitude": "129.16331"
+},
+{
+  "number": "4",
+  "storeName": "세븐일레븐삼척삼원점",
+  "phoneNumber": "033-572-6161",
+  "address": "강원 삼척시 남양동 93-5",
+  "latitude": "37.439957",
+  "longitude": "129.16728"
+},
+{
+  "number": "5",
+  "storeName": "황금복돼지복권방",
+  "phoneNumber": "033-575-1011",
+  "address": "강원 삼척시 교동 763-6",
+  "latitude": "37.44781",
+  "longitude": "129.17488"
+},
+{
+  "number": "6",
+  "storeName": "노다지복권",
+  "phoneNumber": "033-573-9040",
+  "address": "강원 삼척시 남양동 55-62번지 인화상가A-106호",
+  "latitude": "37.441498",
+  "longitude": "129.16756"
+},
+{
+  "number": "7",
+  "storeName": "GY라인",
+  "phoneNumber": "033-576-0233",
+  "address": "강원 삼척시 교동 742 129호",
+  "latitude": "37.448555",
+  "longitude": "129.17627"
+},
+{
+  "number": "8",
+  "storeName": "로또판매점",
+  "phoneNumber": "033-575-6767",
+  "address": "강원 삼척시 원덕읍 호산리 258-3 1층",
+  "latitude": "37.175186",
+  "longitude": "129.33647"
+}
+]

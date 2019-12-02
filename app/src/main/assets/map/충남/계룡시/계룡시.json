@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "계룡복권방",
+  "phoneNumber": "042-841-2355",
+  "address": "충남 계룡시 금암동 72-6번지 신신태양철물상사 건물내",
+  "latitude": "36.26811",
+  "longitude": "127.259705"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "042-841-4802",
+  "address": "충남 계룡시 엄사면 엄사리 184-4",
+  "latitude": "36.28904",
+  "longitude": "127.24167"
+},
+{
+  "number": "3",
+  "storeName": "생생복권방",
+  "phoneNumber": "",
+  "address": "충남 계룡시 엄사면 엄사리 281 동아아파트 상가 103호",
+  "latitude": "36.287113",
+  "longitude": "127.239944"
+},
+{
+  "number": "4",
+  "storeName": "명성복권마트",
+  "phoneNumber": "",
+  "address": "충남 계룡시 금암동 168-4번지",
+  "latitude": "36.27225",
+  "longitude": "127.24952"
+}
+]

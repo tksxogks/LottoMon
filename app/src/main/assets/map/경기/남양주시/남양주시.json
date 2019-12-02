@@ -1,0 +1,562 @@
+[
+{
+  "number": "1",
+  "storeName": "복권나라",
+  "phoneNumber": "031-557-5759",
+  "address": "경기 남양주시 도농동 45-67번지",
+  "latitude": "37.607224",
+  "longitude": "127.15675"
+},
+{
+  "number": "2",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "031-593-5572",
+  "address": "경기 남양주시 화도읍 마석우리 379-1번지 103호",
+  "latitude": "37.657486",
+  "longitude": "127.3044"
+},
+{
+  "number": "3",
+  "storeName": "경춘마트",
+  "phoneNumber": "031-592-7742",
+  "address": "경기 남양주시 금곡동 154-9번지",
+  "latitude": "37.63422",
+  "longitude": "127.21185"
+},
+{
+  "number": "4",
+  "storeName": "스카이25",
+  "phoneNumber": "031-566-3761",
+  "address": "경기 남양주시 도농동 296-2번지",
+  "latitude": "37.607315",
+  "longitude": "127.152275"
+},
+{
+  "number": "5",
+  "storeName": "캠프코리아/유마트",
+  "phoneNumber": "031-577-1539",
+  "address": "경기 남양주시 와부읍 덕소리 193-9번지 새루상가10호",
+  "latitude": "37.58901",
+  "longitude": "127.21702"
+},
+{
+  "number": "6",
+  "storeName": "24시편의점",
+  "phoneNumber": "031-591-0449",
+  "address": "경기 남양주시 평내동 121-10번지",
+  "latitude": "37.65104",
+  "longitude": "127.23917"
+},
+{
+  "number": "7",
+  "storeName": "금곡가판",
+  "phoneNumber": "031-592-7280",
+  "address": "경기 남양주시 금곡동 153-1",
+  "latitude": "37.63471",
+  "longitude": "127.2123"
+},
+{
+  "number": "8",
+  "storeName": "토큰박스",
+  "phoneNumber": "031-573-8634",
+  "address": "경기 남양주시 진건읍 용정리 743-6번지",
+  "latitude": "37.66064",
+  "longitude": "127.179184"
+},
+{
+  "number": "9",
+  "storeName": "예스복권방",
+  "phoneNumber": "031-575-5883",
+  "address": "경기 남양주시 별내동 1016 메인프라자 1층 105호",
+  "latitude": "37.647278",
+  "longitude": "127.12372"
+},
+{
+  "number": "10",
+  "storeName": "삐삐문구",
+  "phoneNumber": "031-573-8244",
+  "address": "경기 남양주시 진건읍 용정리 794-14번지",
+  "latitude": "37.65604",
+  "longitude": "127.17971"
+},
+{
+  "number": "11",
+  "storeName": "디즈니포토랜드",
+  "phoneNumber": "031-511-5417",
+  "address": "경기 남양주시 호평동 612 상가 117호, GS25호평아이파크점",
+  "latitude": "37.720882",
+  "longitude": "127.18791"
+},
+{
+  "number": "12",
+  "storeName": "팬시코아",
+  "phoneNumber": "031-574-9810",
+  "address": "경기 남양주시 퇴계원면 퇴계원리 255-24번지",
+  "latitude": "37.650883",
+  "longitude": "127.14213"
+},
+{
+  "number": "13",
+  "storeName": "만물전파사",
+  "phoneNumber": "031-593-0362",
+  "address": "경기 남양주시 화도읍 마석우리 271-8번지",
+  "latitude": "37.652004",
+  "longitude": "127.30789"
+},
+{
+  "number": "14",
+  "storeName": "코니아일랜드아이스크림",
+  "phoneNumber": "031-511-9187",
+  "address": "경기 남양주시 화도읍 묵현리 372-47번지 진우로얄빌라제나동102",
+  "latitude": "37.655685",
+  "longitude": "127.282394"
+},
+{
+  "number": "15",
+  "storeName": "찻잔에담긴행운",
+  "phoneNumber": "031-521-1282",
+  "address": "경기 남양주시 와부읍 덕소리 615번지 나동 102호",
+  "latitude": "37.584114",
+  "longitude": "127.21262"
+},
+{
+  "number": "16",
+  "storeName": "씨유 진건용정공단점",
+  "phoneNumber": "031-527-3273",
+  "address": "경기 남양주시 진건읍 용정리 101-2",
+  "latitude": "37.682014",
+  "longitude": "127.18863"
+},
+{
+  "number": "17",
+  "storeName": "축복",
+  "phoneNumber": "031-571-4896",
+  "address": "경기 남양주시 퇴계원면 퇴계원리 215-4",
+  "latitude": "37.647526",
+  "longitude": "127.14377"
+},
+{
+  "number": "18",
+  "storeName": "복권세상",
+  "phoneNumber": "031-846-6334",
+  "address": "경기 남양주시 별내면 청학리 442",
+  "latitude": "37.708755",
+  "longitude": "127.11427"
+},
+{
+  "number": "19",
+  "storeName": "전인정보통신",
+  "phoneNumber": "031-575-2181",
+  "address": "경기 남양주시 오남읍 오남리 203-2번지 외1필지1층101",
+  "latitude": "37.69109",
+  "longitude": "127.214676"
+},
+{
+  "number": "20",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경기 남양주시 호평동 668번지 금강아파트제주상가104",
+  "latitude": "37.65541",
+  "longitude": "127.25055"
+},
+{
+  "number": "21",
+  "storeName": "로또암반수베팅샵",
+  "phoneNumber": "031-577-3983",
+  "address": "경기 남양주시 와부읍 덕소리 141-64번지",
+  "latitude": "37.587204",
+  "longitude": "127.21568"
+},
+{
+  "number": "22",
+  "storeName": "왕대박",
+  "phoneNumber": "031-592-9475",
+  "address": "경기 남양주시 금곡동 406-82번지 원주소 419-5",
+  "latitude": "37.634163",
+  "longitude": "127.20882"
+},
+{
+  "number": "23",
+  "storeName": "대궐터 복권나라",
+  "phoneNumber": "031-572-0645",
+  "address": "경기 남양주시 진접읍 내각리 318-10번지 1층1호",
+  "latitude": "37.70456",
+  "longitude": "127.16525"
+},
+{
+  "number": "24",
+  "storeName": "팡팡마트",
+  "phoneNumber": "031-528-9993",
+  "address": "경기 남양주시 오남읍 오남리 404-8 102호",
+  "latitude": "37.68037",
+  "longitude": "127.210236"
+},
+{
+  "number": "25",
+  "storeName": "드림복권방",
+  "phoneNumber": "031-577-8125",
+  "address": "경기 남양주시 다산동 6085 104호",
+  "latitude": "37.586956",
+  "longitude": "127.2126"
+},
+{
+  "number": "26",
+  "storeName": "나눔로또복권방",
+  "phoneNumber": "",
+  "address": "경기 남양주시 진접읍 금곡리 1097번지 109-1호",
+  "latitude": "37.71429",
+  "longitude": "127.19802"
+},
+{
+  "number": "27",
+  "storeName": "은혜상회",
+  "phoneNumber": "031-568-3381",
+  "address": "경기 남양주시 와부읍 도곡리 997-13",
+  "latitude": "37.579327",
+  "longitude": "127.22"
+},
+{
+  "number": "28",
+  "storeName": "패밀리복권방",
+  "phoneNumber": "031-591-0572",
+  "address": "경기 남양주시 호평동 641번지 에이스프라자1층106호",
+  "latitude": "37.654064",
+  "longitude": "127.244095"
+},
+{
+  "number": "29",
+  "storeName": "행운대박복권방",
+  "phoneNumber": "",
+  "address": "경기 남양주시 진접읍 부평리 613-4번지",
+  "latitude": "37.74208",
+  "longitude": "127.197845"
+},
+{
+  "number": "30",
+  "storeName": "스타복권편의점",
+  "phoneNumber": "031-572-9379",
+  "address": "경기 남양주시 별내동 841-4 1층",
+  "latitude": "37.665905",
+  "longitude": "127.117226"
+},
+{
+  "number": "31",
+  "storeName": "세븐일레븐 평내지원점",
+  "phoneNumber": "031-511-6307",
+  "address": "경기 남양주시 평내동 578-1번지 다모아프라자106",
+  "latitude": "37.645874",
+  "longitude": "127.23439"
+},
+{
+  "number": "32",
+  "storeName": "대박복권방",
+  "phoneNumber": "031-594-1849",
+  "address": "경기 남양주시 화도읍 마석우리 383-6번지 중흥프라자101호",
+  "latitude": "37.65726",
+  "longitude": "127.30326"
+},
+{
+  "number": "33",
+  "storeName": "세희사랑방",
+  "phoneNumber": "",
+  "address": "경기 남양주시 평내동 140번지 리치플러스빌딩 110",
+  "latitude": "37.65027",
+  "longitude": "127.2432"
+},
+{
+  "number": "34",
+  "storeName": "시외버스매표소",
+  "phoneNumber": "031-592-5262",
+  "address": "경기 남양주시 평내동 202-1번지",
+  "latitude": "37.650063",
+  "longitude": "127.23706"
+},
+{
+  "number": "35",
+  "storeName": "모든정보통신",
+  "phoneNumber": "031-592-4010",
+  "address": "경기 남양주시 화도읍 가곡리 163-7번지 가곡상가1층6호",
+  "latitude": "37.68103",
+  "longitude": "127.30404"
+},
+{
+  "number": "36",
+  "storeName": "대박찬스",
+  "phoneNumber": "031-528-5530",
+  "address": "경기 남양주시 진접읍 장현리 351-16번지 1층1호",
+  "latitude": "37.71974",
+  "longitude": "127.18393"
+},
+{
+  "number": "37",
+  "storeName": "미소로또",
+  "phoneNumber": "",
+  "address": "경기 남양주시 가운동 667-3번지 마이라이프 오피스텔",
+  "latitude": "37.60456",
+  "longitude": "127.157"
+},
+{
+  "number": "38",
+  "storeName": "천사로또방",
+  "phoneNumber": "031-591-7397",
+  "address": "경기 남양주시 금곡동 159-66 1층 7호",
+  "latitude": "37.63615",
+  "longitude": "127.21103"
+},
+{
+  "number": "39",
+  "storeName": "명당복권방",
+  "phoneNumber": "031-591-1116",
+  "address": "경기 남양주시 화도읍 창현리 472-7번지",
+  "latitude": "37.65022",
+  "longitude": "127.30629"
+},
+{
+  "number": "40",
+  "storeName": "반도프라자점 로또판매",
+  "phoneNumber": "070-4140-7151",
+  "address": "경기 남양주시 진접읍 금곡리 972-2번지 반도프라자",
+  "latitude": "37.721447",
+  "longitude": "127.19499"
+},
+{
+  "number": "41",
+  "storeName": "로또도곡점",
+  "phoneNumber": "031-521-8528",
+  "address": "경기 남양주시 와부읍 도곡리 1064-3 1층 복권판매점",
+  "latitude": "37.577316",
+  "longitude": "127.22623"
+},
+{
+  "number": "42",
+  "storeName": "와부로또복권방",
+  "phoneNumber": "031-577-7949",
+  "address": "경기 남양주시 와부읍 덕소리 473-8 와부약국내",
+  "latitude": "37.5858",
+  "longitude": "127.21206"
+},
+{
+  "number": "43",
+  "storeName": "왕대박",
+  "phoneNumber": "031-527-8427",
+  "address": "경기 남양주시 진접읍 내곡리 263-6 1층",
+  "latitude": "37.690575",
+  "longitude": "127.162994"
+},
+{
+  "number": "44",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "경기 남양주시 평내동 564 1층 편의점내 일부",
+  "latitude": "37.642162",
+  "longitude": "127.23565"
+},
+{
+  "number": "45",
+  "storeName": "복권판매점",
+  "phoneNumber": "031-577-7778",
+  "address": "경기 남양주시 화도읍 마석우리 442-12 103호 441-1외2필지",
+  "latitude": "37.660393",
+  "longitude": "127.30366"
+},
+{
+  "number": "46",
+  "storeName": "로또부동산",
+  "phoneNumber": "031-527-3837",
+  "address": "경기 남양주시 진접읍 금곡리 1081-5 110호",
+  "latitude": "37.711487",
+  "longitude": "127.18744"
+},
+{
+  "number": "47",
+  "storeName": "3분사진관",
+  "phoneNumber": "031-563-5825",
+  "address": "경기 남양주시 지금동 135-1번지",
+  "latitude": "37.609303",
+  "longitude": "127.16452"
+},
+{
+  "number": "48",
+  "storeName": "종점로또토토방",
+  "phoneNumber": "031-591-6003",
+  "address": "경기 남양주시 호평동 165-3번지 1층 1-1호",
+  "latitude": "37.656258",
+  "longitude": "127.247"
+},
+{
+  "number": "49",
+  "storeName": "별내로또(픽미픽미아이스삼육대점)",
+  "phoneNumber": "070-4219-8989",
+  "address": "경기 남양주시 별내동 558-3 102호",
+  "latitude": "37.646164",
+  "longitude": "127.11845"
+},
+{
+  "number": "50",
+  "storeName": "이슬상회",
+  "phoneNumber": "031-511-8454",
+  "address": "경기 남양주시 호평동 617-4",
+  "latitude": "37.659435",
+  "longitude": "127.24745"
+},
+{
+  "number": "51",
+  "storeName": "햇빛유통",
+  "phoneNumber": "",
+  "address": "경기 남양주시 별내동 931-4 104호",
+  "latitude": "37.657555",
+  "longitude": "127.125496"
+},
+{
+  "number": "52",
+  "storeName": "다산복권",
+  "phoneNumber": "",
+  "address": "경기 남양주시 퇴계원면 퇴계원리 56-13 1층 편의점 내 일부",
+  "latitude": "37.65692",
+  "longitude": "127.14375"
+},
+{
+  "number": "53",
+  "storeName": "나눔로또베어스타운점",
+  "phoneNumber": "",
+  "address": "경기 남양주시 진접읍 팔야리 427-11 세븐일레븐내",
+  "latitude": "37.75642",
+  "longitude": "127.218376"
+},
+{
+  "number": "54",
+  "storeName": "행복나눔로또",
+  "phoneNumber": "031-575-7966",
+  "address": "경기 남양주시 진건읍 배양리 483-28 행복슈퍼",
+  "latitude": "37.636684",
+  "longitude": "127.166115"
+},
+{
+  "number": "55",
+  "storeName": "세븐일레븐남양주차산점",
+  "phoneNumber": "031-591-6030",
+  "address": "경기 남양주시 화도읍 차산리 75 1층 편의점",
+  "latitude": "37.634186",
+  "longitude": "127.30372"
+},
+{
+  "number": "56",
+  "storeName": "오남 로또택배",
+  "phoneNumber": "",
+  "address": "경기 남양주시 오남읍 양지리 101-15 B동 1층 5호",
+  "latitude": "37.69928",
+  "longitude": "127.20231"
+},
+{
+  "number": "57",
+  "storeName": "대박찬스",
+  "phoneNumber": "031-574-8330",
+  "address": "경기 남양주시 진접읍 팔야리 797-10번지 14",
+  "latitude": "37.74523",
+  "longitude": "127.20357"
+},
+{
+  "number": "58",
+  "storeName": "정슈퍼마켓",
+  "phoneNumber": "031-527-5756",
+  "address": "경기 남양주시 퇴계원면 퇴계원리 314-1번지 외3필지1층",
+  "latitude": "37.648438",
+  "longitude": "127.14035"
+},
+{
+  "number": "59",
+  "storeName": "나눔분식",
+  "phoneNumber": "031-511-4799",
+  "address": "경기 남양주시 화도읍 묵현리 298-8번지",
+  "latitude": "37.657917",
+  "longitude": "127.28951"
+},
+{
+  "number": "60",
+  "storeName": "아이스크림할인\u0026복권",
+  "phoneNumber": "031-595-4460",
+  "address": "경기 남양주시 화도읍 마석우리 586 1층 6호",
+  "latitude": "37.654896",
+  "longitude": "127.30152"
+},
+{
+  "number": "61",
+  "storeName": "장현중앙로또방",
+  "phoneNumber": "",
+  "address": "경기 남양주시 진접읍 장현리 636-2 1층 CU편의점내 일부",
+  "latitude": "37.717937",
+  "longitude": "127.181564"
+},
+{
+  "number": "62",
+  "storeName": "로또천마산점",
+  "phoneNumber": "",
+  "address": "경기 남양주시 화도읍 묵현리 479-2 101호",
+  "latitude": "37.65726",
+  "longitude": "127.27797"
+},
+{
+  "number": "63",
+  "storeName": "헬로 로또편의점",
+  "phoneNumber": "031-573-6330",
+  "address": "경기 남양주시 별내동 1096-2 1층 102호",
+  "latitude": "37.65005",
+  "longitude": "127.11403"
+},
+{
+  "number": "64",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경기 남양주시 금곡동 430-38번지",
+  "latitude": "37.633892",
+  "longitude": "127.20667"
+},
+{
+  "number": "65",
+  "storeName": "금성유통",
+  "phoneNumber": "",
+  "address": "경기 남양주시 와부읍 월문리 184-1 104호",
+  "latitude": "37.615963",
+  "longitude": "127.27191"
+},
+{
+  "number": "66",
+  "storeName": "고갯길",
+  "phoneNumber": "031-574-8701",
+  "address": "경기 남양주시 별내동 332-9 소로변 고갯길 1층 일부",
+  "latitude": "37.661423",
+  "longitude": "127.11446"
+},
+{
+  "number": "67",
+  "storeName": "베스트올편의점",
+  "phoneNumber": "070-4210-7605",
+  "address": "경기 남양주시 다산동 617 기업은행 건너편 1층",
+  "latitude": "37.60586",
+  "longitude": "127.15863"
+},
+{
+  "number": "68",
+  "storeName": "아이스파티 희망로또",
+  "phoneNumber": "031-848-8629",
+  "address": "경기 남양주시 별내면 청학리 461-14 나동",
+  "latitude": "37.696156",
+  "longitude": "127.20135"
+},
+{
+  "number": "69",
+  "storeName": "오륜복권",
+  "phoneNumber": "031-521-0153",
+  "address": "경기 남양주시 와부읍 덕소리 141-44 102호",
+  "latitude": "37.587685",
+  "longitude": "127.21496"
+},
+{
+  "number": "70",
+  "storeName": "다산 희망복권방",
+  "phoneNumber": "",
+  "address": "경기 남양주시 다산1동 4306-1 1층",
+  "latitude": "37.609642",
+  "longitude": "127.151886"
+}
+]

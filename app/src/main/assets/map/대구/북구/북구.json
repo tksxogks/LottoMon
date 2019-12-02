@@ -1,0 +1,458 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(칠곡미래점)",
+  "phoneNumber": "053-325-3606",
+  "address": "대구 북구 국우동 1100-8",
+  "latitude": "35.943424",
+  "longitude": "128.57097"
+},
+{
+  "number": "2",
+  "storeName": "GS25(동천화성점)",
+  "phoneNumber": "053-321-7978",
+  "address": "대구 북구 동천동 933-3번지",
+  "latitude": "35.9368",
+  "longitude": "128.55821"
+},
+{
+  "number": "3",
+  "storeName": "CU(경대대학로)",
+  "phoneNumber": "053-951-1373",
+  "address": "대구 북구 산격동 1289-33번지",
+  "latitude": "35.89698",
+  "longitude": "128.61389"
+},
+{
+  "number": "4",
+  "storeName": "CU(무지개점)",
+  "phoneNumber": "053-356-4233",
+  "address": "대구 북구 침산동 372-3번지 동아무지개상가",
+  "latitude": "35.88712",
+  "longitude": "128.588"
+},
+{
+  "number": "5",
+  "storeName": "GS25(칠곡구안점)",
+  "phoneNumber": "053-314-8809",
+  "address": "대구 북구 읍내동 1341-4번지",
+  "latitude": "35.935158",
+  "longitude": "128.54915"
+},
+{
+  "number": "6",
+  "storeName": "드림로또",
+  "phoneNumber": "053-314-8181",
+  "address": "대구 북구 구암동 815-14번지",
+  "latitude": "35.938164",
+  "longitude": "128.5682"
+},
+{
+  "number": "7",
+  "storeName": "복권천국",
+  "phoneNumber": "053-324-6826",
+  "address": "대구 북구 관음동 1249-4",
+  "latitude": "35.9447",
+  "longitude": "128.54533"
+},
+{
+  "number": "8",
+  "storeName": "로또명당",
+  "phoneNumber": "053-322-5277",
+  "address": "대구 북구 동천동 878-4번지",
+  "latitude": "35.932053",
+  "longitude": "128.55644"
+},
+{
+  "number": "9",
+  "storeName": "로또복권",
+  "phoneNumber": "053-326-7491",
+  "address": "대구 북구 구암동 765-2",
+  "latitude": "35.943756",
+  "longitude": "128.56425"
+},
+{
+  "number": "10",
+  "storeName": "행운복권방",
+  "phoneNumber": "053-586-4543",
+  "address": "대구 북구 학정동 976",
+  "latitude": "35.88021",
+  "longitude": "128.59674"
+},
+{
+  "number": "11",
+  "storeName": "상호없음",
+  "phoneNumber": "053-383-5917",
+  "address": "대구 북구 산격동 179-4번지",
+  "latitude": "35.905018",
+  "longitude": "128.61209"
+},
+{
+  "number": "12",
+  "storeName": "c\u0026로또",
+  "phoneNumber": "053-957-0747",
+  "address": "대구 북구 복현동 400-3번지",
+  "latitude": "35.8969",
+  "longitude": "128.61548"
+},
+{
+  "number": "13",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "대구 북구 노원동3가 366-3",
+  "latitude": "35.878994",
+  "longitude": "128.5953"
+},
+{
+  "number": "14",
+  "storeName": "훼미리마트노원영성점",
+  "phoneNumber": "053-355-0061",
+  "address": "대구 북구 노원동3가 58-46번지",
+  "latitude": "35.90048",
+  "longitude": "128.57167"
+},
+{
+  "number": "15",
+  "storeName": "로또복권Gateway25점",
+  "phoneNumber": "053-314-8545",
+  "address": "대구 북구 팔달동 72-2번지",
+  "latitude": "35.8973",
+  "longitude": "128.54459"
+},
+{
+  "number": "16",
+  "storeName": "CU로또",
+  "phoneNumber": "053-939-8474",
+  "address": "대구 북구 산격동 1413-15번지",
+  "latitude": "35.892654",
+  "longitude": "128.59668"
+},
+{
+  "number": "17",
+  "storeName": "복권천국",
+  "phoneNumber": "053-955-9911",
+  "address": "대구 북구 산격동 801-4번지",
+  "latitude": "35.897472",
+  "longitude": "128.59526"
+},
+{
+  "number": "18",
+  "storeName": "복권왕국",
+  "phoneNumber": "053-326-6450",
+  "address": "대구 북구 읍내동 393번지",
+  "latitude": "35.951675",
+  "longitude": "128.55371"
+},
+{
+  "number": "19",
+  "storeName": "로또복권",
+  "phoneNumber": "053-953-0645",
+  "address": "대구 북구 대현동 403-1번지",
+  "latitude": "35.883232",
+  "longitude": "128.60716"
+},
+{
+  "number": "20",
+  "storeName": "고향편의점복권방",
+  "phoneNumber": "053-313-1371",
+  "address": "대구 북구 매천동 540-11번지",
+  "latitude": "35.9043",
+  "longitude": "128.54065"
+},
+{
+  "number": "21",
+  "storeName": "LETS GO 25",
+  "phoneNumber": "053-941-8113",
+  "address": "대구 북구 복현동 425-10번지",
+  "latitude": "35.89506",
+  "longitude": "128.61736"
+},
+{
+  "number": "22",
+  "storeName": "CU(경대정문점)",
+  "phoneNumber": "053-958-0385",
+  "address": "대구 북구 대현동 24-2번지",
+  "latitude": "0.0",
+  "longitude": "0.0"
+},
+{
+  "number": "23",
+  "storeName": "행운로또",
+  "phoneNumber": "053-311-2971",
+  "address": "대구 북구 태전동 791-1 세븐일레븐",
+  "latitude": "35.95759",
+  "longitude": "128.56657"
+},
+{
+  "number": "24",
+  "storeName": "대박찬스",
+  "phoneNumber": "053-322-5820",
+  "address": "대구 북구 읍내동 1379-14번지",
+  "latitude": "35.933174",
+  "longitude": "128.5522"
+},
+{
+  "number": "25",
+  "storeName": "복권세상",
+  "phoneNumber": "053-311-0750",
+  "address": "대구 북구 태전동 584번지",
+  "latitude": "35.91884",
+  "longitude": "128.55034"
+},
+{
+  "number": "26",
+  "storeName": "천하명당복권",
+  "phoneNumber": "053-311-0645",
+  "address": "대구 북구 읍내동 771-3번지",
+  "latitude": "35.94432",
+  "longitude": "128.55067"
+},
+{
+  "number": "27",
+  "storeName": "복권명당",
+  "phoneNumber": "053-941-6547",
+  "address": "대구 북구 산격동 1422-14번지",
+  "latitude": "35.89537",
+  "longitude": "128.60509"
+},
+{
+  "number": "28",
+  "storeName": "복권명당",
+  "phoneNumber": "053-354-0645",
+  "address": "대구 북구 침산동 1025-3 1층 덕산슈퍼 내",
+  "latitude": "35.89936",
+  "longitude": "128.58017"
+},
+{
+  "number": "29",
+  "storeName": "천하명당복권",
+  "phoneNumber": "053-953-0212",
+  "address": "대구 북구 산격동 1237-2번지",
+  "latitude": "35.89985",
+  "longitude": "128.6093"
+},
+{
+  "number": "30",
+  "storeName": "광명슈퍼",
+  "phoneNumber": "053-353-7359",
+  "address": "대구 북구 고성동3가 72번지",
+  "latitude": "35.882904",
+  "longitude": "128.5831"
+},
+{
+  "number": "31",
+  "storeName": "하나복권",
+  "phoneNumber": "053-324-8946",
+  "address": "대구 북구 구암동 654-1번지 상가내 1층",
+  "latitude": "35.931408",
+  "longitude": "128.5553"
+},
+{
+  "number": "32",
+  "storeName": "BUY BYE 로또",
+  "phoneNumber": "053-957-2431",
+  "address": "대구 북구 대현동 350번지",
+  "latitude": "35.881657",
+  "longitude": "128.60526"
+},
+{
+  "number": "33",
+  "storeName": "대박로또",
+  "phoneNumber": "053-216-9194",
+  "address": "대구 북구 고성동2가 112-3번지 고성아파트상가101동18호",
+  "latitude": "35.88045",
+  "longitude": "128.5819"
+},
+{
+  "number": "34",
+  "storeName": "노다지복권방",
+  "phoneNumber": "053-325-4445",
+  "address": "대구 북구 읍내동 944-2번지",
+  "latitude": "35.94122",
+  "longitude": "128.55067"
+},
+{
+  "number": "35",
+  "storeName": "로또(칠곡구암시장점)",
+  "phoneNumber": "053-321-0687",
+  "address": "대구 북구 구암동 657-3번지",
+  "latitude": "35.928017",
+  "longitude": "128.55432"
+},
+{
+  "number": "36",
+  "storeName": "이마트24 북구사수점",
+  "phoneNumber": "053-322-9451",
+  "address": "대구 북구 사수동 956번지 105호",
+  "latitude": "35.915146",
+  "longitude": "128.54825"
+},
+{
+  "number": "37",
+  "storeName": "돈벼락복권방",
+  "phoneNumber": "053-943-6453",
+  "address": "대구 북구 동변동 686번지 1층",
+  "latitude": "35.920692",
+  "longitude": "128.6038"
+},
+{
+  "number": "38",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "053-313-1011",
+  "address": "대구 북구 태전동 155-36번지",
+  "latitude": "35.92285",
+  "longitude": "128.54457"
+},
+{
+  "number": "39",
+  "storeName": "복권명당",
+  "phoneNumber": "053-952-2249",
+  "address": "대구 북구 구암동 671-11",
+  "latitude": "35.89293",
+  "longitude": "128.62233"
+},
+{
+  "number": "40",
+  "storeName": "대한사",
+  "phoneNumber": "053-357-0710",
+  "address": "대구 북구 노원동2가 85-4번지 윤송제네스빌103호",
+  "latitude": "35.890835",
+  "longitude": "128.57516"
+},
+{
+  "number": "41",
+  "storeName": "대박복권방",
+  "phoneNumber": "053-352-4798",
+  "address": "대구 북구 노원동1가 366-1번지",
+  "latitude": "35.88549",
+  "longitude": "128.58147"
+},
+{
+  "number": "42",
+  "storeName": "복권명당(서변점)",
+  "phoneNumber": "053-943-6452",
+  "address": "대구 북구 서변동 1739-12번지",
+  "latitude": "35.923897",
+  "longitude": "128.59654"
+},
+{
+  "number": "43",
+  "storeName": "토큰박스(하나백화점앞)",
+  "phoneNumber": "053-352-6543",
+  "address": "대구 북구 노원동2가 386-5번지",
+  "latitude": "35.888786",
+  "longitude": "128.56961"
+},
+{
+  "number": "44",
+  "storeName": "로또명당",
+  "phoneNumber": "053-323-1313",
+  "address": "대구 북구 태전동 1117 1층 102호",
+  "latitude": "35.920612",
+  "longitude": "128.53464"
+},
+{
+  "number": "45",
+  "storeName": "프랜드리마트",
+  "phoneNumber": "053-353-3550",
+  "address": "대구 북구 침산동 531-7번지",
+  "latitude": "35.893456",
+  "longitude": "128.59003"
+},
+{
+  "number": "46",
+  "storeName": "유성서점",
+  "phoneNumber": "053-383-4546",
+  "address": "대구 북구 검단동 887-67번지",
+  "latitude": "35.907482",
+  "longitude": "128.62016"
+},
+{
+  "number": "47",
+  "storeName": "로또복현대로점",
+  "phoneNumber": "053-955-0859",
+  "address": "대구 북구 복현동 340-2번지",
+  "latitude": "35.894356",
+  "longitude": "128.61964"
+},
+{
+  "number": "48",
+  "storeName": "천하명당복권",
+  "phoneNumber": "053-956-6700",
+  "address": "대구 북구 대현동 407-12번지",
+  "latitude": "35.882324",
+  "longitude": "128.60954"
+},
+{
+  "number": "49",
+  "storeName": "칠곡스포츠",
+  "phoneNumber": "053-326-7665",
+  "address": "대구 북구 태전동 539-1번지",
+  "latitude": "35.92848",
+  "longitude": "128.54909"
+},
+{
+  "number": "50",
+  "storeName": "이타임 읍내점",
+  "phoneNumber": "053-324-5585",
+  "address": "대구 북구 읍내동 1234-66",
+  "latitude": "35.946472",
+  "longitude": "128.5546"
+},
+{
+  "number": "51",
+  "storeName": "청구마트",
+  "phoneNumber": "053-381-0222",
+  "address": "대구 북구 복현동 539-113번지 청구아파트상가108동102호",
+  "latitude": "35.90068",
+  "longitude": "128.6168"
+},
+{
+  "number": "52",
+  "storeName": "로또복권판매점",
+  "phoneNumber": "053-383-4422",
+  "address": "대구 북구 산격동 500-1번지 산격대우APT상가 101동 106호",
+  "latitude": "35.900436",
+  "longitude": "128.61116"
+},
+{
+  "number": "53",
+  "storeName": "로또일도점",
+  "phoneNumber": "053-321-7491",
+  "address": "대구 북구 동천동 912-1번지 일도프라자101호",
+  "latitude": "35.942375",
+  "longitude": "128.5631"
+},
+{
+  "number": "54",
+  "storeName": "CU칠곡점",
+  "phoneNumber": "053-326-5507",
+  "address": "대구 북구 관음동 1386-5번지",
+  "latitude": "35.938206",
+  "longitude": "128.54906"
+},
+{
+  "number": "55",
+  "storeName": "왕대박(복권방)",
+  "phoneNumber": "053-423-1011",
+  "address": "대구 북구 칠성동2가 498-2번지 1층전체",
+  "latitude": "35.87771",
+  "longitude": "128.59619"
+},
+{
+  "number": "56",
+  "storeName": "심봤다복권나라",
+  "phoneNumber": "053-283-3033",
+  "address": "대구 북구 침산동 826번지",
+  "latitude": "35.90067",
+  "longitude": "128.58572"
+},
+{
+  "number": "57",
+  "storeName": "꽃보다로또",
+  "phoneNumber": "053-352-1730",
+  "address": "대구 북구 태전동 993-3 영민빌딩",
+  "latitude": "35.93171",
+  "longitude": "128.54921"
+}
+]

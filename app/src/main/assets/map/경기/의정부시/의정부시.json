@@ -1,0 +1,490 @@
+[
+{
+  "number": "1",
+  "storeName": "일등복권방",
+  "phoneNumber": "",
+  "address": "경기 의정부시 용현동 266-10",
+  "latitude": "37.73458",
+  "longitude": "127.08005"
+},
+{
+  "number": "2",
+  "storeName": "세이브마트",
+  "phoneNumber": "031-847-2480",
+  "address": "경기 의정부시 금오동 453-2,3번지",
+  "latitude": "37.756306",
+  "longitude": "127.0763"
+},
+{
+  "number": "3",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-879-1220",
+  "address": "경기 의정부시 호원동 454-13번지",
+  "latitude": "37.71172",
+  "longitude": "127.04729"
+},
+{
+  "number": "4",
+  "storeName": "로또복권판매점",
+  "phoneNumber": "031-851-3737",
+  "address": "경기 의정부시 민락동 705-2번지 태원프라자103",
+  "latitude": "37.7407",
+  "longitude": "127.09196"
+},
+{
+  "number": "5",
+  "storeName": "으뜸복권방",
+  "phoneNumber": "",
+  "address": "경기 의정부시 민락동 732-1 105호",
+  "latitude": "37.743656",
+  "longitude": "127.08672"
+},
+{
+  "number": "6",
+  "storeName": "로또대박",
+  "phoneNumber": "031-844-0005",
+  "address": "경기 의정부시 신곡동 334-2번지 장곡 빌딩 1층 2호",
+  "latitude": "37.729553",
+  "longitude": "127.059685"
+},
+{
+  "number": "7",
+  "storeName": "동성로또판매소",
+  "phoneNumber": "031-853-6514",
+  "address": "경기 의정부시 금오동 473-1 1층 107호",
+  "latitude": "37.745377",
+  "longitude": "127.05971"
+},
+{
+  "number": "8",
+  "storeName": "로또복권",
+  "phoneNumber": "031-875-0991",
+  "address": "경기 의정부시 장암동 20-9번지",
+  "latitude": "37.72633",
+  "longitude": "127.05457"
+},
+{
+  "number": "9",
+  "storeName": "미니슈퍼",
+  "phoneNumber": "031-842-5078",
+  "address": "경기 의정부시 신곡동 447-14번지",
+  "latitude": "37.735565",
+  "longitude": "127.060814"
+},
+{
+  "number": "10",
+  "storeName": "복권방",
+  "phoneNumber": "031-846-2223",
+  "address": "경기 의정부시 신곡동 680-6번지",
+  "latitude": "37.74272",
+  "longitude": "127.05647"
+},
+{
+  "number": "11",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-851-1764",
+  "address": "경기 의정부시 용현동 14번지",
+  "latitude": "37.73672",
+  "longitude": "127.08719"
+},
+{
+  "number": "12",
+  "storeName": "서울로또",
+  "phoneNumber": "031-871-9371",
+  "address": "경기 의정부시 호원동 313-4",
+  "latitude": "37.724403",
+  "longitude": "127.04355"
+},
+{
+  "number": "13",
+  "storeName": "대박로또",
+  "phoneNumber": "031-846-4444",
+  "address": "경기 의정부시 의정부동 133-30",
+  "latitude": "37.740223",
+  "longitude": "127.04758"
+},
+{
+  "number": "14",
+  "storeName": "로또박사",
+  "phoneNumber": "031-853-0293",
+  "address": "경기 의정부시 신곡동 760-2",
+  "latitude": "37.749504",
+  "longitude": "127.06943"
+},
+{
+  "number": "15",
+  "storeName": "로또복권",
+  "phoneNumber": "031-878-7578",
+  "address": "경기 의정부시 가능동 646-17",
+  "latitude": "37.735703",
+  "longitude": "127.04166"
+},
+{
+  "number": "16",
+  "storeName": "로또 복권방",
+  "phoneNumber": "",
+  "address": "경기 의정부시 금오동 403-18",
+  "latitude": "37.749184",
+  "longitude": "127.054695"
+},
+{
+  "number": "17",
+  "storeName": "복권세계",
+  "phoneNumber": "031-848-3390",
+  "address": "경기 의정부시 의정부동 17-2번지 1층",
+  "latitude": "37.74373",
+  "longitude": "127.05195"
+},
+{
+  "number": "18",
+  "storeName": "복권닷컴",
+  "phoneNumber": "031-845-7770",
+  "address": "경기 의정부시 의정부동 145-17번지",
+  "latitude": "37.73754",
+  "longitude": "127.0523"
+},
+{
+  "number": "19",
+  "storeName": "터미널유통마트",
+  "phoneNumber": "031-877-9282",
+  "address": "경기 의정부시 신곡동 719-4번지 우신프라자1층101호",
+  "latitude": "37.730896",
+  "longitude": "127.05626"
+},
+{
+  "number": "20",
+  "storeName": "터미널식품",
+  "phoneNumber": "031-845-3983",
+  "address": "경기 의정부시 금오동 369-5번지",
+  "latitude": "37.745422",
+  "longitude": "127.05506"
+},
+{
+  "number": "21",
+  "storeName": "역전슈퍼",
+  "phoneNumber": "031-876-5617",
+  "address": "경기 의정부시 의정부동 407-7번지",
+  "latitude": "37.746704",
+  "longitude": "127.04165"
+},
+{
+  "number": "22",
+  "storeName": "S마트의정부신곡점",
+  "phoneNumber": "031-856-7733",
+  "address": "경기 의정부시 신곡동 143-6",
+  "latitude": "37.736485",
+  "longitude": "127.06253"
+},
+{
+  "number": "23",
+  "storeName": "복권세상",
+  "phoneNumber": "031-873-7761",
+  "address": "경기 의정부시 호원2동 366-25",
+  "latitude": "37.728725",
+  "longitude": "127.03901"
+},
+{
+  "number": "24",
+  "storeName": "광장편의점",
+  "phoneNumber": "031-829-2989",
+  "address": "경기 의정부시 의정부동 487번지",
+  "latitude": "37.738705",
+  "longitude": "127.03694"
+},
+{
+  "number": "25",
+  "storeName": "행운복권",
+  "phoneNumber": "031-871-9922",
+  "address": "경기 의정부시 호원1동 428 상가동 110호",
+  "latitude": "37.723675",
+  "longitude": "127.04798"
+},
+{
+  "number": "26",
+  "storeName": "버스표판매소",
+  "phoneNumber": "031-845-1816",
+  "address": "경기 의정부시 의정부동 222-1번지",
+  "latitude": "37.740326",
+  "longitude": "127.04711"
+},
+{
+  "number": "27",
+  "storeName": "복권",
+  "phoneNumber": "031-844-4464",
+  "address": "경기 의정부시 의정부동 148-10",
+  "latitude": "37.739323",
+  "longitude": "127.04924"
+},
+{
+  "number": "28",
+  "storeName": "복권",
+  "phoneNumber": "031-844-5006",
+  "address": "경기 의정부시 의정부동 177-9",
+  "latitude": "37.73918",
+  "longitude": "127.051315"
+},
+{
+  "number": "29",
+  "storeName": "-",
+  "phoneNumber": "031-821-2415",
+  "address": "경기 의정부시 의정부동 175-6번지 농협중앙회 앞 가판",
+  "latitude": "37.73889",
+  "longitude": "127.048294"
+},
+{
+  "number": "30",
+  "storeName": "-",
+  "phoneNumber": "031-843-3022",
+  "address": "경기 의정부시 의정부동 386번지",
+  "latitude": "37.731052",
+  "longitude": "127.04831"
+},
+{
+  "number": "31",
+  "storeName": "태흥복권방",
+  "phoneNumber": "",
+  "address": "경기 의정부시 가능동 738-36번지",
+  "latitude": "37.74342",
+  "longitude": "127.03519"
+},
+{
+  "number": "32",
+  "storeName": "스나이퍼",
+  "phoneNumber": "031-852-7900",
+  "address": "경기 의정부시 용현동 268-32번지 104호",
+  "latitude": "37.735363",
+  "longitude": "127.08238"
+},
+{
+  "number": "33",
+  "storeName": "대박천하",
+  "phoneNumber": "031-873-6787",
+  "address": "경기 의정부시 녹양동 146-11번지",
+  "latitude": "37.75705",
+  "longitude": "127.03319"
+},
+{
+  "number": "34",
+  "storeName": "이마트24 의정녹양",
+  "phoneNumber": "031-874-5508",
+  "address": "경기 의정부시 녹양동 83-60번지",
+  "latitude": "37.75838",
+  "longitude": "127.03572"
+},
+{
+  "number": "35",
+  "storeName": "로또",
+  "phoneNumber": "031-853-1711",
+  "address": "경기 의정부시 의정부동 194-1",
+  "latitude": "37.74034",
+  "longitude": "127.048775"
+},
+{
+  "number": "36",
+  "storeName": "북클럽",
+  "phoneNumber": "031-851-6614",
+  "address": "경기 의정부시 민락동 707-1번지 103호",
+  "latitude": "37.739956",
+  "longitude": "127.09068"
+},
+{
+  "number": "37",
+  "storeName": "일등복권방",
+  "phoneNumber": "031-873-4992",
+  "address": "경기 의정부시 호원동 423번지 대명빌딩 1층",
+  "latitude": "37.7257",
+  "longitude": "127.049255"
+},
+{
+  "number": "38",
+  "storeName": "로또복권슈퍼(국제꽃화원)",
+  "phoneNumber": "031-842-3347",
+  "address": "경기 의정부시 금오동 386-51번지",
+  "latitude": "37.750313",
+  "longitude": "127.050804"
+},
+{
+  "number": "39",
+  "storeName": "가야홀인원복권방",
+  "phoneNumber": "031-855-8404",
+  "address": "경기 의정부시 녹양동 412-10번지",
+  "latitude": "37.76044",
+  "longitude": "127.041336"
+},
+{
+  "number": "40",
+  "storeName": "강남슈퍼",
+  "phoneNumber": "",
+  "address": "경기 의정부시 가능동 672-22번지",
+  "latitude": "37.750046",
+  "longitude": "127.03408"
+},
+{
+  "number": "41",
+  "storeName": "GS25신곡본점",
+  "phoneNumber": "031-829-7401",
+  "address": "경기 의정부시 신곡동 725-6번지 장암주공5단지101호",
+  "latitude": "37.726795",
+  "longitude": "127.05679"
+},
+{
+  "number": "42",
+  "storeName": "CU(의정부호원점)",
+  "phoneNumber": "031-875-3044",
+  "address": "경기 의정부시 호원동 442-3번지",
+  "latitude": "37.716408",
+  "longitude": "127.04754"
+},
+{
+  "number": "43",
+  "storeName": "GS25(의정보람점)",
+  "phoneNumber": "031-847-6081",
+  "address": "경기 의정부시 의정부동 22-9번지 1층",
+  "latitude": "37.742878",
+  "longitude": "127.052826"
+},
+{
+  "number": "44",
+  "storeName": "GS25(의정부점)",
+  "phoneNumber": "031-842-0996",
+  "address": "경기 의정부시 의정부동 189-3번지",
+  "latitude": "37.74251",
+  "longitude": "127.04973"
+},
+{
+  "number": "45",
+  "storeName": "복권프라자",
+  "phoneNumber": "031-852-8558",
+  "address": "경기 의정부시 용현동 526-4",
+  "latitude": "37.738483",
+  "longitude": "127.09351"
+},
+{
+  "number": "46",
+  "storeName": "만세복권방",
+  "phoneNumber": "031-846-2269",
+  "address": "경기 의정부시 가능동 31-21",
+  "latitude": "37.739532",
+  "longitude": "127.059875"
+},
+{
+  "number": "47",
+  "storeName": "동행복권방",
+  "phoneNumber": "031-873-1298",
+  "address": "경기 의정부시 의정부동 165-28",
+  "latitude": "37.73476",
+  "longitude": "127.04753"
+},
+{
+  "number": "48",
+  "storeName": "북부슈퍼",
+  "phoneNumber": "031-843-2736",
+  "address": "경기 의정부시 의정부동 236-23번지",
+  "latitude": "37.74794",
+  "longitude": "127.04479"
+},
+{
+  "number": "49",
+  "storeName": "광동서점",
+  "phoneNumber": "031-874-0631",
+  "address": "경기 의정부시 가능동 106-27번지",
+  "latitude": "37.754898",
+  "longitude": "127.037605"
+},
+{
+  "number": "50",
+  "storeName": "신흥인테리어",
+  "phoneNumber": "031-851-1456",
+  "address": "경기 의정부시 민락동 835-1번지",
+  "latitude": "37.74282",
+  "longitude": "127.02985"
+},
+{
+  "number": "51",
+  "storeName": "이마트24 민락스타점",
+  "phoneNumber": "031-853-5552",
+  "address": "경기 의정부시 민락동 808-2 트윈1타워 113호",
+  "latitude": "127.09514",
+  "longitude": "37.745598"
+},
+{
+  "number": "52",
+  "storeName": "1등 로또",
+  "phoneNumber": "",
+  "address": "경기 의정부시 의정부동 237-3",
+  "latitude": "37.746674",
+  "longitude": "127.04547"
+},
+{
+  "number": "53",
+  "storeName": "지에스(GS)25 의정부용현점 로또판매점",
+  "phoneNumber": "031-856-0866",
+  "address": "경기 의정부시 용현동 24-6번지 청룡빌딩",
+  "latitude": "37.733475",
+  "longitude": "127.08697"
+},
+{
+  "number": "54",
+  "storeName": "황금알복권방",
+  "phoneNumber": "031-842-1331",
+  "address": "경기 의정부시 의정부동 26-6번지",
+  "latitude": "37.741566",
+  "longitude": "127.05182"
+},
+{
+  "number": "55",
+  "storeName": "행복로또판매점",
+  "phoneNumber": "031-853-6114",
+  "address": "경기 의정부시 민락동 843-1 106호",
+  "latitude": "127.09936",
+  "longitude": "37.745872"
+},
+{
+  "number": "56",
+  "storeName": "CU(의정부시청점)",
+  "phoneNumber": "031-875-9770",
+  "address": "경기 의정부시 의정부동 540번지",
+  "latitude": "37.734695",
+  "longitude": "127.03746"
+},
+{
+  "number": "57",
+  "storeName": "에벤에셀",
+  "phoneNumber": "031-853-5552",
+  "address": "경기 의정부시 민락동 817",
+  "latitude": "37.745663",
+  "longitude": "127.10885"
+},
+{
+  "number": "58",
+  "storeName": "GS25(의정파워점)",
+  "phoneNumber": "031-872-5999",
+  "address": "경기 의정부시 의정부동 507-10번지 파워프라자 1층",
+  "latitude": "37.737232",
+  "longitude": "127.04153"
+},
+{
+  "number": "59",
+  "storeName": "로또\u0026아이스크림",
+  "phoneNumber": "",
+  "address": "경기 의정부시 가능동 185-36",
+  "latitude": "127.049675",
+  "longitude": "37.73822"
+},
+{
+  "number": "60",
+  "storeName": "복권방",
+  "phoneNumber": "031-871-5870",
+  "address": "경기 의정부시 호원동 342-6",
+  "latitude": "37.74228",
+  "longitude": "127.02238"
+},
+{
+  "number": "61",
+  "storeName": "로또성지",
+  "phoneNumber": "031-853-4560",
+  "address": "경기 의정부시 송산1동 545-8 1층 104호",
+  "latitude": "37.749992",
+  "longitude": "127.08064"
+}
+]

@@ -1,0 +1,18 @@
+[
+{
+  "number": "1",
+  "storeName": "행운복권",
+  "phoneNumber": "033-681-2233",
+  "address": "강원 고성군 간성읍 신안리 250-1번지",
+  "latitude": "38.379105",
+  "longitude": "128.4724"
+},
+{
+  "number": "2",
+  "storeName": "거진터미널로또복권판매점",
+  "phoneNumber": "033-682-2723",
+  "address": "강원 고성군 거진읍 거진리 304-6번지",
+  "latitude": "38.446224",
+  "longitude": "128.45375"
+}
+]

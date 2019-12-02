@@ -1,0 +1,426 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(서면새싹점)",
+  "phoneNumber": "051-804-1814",
+  "address": "부산 부산진구 부전동 264-17",
+  "latitude": "35.159687",
+  "longitude": "129.05853"
+},
+{
+  "number": "2",
+  "storeName": "GS25(양정역점)",
+  "phoneNumber": "051-865-2544",
+  "address": "부산 부산진구 양정동 369-20번지",
+  "latitude": "35.172966",
+  "longitude": "129.07053"
+},
+{
+  "number": "3",
+  "storeName": "GS25(서면롯데점)",
+  "phoneNumber": "051-804-5311",
+  "address": "부산 부산진구 부전동 485-40",
+  "latitude": "35.157906",
+  "longitude": "129.05627"
+},
+{
+  "number": "4",
+  "storeName": "CU(초읍대공원점)",
+  "phoneNumber": "051-817-9829",
+  "address": "부산 부산진구 초읍동 171-2 목화빌딩",
+  "latitude": "35.18236",
+  "longitude": "129.04738"
+},
+{
+  "number": "5",
+  "storeName": "GS25(서면제일점)",
+  "phoneNumber": "051-818-2478",
+  "address": "부산 부산진구 부전동 220-1",
+  "latitude": "35.153893",
+  "longitude": "129.06163"
+},
+{
+  "number": "6",
+  "storeName": "GS25(서면일번가점)",
+  "phoneNumber": "051-818-1151",
+  "address": "부산 부산진구 부전동 232-39",
+  "latitude": "35.152283",
+  "longitude": "129.0586"
+},
+{
+  "number": "7",
+  "storeName": "씨스페이스(범천골드점)",
+  "phoneNumber": "051-515-6001",
+  "address": "부산 부산진구 범천동 846-9번지",
+  "latitude": "35.143356",
+  "longitude": "129.05957"
+},
+{
+  "number": "8",
+  "storeName": "CU(서면점)",
+  "phoneNumber": "051-816-8200",
+  "address": "부산 부산진구 부전동 474-78",
+  "latitude": "35.159767",
+  "longitude": "129.05577"
+},
+{
+  "number": "9",
+  "storeName": "씨스페이스(부전점)",
+  "phoneNumber": "051-816-9805",
+  "address": "부산 부산진구 부전동 127 성도빌딩 1층동 1층",
+  "latitude": "35.159412",
+  "longitude": "129.06119"
+},
+{
+  "number": "10",
+  "storeName": "CU(양정번영로점)",
+  "phoneNumber": "051-867-0182",
+  "address": "부산 부산진구 양정동 389-27번지",
+  "latitude": "35.171936",
+  "longitude": "129.06917"
+},
+{
+  "number": "11",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "부산 부산진구 가야제1동 361-285 1층",
+  "latitude": "35.15235",
+  "longitude": "129.03824"
+},
+{
+  "number": "12",
+  "storeName": "씨유서면일번가점",
+  "phoneNumber": "051-819-2779",
+  "address": "부산 부산진구 부전동 232-1 씨유서면일번가점 내",
+  "latitude": "35.15336",
+  "longitude": "129.05894"
+},
+{
+  "number": "13",
+  "storeName": "돈벼락복권방 부산서면점",
+  "phoneNumber": "051-819-5349",
+  "address": "부산 부산진구 부전동 150-1번지",
+  "latitude": "35.15759",
+  "longitude": "129.06169"
+},
+{
+  "number": "14",
+  "storeName": "슈퍼복권나라",
+  "phoneNumber": "",
+  "address": "부산 부산진구 가야제3동 337-4 1층 복권방",
+  "latitude": "35.15216",
+  "longitude": "129.03586"
+},
+{
+  "number": "15",
+  "storeName": "아트슈퍼",
+  "phoneNumber": "051-897-6661",
+  "address": "부산 부산진구 개금동 184-7번지",
+  "latitude": "35.152916",
+  "longitude": "129.0256"
+},
+{
+  "number": "16",
+  "storeName": "오렌지데이가야점",
+  "phoneNumber": "",
+  "address": "부산 부산진구 가야제1동 369-13 1층 복권방",
+  "latitude": "35.153744",
+  "longitude": "129.03665"
+},
+{
+  "number": "17",
+  "storeName": "패밀리마트전포점",
+  "phoneNumber": "051-816-3368",
+  "address": "부산 부산진구 전포동 337-3번지 CU점포 내",
+  "latitude": "35.154675",
+  "longitude": "129.06822"
+},
+{
+  "number": "18",
+  "storeName": "삼성부동산로또",
+  "phoneNumber": "051-805-4050",
+  "address": "부산 부산진구 연지동 73-22 삼성부동산 내",
+  "latitude": "35.173477",
+  "longitude": "129.05472"
+},
+{
+  "number": "19",
+  "storeName": "빅세일복권방",
+  "phoneNumber": "051-819-2221",
+  "address": "부산 부산진구 부전동 259-5번지",
+  "latitude": "35.15829",
+  "longitude": "129.05809"
+},
+{
+  "number": "20",
+  "storeName": "대박복권방",
+  "phoneNumber": "051-637-0173",
+  "address": "부산 부산진구 범천동 842-8번지 가판",
+  "latitude": "35.144505",
+  "longitude": "129.06265"
+},
+{
+  "number": "21",
+  "storeName": "슈퍼복권나라",
+  "phoneNumber": "051-644-4903",
+  "address": "부산 부산진구 범천제1동 845-95 1층 복권방",
+  "latitude": "35.14284",
+  "longitude": "129.0611"
+},
+{
+  "number": "22",
+  "storeName": "행운복권방",
+  "phoneNumber": "051-818-4727",
+  "address": "부산 부산진구 부암동 343-81",
+  "latitude": "35.166584",
+  "longitude": "129.0421"
+},
+{
+  "number": "23",
+  "storeName": "서면문화로또",
+  "phoneNumber": "051-802-6071",
+  "address": "부산 부산진구 범천동 870-46",
+  "latitude": "35.171352",
+  "longitude": "129.057"
+},
+{
+  "number": "24",
+  "storeName": "복권나라",
+  "phoneNumber": "",
+  "address": "부산 부산진구 초읍동 219-10번지",
+  "latitude": "35.176926",
+  "longitude": "129.05452"
+},
+{
+  "number": "25",
+  "storeName": "행운복권방",
+  "phoneNumber": "051-896-6178",
+  "address": "부산 부산진구 가야동 595-1번지",
+  "latitude": "35.151253",
+  "longitude": "129.02972"
+},
+{
+  "number": "26",
+  "storeName": "운수대통복권방",
+  "phoneNumber": "051-806-9189",
+  "address": "부산 부산진구 전포동 339-33",
+  "latitude": "35.15463",
+  "longitude": "129.06639"
+},
+{
+  "number": "27",
+  "storeName": "삼월쇼핑",
+  "phoneNumber": "051-803-6401",
+  "address": "부산 부산진구 부전동 502-29번지 몰편의점 내",
+  "latitude": "35.155952",
+  "longitude": "129.05734"
+},
+{
+  "number": "28",
+  "storeName": "나래전산",
+  "phoneNumber": "051-809-7383",
+  "address": "부산 부산진구 전포동 170-1번지 101호",
+  "latitude": "35.16025",
+  "longitude": "129.0662"
+},
+{
+  "number": "29",
+  "storeName": "해피마트",
+  "phoneNumber": "051-868-9837",
+  "address": "부산 부산진구 양정동 356-24번지",
+  "latitude": "35.169117",
+  "longitude": "129.07088"
+},
+{
+  "number": "30",
+  "storeName": "미니슈퍼",
+  "phoneNumber": "051-897-3451",
+  "address": "부산 부산진구 가야동 50-43번지",
+  "latitude": "35.156017",
+  "longitude": "129.04204"
+},
+{
+  "number": "31",
+  "storeName": "대구연쇄점",
+  "phoneNumber": "051-807-1682",
+  "address": "부산 부산진구 부전동 55-2번지",
+  "latitude": "35.162354",
+  "longitude": "129.06238"
+},
+{
+  "number": "32",
+  "storeName": "오렌지데이 개금점",
+  "phoneNumber": "051-502-8166",
+  "address": "부산 부산진구 개금제2동 633-198 1층 오렌지데이",
+  "latitude": "35.146374",
+  "longitude": "129.01997"
+},
+{
+  "number": "33",
+  "storeName": "굿마트",
+  "phoneNumber": "051-897-3660",
+  "address": "부산 부산진구 가야동 300-10번지",
+  "latitude": "35.154057",
+  "longitude": "129.03436"
+},
+{
+  "number": "34",
+  "storeName": "복권1번",
+  "phoneNumber": "051-809-7366",
+  "address": "부산 부산진구 부전동 256-6 서면시장1층46호",
+  "latitude": "35.15566",
+  "longitude": "129.05815"
+},
+{
+  "number": "35",
+  "storeName": "GS25양정동호점",
+  "phoneNumber": "051-853-7272",
+  "address": "부산 부산진구 양정동 116-3번지",
+  "latitude": "35.174946",
+  "longitude": "129.07697"
+},
+{
+  "number": "36",
+  "storeName": "사이버정보통신",
+  "phoneNumber": "051-852-8910",
+  "address": "부산 부산진구 양정동 406-4번지 백조상가동103-1호",
+  "latitude": "35.173584",
+  "longitude": "129.07002"
+},
+{
+  "number": "37",
+  "storeName": "셀프카메라",
+  "phoneNumber": "051-897-2778",
+  "address": "부산 부산진구 개금동 472-23번지",
+  "latitude": "35.15445",
+  "longitude": "129.02168"
+},
+{
+  "number": "38",
+  "storeName": "그린파크",
+  "phoneNumber": "051-819-4567",
+  "address": "부산 부산진구 부전동 266-7",
+  "latitude": "35.160667",
+  "longitude": "129.05493"
+},
+{
+  "number": "39",
+  "storeName": "문화전자로또판매점",
+  "phoneNumber": "051-805-5535",
+  "address": "부산 부산진구 부전동 50",
+  "latitude": "35.163235",
+  "longitude": "129.06224"
+},
+{
+  "number": "40",
+  "storeName": "노다지복권방",
+  "phoneNumber": "051-809-0738",
+  "address": "부산 부산진구 전포동 588-6번지",
+  "latitude": "35.161053",
+  "longitude": "129.06488"
+},
+{
+  "number": "41",
+  "storeName": "민경사",
+  "phoneNumber": "051-805-0412",
+  "address": "부산 부산진구 부전동 396-3번지",
+  "latitude": "35.16024",
+  "longitude": "129.05737"
+},
+{
+  "number": "42",
+  "storeName": "복권방",
+  "phoneNumber": "051-893-7523",
+  "address": "부산 부산진구 당감동 738-3번지 202호",
+  "latitude": "35.167713",
+  "longitude": "129.03717"
+},
+{
+  "number": "43",
+  "storeName": "헬로로또",
+  "phoneNumber": "070-4157-9176",
+  "address": "부산 부산진구 범천동 1000-24 상가105호 위드미 내",
+  "latitude": "35.14877",
+  "longitude": "129.05624"
+},
+{
+  "number": "44",
+  "storeName": "삼한로또복권",
+  "phoneNumber": "",
+  "address": "부산 부산진구 범전동 383",
+  "latitude": "35.166203",
+  "longitude": "129.06485"
+},
+{
+  "number": "45",
+  "storeName": "티앤에이",
+  "phoneNumber": "051-807-2223",
+  "address": "부산 부산진구 개금동 258-1",
+  "latitude": "35.15701",
+  "longitude": "129.02502"
+},
+{
+  "number": "46",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "부산 부산진구 가야동 635-2",
+  "latitude": "35.151283",
+  "longitude": "129.02768"
+},
+{
+  "number": "47",
+  "storeName": "편의점사랑",
+  "phoneNumber": "051-634-4097",
+  "address": "부산 부산진구 범천동 845-31",
+  "latitude": "35.14317",
+  "longitude": "129.06064"
+},
+{
+  "number": "48",
+  "storeName": "제이지컴퍼니(JGC)",
+  "phoneNumber": "070-7551-6615",
+  "address": "부산 부산진구 양정동 271-1 1층",
+  "latitude": "35.175087",
+  "longitude": "129.07492"
+},
+{
+  "number": "49",
+  "storeName": "여의주로또",
+  "phoneNumber": "051-807-1354",
+  "address": "부산 부산진구 부암동 666-4 세븐일레븐 부산진구청점내",
+  "latitude": "35.163055",
+  "longitude": "129.05235"
+},
+{
+  "number": "50",
+  "storeName": "대박로또복권방",
+  "phoneNumber": "051-518-5579",
+  "address": "부산 부산진구 연지동 165-8번지",
+  "latitude": "35.169876",
+  "longitude": "129.05032"
+},
+{
+  "number": "51",
+  "storeName": "GS25(서면유성점)",
+  "phoneNumber": "051-645-8195",
+  "address": "부산 부산진구 범천동 858-64 GS25서면 유성점",
+  "latitude": "35.14792",
+  "longitude": "129.06657"
+},
+{
+  "number": "52",
+  "storeName": "황금멧돼지",
+  "phoneNumber": "",
+  "address": "부산 부산진구 양정동 310-12 1층 복권방",
+  "latitude": "35.173893",
+  "longitude": "129.0733"
+},
+{
+  "number": "53",
+  "storeName": "인생꽃길",
+  "phoneNumber": "",
+  "address": "부산 부산진구 초읍동 260-48 1층 복권방",
+  "latitude": "35.177498",
+  "longitude": "129.04832"
+}
+]

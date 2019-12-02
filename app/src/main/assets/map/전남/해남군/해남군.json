@@ -1,0 +1,90 @@
+[
+{
+  "number": "1",
+  "storeName": "로또드림나라",
+  "phoneNumber": "",
+  "address": "전남 해남군 해남읍 해리 300번지",
+  "latitude": "34.57737",
+  "longitude": "126.592"
+},
+{
+  "number": "2",
+  "storeName": "로또나라",
+  "phoneNumber": "061-533-0832",
+  "address": "전남 해남군 해남읍 남동리 37번지",
+  "latitude": "34.57212",
+  "longitude": "126.597885"
+},
+{
+  "number": "3",
+  "storeName": "로또명당",
+  "phoneNumber": "061-534-1313",
+  "address": "전남 해남군 문내면 동외리 875-6번지",
+  "latitude": "34.59669",
+  "longitude": "126.31273"
+},
+{
+  "number": "4",
+  "storeName": "종합복권방",
+  "phoneNumber": "061-536-8161",
+  "address": "전남 해남군 해남읍 해리 189-2",
+  "latitude": "34.57074",
+  "longitude": "126.61094"
+},
+{
+  "number": "5",
+  "storeName": "미니스톱 해남터미널 로또",
+  "phoneNumber": "061-536-7412",
+  "address": "전남 해남군 해남읍 해리 361-28 해남교차로 부근",
+  "latitude": "34.575066",
+  "longitude": "126.59726"
+},
+{
+  "number": "6",
+  "storeName": "로또행운판매점",
+  "phoneNumber": "061-535-0808",
+  "address": "전남 해남군 해남읍 해리 169-1 뉴월드마트 내",
+  "latitude": "34.57116",
+  "longitude": "126.6093"
+},
+{
+  "number": "7",
+  "storeName": "대박복권방",
+  "phoneNumber": "061-536-0070",
+  "address": "전남 해남군 황산면 부곡리 47-1 부곡주유소",
+  "latitude": "34.57055",
+  "longitude": "126.60673"
+},
+{
+  "number": "8",
+  "storeName": "대흥",
+  "phoneNumber": "",
+  "address": "전남 해남군 해남읍 고도리 180",
+  "latitude": "34.569332",
+  "longitude": "126.60673"
+},
+{
+  "number": "9",
+  "storeName": "해남복권방",
+  "phoneNumber": "061-534-1032",
+  "address": "전남 해남군 해남읍 읍내리 72-5",
+  "latitude": "34.56936",
+  "longitude": "126.597404"
+},
+{
+  "number": "10",
+  "storeName": "성동복권나라",
+  "phoneNumber": "061-532-8441",
+  "address": "전남 해남군 해남읍 평동리 171-5번지",
+  "latitude": "34.56796",
+  "longitude": "126.60118"
+},
+{
+  "number": "11",
+  "storeName": "희망전파사",
+  "phoneNumber": "061-536-4418",
+  "address": "전남 해남군 해남읍 고도리 401-15 희망전파사",
+  "latitude": "34.566666",
+  "longitude": "126.5954"
+}
+]

@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "서울로또방",
+  "phoneNumber": "043-733-5550",
+  "address": "충북 옥천군 옥천읍 금구리 142-8번지",
+  "latitude": "36.299484",
+  "longitude": "127.566696"
+},
+{
+  "number": "2",
+  "storeName": "로또명당매화점",
+  "phoneNumber": "043-733-0556",
+  "address": "충북 옥천군 옥천읍 매화리 36-6 옥천휴게소 상행",
+  "latitude": "36.299107",
+  "longitude": "127.597664"
+},
+{
+  "number": "3",
+  "storeName": "하얀꽃집로또",
+  "phoneNumber": "043-731-4533",
+  "address": "충북 옥천군 옥천읍 금구리 172-8 하얀꽃집",
+  "latitude": "36.301926",
+  "longitude": "127.567924"
+},
+{
+  "number": "4",
+  "storeName": "콕콕로또명당옥천점",
+  "phoneNumber": "",
+  "address": "충북 옥천군 옥천읍 매화리 251-4 옥천하휴게소",
+  "latitude": "36.296867",
+  "longitude": "127.59521"
+},
+{
+  "number": "5",
+  "storeName": "쿡쿡로또명당",
+  "phoneNumber": "",
+  "address": "충북 옥천군 옥천읍 금구리 31-1 세븐일레븐편의점",
+  "latitude": "36.30031",
+  "longitude": "127.571175"
+},
+{
+  "number": "6",
+  "storeName": "금강로또",
+  "phoneNumber": "",
+  "address": "충북 옥천군 동이면 조령리 576",
+  "latitude": "36.279453",
+  "longitude": "127.6741"
+},
+{
+  "number": "7",
+  "storeName": "세븐",
+  "phoneNumber": "043-731-6831",
+  "address": "충북 옥천군 옥천읍 하계리 75-3 세븐일레븐편의점",
+  "latitude": "36.312813",
+  "longitude": "127.58053"
+},
+{
+  "number": "8",
+  "storeName": "삼양대박복권방",
+  "phoneNumber": "",
+  "address": "충북 옥천군 옥천읍 삼양리 220-13",
+  "latitude": "36.305183",
+  "longitude": "127.566925"
+}
+]

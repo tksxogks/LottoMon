@@ -1,0 +1,130 @@
+[
+{
+  "number": "1",
+  "storeName": "해피마트",
+  "phoneNumber": "031-461-8493",
+  "address": "경기 의왕시 삼동 471-67 의왕역로터리앞",
+  "latitude": "37.321156",
+  "longitude": "126.94936"
+},
+{
+  "number": "2",
+  "storeName": "명진슈퍼",
+  "phoneNumber": "031-452-8813",
+  "address": "경기 의왕시 고천동 295-26",
+  "latitude": "37.34921",
+  "longitude": "126.9744"
+},
+{
+  "number": "3",
+  "storeName": "누구나복권방",
+  "phoneNumber": "031-422-8090",
+  "address": "경기 의왕시 내손동 631-2 102호",
+  "latitude": "37.388676",
+  "longitude": "126.976006"
+},
+{
+  "number": "4",
+  "storeName": "로또복권의왕점",
+  "phoneNumber": "031-477-7739",
+  "address": "경기 의왕시 오전동 104 104호",
+  "latitude": "37.359474",
+  "longitude": "126.967896"
+},
+{
+  "number": "5",
+  "storeName": "순살로복권",
+  "phoneNumber": "031-421-4110",
+  "address": "경기 의왕시 내손동 690-13",
+  "latitude": "37.383648",
+  "longitude": "126.978325"
+},
+{
+  "number": "6",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-457-9075",
+  "address": "경기 의왕시 오전동 118-8",
+  "latitude": "37.358",
+  "longitude": "126.96567"
+},
+{
+  "number": "7",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-477-4813",
+  "address": "경기 의왕시 오전동 324-9",
+  "latitude": "37.3512",
+  "longitude": "126.973274"
+},
+{
+  "number": "8",
+  "storeName": "진복권방",
+  "phoneNumber": "031-424-7977",
+  "address": "경기 의왕시 포일동 537-6 108호",
+  "latitude": "37.391827",
+  "longitude": "126.98012"
+},
+{
+  "number": "9",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "031-453-0915",
+  "address": "경기 의왕시 고천동 294-3",
+  "latitude": "37.34857",
+  "longitude": "126.97413"
+},
+{
+  "number": "10",
+  "storeName": "GS25(의왕내손점)",
+  "phoneNumber": "031-451-1003",
+  "address": "경기 의왕시 내손동 812-2번지",
+  "latitude": "37.37484",
+  "longitude": "126.96872"
+},
+{
+  "number": "11",
+  "storeName": "하이웨이로또판매점",
+  "phoneNumber": "",
+  "address": "경기 의왕시 왕곡동 260 상행선",
+  "latitude": "37.347164",
+  "longitude": "126.982506"
+},
+{
+  "number": "12",
+  "storeName": "세븐일레븐의왕삼동점",
+  "phoneNumber": "031-461-2453",
+  "address": "경기 의왕시 삼동 208-28",
+  "latitude": "37.32143",
+  "longitude": "126.95471"
+},
+{
+  "number": "13",
+  "storeName": "로또\u0026하이샵",
+  "phoneNumber": "",
+  "address": "경기 의왕시 왕곡동 260 의왕 하행휴게소",
+  "latitude": "37.347527",
+  "longitude": "126.98416"
+},
+{
+  "number": "14",
+  "storeName": "부귀영화",
+  "phoneNumber": "",
+  "address": "경기 의왕시 고천동 283-4 창덕빌딩 1층",
+  "latitude": "37.347797",
+  "longitude": "126.973755"
+},
+{
+  "number": "15",
+  "storeName": "명당복권방",
+  "phoneNumber": "031-345-4013",
+  "address": "경기 의왕시 오전동 281-3 하나마트 101호",
+  "latitude": "37.352573",
+  "longitude": "126.972534"
+},
+{
+  "number": "16",
+  "storeName": "복드림로또복권방",
+  "phoneNumber": "",
+  "address": "경기 의왕시 부곡동 146-82 1층",
+  "latitude": "37.317368",
+  "longitude": "126.952286"
+}
+]

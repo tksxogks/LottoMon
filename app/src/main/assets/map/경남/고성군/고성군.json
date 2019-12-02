@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "로또판매점",
+  "phoneNumber": "055-673-5996",
+  "address": "경남 고성군 고성읍 성내리 163번지",
+  "latitude": "34.974277",
+  "longitude": "128.3224"
+},
+{
+  "number": "2",
+  "storeName": "행운을주는사람들(복권방)",
+  "phoneNumber": "055-673-8210",
+  "address": "경남 고성군 고성읍 동외리 295-18번지",
+  "latitude": "34.974224",
+  "longitude": "128.32465"
+},
+{
+  "number": "3",
+  "storeName": "로또",
+  "phoneNumber": "055-674-3774",
+  "address": "경남 고성군 고성읍 동외리 287-21번지",
+  "latitude": "34.97607",
+  "longitude": "128.32545"
+},
+{
+  "number": "4",
+  "storeName": "커튼나라",
+  "phoneNumber": "055-672-1799",
+  "address": "경남 고성군 고성읍 송학리 323-2 1층",
+  "latitude": "34.977615",
+  "longitude": "128.32602"
+},
+{
+  "number": "5",
+  "storeName": "마니마니 행복쇼핑",
+  "phoneNumber": "055-832-1588",
+  "address": "경남 고성군 하이면 덕호리 535-3 1층 슈퍼",
+  "latitude": "34.928684",
+  "longitude": "128.1203"
+}
+]

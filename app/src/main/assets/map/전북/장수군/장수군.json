@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "복조리복권방",
+  "phoneNumber": "063-351-0998",
+  "address": "전북 장수군 장계면 장계리 351-8번지",
+  "latitude": "35.73101",
+  "longitude": "127.58362"
+},
+{
+  "number": "2",
+  "storeName": "로또판매점",
+  "phoneNumber": "063-351-1717",
+  "address": "전북 장수군 장수읍 장수리 277-1번지",
+  "latitude": "35.648827",
+  "longitude": "127.52071"
+},
+{
+  "number": "3",
+  "storeName": "대박로또방",
+  "phoneNumber": "063-351-6790",
+  "address": "전북 장수군 장수읍 장수리 514-3번지",
+  "latitude": "35.646633",
+  "longitude": "127.51843"
+}
+]

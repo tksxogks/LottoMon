@@ -1,0 +1,1034 @@
+[
+{
+  "number": "1",
+  "storeName": "세븐일레븐 부천소사대로점",
+  "phoneNumber": "032-347-0456",
+  "address": "경기 부천시 도당동 88-13 씨유",
+  "latitude": "37.472584",
+  "longitude": "126.79524"
+},
+{
+  "number": "2",
+  "storeName": "복권방",
+  "phoneNumber": "032-344-0498",
+  "address": "경기 부천시 소사구 괴안동 109-8번지",
+  "latitude": "37.483406",
+  "longitude": "126.81097"
+},
+{
+  "number": "3",
+  "storeName": "해피데이복권방",
+  "phoneNumber": "032-343-2063",
+  "address": "경기 부천시 소사구 괴안동 40-13번지 1층동향좌측1호",
+  "latitude": "37.479984",
+  "longitude": "126.80605"
+},
+{
+  "number": "4",
+  "storeName": "복권천국",
+  "phoneNumber": "032-673-8722",
+  "address": "경기 부천시 오정구 고강동 318",
+  "latitude": "37.52828",
+  "longitude": "126.81478"
+},
+{
+  "number": "5",
+  "storeName": "씨지랜드",
+  "phoneNumber": "032-325-5151",
+  "address": "경기 부천시 상동 412번지 금강리빙스텔111",
+  "latitude": "37.490078",
+  "longitude": "126.75341"
+},
+{
+  "number": "6",
+  "storeName": "대부",
+  "phoneNumber": "032-324-5982",
+  "address": "경기 부천시 부천동 110-10 1층",
+  "latitude": "37.506287",
+  "longitude": "126.754875"
+},
+{
+  "number": "7",
+  "storeName": "돼지네슈퍼",
+  "phoneNumber": "032-347-5889",
+  "address": "경기 부천시 소사구 소사본동 231-4번지",
+  "latitude": "37.47071",
+  "longitude": "126.79563"
+},
+{
+  "number": "8",
+  "storeName": "태봉",
+  "phoneNumber": "032-346-6021",
+  "address": "경기 부천시 소사구 소사본동 184-7번지",
+  "latitude": "37.474373",
+  "longitude": "126.79573"
+},
+{
+  "number": "9",
+  "storeName": "마리오슈퍼",
+  "phoneNumber": "032-667-5368",
+  "address": "경기 부천시 상동 535-1 1층 118호",
+  "latitude": "37.482212",
+  "longitude": "126.78196"
+},
+{
+  "number": "10",
+  "storeName": "동양상회",
+  "phoneNumber": "032-614-5850",
+  "address": "경기 부천시 심곡본동 672-4 Cu",
+  "latitude": "37.48283",
+  "longitude": "126.782715"
+},
+{
+  "number": "11",
+  "storeName": "코사마트춘성점",
+  "phoneNumber": "032-664-6649",
+  "address": "경기 부천시 소사구 송내동 374번지 호암프라자104호",
+  "latitude": "37.48424",
+  "longitude": "126.76678"
+},
+{
+  "number": "12",
+  "storeName": "행복미니슈퍼",
+  "phoneNumber": "032-654-6510",
+  "address": "경기 부천시 원미구 심곡동 351-3번지",
+  "latitude": "37.4871",
+  "longitude": "126.775604"
+},
+{
+  "number": "13",
+  "storeName": "영동슈퍼",
+  "phoneNumber": "032-612-7785",
+  "address": "경기 부천시 원미구 심곡동 409-11번지",
+  "latitude": "37.488518",
+  "longitude": "126.78046"
+},
+{
+  "number": "14",
+  "storeName": "한국슈퍼",
+  "phoneNumber": "032-682-2902",
+  "address": "경기 부천시 오정구 원종동 228번지 한울빌리지 상가101호",
+  "latitude": "37.525066",
+  "longitude": "126.80415"
+},
+{
+  "number": "15",
+  "storeName": "풍전슈퍼",
+  "phoneNumber": "032-664-8909",
+  "address": "경기 부천시 원미구 원미동 55-1번지",
+  "latitude": "37.497047",
+  "longitude": "126.79115"
+},
+{
+  "number": "16",
+  "storeName": "장군슈퍼",
+  "phoneNumber": "032-672-5256",
+  "address": "경기 부천시 오정구 원종동 70-8번지",
+  "latitude": "37.5309",
+  "longitude": "126.805115"
+},
+{
+  "number": "17",
+  "storeName": "디딤슈퍼",
+  "phoneNumber": "032-675-6098",
+  "address": "경기 부천시 원미구 도당동 164-20번지",
+  "latitude": "37.510586",
+  "longitude": "126.78058"
+},
+{
+  "number": "18",
+  "storeName": "성진마트",
+  "phoneNumber": "032-678-3224",
+  "address": "경기 부천시 오정구 내동 150번지",
+  "latitude": "37.51696",
+  "longitude": "126.779305"
+},
+{
+  "number": "19",
+  "storeName": "후레쉬슈퍼",
+  "phoneNumber": "032-654-3551",
+  "address": "경기 부천시 심곡동 120-22 101호",
+  "latitude": "37.49193",
+  "longitude": "126.785545"
+},
+{
+  "number": "20",
+  "storeName": "코사마트",
+  "phoneNumber": "032-683-8870",
+  "address": "경기 부천시 오정구 내동 99-2번지",
+  "latitude": "37.527065",
+  "longitude": "126.7826"
+},
+{
+  "number": "21",
+  "storeName": "약대매점",
+  "phoneNumber": "032-675-9695",
+  "address": "경기 부천시 원미구 도당동 218-9",
+  "latitude": "37.51423",
+  "longitude": "126.77426"
+},
+{
+  "number": "22",
+  "storeName": "역곡중앙슈퍼",
+  "phoneNumber": "032-343-4990",
+  "address": "경기 부천시 원미구 역곡동 79-5번지",
+  "latitude": "37.485268",
+  "longitude": "126.81026"
+},
+{
+  "number": "23",
+  "storeName": "쌍굴다리슈퍼",
+  "phoneNumber": "",
+  "address": "경기 부천시 원미구 춘의동 210-1번지",
+  "latitude": "37.500427",
+  "longitude": "126.786095"
+},
+{
+  "number": "24",
+  "storeName": "L-마트",
+  "phoneNumber": "032-621-1140",
+  "address": "경기 부천시 오정구 삼정동 364번지 부천테크노파크100-103",
+  "latitude": "37.51919",
+  "longitude": "126.7624"
+},
+{
+  "number": "25",
+  "storeName": "예스마트중동점",
+  "phoneNumber": "032-653-5809",
+  "address": "경기 부천시 원미구 중동 726번지",
+  "latitude": "37.494736",
+  "longitude": "126.76428"
+},
+{
+  "number": "26",
+  "storeName": "부부마트",
+  "phoneNumber": "032-673-0944",
+  "address": "경기 부천시 오정구 내동 373번지 장미빌라상가103",
+  "latitude": "37.52179",
+  "longitude": "126.79002"
+},
+{
+  "number": "27",
+  "storeName": "신문가판",
+  "phoneNumber": "032-662-6377",
+  "address": "경기 부천시 심곡본동 746-27번지",
+  "latitude": "37.48266",
+  "longitude": "126.78568"
+},
+{
+  "number": "28",
+  "storeName": "가판점",
+  "phoneNumber": "032-663-9602",
+  "address": "경기 부천시 소사구 심곡본동 543 이마트앞 지하도입구",
+  "latitude": "37.48401",
+  "longitude": "126.7787"
+},
+{
+  "number": "29",
+  "storeName": "역곡역전로또",
+  "phoneNumber": "032-344-8851",
+  "address": "경기 부천시 괴안동 114-5 가판대",
+  "latitude": "37.4839",
+  "longitude": "126.81168"
+},
+{
+  "number": "30",
+  "storeName": "행복한나그네매표소",
+  "phoneNumber": "032-325-8826",
+  "address": "경기 부천시 중동 1054 경기 부천시 중동 1054-1",
+  "latitude": "37.50516",
+  "longitude": "126.77533"
+},
+{
+  "number": "31",
+  "storeName": "가판대",
+  "phoneNumber": "032-665-9655",
+  "address": "경기 부천시 원미구 상동 318-5번지",
+  "latitude": "37.488552",
+  "longitude": "126.76267"
+},
+{
+  "number": "32",
+  "storeName": "매표소",
+  "phoneNumber": "032-681-0447",
+  "address": "경기 부천시 원미구 도당동 255-2번지 도로부지",
+  "latitude": "37.508633",
+  "longitude": "126.785095"
+},
+{
+  "number": "33",
+  "storeName": "버스매표소",
+  "phoneNumber": "032-656-6778",
+  "address": "경기 부천시 원미구 심곡동 78-1번지",
+  "latitude": "37.497684",
+  "longitude": "126.78532"
+},
+{
+  "number": "34",
+  "storeName": "가판점",
+  "phoneNumber": "032-663-0945",
+  "address": "경기 부천시 심곡동 176-13번지 국민은행버스정류장 옆 가판",
+  "latitude": "37.486374",
+  "longitude": "126.78152"
+},
+{
+  "number": "35",
+  "storeName": "드림테크",
+  "phoneNumber": "",
+  "address": "경기 부천시 괴안동 28-2번지 기풍빌딩 107호",
+  "latitude": "37.478973",
+  "longitude": "126.803635"
+},
+{
+  "number": "36",
+  "storeName": "대박나라베팅숍",
+  "phoneNumber": "032-651-6356",
+  "address": "경기 부천시 소사구 송내동 450-8번지",
+  "latitude": "37.47941",
+  "longitude": "126.76549"
+},
+{
+  "number": "37",
+  "storeName": "세민",
+  "phoneNumber": "032-662-2335",
+  "address": "경기 부천시 원미구 중동 770-5번지 1층",
+  "latitude": "37.4929",
+  "longitude": "126.76666"
+},
+{
+  "number": "38",
+  "storeName": "피아치",
+  "phoneNumber": "032-325-2049",
+  "address": "경기 부천시 소사본동 195 1층 CU",
+  "latitude": "37.489433",
+  "longitude": "126.75572"
+},
+{
+  "number": "39",
+  "storeName": "카베",
+  "phoneNumber": "032-326-2772",
+  "address": "경기 부천시 원미구 상동 455번지 삼원타운1층-120",
+  "latitude": "37.48947",
+  "longitude": "126.755104"
+},
+{
+  "number": "40",
+  "storeName": "꿈과희망의복권방",
+  "phoneNumber": "032-611-7382",
+  "address": "경기 부천시 원미구 원미동 94-1번지",
+  "latitude": "37.49411",
+  "longitude": "126.79144"
+},
+{
+  "number": "41",
+  "storeName": "버스매표소",
+  "phoneNumber": "032-656-9688",
+  "address": "경기 부천시 원미구 심곡동 164-4번지 도로부지",
+  "latitude": "37.48698",
+  "longitude": "126.78369"
+},
+{
+  "number": "42",
+  "storeName": "인더라인25시",
+  "phoneNumber": "032-620-5553",
+  "address": "경기 부천시 원미구 중동 1111번지 위브더스테이트상가6-109",
+  "latitude": "37.498627",
+  "longitude": "126.7786"
+},
+{
+  "number": "43",
+  "storeName": "송내매표소",
+  "phoneNumber": "032-654-3320",
+  "address": "경기 부천시 송내동 709-2번지 버스정류장",
+  "latitude": "37.48689",
+  "longitude": "126.75283"
+},
+{
+  "number": "44",
+  "storeName": "드림LCL",
+  "phoneNumber": "032-671-8710",
+  "address": "경기 부천시 고강동 337번지 가람5차 101호",
+  "latitude": "37.52389",
+  "longitude": "126.813576"
+},
+{
+  "number": "45",
+  "storeName": "원종슈퍼",
+  "phoneNumber": "032-672-2862",
+  "address": "경기 부천시 원종동 140-3번지 코아상가4호",
+  "latitude": "37.52525",
+  "longitude": "126.799644"
+},
+{
+  "number": "46",
+  "storeName": "황금당안경원",
+  "phoneNumber": "032-674-8984",
+  "address": "경기 부천시 원종동 220번지 1층",
+  "latitude": "37.52629",
+  "longitude": "126.80344"
+},
+{
+  "number": "47",
+  "storeName": "KB스타의로또",
+  "phoneNumber": "032-671-4441",
+  "address": "경기 부천시 오정동 725번지 훼미리마트내",
+  "latitude": "37.52982",
+  "longitude": "126.78596"
+},
+{
+  "number": "48",
+  "storeName": "일등복권방",
+  "phoneNumber": "032-679-1494",
+  "address": "경기 부천시 오정구 작동 32번지 영미빌딩",
+  "latitude": "37.518745",
+  "longitude": "126.815125"
+},
+{
+  "number": "49",
+  "storeName": "제일슈퍼내로또",
+  "phoneNumber": "032-652-8563",
+  "address": "경기 부천시 원미구 상동 241번지 제일슈퍼내",
+  "latitude": "37.49169",
+  "longitude": "126.76239"
+},
+{
+  "number": "50",
+  "storeName": "로또명당",
+  "phoneNumber": "032-675-5249",
+  "address": "경기 부천시 원미구 춘의동 135-8번지 1층제일마트",
+  "latitude": "37.504257",
+  "longitude": "126.78665"
+},
+{
+  "number": "51",
+  "storeName": "엠파이어슈퍼",
+  "phoneNumber": "032-663-6004",
+  "address": "경기 부천시 소사구 송내동 571-13번지",
+  "latitude": "37.484554",
+  "longitude": "126.774185"
+},
+{
+  "number": "52",
+  "storeName": "해든복권나라",
+  "phoneNumber": "032-611-6533",
+  "address": "경기 부천시 중동 1135번지 대야하이빌투 106호",
+  "latitude": "37.500797",
+  "longitude": "126.77434"
+},
+{
+  "number": "53",
+  "storeName": "복권방",
+  "phoneNumber": "032-678-5384",
+  "address": "경기 부천시 원미구 도당동 141-3번지 성진그린타운102-102",
+  "latitude": "37.520252",
+  "longitude": "126.79549"
+},
+{
+  "number": "54",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-653-7824",
+  "address": "경기 부천시 소사구 심곡본동 668-3번지 1층",
+  "latitude": "37.48293",
+  "longitude": "126.77954"
+},
+{
+  "number": "55",
+  "storeName": "로또복권판매",
+  "phoneNumber": "032-653-7172",
+  "address": "경기 부천시 원미구 중동 1107번지 위브더스테이트 102동 111호 CU부천위브점",
+  "latitude": "37.501854",
+  "longitude": "126.775986"
+},
+{
+  "number": "56",
+  "storeName": "해뜨리편의점",
+  "phoneNumber": "070-8869-1279",
+  "address": "경기 부천시 원미구 심곡동 89-13번지",
+  "latitude": "37.495316",
+  "longitude": "126.78499"
+},
+{
+  "number": "57",
+  "storeName": "대길복권방",
+  "phoneNumber": "032-652-6290",
+  "address": "경기 부천시 원미구 원미동 118-23번지",
+  "latitude": "37.49231",
+  "longitude": "126.78874"
+},
+{
+  "number": "58",
+  "storeName": "행운슈퍼 복권사는날",
+  "phoneNumber": "032-656-5128",
+  "address": "경기 부천시 소사구 송내동 578-5번지",
+  "latitude": "37.48377",
+  "longitude": "126.77174"
+},
+{
+  "number": "59",
+  "storeName": "복권마트",
+  "phoneNumber": "032-344-9787",
+  "address": "경기 부천시 소사구 소사본동 75-6번지 1층",
+  "latitude": "37.480827",
+  "longitude": "126.79531"
+},
+{
+  "number": "60",
+  "storeName": "아성슈퍼",
+  "phoneNumber": "032-654-0584",
+  "address": "경기 부천시 원미구 중동 712-4번지",
+  "latitude": "37.495827",
+  "longitude": "126.76499"
+},
+{
+  "number": "61",
+  "storeName": "복권천국",
+  "phoneNumber": "032-665-0601",
+  "address": "경기 부천시 심곡동 145-4번지",
+  "latitude": "37.485226",
+  "longitude": "126.78586"
+},
+{
+  "number": "62",
+  "storeName": "인생역전",
+  "phoneNumber": "032-678-0740",
+  "address": "경기 부천시 오정동 566-17 승광빌딩 1층",
+  "latitude": "37.52434",
+  "longitude": "126.78675"
+},
+{
+  "number": "63",
+  "storeName": "중동다복점",
+  "phoneNumber": "032-682-7788",
+  "address": "경기 부천시 중동 677-2",
+  "latitude": "37.51105",
+  "longitude": "126.78423"
+},
+{
+  "number": "64",
+  "storeName": "로또복권판매점",
+  "phoneNumber": "032-329-4747",
+  "address": "경기 부천시 중동 1142-5 1층 세븐일레븐",
+  "latitude": "37.505177",
+  "longitude": "126.752426"
+},
+{
+  "number": "65",
+  "storeName": "경인로또판매점",
+  "phoneNumber": "032-677-9984",
+  "address": "경기 부천시 도당동 62 102호",
+  "latitude": "37.51782",
+  "longitude": "126.78446"
+},
+{
+  "number": "66",
+  "storeName": "그린슈퍼",
+  "phoneNumber": "032-652-1314",
+  "address": "경기 부천시 소사구 심곡본동 810-7번지",
+  "latitude": "37.47559",
+  "longitude": "126.77398"
+},
+{
+  "number": "67",
+  "storeName": "two\u0026four고강점",
+  "phoneNumber": "032-683-1760",
+  "address": "경기 부천시 고강동 474-1",
+  "latitude": "37.526844",
+  "longitude": "126.8158"
+},
+{
+  "number": "68",
+  "storeName": "내동마트24시복권방",
+  "phoneNumber": "032-683-9675",
+  "address": "경기 부천시 오정구 삼정동 305-21번지",
+  "latitude": "37.517525",
+  "longitude": "126.77274"
+},
+{
+  "number": "69",
+  "storeName": "Q복권방",
+  "phoneNumber": "",
+  "address": "경기 부천시 원미구 도당동 279-1번지",
+  "latitude": "37.50718",
+  "longitude": "126.78046"
+},
+{
+  "number": "70",
+  "storeName": "대한복권",
+  "phoneNumber": "032-655-2744",
+  "address": "경기 부천시 원미구 심곡동 158-13번지",
+  "latitude": "37.489586",
+  "longitude": "126.78421"
+},
+{
+  "number": "71",
+  "storeName": "대박",
+  "phoneNumber": "070-7643-4388",
+  "address": "경기 부천시 원미구 역곡동 85-7번지 1층",
+  "latitude": "37.488197",
+  "longitude": "126.811646"
+},
+{
+  "number": "72",
+  "storeName": "창대마트",
+  "phoneNumber": "032-657-7388",
+  "address": "경기 부천시 원미구 원미동 1-2번지 1층",
+  "latitude": "37.500053",
+  "longitude": "126.79339"
+},
+{
+  "number": "73",
+  "storeName": "노다지슈퍼",
+  "phoneNumber": "032-671-6194",
+  "address": "경기 부천시 도당동 283-7번지",
+  "latitude": "37.507763",
+  "longitude": "126.78001"
+},
+{
+  "number": "74",
+  "storeName": "위드미 부천소사본점",
+  "phoneNumber": "032-349-6655",
+  "address": "경기 부천시 소사본동 132-4번지",
+  "latitude": "37.480488",
+  "longitude": "126.79323"
+},
+{
+  "number": "75",
+  "storeName": "원종슈퍼",
+  "phoneNumber": "032-673-9828",
+  "address": "경기 부천시 오정구 원종동 241-14번지",
+  "latitude": "37.528473",
+  "longitude": "126.80712"
+},
+{
+  "number": "76",
+  "storeName": "코사할인마트",
+  "phoneNumber": "032-652-1354",
+  "address": "경기 부천시 원미동 149-45번지",
+  "latitude": "37.490284",
+  "longitude": "126.7877"
+},
+{
+  "number": "77",
+  "storeName": "CU(원종깨비점)",
+  "phoneNumber": "032-675-2997",
+  "address": "경기 부천시 원종동 280-9번지 CU원종깨비점",
+  "latitude": "37.52288",
+  "longitude": "126.80517"
+},
+{
+  "number": "78",
+  "storeName": "GS25(부천소신점)",
+  "phoneNumber": "032-652-5277",
+  "address": "경기 부천시 원미구 심곡동 170-9번지",
+  "latitude": "37.484985",
+  "longitude": "126.78484"
+},
+{
+  "number": "79",
+  "storeName": "CU(중동계남점)",
+  "phoneNumber": "032-655-4982",
+  "address": "경기 부천시 원미구 중동 1208번지",
+  "latitude": "37.49502",
+  "longitude": "126.77094"
+},
+{
+  "number": "80",
+  "storeName": "씨스페이스(중동점)",
+  "phoneNumber": "032-327-2248",
+  "address": "경기 부천시 원미구 중동 1152번지 상록쎈트럴 109호",
+  "latitude": "37.5015",
+  "longitude": "126.76904"
+},
+{
+  "number": "81",
+  "storeName": "상동복권방",
+  "phoneNumber": "032-328-4344",
+  "address": "경기 부천시 상동 443-8",
+  "latitude": "37.5051",
+  "longitude": "126.75371"
+},
+{
+  "number": "82",
+  "storeName": "부천중동점로또판매",
+  "phoneNumber": "032-322-8752",
+  "address": "경기 부천시 소사동 44-6 복권방 건물",
+  "latitude": "37.50439",
+  "longitude": "126.76956"
+},
+{
+  "number": "83",
+  "storeName": "행운복권방",
+  "phoneNumber": "032-346-2972",
+  "address": "경기 부천시 소사구 소사본동 199번지 1층",
+  "latitude": "37.473244",
+  "longitude": "126.798454"
+},
+{
+  "number": "84",
+  "storeName": "로또대박",
+  "phoneNumber": "",
+  "address": "경기 부천시 상동 541-1 1층, 129호",
+  "latitude": "37.469505",
+  "longitude": "126.82013"
+},
+{
+  "number": "85",
+  "storeName": "여월마트",
+  "phoneNumber": "032-684-0010",
+  "address": "경기 부천시 여월동 48-17",
+  "latitude": "37.51523",
+  "longitude": "126.80317"
+},
+{
+  "number": "86",
+  "storeName": "삼정로또",
+  "phoneNumber": "032-682-0365",
+  "address": "경기 부천시 원종동 367 1층, 109호",
+  "latitude": "37.521477",
+  "longitude": "126.77139"
+},
+{
+  "number": "87",
+  "storeName": "복권닷컴",
+  "phoneNumber": "032-673-8934",
+  "address": "경기 부천시 오정구 삼정동 314-3번지 1층",
+  "latitude": "37.51584",
+  "longitude": "126.7704"
+},
+{
+  "number": "88",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-668-8494",
+  "address": "경기 부천시 원미구 상동 565-3번지",
+  "latitude": "37.50168",
+  "longitude": "126.75629"
+},
+{
+  "number": "89",
+  "storeName": "이지마트24 심곡2호",
+  "phoneNumber": "032-657-9290",
+  "address": "경기 부천시 옥길동 726-1 107호 핸드폰가게",
+  "latitude": "37.46812",
+  "longitude": "126.82279"
+},
+{
+  "number": "90",
+  "storeName": "SPAR편의점",
+  "phoneNumber": "032-345-1456",
+  "address": "경기 부천시 소사동 5-10번지",
+  "latitude": "37.48585",
+  "longitude": "126.79114"
+},
+{
+  "number": "91",
+  "storeName": "컴앤휴",
+  "phoneNumber": "032-343-8100",
+  "address": "경기 부천시 소사구 소사본동 141-47번지",
+  "latitude": "37.47858",
+  "longitude": "126.79451"
+},
+{
+  "number": "92",
+  "storeName": "이레정보통신",
+  "phoneNumber": "032-684-4016",
+  "address": "경기 부천시 오정구 원종동 375-6번지",
+  "latitude": "37.518894",
+  "longitude": "126.804535"
+},
+{
+  "number": "93",
+  "storeName": "대박복권방",
+  "phoneNumber": "032-672-5011",
+  "address": "경기 부천시 오정구 고강동 390-4번지 고강빌딩1층",
+  "latitude": "37.527325",
+  "longitude": "126.82164"
+},
+{
+  "number": "94",
+  "storeName": "현대슈퍼",
+  "phoneNumber": "032-671-2850",
+  "address": "경기 부천시 오정구 오정동 593-1번지",
+  "latitude": "37.52689",
+  "longitude": "126.78307"
+},
+{
+  "number": "95",
+  "storeName": "은미복권방",
+  "phoneNumber": "032-682-0570",
+  "address": "경기 부천시 원종동 232번지",
+  "latitude": "37.526863",
+  "longitude": "126.805115"
+},
+{
+  "number": "96",
+  "storeName": "로또명당상동점",
+  "phoneNumber": "032-212-8282",
+  "address": "경기 부천시 원미구 상동 538-1번지 효성프라자108호",
+  "latitude": "37.506824",
+  "longitude": "126.75796"
+},
+{
+  "number": "97",
+  "storeName": "이지24 로또점",
+  "phoneNumber": "032-343-9215",
+  "address": "경기 부천시 심곡본동 591-6",
+  "latitude": "37.4827",
+  "longitude": "126.7775"
+},
+{
+  "number": "98",
+  "storeName": "사랑방로또",
+  "phoneNumber": "032-323-4277",
+  "address": "경기 부천시 중동 1147-5번지 cu중동설레임점 내",
+  "latitude": "37.50246",
+  "longitude": "126.771996"
+},
+{
+  "number": "99",
+  "storeName": "정우로또",
+  "phoneNumber": "032-328-5182",
+  "address": "경기 부천시 심곡동 314 1층 CU",
+  "latitude": "37.491325",
+  "longitude": "126.7468"
+},
+{
+  "number": "100",
+  "storeName": "좋은예감",
+  "phoneNumber": "032-325-9740",
+  "address": "경기 부천시 원미구 상동 408번지 cu송내1호점 내",
+  "latitude": "37.490158",
+  "longitude": "126.751564"
+},
+{
+  "number": "101",
+  "storeName": "형제상회",
+  "phoneNumber": "032-343-1008",
+  "address": "경기 부천시 원미구 역곡동 112번지",
+  "latitude": "37.486248",
+  "longitude": "126.813286"
+},
+{
+  "number": "102",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-666-3707",
+  "address": "경기 부천시 원미구 원미동 68-3번지 1층점포",
+  "latitude": "37.497658",
+  "longitude": "126.78677"
+},
+{
+  "number": "103",
+  "storeName": "대박천국",
+  "phoneNumber": "032-679-1500",
+  "address": "경기 부천시 도당동 42-4 1층, 세븐일레븐 옆 복권방",
+  "latitude": "37.51906",
+  "longitude": "126.78612"
+},
+{
+  "number": "104",
+  "storeName": "복권천하",
+  "phoneNumber": "032-322-1333",
+  "address": "경기 부천시 중동 1129번지 이스트타워 1층105-1호",
+  "latitude": "37.499",
+  "longitude": "126.775475"
+},
+{
+  "number": "105",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경기 부천시 중동 807",
+  "latitude": "37.48798",
+  "longitude": "126.76629"
+},
+{
+  "number": "106",
+  "storeName": "컴앤휴",
+  "phoneNumber": "032-343-8100",
+  "address": "경기 부천시 소사구 소사본동 141-47번지",
+  "latitude": "37.47858",
+  "longitude": "126.79451"
+},
+{
+  "number": "107",
+  "storeName": "럭키",
+  "phoneNumber": "",
+  "address": "경기 부천시 삼정동 315-14",
+  "latitude": "37.51525",
+  "longitude": "126.77187"
+},
+{
+  "number": "108",
+  "storeName": "역전슈퍼",
+  "phoneNumber": "032-665-6420",
+  "address": "경기 부천시 원미구 상동 346-5",
+  "latitude": "37.487034",
+  "longitude": "126.76366"
+},
+{
+  "number": "109",
+  "storeName": "나들가게",
+  "phoneNumber": "",
+  "address": "경기 부천시 대산동 695 1층 슈퍼",
+  "latitude": "37.49228",
+  "longitude": "126.79294"
+},
+{
+  "number": "110",
+  "storeName": "대박슈퍼",
+  "phoneNumber": "",
+  "address": "경기 부천시 원미동 115-2 마동 1층 103호",
+  "latitude": "37.49172",
+  "longitude": "126.790474"
+},
+{
+  "number": "111",
+  "storeName": "가나다",
+  "phoneNumber": "",
+  "address": "경기 부천시 삼정동 36-1 부천테크노파크쌍용3차 203동 2층 201호 CU",
+  "latitude": "37.52293",
+  "longitude": "126.76813"
+},
+{
+  "number": "112",
+  "storeName": "대박복권방",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡본동 585-1",
+  "latitude": "37.478695",
+  "longitude": "126.77486"
+},
+{
+  "number": "113",
+  "storeName": "부천원미로또",
+  "phoneNumber": "032-672-1212",
+  "address": "경기 부천시 원미구 도당동 32-13 세븐일레븐 부천원미도당점",
+  "latitude": "37.515736",
+  "longitude": "126.78537"
+},
+{
+  "number": "114",
+  "storeName": "CU로또",
+  "phoneNumber": "",
+  "address": "경기 부천시 원종동 199-4 1층 CU편의점",
+  "latitude": "37.522785",
+  "longitude": "126.80018"
+},
+{
+  "number": "115",
+  "storeName": "세븐일레븐 부천 상동역점",
+  "phoneNumber": "",
+  "address": "경기 부천시 상동 538-7 1층 세븐일레븐 부천상동역점",
+  "latitude": "37.47935",
+  "longitude": "126.77124"
+},
+{
+  "number": "116",
+  "storeName": "대박복권",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡본동 316-2 부천역사쇼핑몰 W6, 7-2호",
+  "latitude": "37.483997",
+  "longitude": "126.78273"
+},
+{
+  "number": "117",
+  "storeName": "스타 의류수선",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡동 394-16 경기 부천시 심곡동 394-16",
+  "latitude": "37.4865",
+  "longitude": "126.77835"
+},
+{
+  "number": "118",
+  "storeName": "GS25(상동서해점)",
+  "phoneNumber": "032-327-8328",
+  "address": "경기 부천시 원미구 상동 546-6번지 서해프라자106,7호",
+  "latitude": "37.503925",
+  "longitude": "126.750656"
+},
+{
+  "number": "119",
+  "storeName": "GS25(상동현해점)",
+  "phoneNumber": "032-322-1406",
+  "address": "경기 부천시 원미구 상동 534-5번지 현해프라자109호",
+  "latitude": "37.506653",
+  "longitude": "126.7528"
+},
+{
+  "number": "120",
+  "storeName": "씨스페이스(중앙공원점)",
+  "phoneNumber": "032-321-9987",
+  "address": "경기 부천시 원미구 중동 1160-1번지 대우마이빌센트럴파크107호",
+  "latitude": "37.50224",
+  "longitude": "126.7634"
+},
+{
+  "number": "121",
+  "storeName": "대박복권",
+  "phoneNumber": "",
+  "address": "경기 부천시 오정동 394-22",
+  "latitude": "37.528957",
+  "longitude": "126.78185"
+},
+{
+  "number": "122",
+  "storeName": "대박",
+  "phoneNumber": "",
+  "address": "경기 부천시 중동 157-3 1층 CU",
+  "latitude": "37.495857",
+  "longitude": "126.77634"
+},
+{
+  "number": "123",
+  "storeName": "유성상회",
+  "phoneNumber": "",
+  "address": "경기 부천시 상동 532-1 104호",
+  "latitude": "37.50727",
+  "longitude": "126.75011"
+},
+{
+  "number": "124",
+  "storeName": "대박로또판매점",
+  "phoneNumber": "",
+  "address": "경기 부천시 소사본동 88-17 소사본동 88-7 외 9필지 내 제 5호",
+  "latitude": "37.482388",
+  "longitude": "126.79009"
+},
+{
+  "number": "125",
+  "storeName": "매일복권판매점",
+  "phoneNumber": "",
+  "address": "경기 부천시 신중동 1172 아주종합상가 1층 118호",
+  "latitude": "37.49725",
+  "longitude": "126.75747"
+},
+{
+  "number": "126",
+  "storeName": "새로나마트",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡동 437-1 새로나마트",
+  "latitude": "37.49267",
+  "longitude": "126.78096"
+},
+{
+  "number": "127",
+  "storeName": "피노키오",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡동 385 1층 128호",
+  "latitude": "37.48551",
+  "longitude": "126.78017"
+},
+{
+  "number": "128",
+  "storeName": "테크노",
+  "phoneNumber": "",
+  "address": "경기 부천시 심곡본동 712",
+  "latitude": "37.47898",
+  "longitude": "126.78159"
+},
+{
+  "number": "129",
+  "storeName": "연예인복권방",
+  "phoneNumber": "",
+  "address": "경기 부천시 대산동 655-24 1층",
+  "latitude": "37.48085",
+  "longitude": "126.77903"
+}
+]

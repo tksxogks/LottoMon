@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "로또명당",
+  "phoneNumber": "033-345-1404",
+  "address": "강원 횡성군 둔내면 둔방내리 108-9 1층",
+  "latitude": "37.51265",
+  "longitude": "128.21352"
+},
+{
+  "number": "2",
+  "storeName": "횡성유통복권방",
+  "phoneNumber": "033-342-7575",
+  "address": "강원 횡성군 횡성읍 북천리 115-137",
+  "latitude": "37.4929",
+  "longitude": "127.99167"
+},
+{
+  "number": "3",
+  "storeName": "노다지복권",
+  "phoneNumber": "033-344-4404",
+  "address": "강원 횡성군 횡성읍 읍상리 270-4",
+  "latitude": "37.48849",
+  "longitude": "127.988686"
+},
+{
+  "number": "4",
+  "storeName": "CU(횡성점)",
+  "phoneNumber": "033-342-5805",
+  "address": "강원 횡성군 횡성읍 읍하리 115-11",
+  "latitude": "37.48881",
+  "longitude": "127.985664"
+}
+]

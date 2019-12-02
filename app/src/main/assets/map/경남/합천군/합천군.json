@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "합천우리복권방",
+  "phoneNumber": "",
+  "address": "경남 합천군 합천읍 합천리 428-5 1층",
+  "latitude": "35.568676",
+  "longitude": "128.16534"
+},
+{
+  "number": "2",
+  "storeName": "야성산업건재",
+  "phoneNumber": "055-934-1838",
+  "address": "경남 합천군 야로면 구정리 279-10번지 LIG손해보험 내",
+  "latitude": "35.70536",
+  "longitude": "128.1688"
+},
+{
+  "number": "3",
+  "storeName": "해인사로또",
+  "phoneNumber": "055-932-7362",
+  "address": "경남 합천군 가야면 치인리 산21-1번지",
+  "latitude": "35.792213",
+  "longitude": "128.08781"
+},
+{
+  "number": "4",
+  "storeName": "정유슈퍼",
+  "phoneNumber": "055-933-6211",
+  "address": "경남 합천군 봉산면 김봉리 352-13 1층 정유슈퍼",
+  "latitude": "35.627033",
+  "longitude": "128.04288"
+}
+]

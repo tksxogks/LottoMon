@@ -1,0 +1,370 @@
+[
+{
+  "number": "1",
+  "storeName": "부자복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동3가 1472-3",
+  "latitude": "35.809414",
+  "longitude": "127.115616"
+},
+{
+  "number": "2",
+  "storeName": "은혜복권방",
+  "phoneNumber": "063-253-3363",
+  "address": "전북 전주시 완산구 서신동 796-4번지",
+  "latitude": "35.831978",
+  "longitude": "127.11388"
+},
+{
+  "number": "3",
+  "storeName": "복권나라",
+  "phoneNumber": "063-224-4130",
+  "address": "전북 전주시 완산구 삼천동1가 602-4번지",
+  "latitude": "35.79783",
+  "longitude": "127.11709"
+},
+{
+  "number": "4",
+  "storeName": "노다지복권방",
+  "phoneNumber": "063-228-2571",
+  "address": "전북 전주시 완산구 삼천동1가 595번지",
+  "latitude": "35.79971",
+  "longitude": "127.1181"
+},
+{
+  "number": "5",
+  "storeName": "복권나라",
+  "phoneNumber": "063-905-0322",
+  "address": "전북 전주시 완산구 중화산동2가 114 1층",
+  "latitude": "35.812103",
+  "longitude": "127.12629"
+},
+{
+  "number": "6",
+  "storeName": "대박복권방",
+  "phoneNumber": "063-232-2977",
+  "address": "전북 전주시 완산구 서완산동2가 360-9번지",
+  "latitude": "35.807476",
+  "longitude": "127.131294"
+},
+{
+  "number": "7",
+  "storeName": "여기있었네복권방",
+  "phoneNumber": "063-271-3258",
+  "address": "전북 전주시 완산구 고사동 222-1번지",
+  "latitude": "35.82177",
+  "longitude": "127.14436"
+},
+{
+  "number": "8",
+  "storeName": "꽃샘슈퍼",
+  "phoneNumber": "063-283-4881",
+  "address": "전북 전주시 완산구 전동 65-1",
+  "latitude": "35.812904",
+  "longitude": "127.14695"
+},
+{
+  "number": "9",
+  "storeName": "동서슈퍼",
+  "phoneNumber": "063-286-7370",
+  "address": "전북 전주시 완산구 경원동1가 2-14번지",
+  "latitude": "35.818813",
+  "longitude": "127.148445"
+},
+{
+  "number": "10",
+  "storeName": "GS25 전주팔달로점",
+  "phoneNumber": "063-284-3395",
+  "address": "전북 전주시 완산구 경원동3가 64-6 GS25 내",
+  "latitude": "35.819275",
+  "longitude": "127.14679"
+},
+{
+  "number": "11",
+  "storeName": "제일복권",
+  "phoneNumber": "063-277-8008",
+  "address": "전북 전주시 완산구 효자동2가 1157-4 161호",
+  "latitude": "35.81404",
+  "longitude": "127.10865"
+},
+{
+  "number": "12",
+  "storeName": "일등로또방",
+  "phoneNumber": "063-236-9183",
+  "address": "전북 전주시 완산구 평화동1가 558-1번지",
+  "latitude": "35.796597",
+  "longitude": "127.13483"
+},
+{
+  "number": "13",
+  "storeName": "돈방석",
+  "phoneNumber": "063-278-8632",
+  "address": "전북 전주시 완산구 서신동 831-3번지",
+  "latitude": "35.82853",
+  "longitude": "127.11561"
+},
+{
+  "number": "14",
+  "storeName": "로또방",
+  "phoneNumber": "063-225-6857",
+  "address": "전북 전주시 완산구 평화동2가 341-3번지",
+  "latitude": "35.787548",
+  "longitude": "127.1313"
+},
+{
+  "number": "15",
+  "storeName": "참깨열쇠.복권",
+  "phoneNumber": "063-224-1305",
+  "address": "전북 전주시 완산구 효자동1가 669-4번지 1층",
+  "latitude": "35.798798",
+  "longitude": "127.11467"
+},
+{
+  "number": "16",
+  "storeName": "로또복권방",
+  "phoneNumber": "063-225-0645",
+  "address": "전북 전주시 완산구 평화동2가 569-2번지",
+  "latitude": "35.792236",
+  "longitude": "127.12342"
+},
+{
+  "number": "17",
+  "storeName": "대박토론방",
+  "phoneNumber": "063-236-4248",
+  "address": "전북 전주시 완산구 평화동2가 844-2 아리울명가 내",
+  "latitude": "35.80259",
+  "longitude": "127.14756"
+},
+{
+  "number": "18",
+  "storeName": "토탈비디오(서신점)",
+  "phoneNumber": "063-275-1708",
+  "address": "전북 전주시 완산구 서신동 763-1번지 신일아파트 상가114-106호",
+  "latitude": "35.83275",
+  "longitude": "127.11086"
+},
+{
+  "number": "19",
+  "storeName": "운수대통복권샵",
+  "phoneNumber": "063-229-7006",
+  "address": "전북 전주시 완산구 중화산동2가 755-8번지",
+  "latitude": "35.819492",
+  "longitude": "127.11794"
+},
+{
+  "number": "20",
+  "storeName": "LH로또",
+  "phoneNumber": "063-228-0280",
+  "address": "전북 전주시 완산구 효자동2가 1316-4번지",
+  "latitude": "35.808483",
+  "longitude": "127.10426"
+},
+{
+  "number": "21",
+  "storeName": "복돼지복권방",
+  "phoneNumber": "063-225-8274",
+  "address": "전북 전주시 완산구 중화산동2가 693-2",
+  "latitude": "35.823727",
+  "longitude": "127.12063"
+},
+{
+  "number": "22",
+  "storeName": "관통로또",
+  "phoneNumber": "063-232-0645",
+  "address": "전북 전주시 완산구 중앙동1가 33-1번지",
+  "latitude": "35.81711",
+  "longitude": "127.14141"
+},
+{
+  "number": "23",
+  "storeName": "중앙복권방",
+  "phoneNumber": "063-272-1665",
+  "address": "전북 전주시 완산구 태평동 8-9번지",
+  "latitude": "35.82645",
+  "longitude": "127.14217"
+},
+{
+  "number": "24",
+  "storeName": "주공홈마트",
+  "phoneNumber": "063-228-8850",
+  "address": "전북 전주시 완산구 삼천동1가 766-2번지 주공5단지 상가101호",
+  "latitude": "35.792946",
+  "longitude": "127.11334"
+},
+{
+  "number": "25",
+  "storeName": "안경매니져",
+  "phoneNumber": "063-227-4242",
+  "address": "전북 전주시 완산구 삼천동1가 287-14번지",
+  "latitude": "35.797646",
+  "longitude": "127.11667"
+},
+{
+  "number": "26",
+  "storeName": "GS25(전주중앙점)",
+  "phoneNumber": "063-232-2527",
+  "address": "전북 전주시 완산구 고사동 155-3번지",
+  "latitude": "35.81977",
+  "longitude": "127.14337"
+},
+{
+  "number": "27",
+  "storeName": "GS25(뉴전주남중점)",
+  "phoneNumber": "063-283-1825",
+  "address": "전북 전주시 완산구 평화동1가 445-9번지 101호",
+  "latitude": "35.79784",
+  "longitude": "127.14055"
+},
+{
+  "number": "28",
+  "storeName": "다사랑복권",
+  "phoneNumber": "063-909-0440",
+  "address": "전북 전주시 완산구 중화산동2가 636-14 1층",
+  "latitude": "35.815083",
+  "longitude": "127.118385"
+},
+{
+  "number": "29",
+  "storeName": "행복한로또",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 삼천동1가 585-10 상가 101호",
+  "latitude": "35.806385",
+  "longitude": "127.152596"
+},
+{
+  "number": "30",
+  "storeName": "탑복권방",
+  "phoneNumber": "063-221-0145",
+  "address": "전북 전주시 완산구 효자동1가 607-14",
+  "latitude": "35.812183",
+  "longitude": "127.11425"
+},
+{
+  "number": "31",
+  "storeName": "부자복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동3가 1472-3",
+  "latitude": "35.832417",
+  "longitude": "127.10307"
+},
+{
+  "number": "32",
+  "storeName": "와이복권판매점",
+  "phoneNumber": "063-278-5454",
+  "address": "전북 전주시 완산구 중화산동2가 743-4번지 101, 102, 103호",
+  "latitude": "35.82516",
+  "longitude": "127.11479"
+},
+{
+  "number": "33",
+  "storeName": "제일대박복권",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동2가 201-8 1층 복권판매점",
+  "latitude": "35.831722",
+  "longitude": "127.111305"
+},
+{
+  "number": "34",
+  "storeName": "조은복권판매점",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 서신동 856-1",
+  "latitude": "35.82603",
+  "longitude": "127.116005"
+},
+{
+  "number": "35",
+  "storeName": "흥건슈퍼",
+  "phoneNumber": "063-226-1797",
+  "address": "전북 전주시 완산구 삼천동1가 300-3 흥건슈퍼",
+  "latitude": "35.794388",
+  "longitude": "127.11588"
+},
+{
+  "number": "36",
+  "storeName": "자수정슈퍼",
+  "phoneNumber": "063-221-0188",
+  "address": "전북 전주시 완산구 효자동1가 195-19번지",
+  "latitude": "35.805763",
+  "longitude": "127.12693"
+},
+{
+  "number": "37",
+  "storeName": "대박복권방",
+  "phoneNumber": "063-288-0645",
+  "address": "전북 전주시 완산구 동완산동 67번지",
+  "latitude": "35.811337",
+  "longitude": "127.14574"
+},
+{
+  "number": "38",
+  "storeName": "황금노다지",
+  "phoneNumber": "063-229-1555",
+  "address": "전북 전주시 완산구 효자동1가 280번지",
+  "latitude": "35.80625",
+  "longitude": "127.118454"
+},
+{
+  "number": "39",
+  "storeName": "로또행운방",
+  "phoneNumber": "063-252-6777",
+  "address": "전북 전주시 완산구 효자동3가 1458-3번지",
+  "latitude": "35.83437",
+  "longitude": "127.1005"
+},
+{
+  "number": "40",
+  "storeName": "38복권방",
+  "phoneNumber": "063-221-7039",
+  "address": "전북 전주시 완산구 삼천동1가 606-3",
+  "latitude": "35.79838",
+  "longitude": "127.1226"
+},
+{
+  "number": "41",
+  "storeName": "Letsgo복권방",
+  "phoneNumber": "063-905-6800",
+  "address": "전북 전주시 완산구 평화동1가 741-3",
+  "latitude": "35.793606",
+  "longitude": "127.13671"
+},
+{
+  "number": "42",
+  "storeName": "옐림공방",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동3가 1671-2",
+  "latitude": "35.821205",
+  "longitude": "127.09825"
+},
+{
+  "number": "43",
+  "storeName": "대박로또복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 서노송동 564-4 1층",
+  "latitude": "35.825684",
+  "longitude": "127.13677"
+},
+{
+  "number": "44",
+  "storeName": "행운로또복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동2가 1252-8 103호",
+  "latitude": "35.812077",
+  "longitude": "127.101654"
+},
+{
+  "number": "45",
+  "storeName": "효자로또판매점",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 효자동3가 1626-11 103호",
+  "latitude": "35.82466",
+  "longitude": "127.09947"
+},
+{
+  "number": "46",
+  "storeName": "황금손복권판매점",
+  "phoneNumber": "",
+  "address": "전북 전주시 완산구 중화산동2가 656-1 1층",
+  "latitude": "35.81666",
+  "longitude": "127.12417"
+}
+]

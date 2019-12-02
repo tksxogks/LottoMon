@@ -1,0 +1,434 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(신림수성점)",
+  "phoneNumber": "02-863-2209",
+  "address": "서울 관악구 신림동 507-31번지",
+  "latitude": "37.482685",
+  "longitude": "126.917946"
+},
+{
+  "number": "2",
+  "storeName": "GS25(봉천메트로점)",
+  "phoneNumber": "02-884-2209",
+  "address": "서울 관악구 봉천동 870-13번지 신원메트로빌오피스텔101호",
+  "latitude": "37.481705",
+  "longitude": "126.95142"
+},
+{
+  "number": "3",
+  "storeName": "GS25(관악봉천점)",
+  "phoneNumber": "02-873-9368",
+  "address": "서울 관악구 봉천동 876-1번지",
+  "latitude": "37.48066",
+  "longitude": "126.95025"
+},
+{
+  "number": "4",
+  "storeName": "GS25(신림신성점)",
+  "phoneNumber": "02-886-2323",
+  "address": "서울 관악구 신림동 103-109번지",
+  "latitude": "37.471916",
+  "longitude": "126.93928"
+},
+{
+  "number": "5",
+  "storeName": "GS25(신림도림점)",
+  "phoneNumber": "02-3285-7775",
+  "address": "서울 관악구 신림동 112-41번지",
+  "latitude": "37.47311",
+  "longitude": "126.93374"
+},
+{
+  "number": "6",
+  "storeName": "GS25(신림두림점)",
+  "phoneNumber": "02-871-1278",
+  "address": "서울 관악구 신림동 1411-9번지",
+  "latitude": "37.48447",
+  "longitude": "126.93389"
+},
+{
+  "number": "7",
+  "storeName": "GS25(신림역점)",
+  "phoneNumber": "02-872-6665",
+  "address": "서울 관악구 신림동 1422-38번지",
+  "latitude": "37.48453",
+  "longitude": "126.93027"
+},
+{
+  "number": "8",
+  "storeName": "GS25(관악한일점)",
+  "phoneNumber": "02-581-7071",
+  "address": "서울 관악구 남현동 602-11번지 한일빌딩1층",
+  "latitude": "37.473923",
+  "longitude": "126.98132"
+},
+{
+  "number": "9",
+  "storeName": "소비자할인마트",
+  "phoneNumber": "02-867-0979",
+  "address": "서울 관악구 신림동 1659-4번지",
+  "latitude": "37.481934",
+  "longitude": "126.90513"
+},
+{
+  "number": "10",
+  "storeName": "행운식품",
+  "phoneNumber": "",
+  "address": "서울 관악구 신림동 1598-2",
+  "latitude": "37.481834",
+  "longitude": "126.92718"
+},
+{
+  "number": "11",
+  "storeName": "복권",
+  "phoneNumber": "",
+  "address": "서울 관악구 봉천동 196-33",
+  "latitude": "37.474415",
+  "longitude": "126.96384"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "02-884-6128",
+  "address": "서울 관악구 봉천동 930-3",
+  "latitude": "37.481796",
+  "longitude": "126.9417"
+},
+{
+  "number": "13",
+  "storeName": "행복만들기",
+  "phoneNumber": "02-857-6457",
+  "address": "서울 관악구 신림동 517-6",
+  "latitude": "37.487213",
+  "longitude": "126.91436"
+},
+{
+  "number": "14",
+  "storeName": "대박로또",
+  "phoneNumber": "02-863-5174",
+  "address": "서울 관악구 신림동 763-20",
+  "latitude": "37.476074",
+  "longitude": "126.91576"
+},
+{
+  "number": "15",
+  "storeName": "대성미니슈퍼",
+  "phoneNumber": "02-865-0207",
+  "address": "서울 관악구 신림동 566-8",
+  "latitude": "37.480644",
+  "longitude": "126.90649"
+},
+{
+  "number": "16",
+  "storeName": "혜성슈퍼",
+  "phoneNumber": "02-877-5707",
+  "address": "서울 관악구 신림동 1535",
+  "latitude": "37.469376",
+  "longitude": "126.93545"
+},
+{
+  "number": "17",
+  "storeName": "행운의복권방",
+  "phoneNumber": "070-8658-3467",
+  "address": "서울 관악구 봉천동 899-20",
+  "latitude": "37.485363",
+  "longitude": "126.94668"
+},
+{
+  "number": "18",
+  "storeName": "버스카드충전소",
+  "phoneNumber": "02-886-8988",
+  "address": "서울 관악구 봉천동 883-15",
+  "latitude": "37.481377",
+  "longitude": "126.94835"
+},
+{
+  "number": "19",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-588-6999",
+  "address": "서울 관악구 남현동 1060-11",
+  "latitude": "37.475903",
+  "longitude": "126.98116"
+},
+{
+  "number": "20",
+  "storeName": "교통카드판매대",
+  "phoneNumber": "02-875-4764",
+  "address": "서울 관악구 신림동 240-4",
+  "latitude": "37.470387",
+  "longitude": "126.93815"
+},
+{
+  "number": "21",
+  "storeName": "버스카드판매대",
+  "phoneNumber": "02-888-9905",
+  "address": "서울 관악구 신림동 1513-2",
+  "latitude": "37.47176",
+  "longitude": "126.93324"
+},
+{
+  "number": "22",
+  "storeName": "사당",
+  "phoneNumber": "02-525-7630",
+  "address": "서울 관악구 남현동 1061-59",
+  "latitude": "37.475674",
+  "longitude": "126.98138"
+},
+{
+  "number": "23",
+  "storeName": "가로가판대",
+  "phoneNumber": "02-839-2740",
+  "address": "서울 관악구 신림동 1643-6",
+  "latitude": "37.483852",
+  "longitude": "126.9028"
+},
+{
+  "number": "24",
+  "storeName": "예술인마을버스판매소",
+  "phoneNumber": "02-588-6605",
+  "address": "서울 관악구 남현동 1057-22",
+  "latitude": "37.47626",
+  "longitude": "126.97717"
+},
+{
+  "number": "25",
+  "storeName": "보라매가판점",
+  "phoneNumber": "02-883-6401",
+  "address": "서울 관악구 봉천동 702-34",
+  "latitude": "37.490967",
+  "longitude": "126.92745"
+},
+{
+  "number": "26",
+  "storeName": "신림마트",
+  "phoneNumber": "02-872-9026",
+  "address": "서울 관악구 신림동 1639-1",
+  "latitude": "37.48362",
+  "longitude": "126.927055"
+},
+{
+  "number": "27",
+  "storeName": "호미복권방",
+  "phoneNumber": "02-871-6723",
+  "address": "서울 관악구 봉천동 1638-6",
+  "latitude": "37.4745",
+  "longitude": "126.966255"
+},
+{
+  "number": "28",
+  "storeName": "천하명당관악점",
+  "phoneNumber": "02-871-3349",
+  "address": "서울 관악구 봉천동 698-32",
+  "latitude": "37.490047",
+  "longitude": "126.92868"
+},
+{
+  "number": "29",
+  "storeName": "행운나라",
+  "phoneNumber": "02-879-2513",
+  "address": "서울 관악구 신림동 808-221",
+  "latitude": "37.47214",
+  "longitude": "126.93301"
+},
+{
+  "number": "30",
+  "storeName": "한마음",
+  "phoneNumber": "02-878-7744",
+  "address": "서울 관악구 봉천동 32-2 봉천중앙시장라열4호",
+  "latitude": "37.483986",
+  "longitude": "126.95415"
+},
+{
+  "number": "31",
+  "storeName": "1등복권방",
+  "phoneNumber": "02-878-8008",
+  "address": "서울 관악구 신림동 465-26",
+  "latitude": "37.48345",
+  "longitude": "126.92217"
+},
+{
+  "number": "32",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-859-4158",
+  "address": "서울 관악구 신림동 637-9",
+  "latitude": "37.470432",
+  "longitude": "126.92007"
+},
+{
+  "number": "33",
+  "storeName": "헬스프라자",
+  "phoneNumber": "02-888-2799",
+  "address": "서울 관악구 봉천동 1687-13",
+  "latitude": "37.47708",
+  "longitude": "126.96414"
+},
+{
+  "number": "34",
+  "storeName": "엑스트라봉천6동점",
+  "phoneNumber": "02-879-2488",
+  "address": "서울 관악구 봉천동 1706 우성타운상가1층117호",
+  "latitude": "37.48509",
+  "longitude": "126.95944"
+},
+{
+  "number": "35",
+  "storeName": "신림용꿈돼지꿈",
+  "phoneNumber": "02-853-2763",
+  "address": "서울 관악구 봉천동 1673-16 1번지",
+  "latitude": "37.482193",
+  "longitude": "126.9151"
+},
+{
+  "number": "36",
+  "storeName": "복권명당",
+  "phoneNumber": "02-882-0939",
+  "address": "서울 관악구 봉천동 927-20 1층",
+  "latitude": "37.48168",
+  "longitude": "126.94244"
+},
+{
+  "number": "37",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-889-5157",
+  "address": "서울 관악구 신림동 1435-24",
+  "latitude": "37.4852",
+  "longitude": "126.92678"
+},
+{
+  "number": "38",
+  "storeName": "행운예감",
+  "phoneNumber": "070-8849-5368",
+  "address": "서울 관악구 신림동 1544-2",
+  "latitude": "37.468178",
+  "longitude": "126.936195"
+},
+{
+  "number": "39",
+  "storeName": "제일미용상사",
+  "phoneNumber": "",
+  "address": "서울 관악구 신림동 1643",
+  "latitude": "37.484184",
+  "longitude": "126.90324"
+},
+{
+  "number": "40",
+  "storeName": "로또담배",
+  "phoneNumber": "02-854-6453",
+  "address": "서울 관악구 신림동 667-36",
+  "latitude": "37.462734",
+  "longitude": "126.919205"
+},
+{
+  "number": "41",
+  "storeName": "복권나라",
+  "phoneNumber": "02-889-1355",
+  "address": "서울 관악구 봉천동 926-25",
+  "latitude": "37.482758",
+  "longitude": "126.94349"
+},
+{
+  "number": "42",
+  "storeName": "천하명당",
+  "phoneNumber": "02-867-6393",
+  "address": "서울 관악구 신림동 613-3",
+  "latitude": "37.473957",
+  "longitude": "126.91887"
+},
+{
+  "number": "43",
+  "storeName": "복권나라",
+  "phoneNumber": "02-882-5077",
+  "address": "서울 관악구 봉천동 941-18",
+  "latitude": "37.485977",
+  "longitude": "126.939835"
+},
+{
+  "number": "44",
+  "storeName": "주택복권사랑방",
+  "phoneNumber": "02-861-7849",
+  "address": "서울 관악구 신림동 518-11",
+  "latitude": "37.481045",
+  "longitude": "126.909035"
+},
+{
+  "number": "45",
+  "storeName": "로또명당일등점",
+  "phoneNumber": "",
+  "address": "서울 관악구 신림동 730-8",
+  "latitude": "37.474144",
+  "longitude": "126.916214"
+},
+{
+  "number": "46",
+  "storeName": "뮤직프라자",
+  "phoneNumber": "02-882-4028",
+  "address": "서울 관악구 신림동 848",
+  "latitude": "37.47878",
+  "longitude": "126.93232"
+},
+{
+  "number": "47",
+  "storeName": "복권명가",
+  "phoneNumber": "02-885-5166",
+  "address": "서울 관악구 봉천동 20-15",
+  "latitude": "37.48569",
+  "longitude": "126.95752"
+},
+{
+  "number": "48",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "서울 관악구 성현동 41-200 103호",
+  "latitude": "37.48646",
+  "longitude": "126.95245"
+},
+{
+  "number": "49",
+  "storeName": "스타복권방",
+  "phoneNumber": "02-837-3822",
+  "address": "서울 관악구 봉천동 972-36",
+  "latitude": "37.4901",
+  "longitude": "126.92617"
+},
+{
+  "number": "50",
+  "storeName": "복권나라",
+  "phoneNumber": "",
+  "address": "서울 관악구 봉천동 946-15",
+  "latitude": "37.482445",
+  "longitude": "126.9396"
+},
+{
+  "number": "51",
+  "storeName": "체인지 로또",
+  "phoneNumber": "",
+  "address": "서울 관악구 신림동 1655-14",
+  "latitude": "37.482887",
+  "longitude": "126.90237"
+},
+{
+  "number": "52",
+  "storeName": "스마트에스케이상사",
+  "phoneNumber": "02-3472-1588",
+  "address": "서울 관악구 봉천동 636-125",
+  "latitude": "37.487602",
+  "longitude": "126.939926"
+},
+{
+  "number": "53",
+  "storeName": "행복한 꿈 이야기",
+  "phoneNumber": "02-888-8832",
+  "address": "서울 관악구 신림동 1641-61",
+  "latitude": "37.480167",
+  "longitude": "126.93083"
+},
+{
+  "number": "54",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-886-0995",
+  "address": "서울 관악구 서림동 94-296 1층",
+  "latitude": "37.47614",
+  "longitude": "126.937584"
+}
+]

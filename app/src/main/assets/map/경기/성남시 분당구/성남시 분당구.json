@@ -1,0 +1,418 @@
+[
+{
+  "number": "1",
+  "storeName": "대호상사",
+  "phoneNumber": "031-781-2526",
+  "address": "경기 성남시 분당구 야탑동 355-1 GS25",
+  "latitude": "37.411133",
+  "longitude": "127.126816"
+},
+{
+  "number": "2",
+  "storeName": "분당점로또판매",
+  "phoneNumber": "070-4136-3809",
+  "address": "경기 성남시 분당구 판교동 621-2번지 한솔프라자104호",
+  "latitude": "37.389996",
+  "longitude": "127.08895"
+},
+{
+  "number": "3",
+  "storeName": "나눔이매로또",
+  "phoneNumber": "031-706-5440",
+  "address": "경기 성남시 분당구 이매동 120-7번지 구두28호점",
+  "latitude": "37.39093",
+  "longitude": "127.126335"
+},
+{
+  "number": "4",
+  "storeName": "분당정자점로또판매점",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 서현동 298-2 1층 109호 이마트24",
+  "latitude": "37.37723",
+  "longitude": "127.13393"
+},
+{
+  "number": "5",
+  "storeName": "한솔마트",
+  "phoneNumber": "031-713-8182",
+  "address": "경기 성남시 분당구 정자동 101번지 한솔주공7단지상가내",
+  "latitude": "37.36853",
+  "longitude": "127.1158"
+},
+{
+  "number": "6",
+  "storeName": "코코블루",
+  "phoneNumber": "031-709-4895",
+  "address": "경기 성남시 분당구 서현동 248-5번지 코코프라자지하2호",
+  "latitude": "37.385822",
+  "longitude": "127.12402"
+},
+{
+  "number": "7",
+  "storeName": "그린마트",
+  "phoneNumber": "031-711-8345",
+  "address": "경기 성남시 분당구 궁내동 192-2번지 107호",
+  "latitude": "37.36644",
+  "longitude": "127.10084"
+},
+{
+  "number": "8",
+  "storeName": "로또방",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 삼평동 643 1층 104호 이마트24",
+  "latitude": "37.39717",
+  "longitude": "127.11018"
+},
+{
+  "number": "9",
+  "storeName": "굿데이",
+  "phoneNumber": "031-717-3915",
+  "address": "경기 성남시 분당구 백현동 546 가상가동 102호",
+  "latitude": "37.39047",
+  "longitude": "127.117"
+},
+{
+  "number": "10",
+  "storeName": "수내행운복권방",
+  "phoneNumber": "031-717-2931",
+  "address": "경기 성남시 분당구 수내동 17-3번지 105호 알파문구내",
+  "latitude": "37.37754",
+  "longitude": "127.113525"
+},
+{
+  "number": "11",
+  "storeName": "롯또복권방",
+  "phoneNumber": "031-717-4348",
+  "address": "경기 성남시 분당구 수내동 22-3번지 다운타운상가110호",
+  "latitude": "37.37681",
+  "longitude": "127.11137"
+},
+{
+  "number": "12",
+  "storeName": "미래복권닷컴",
+  "phoneNumber": "031-707-5003",
+  "address": "경기 성남시 분당구 분당동 67번지 건영아파트상가113호",
+  "latitude": "37.37121",
+  "longitude": "127.140526"
+},
+{
+  "number": "13",
+  "storeName": "썬마트서현점",
+  "phoneNumber": "031-703-3653",
+  "address": "경기 성남시 분당구 서현동 269-1번지 126호",
+  "latitude": "37.384647",
+  "longitude": "127.12238"
+},
+{
+  "number": "14",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-713-4774",
+  "address": "경기 성남시 분당구 구미동 185-1번지 비즈파이코리아103호",
+  "latitude": "37.33927",
+  "longitude": "127.10938"
+},
+{
+  "number": "15",
+  "storeName": "씨유 수내트라펠리스점",
+  "phoneNumber": "031-714-2774",
+  "address": "경기 성남시 분당구 수내동 10-1번지 삼성트라펠리스108호",
+  "latitude": "37.379498",
+  "longitude": "127.11423"
+},
+{
+  "number": "16",
+  "storeName": "한마을복권방",
+  "phoneNumber": "031-712-9903",
+  "address": "경기 성남시 분당구 궁내동 251번지 하이스토아 편의점",
+  "latitude": "37.37047",
+  "longitude": "127.10119"
+},
+{
+  "number": "17",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-714-7710",
+  "address": "경기 성남시 분당구 정자동 156-1번지 젤존타워110호",
+  "latitude": "37.365295",
+  "longitude": "127.1077"
+},
+{
+  "number": "18",
+  "storeName": "로또",
+  "phoneNumber": "031-696-0303",
+  "address": "경기 성남시 분당구 삼평동 678 107호 일부 CU편의점",
+  "latitude": "37.40195",
+  "longitude": "127.10996"
+},
+{
+  "number": "19",
+  "storeName": "GS25(분당창인점)",
+  "phoneNumber": "031-706-1494",
+  "address": "경기 성남시 분당구 서현동 298-3번지 창인프라자",
+  "latitude": "37.376926",
+  "longitude": "127.133446"
+},
+{
+  "number": "20",
+  "storeName": "GS25(분당중앙점)",
+  "phoneNumber": "031-781-8875",
+  "address": "경기 성남시 분당구 서현동 94 현대근린상가124호",
+  "latitude": "37.379387",
+  "longitude": "127.13014"
+},
+{
+  "number": "21",
+  "storeName": "GS25(분당성원점)",
+  "phoneNumber": "031-717-6395",
+  "address": "경기 성남시 분당구 금곡동 159번지 한국프라자112호",
+  "latitude": "37.351154",
+  "longitude": "127.10951"
+},
+{
+  "number": "22",
+  "storeName": "GS25(분당푸른점)",
+  "phoneNumber": "031-714-4843",
+  "address": "경기 성남시 분당구 수내동 79-1번지 그랜드프라자107호",
+  "latitude": "37.36966",
+  "longitude": "127.12335"
+},
+{
+  "number": "23",
+  "storeName": "GS25(분당팬텀점)",
+  "phoneNumber": "031-714-3462",
+  "address": "경기 성남시 분당구 구미동 186-1번지 팬텀테마파크108호",
+  "latitude": "37.339165",
+  "longitude": "127.11006"
+},
+{
+  "number": "24",
+  "storeName": "GS25(야탑프리아점)",
+  "phoneNumber": "031-703-6525",
+  "address": "경기 성남시 분당구 야탑동 514-4번지 프리아오프스텔101호",
+  "latitude": "37.409542",
+  "longitude": "127.13058"
+},
+{
+  "number": "25",
+  "storeName": "GS25(파빌리온점)",
+  "phoneNumber": "031-785-4025",
+  "address": "경기 성남시 분당구 정자동 7번지 두산위브파빌리온상가1층A103호",
+  "latitude": "37.37164",
+  "longitude": "127.10721"
+},
+{
+  "number": "26",
+  "storeName": "GS25(분당웰빙점)",
+  "phoneNumber": "031-706-9211",
+  "address": "경기 성남시 분당구 서현동 260-6번지",
+  "latitude": "37.386246",
+  "longitude": "127.122406"
+},
+{
+  "number": "27",
+  "storeName": "조동현",
+  "phoneNumber": "031-711-9887",
+  "address": "경기 성남시 분당구 수내동 16-7번지 한솔 인피니티 오피스텔 1층 미니스톱 초림한솔점",
+  "latitude": "37.376335",
+  "longitude": "127.112755"
+},
+{
+  "number": "28",
+  "storeName": "현대사",
+  "phoneNumber": "031-716-2300",
+  "address": "경기 성남시 분당구 구미동 144-1 102호",
+  "latitude": "37.34557",
+  "longitude": "127.1111"
+},
+{
+  "number": "29",
+  "storeName": "분당고속터미널",
+  "phoneNumber": "031-725-4000",
+  "address": "경기 성남시 분당구 야탑동 341 테마폴리스1층",
+  "latitude": "37.413067",
+  "longitude": "127.12723"
+},
+{
+  "number": "30",
+  "storeName": "메트로복권",
+  "phoneNumber": "031-701-9680",
+  "address": "경기 성남시 분당구 야탑동 361-1",
+  "latitude": "37.41312",
+  "longitude": "127.12971"
+},
+{
+  "number": "31",
+  "storeName": "종합슈퍼마트",
+  "phoneNumber": "031-707-8980",
+  "address": "경기 성남시 분당구 야탑동 151번지 테크노파크상가109호",
+  "latitude": "37.40418",
+  "longitude": "127.151054"
+},
+{
+  "number": "32",
+  "storeName": "나눔로또동판교월드마크점",
+  "phoneNumber": "031-702-0135",
+  "address": "경기 성남시 분당구 삼평동 741 1층 1-24호 CU",
+  "latitude": "37.39542",
+  "longitude": "127.113556"
+},
+{
+  "number": "33",
+  "storeName": "영진슈퍼",
+  "phoneNumber": "031-781-4557",
+  "address": "경기 성남시 분당구 야탑동 353-1번지 영진다이비스117호",
+  "latitude": "37.41162",
+  "longitude": "127.12634"
+},
+{
+  "number": "34",
+  "storeName": "꿈나눔로또판매점",
+  "phoneNumber": "031-719-9474",
+  "address": "경기 성남시 분당구 정자동 162-2 디동1층107호 GS25신분당정자가점",
+  "latitude": "37.36236",
+  "longitude": "127.10564"
+},
+{
+  "number": "35",
+  "storeName": "다올복권판매점",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 구미동 156 149호",
+  "latitude": "37.340027",
+  "longitude": "127.10782"
+},
+{
+  "number": "36",
+  "storeName": "나눔로또 판교역점",
+  "phoneNumber": "031-8017-0662",
+  "address": "경기 성남시 분당구 삼평동 651 원타임편의점",
+  "latitude": "37.39648",
+  "longitude": "127.1115"
+},
+{
+  "number": "37",
+  "storeName": "미금헤리츠점",
+  "phoneNumber": "070-8815-1822",
+  "address": "경기 성남시 분당구 구미동 9-1번지 엠코헤리츠 1층110호",
+  "latitude": "37.34962",
+  "longitude": "127.10861"
+},
+{
+  "number": "38",
+  "storeName": "베스토아",
+  "phoneNumber": "031-711-8015",
+  "address": "경기 성남시 분당구 수내동 58-2번지 101호",
+  "latitude": "37.373615",
+  "longitude": "127.11995"
+},
+{
+  "number": "39",
+  "storeName": "서현로또",
+  "phoneNumber": "031-706-5915",
+  "address": "경기 성남시 분당구 서현동 256 101-3호",
+  "latitude": "37.38762",
+  "longitude": "127.12266"
+},
+{
+  "number": "40",
+  "storeName": "봉이네로또",
+  "phoneNumber": "031-781-8988",
+  "address": "경기 성남시 분당구 서현동 269-6 1층 CU분당서현점",
+  "latitude": "37.38373",
+  "longitude": "127.12137"
+},
+{
+  "number": "41",
+  "storeName": "가나안나눔로또",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 구미동 53-1 1동 103-1호",
+  "latitude": "37.347397",
+  "longitude": "127.11008"
+},
+{
+  "number": "42",
+  "storeName": "복권판매점",
+  "phoneNumber": "031-701-4560",
+  "address": "경기 성남시 분당구 야탑동 353-4 1층 원타임편의점",
+  "latitude": "37.41157",
+  "longitude": "127.1273"
+},
+{
+  "number": "43",
+  "storeName": "나눔로또CU야탑아델파크점",
+  "phoneNumber": "031-701-2255",
+  "address": "경기 성남시 분당구 야탑동 219-1 씨유야탑아델파크점",
+  "latitude": "37.412678",
+  "longitude": "127.1425"
+},
+{
+  "number": "44",
+  "storeName": "럭키",
+  "phoneNumber": "031-717-0162",
+  "address": "경기 성남시 분당구 수내동 83-1 1층 107호 CU수내푸른마을점",
+  "latitude": "37.36713",
+  "longitude": "127.127"
+},
+{
+  "number": "45",
+  "storeName": "153나눔로또",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 서현동 246-6 2층 231호",
+  "latitude": "37.38476",
+  "longitude": "127.12448"
+},
+{
+  "number": "46",
+  "storeName": "세븐로또",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 삼평동 691 B104호 세븐일레븐 판교디테라스점",
+  "latitude": "37.40363",
+  "longitude": "127.10949"
+},
+{
+  "number": "47",
+  "storeName": "GS25(분당매화점)",
+  "phoneNumber": "031-703-3665",
+  "address": "경기 성남시 분당구 야탑동 275-4번지 성원프라자103호",
+  "latitude": "37.41162",
+  "longitude": "127.138084"
+},
+{
+  "number": "48",
+  "storeName": "스타트",
+  "phoneNumber": "031-707-1362",
+  "address": "경기 성남시 분당구 야탑동 342-3 1층 미니스톱야탑엔지빌점",
+  "latitude": "37.41249",
+  "longitude": "127.12517"
+},
+{
+  "number": "49",
+  "storeName": "판교로또",
+  "phoneNumber": "031-719-2225",
+  "address": "경기 성남시 분당구 정자동 155-2 1층 104호 오마트 내",
+  "latitude": "37.3636",
+  "longitude": "127.10649"
+},
+{
+  "number": "50",
+  "storeName": "고",
+  "phoneNumber": "031-715-1643",
+  "address": "경기 성남시 분당구 구미동 220-1",
+  "latitude": "37.339363",
+  "longitude": "127.11645"
+},
+{
+  "number": "51",
+  "storeName": "대박로또",
+  "phoneNumber": "031-726-8855",
+  "address": "경기 성남시 분당구 금곡동 172 1층 102호",
+  "latitude": "37.35114",
+  "longitude": "127.10653"
+},
+{
+  "number": "52",
+  "storeName": "로또복권방",
+  "phoneNumber": "",
+  "address": "경기 성남시 분당구 삼평동 670 1층 136호",
+  "latitude": "37.400288",
+  "longitude": "127.107346"
+}
+]

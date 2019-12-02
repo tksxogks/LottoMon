@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "완도로또",
+  "phoneNumber": "061-552-5515",
+  "address": "전남 완도군 완도읍 군내리 1229-7 세븐일레븐 개포점",
+  "latitude": "34.31818",
+  "longitude": "126.745766"
+},
+{
+  "number": "2",
+  "storeName": "세븐로또판매점",
+  "phoneNumber": "061-554-9700",
+  "address": "전남 완도군 완도읍 군내리 1257번지 홈마트 내",
+  "latitude": "34.320423",
+  "longitude": "126.74815"
+},
+{
+  "number": "3",
+  "storeName": "도깨비방망이",
+  "phoneNumber": "061-554-9707",
+  "address": "전남 완도군 완도읍 군내리 1248-21번지 도깨비방망이",
+  "latitude": "34.316055",
+  "longitude": "126.74925"
+},
+{
+  "number": "4",
+  "storeName": "로또방",
+  "phoneNumber": "061-554-4778",
+  "address": "전남 완도군 완도읍 군내리 782-84번지 CU완도행복점 내",
+  "latitude": "34.31383",
+  "longitude": "126.756615"
+}
+]

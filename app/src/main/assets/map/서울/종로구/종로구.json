@@ -1,0 +1,410 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(명륜아남점)",
+  "phoneNumber": "02-766-6663",
+  "address": "서울 종로구 명륜1가 46-18번지",
+  "latitude": "37.586403",
+  "longitude": "127.00016"
+},
+{
+  "number": "2",
+  "storeName": "GS25(종로인사점)",
+  "phoneNumber": "02-723-7869",
+  "address": "서울 종로구 관훈동 144",
+  "latitude": "37.5751",
+  "longitude": "126.98339"
+},
+{
+  "number": "3",
+  "storeName": "GS25(명륜성대점)",
+  "phoneNumber": "02-764-7398",
+  "address": "서울 종로구 명륜1가 15",
+  "latitude": "37.58785",
+  "longitude": "126.99656"
+},
+{
+  "number": "4",
+  "storeName": "GS25(종로사직점)",
+  "phoneNumber": "02-725-8425",
+  "address": "서울 종로구 체부동 37-1번지",
+  "latitude": "37.57776",
+  "longitude": "126.97175"
+},
+{
+  "number": "5",
+  "storeName": "CU(종로공평점)",
+  "phoneNumber": "02-732-0397",
+  "address": "서울 종로구 공평동 124",
+  "latitude": "37.571934",
+  "longitude": "126.982735"
+},
+{
+  "number": "6",
+  "storeName": "CU(종로신교점)",
+  "phoneNumber": "02-735-9777",
+  "address": "서울 종로구 신교동 36번지",
+  "latitude": "37.583664",
+  "longitude": "126.96963"
+},
+{
+  "number": "7",
+  "storeName": "GS25(동숭점)",
+  "phoneNumber": "02-741-2425",
+  "address": "서울 종로구 혜화동 201",
+  "latitude": "37.583626",
+  "longitude": "127.00255"
+},
+{
+  "number": "8",
+  "storeName": "GS25(종로내수점)",
+  "phoneNumber": "080-855-5525",
+  "address": "서울 종로구 내수동 75번지 용비어천가오피스텔 1층 103호",
+  "latitude": "37.573204",
+  "longitude": "126.97374"
+},
+{
+  "number": "9",
+  "storeName": "CU(포레스트힐점)",
+  "phoneNumber": "02-762-7212",
+  "address": "서울 종로구 효제동 65-2 1층 101호 씨유포레스트힐점",
+  "latitude": "37.574043",
+  "longitude": "127.001854"
+},
+{
+  "number": "10",
+  "storeName": "크로바",
+  "phoneNumber": "02-764-5685",
+  "address": "서울 종로구 창신동 411-16",
+  "latitude": "37.570377",
+  "longitude": "127.01411"
+},
+{
+  "number": "11",
+  "storeName": "종로3가1호선역2번출구가로판매점82호",
+  "phoneNumber": "02-743-6544",
+  "address": "서울 종로구 종로3가 23-1 가판",
+  "latitude": "37.570652",
+  "longitude": "126.9919"
+},
+{
+  "number": "12",
+  "storeName": "가로판매대",
+  "phoneNumber": "02-723-5224",
+  "address": "서울 종로구 교남동 46 육교에서 30m 떨어진 가판(협신빌딩앞 가판)",
+  "latitude": "37.56823",
+  "longitude": "126.964645"
+},
+{
+  "number": "13",
+  "storeName": "가야복권방",
+  "phoneNumber": "02-747-4604",
+  "address": "서울 종로구 창신동 131-6번지",
+  "latitude": "37.578354",
+  "longitude": "126.9866"
+},
+{
+  "number": "14",
+  "storeName": "동대문1번출구앞가로가판점(65호)",
+  "phoneNumber": "02-741-9781",
+  "address": "서울 종로구 창신동 551",
+  "latitude": "37.571976",
+  "longitude": "127.011154"
+},
+{
+  "number": "15",
+  "storeName": "상호없음",
+  "phoneNumber": "02-722-5916",
+  "address": "서울 종로구 신문로1가 10-1번지",
+  "latitude": "37.570457",
+  "longitude": "126.97567"
+},
+{
+  "number": "16",
+  "storeName": "SK텔레콤종로지점앞가판대",
+  "phoneNumber": "02-723-0485",
+  "address": "서울 종로구 관철동 290 SK텔레콤종로지점 앞 가판대",
+  "latitude": "37.56936",
+  "longitude": "126.983215"
+},
+{
+  "number": "17",
+  "storeName": "스탐티쉬",
+  "phoneNumber": "02-391-8633",
+  "address": "서울 종로구 부암동 258-5번지 1층",
+  "latitude": "37.592686",
+  "longitude": "126.965645"
+},
+{
+  "number": "18",
+  "storeName": "통일기금닷컴",
+  "phoneNumber": "02-3676-3060",
+  "address": "서울 종로구 종로6가 251-1 이삭토스트",
+  "latitude": "37.571316",
+  "longitude": "127.00649"
+},
+{
+  "number": "19",
+  "storeName": "74호종합가판",
+  "phoneNumber": "02-2268-7938",
+  "address": "서울 종로구 관수동 149-2 가판",
+  "latitude": "37.568394",
+  "longitude": "126.98987"
+},
+{
+  "number": "20",
+  "storeName": "행운로또",
+  "phoneNumber": "02-2272-7470",
+  "address": "서울 종로구 종로5가 490번지 1층5호",
+  "latitude": "37.569904",
+  "longitude": "127.00517"
+},
+{
+  "number": "21",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "서울 종로구 예지동 296-12번지",
+  "latitude": "37.569775",
+  "longitude": "127.00123"
+},
+{
+  "number": "22",
+  "storeName": "스태프",
+  "phoneNumber": "02-736-8235",
+  "address": "서울 종로구 안국동 139-1번지 동신빌딩1층102호",
+  "latitude": "37.576675",
+  "longitude": "126.98542"
+},
+{
+  "number": "23",
+  "storeName": "킹부대찌개 테이크아웃 신설동점",
+  "phoneNumber": "070-8883-9646",
+  "address": "서울 종로구 숭인동 759",
+  "latitude": "37.57662",
+  "longitude": "127.02181"
+},
+{
+  "number": "24",
+  "storeName": "천하명당",
+  "phoneNumber": "02-3676-7012",
+  "address": "서울 종로구 창신동 693-1번지",
+  "latitude": "37.571888",
+  "longitude": "127.01026"
+},
+{
+  "number": "25",
+  "storeName": "제이복권방",
+  "phoneNumber": "02-764-3232",
+  "address": "서울 종로구 종로5가 58번지 평창빌딩 1층 103호",
+  "latitude": "37.571262",
+  "longitude": "127.00283"
+},
+{
+  "number": "26",
+  "storeName": "돈다발복권방",
+  "phoneNumber": "02-2237-7789",
+  "address": "서울 종로구 숭인동 288-1번지",
+  "latitude": "37.57306",
+  "longitude": "127.01658"
+},
+{
+  "number": "27",
+  "storeName": "가판점(종로105호)",
+  "phoneNumber": "02-766-0795",
+  "address": "서울 종로구 동숭동 1-117번지",
+  "latitude": "37.58114",
+  "longitude": "127.00238"
+},
+{
+  "number": "28",
+  "storeName": "평안당",
+  "phoneNumber": "02-762-7723",
+  "address": "서울 종로구 종로5가 80-1번지",
+  "latitude": "37.57119",
+  "longitude": "127.00217"
+},
+{
+  "number": "29",
+  "storeName": "가자세계주류(종로점)",
+  "phoneNumber": "02-765-3388",
+  "address": "서울 종로구 낙원동 175번지",
+  "latitude": "37.57127",
+  "longitude": "126.98936"
+},
+{
+  "number": "30",
+  "storeName": "종로슈퍼",
+  "phoneNumber": "02-765-3478",
+  "address": "서울 종로구 봉익동 18-3번지",
+  "latitude": "37.57247",
+  "longitude": "126.99243"
+},
+{
+  "number": "31",
+  "storeName": "우리식품점",
+  "phoneNumber": "02-766-5886",
+  "address": "서울 종로구 숭인동 192번지",
+  "latitude": "37.574818",
+  "longitude": "127.02083"
+},
+{
+  "number": "32",
+  "storeName": "통일마트",
+  "phoneNumber": "02-733-0810",
+  "address": "서울 종로구 종로1가 24번지 르메이에르종로타운 110-1호",
+  "latitude": "37.570805",
+  "longitude": "126.97985"
+},
+{
+  "number": "33",
+  "storeName": "스타공인중개사사무소",
+  "phoneNumber": "02-391-8944",
+  "address": "서울 종로구 신영동 240번지",
+  "latitude": "37.60512",
+  "longitude": "126.96052"
+},
+{
+  "number": "34",
+  "storeName": "코사마트 평창점",
+  "phoneNumber": "02-395-4152",
+  "address": "서울 종로구 평창동 339번지",
+  "latitude": "37.60624",
+  "longitude": "126.966545"
+},
+{
+  "number": "35",
+  "storeName": "우리SM",
+  "phoneNumber": "02-720-5794",
+  "address": "서울 종로구 종로2가 24 금강제화앞 가판",
+  "latitude": "37.570446",
+  "longitude": "126.98743"
+},
+{
+  "number": "36",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-744-2992",
+  "address": "서울 종로구 창신동 302-5",
+  "latitude": "37.572865",
+  "longitude": "127.01449"
+},
+{
+  "number": "37",
+  "storeName": "동성당",
+  "phoneNumber": "02-2279-1294",
+  "address": "서울 종로구 종로5가 410번지",
+  "latitude": "37.569897",
+  "longitude": "127.006546"
+},
+{
+  "number": "38",
+  "storeName": "자현당",
+  "phoneNumber": "02-762-6217",
+  "address": "서울 종로구 재동 88번지",
+  "latitude": "37.577473",
+  "longitude": "126.985985"
+},
+{
+  "number": "39",
+  "storeName": "해피복권방",
+  "phoneNumber": "02-2273-2113",
+  "address": "서울 종로구 홍지동 99-3",
+  "latitude": "37.568817",
+  "longitude": "126.99248"
+},
+{
+  "number": "40",
+  "storeName": "비원복권",
+  "phoneNumber": "02-742-9333",
+  "address": "서울 종로구 와룡동 68 비원슈퍼",
+  "latitude": "37.574383",
+  "longitude": "126.99118"
+},
+{
+  "number": "41",
+  "storeName": "명성로또",
+  "phoneNumber": "02-2275-9011",
+  "address": "서울 종로구 종로3가 123 핸드폰집",
+  "latitude": "37.5701",
+  "longitude": "126.99139"
+},
+{
+  "number": "42",
+  "storeName": "5가로또레드탑",
+  "phoneNumber": "02-2269-8524",
+  "address": "서울 종로구 종로5가 182-3번지",
+  "latitude": "37.570717",
+  "longitude": "127.00233"
+},
+{
+  "number": "43",
+  "storeName": "GS25(동묘역점)",
+  "phoneNumber": "02-2253-0123",
+  "address": "서울 종로구 숭인동 310",
+  "latitude": "37.572845",
+  "longitude": "127.01609"
+},
+{
+  "number": "44",
+  "storeName": "에스엠마트",
+  "phoneNumber": "02-722-3738",
+  "address": "서울 종로구 관철동 252-1 대신빌딩 101호",
+  "latitude": "37.56899",
+  "longitude": "126.98381"
+},
+{
+  "number": "45",
+  "storeName": "미래전산",
+  "phoneNumber": "02-739-5489",
+  "address": "서울 종로구 무악동 67-2 101호",
+  "latitude": "37.575485",
+  "longitude": "126.95699"
+},
+{
+  "number": "46",
+  "storeName": "ANY25",
+  "phoneNumber": "02-766-0409",
+  "address": "서울 종로구 원남동 282번지 1층",
+  "latitude": "37.574303",
+  "longitude": "126.99726"
+},
+{
+  "number": "47",
+  "storeName": "가로매점",
+  "phoneNumber": "02-2272-3722",
+  "address": "서울 종로구 종로4가 126-2 우리은행앞 가판",
+  "latitude": "37.570385",
+  "longitude": "126.99846"
+},
+{
+  "number": "48",
+  "storeName": "관철로또",
+  "phoneNumber": "02-2266-4805",
+  "address": "서울 종로구 관철동 5-14",
+  "latitude": "37.569412",
+  "longitude": "126.98795"
+},
+{
+  "number": "49",
+  "storeName": "GS25(종로낙원점)",
+  "phoneNumber": "02-747-2535",
+  "address": "서울 종로구 낙원동 230",
+  "latitude": "37.572227",
+  "longitude": "126.988594"
+},
+{
+  "number": "50",
+  "storeName": "CU(마로니에점)",
+  "phoneNumber": "02-743-8249",
+  "address": "서울 종로구 연건동 78-2번지 수만빌리지",
+  "latitude": "37.578377",
+  "longitude": "127.00191"
+},
+{
+  "number": "51",
+  "storeName": "세종복권",
+  "phoneNumber": "02-2271-1381",
+  "address": "서울 종로구 종로3가 166",
+  "latitude": "37.570244",
+  "longitude": "126.99434"
+}
+]

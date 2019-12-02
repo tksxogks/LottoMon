@@ -1,0 +1,90 @@
+[
+{
+  "number": "1",
+  "storeName": "치산로또명당",
+  "phoneNumber": "054-332-7590",
+  "address": "경북 영천시 야사동 335-6번지",
+  "latitude": "35.975037",
+  "longitude": "128.94159"
+},
+{
+  "number": "2",
+  "storeName": "행운복권방(야사점)",
+  "phoneNumber": "054-337-3609",
+  "address": "경북 영천시 야사동 172-23번지",
+  "latitude": "35.97355",
+  "longitude": "128.94394"
+},
+{
+  "number": "3",
+  "storeName": "대일사",
+  "phoneNumber": "054-331-2707",
+  "address": "경북 영천시 야사동 192-14번지",
+  "latitude": "35.97314",
+  "longitude": "128.94835"
+},
+{
+  "number": "4",
+  "storeName": "대동도기상사",
+  "phoneNumber": "054-332-7135",
+  "address": "경북 영천시 금노동 499-3번지",
+  "latitude": "35.960285",
+  "longitude": "128.93187"
+},
+{
+  "number": "5",
+  "storeName": "복권명당",
+  "phoneNumber": "054-331-5543",
+  "address": "경북 영천시 야사동 294-11",
+  "latitude": "35.9726",
+  "longitude": "128.94196"
+},
+{
+  "number": "6",
+  "storeName": "GS25(영천ic점)",
+  "phoneNumber": "054-335-3336",
+  "address": "경북 영천시 봉동 668-5번지",
+  "latitude": "35.933064",
+  "longitude": "128.94487"
+},
+{
+  "number": "7",
+  "storeName": "영천복권(완산시장)",
+  "phoneNumber": "054-331-4859",
+  "address": "경북 영천시 완산동 1000-85 1층 김경자헤어 내",
+  "latitude": "35.96587",
+  "longitude": "128.9376"
+},
+{
+  "number": "8",
+  "storeName": "우림로또방",
+  "phoneNumber": "054-927-5949",
+  "address": "경북 영천시 망정동 471-3 1층 CU편의점 내",
+  "latitude": "35.986416",
+  "longitude": "128.95409"
+},
+{
+  "number": "9",
+  "storeName": "복권당",
+  "phoneNumber": "",
+  "address": "경북 영천시 금노동 544-31",
+  "latitude": "35.9613",
+  "longitude": "179.88266"
+},
+{
+  "number": "10",
+  "storeName": "미래복권방",
+  "phoneNumber": "054-333-8000",
+  "address": "경북 영천시 완산동 987-41 5호",
+  "latitude": "35.964672",
+  "longitude": "128.93748"
+},
+{
+  "number": "11",
+  "storeName": "한국설비",
+  "phoneNumber": "",
+  "address": "경북 영천시 고경면 창하리 273-3 1층",
+  "latitude": "35.98442",
+  "longitude": "128.9871"
+}
+]

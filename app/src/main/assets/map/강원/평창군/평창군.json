@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "복권나라",
+  "phoneNumber": "033-336-5055",
+  "address": "강원 평창군 진부면 하진부리 149-7",
+  "latitude": "37.636772",
+  "longitude": "128.55754"
+},
+{
+  "number": "2",
+  "storeName": "평창복권나라",
+  "phoneNumber": "070-7724-5176",
+  "address": "강원 평창군 평창읍 하리 149-4",
+  "latitude": "37.36736",
+  "longitude": "128.39513"
+},
+{
+  "number": "3",
+  "storeName": "행복한로또",
+  "phoneNumber": "033-333-7772",
+  "address": "강원 평창군 용평면 장평리 338번지",
+  "latitude": "37.585533",
+  "longitude": "128.415"
+},
+{
+  "number": "4",
+  "storeName": "CU(횡계점)",
+  "phoneNumber": "033-336-5949",
+  "address": "강원 평창군 대관령면 횡계리 316-2번지",
+  "latitude": "37.671967",
+  "longitude": "128.70935"
+},
+{
+  "number": "5",
+  "storeName": "봉평천하",
+  "phoneNumber": "",
+  "address": "강원 평창군 봉평면 창동리 283-1",
+  "latitude": "37.61543",
+  "longitude": "128.3781"
+}
+]

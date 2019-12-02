@@ -1,0 +1,418 @@
+[
+{
+  "number": "1",
+  "storeName": "쿠아안경원",
+  "phoneNumber": "031-492-8008",
+  "address": "경기 안산시 단원구 신길동 1447번지 휴먼빌2차아파트상가102호",
+  "latitude": "37.33732",
+  "longitude": "126.77477"
+},
+{
+  "number": "2",
+  "storeName": "노다지복권방",
+  "phoneNumber": "031-486-3085",
+  "address": "경기 안산시 단원구 고잔동 727-4번지 씨티프라자103호",
+  "latitude": "37.31261",
+  "longitude": "126.83258"
+},
+{
+  "number": "3",
+  "storeName": "복권나라",
+  "phoneNumber": "031-491-1211",
+  "address": "경기 안산시 단원구 원곡동 801-4번지",
+  "latitude": "37.32988",
+  "longitude": "126.79365"
+},
+{
+  "number": "4",
+  "storeName": "복권슈퍼",
+  "phoneNumber": "031-492-8434",
+  "address": "경기 안산시 단원구 선부동 983-4",
+  "latitude": "37.339485",
+  "longitude": "126.79552"
+},
+{
+  "number": "5",
+  "storeName": "다니엘사",
+  "phoneNumber": "031-493-2848",
+  "address": "경기 안산시 단원구 초지동 796 101호",
+  "latitude": "37.325146",
+  "longitude": "126.80355"
+},
+{
+  "number": "6",
+  "storeName": "대박로또",
+  "phoneNumber": "031-494-0747",
+  "address": "경기 안산시 단원구 원곡동 798-11 102호",
+  "latitude": "37.32818",
+  "longitude": "126.78998"
+},
+{
+  "number": "7",
+  "storeName": "대박로또판매점",
+  "phoneNumber": "031-483-3311",
+  "address": "경기 안산시 단원구 선부동 1067-8 102호",
+  "latitude": "37.34129",
+  "longitude": "126.80641"
+},
+{
+  "number": "8",
+  "storeName": "로또복권",
+  "phoneNumber": "031-485-7110",
+  "address": "경기 안산시 단원구 선부동 1078-1",
+  "latitude": "37.332203",
+  "longitude": "126.8121"
+},
+{
+  "number": "9",
+  "storeName": "영일종합장식",
+  "phoneNumber": "031-482-0039",
+  "address": "경기 안산시 단원구 고잔동 539-3번지 신광프라자102호",
+  "latitude": "37.31866",
+  "longitude": "126.83855"
+},
+{
+  "number": "10",
+  "storeName": "자유복권편의점",
+  "phoneNumber": "031-413-5962",
+  "address": "경기 안산시 단원구 고잔동 518",
+  "latitude": "37.32128",
+  "longitude": "126.8275"
+},
+{
+  "number": "11",
+  "storeName": "홈플러스선부점로또판매",
+  "phoneNumber": "031-480-7757",
+  "address": "경기 안산시 단원구 선부동 1077-1",
+  "latitude": "37.33374",
+  "longitude": "126.812645"
+},
+{
+  "number": "12",
+  "storeName": "중앙로또",
+  "phoneNumber": "031-413-7786",
+  "address": "경기 안산시 단원구 고잔동 681-7 대덕프라자102호",
+  "latitude": "37.31508",
+  "longitude": "126.82525"
+},
+{
+  "number": "13",
+  "storeName": "로또유통",
+  "phoneNumber": "031-411-0554",
+  "address": "경기 안산시 단원구 고잔동 770-6번지 광장타운1층108호",
+  "latitude": "37.30998",
+  "longitude": "126.831856"
+},
+{
+  "number": "14",
+  "storeName": "로또판매선부점",
+  "phoneNumber": "031-480-5928",
+  "address": "경기 안산시 단원구 선부동 1076-17 122-2호",
+  "latitude": "37.336597",
+  "longitude": "126.80939"
+},
+{
+  "number": "15",
+  "storeName": "로또24시편의점",
+  "phoneNumber": "031-480-5380",
+  "address": "경기 안산시 단원구 선부동 1142-2번지 1층101호",
+  "latitude": "37.343426",
+  "longitude": "126.81496"
+},
+{
+  "number": "16",
+  "storeName": "행운을주는로또판매점",
+  "phoneNumber": "031-402-3363",
+  "address": "경기 안산시 단원구 초지동 735-4 태영프라자111호",
+  "latitude": "37.306698",
+  "longitude": "126.81511"
+},
+{
+  "number": "17",
+  "storeName": "휴먼복권방",
+  "phoneNumber": "031-485-0477",
+  "address": "경기 안산시 단원구 고잔동 530-3번지 진양빌딩103호",
+  "latitude": "37.31795",
+  "longitude": "126.83291"
+},
+{
+  "number": "18",
+  "storeName": "이지복권",
+  "phoneNumber": "031-495-2828",
+  "address": "경기 안산시 단원구 원시동 773-9 107호",
+  "latitude": "37.314377",
+  "longitude": "126.79725"
+},
+{
+  "number": "19",
+  "storeName": "복권명당",
+  "phoneNumber": "031-403-5282",
+  "address": "경기 안산시 단원구 와동 760-5번지 102호",
+  "latitude": "37.341118",
+  "longitude": "126.82365"
+},
+{
+  "number": "20",
+  "storeName": "송가상사",
+  "phoneNumber": "031-493-3359",
+  "address": "경기 안산시 단원구 원곡동 377-1번지 안산역사쇼핑몰1층131-3호",
+  "latitude": "37.32717",
+  "longitude": "126.78951"
+},
+{
+  "number": "21",
+  "storeName": "노다지복권방",
+  "phoneNumber": "031-487-3244",
+  "address": "경기 안산시 단원구 와동 721-4 103호",
+  "latitude": "37.332355",
+  "longitude": "126.82717"
+},
+{
+  "number": "22",
+  "storeName": "공단복권판매점",
+  "phoneNumber": "031-482-1645",
+  "address": "경기 안산시 단원구 와동 708 102호",
+  "latitude": "37.33649",
+  "longitude": "126.82918"
+},
+{
+  "number": "23",
+  "storeName": "천하으뜸편의점",
+  "phoneNumber": "031-480-1206",
+  "address": "경기 안산시 단원구 선부동 963-1 보영상가바-109호",
+  "latitude": "37.33344",
+  "longitude": "126.804"
+},
+{
+  "number": "24",
+  "storeName": "형제슈퍼",
+  "phoneNumber": "031-491-4587",
+  "address": "경기 안산시 단원구 선부동 984-22번지",
+  "latitude": "37.339436",
+  "longitude": "126.7931"
+},
+{
+  "number": "25",
+  "storeName": "GS25(안산초지점)",
+  "phoneNumber": "031-439-9967",
+  "address": "경기 안산시 단원구 초지동 734-7 gs25 안산초지점",
+  "latitude": "37.306477",
+  "longitude": "126.81555"
+},
+{
+  "number": "26",
+  "storeName": "CU(안산와동점)",
+  "phoneNumber": "031-475-6967",
+  "address": "경기 안산시 단원구 와동 679-7",
+  "latitude": "37.332382",
+  "longitude": "126.827774"
+},
+{
+  "number": "27",
+  "storeName": "GS25(원곡로점)",
+  "phoneNumber": "031-492-9926",
+  "address": "경기 안산시 단원구 원곡동 757번지",
+  "latitude": "37.33103",
+  "longitude": "126.79441"
+},
+{
+  "number": "28",
+  "storeName": "GS25(원곡경남점)",
+  "phoneNumber": "031-401-7782",
+  "address": "경기 안산시 단원구 원곡동 938 상가2동 101/102호 GS25원곡경남점",
+  "latitude": "37.32909",
+  "longitude": "126.80524"
+},
+{
+  "number": "29",
+  "storeName": "GS25(원곡본점)",
+  "phoneNumber": "031-491-5565",
+  "address": "경기 안산시 단원구 원곡동 750-8",
+  "latitude": "37.331665",
+  "longitude": "126.79356"
+},
+{
+  "number": "30",
+  "storeName": "로또복권방(고잔점)",
+  "phoneNumber": "031-482-3377",
+  "address": "경기 안산시 단원구 호수동 726-1",
+  "latitude": "37.313602",
+  "longitude": "126.83215"
+},
+{
+  "number": "31",
+  "storeName": "좋은자리",
+  "phoneNumber": "031-491-7779",
+  "address": "경기 안산시 단원구 신길동 1446",
+  "latitude": "37.33699",
+  "longitude": "126.77211"
+},
+{
+  "number": "32",
+  "storeName": "일공공일(CU편의점)",
+  "phoneNumber": "031-414-1661",
+  "address": "경기 안산시 단원구 고잔동 672-1번지 중앙시장 102호",
+  "latitude": "37.324257",
+  "longitude": "126.83766"
+},
+{
+  "number": "33",
+  "storeName": "한아름알뜰매장",
+  "phoneNumber": "031-482-9522",
+  "address": "경기 안산시 단원구 선부동 1097-11",
+  "latitude": "37.34523",
+  "longitude": "126.8166"
+},
+{
+  "number": "34",
+  "storeName": "황금대박복권슈퍼",
+  "phoneNumber": "031-403-5789",
+  "address": "경기 안산시 단원구 선부동 1028",
+  "latitude": "37.342308",
+  "longitude": "126.80363"
+},
+{
+  "number": "35",
+  "storeName": "대박복권방",
+  "phoneNumber": "031-492-3512",
+  "address": "경기 안산시 단원구 신길동 1397번지 101호",
+  "latitude": "37.336075",
+  "longitude": "126.76228"
+},
+{
+  "number": "36",
+  "storeName": "(I.A) 로또마트",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 신길동 1633",
+  "latitude": "37.33151",
+  "longitude": "126.78639"
+},
+{
+  "number": "37",
+  "storeName": "돼지로또",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 원곡동 812-3 gs25 101-1호",
+  "latitude": "37.327896",
+  "longitude": "126.79632"
+},
+{
+  "number": "38",
+  "storeName": "천둥마트",
+  "phoneNumber": "031-403-8400",
+  "address": "경기 안산시 단원구 선부동 998-10",
+  "latitude": "37.338852",
+  "longitude": "126.801865"
+},
+{
+  "number": "39",
+  "storeName": "복권사랑",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 와동 112-8",
+  "latitude": "37.340355",
+  "longitude": "126.826904"
+},
+{
+  "number": "40",
+  "storeName": "세븐일레븐 안산엔즈타워점",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 초지동 743 세븐일레븐 안산엔즈타워점",
+  "latitude": "37.302567",
+  "longitude": "126.80984"
+},
+{
+  "number": "41",
+  "storeName": "대박로또",
+  "phoneNumber": "031-486-4257",
+  "address": "경기 안산시 단원구 고잔동 658 101-1호",
+  "latitude": "37.328472",
+  "longitude": "126.81905"
+},
+{
+  "number": "42",
+  "storeName": "일등로또",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 대부북동 1845 107호",
+  "latitude": "37.285854",
+  "longitude": "126.572624"
+},
+{
+  "number": "43",
+  "storeName": "나눔로또 예대점",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 고잔동 648 상가동 1층 104호",
+  "latitude": "37.328697",
+  "longitude": "126.83974"
+},
+{
+  "number": "44",
+  "storeName": "다해복권",
+  "phoneNumber": "031-411-1888",
+  "address": "경기 안산시 단원구 선부동 1003-7 101호",
+  "latitude": "37.340084",
+  "longitude": "126.80112"
+},
+{
+  "number": "45",
+  "storeName": "다은로또",
+  "phoneNumber": "031-487-3355",
+  "address": "경기 안산시 단원구 와동 821-19",
+  "latitude": "37.337357",
+  "longitude": "126.81784"
+},
+{
+  "number": "46",
+  "storeName": "천명복권판매장",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 성곡동 645 A동 111호",
+  "latitude": "37.323742",
+  "longitude": "126.76118"
+},
+{
+  "number": "47",
+  "storeName": "GS25(안산산호점)",
+  "phoneNumber": "031-405-7616",
+  "address": "경기 안산시 단원구 선부동 1081",
+  "latitude": "37.33675",
+  "longitude": "126.81356"
+},
+{
+  "number": "48",
+  "storeName": "GS25(안산고잔점)",
+  "phoneNumber": "031-414-7556",
+  "address": "경기 안산시 단원구 고잔동 710-3번지 법조타운108호",
+  "latitude": "37.310177",
+  "longitude": "126.82741"
+},
+{
+  "number": "49",
+  "storeName": "광장로또",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 선부동 1076-6 105호 GS25",
+  "latitude": "37.330456",
+  "longitude": "126.8312"
+},
+{
+  "number": "50",
+  "storeName": "또보기스토어",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 와동 799-16 102호",
+  "latitude": "37.344963",
+  "longitude": "126.82071"
+},
+{
+  "number": "51",
+  "storeName": "이담",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 와동 117-9 104호",
+  "latitude": "37.338425",
+  "longitude": "126.828316"
+},
+{
+  "number": "52",
+  "storeName": "커피본",
+  "phoneNumber": "",
+  "address": "경기 안산시 단원구 와동 829-1 마동 104,109호",
+  "latitude": "37.333706",
+  "longitude": "126.8187"
+}
+]

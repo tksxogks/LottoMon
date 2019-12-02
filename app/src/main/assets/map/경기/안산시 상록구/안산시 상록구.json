@@ -1,0 +1,434 @@
+[
+{
+  "number": "1",
+  "storeName": "그린캐슬",
+  "phoneNumber": "031-407-8939",
+  "address": "경기 안산시 상록구 사동 1424-8번지 101호",
+  "latitude": "37.283947",
+  "longitude": "126.84712"
+},
+{
+  "number": "2",
+  "storeName": "행운슈퍼(복권)",
+  "phoneNumber": "031-408-2212",
+  "address": "경기 안산시 상록구 본오동 1118-9",
+  "latitude": "37.301037",
+  "longitude": "126.87272"
+},
+{
+  "number": "3",
+  "storeName": "천하명당",
+  "phoneNumber": "031-487-2122",
+  "address": "경기 안산시 상록구 월피동 442번지",
+  "latitude": "37.33053",
+  "longitude": "126.851295"
+},
+{
+  "number": "4",
+  "storeName": "김포마트로또방",
+  "phoneNumber": "031-409-6069",
+  "address": "경기 안산시 상록구 본오동 923-2",
+  "latitude": "37.289818",
+  "longitude": "126.86283"
+},
+{
+  "number": "5",
+  "storeName": "각골할인마트",
+  "phoneNumber": "031-501-4420",
+  "address": "경기 안산시 상록구 본오동 829-9번지",
+  "latitude": "37.292694",
+  "longitude": "126.87229"
+},
+{
+  "number": "6",
+  "storeName": "로또복권판매점",
+  "phoneNumber": "031-406-2244",
+  "address": "경기 안산시 상록구 일동 90번지",
+  "latitude": "37.31154",
+  "longitude": "126.86745"
+},
+{
+  "number": "7",
+  "storeName": "여우와솜사탕",
+  "phoneNumber": "031-406-8969",
+  "address": "경기 안산시 상록구 부곡동 692-3번지",
+  "latitude": "37.324657",
+  "longitude": "126.859406"
+},
+{
+  "number": "8",
+  "storeName": "센타슈퍼",
+  "phoneNumber": "031-409-7971",
+  "address": "경기 안산시 상록구 이동 715-4 센타프라자115호",
+  "latitude": "37.3081",
+  "longitude": "126.85045"
+},
+{
+  "number": "9",
+  "storeName": "고층슈퍼",
+  "phoneNumber": "031-482-5111",
+  "address": "경기 안산시 상록구 성포동 588-2 주공상가105호",
+  "latitude": "37.32012",
+  "longitude": "126.844864"
+},
+{
+  "number": "10",
+  "storeName": "빵!터진!로또복권판매점",
+  "phoneNumber": "031-437-9371",
+  "address": "경기 안산시 상록구 본오동 872-20 우성아파트상가 114호",
+  "latitude": "37.297085",
+  "longitude": "126.86643"
+},
+{
+  "number": "11",
+  "storeName": "행운을드리는복권방",
+  "phoneNumber": "031-502-0425",
+  "address": "경기 안산시 상록구 본오동 823-12번지",
+  "latitude": "37.29376",
+  "longitude": "126.8667"
+},
+{
+  "number": "12",
+  "storeName": "행운복권마트",
+  "phoneNumber": "031-502-0417",
+  "address": "경기 안산시 상록구 사동 1339-2 102호",
+  "latitude": "37.29424",
+  "longitude": "126.85727"
+},
+{
+  "number": "13",
+  "storeName": "드림메드",
+  "phoneNumber": "031-405-1743",
+  "address": "경기 안산시 상록구 월피동 452-11번지 101호",
+  "latitude": "37.33337",
+  "longitude": "126.85088"
+},
+{
+  "number": "14",
+  "storeName": "보물섬복권방",
+  "phoneNumber": "031-438-9345",
+  "address": "경기 안산시 상록구 이동 529-4번지",
+  "latitude": "37.310284",
+  "longitude": "126.8593"
+},
+{
+  "number": "15",
+  "storeName": "복권명당",
+  "phoneNumber": "031-501-9585",
+  "address": "경기 안산시 상록구 건건동 646-3번지",
+  "latitude": "37.304996",
+  "longitude": "126.90196"
+},
+{
+  "number": "16",
+  "storeName": "대선세무경영사무소",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 사동 1305 1층",
+  "latitude": "37.29707",
+  "longitude": "126.85018"
+},
+{
+  "number": "17",
+  "storeName": "인앤아웃",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 수암동 502-8 103호",
+  "latitude": "37.363514",
+  "longitude": "126.87624"
+},
+{
+  "number": "18",
+  "storeName": "로또육사오",
+  "phoneNumber": "031-502-2726",
+  "address": "경기 안산시 상록구 일동 632-13번지 원영빌딩1층106호",
+  "latitude": "37.310043",
+  "longitude": "126.868904"
+},
+{
+  "number": "19",
+  "storeName": "나눔로또한대점",
+  "phoneNumber": "031-418-7000",
+  "address": "경기 안산시 상록구 이동 716 한양대프라자106호",
+  "latitude": "37.308067",
+  "longitude": "126.85284"
+},
+{
+  "number": "20",
+  "storeName": "로또복권방",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 본오동 860-12 102호",
+  "latitude": "37.291965",
+  "longitude": "126.8671"
+},
+{
+  "number": "21",
+  "storeName": "다모아로또",
+  "phoneNumber": "031-401-4909",
+  "address": "경기 안산시 상록구 성포동 593-10 선경프라자, 훼미리마트",
+  "latitude": "37.32671",
+  "longitude": "126.84447"
+},
+{
+  "number": "22",
+  "storeName": "안산삼성홈플러스로또복권판매점",
+  "phoneNumber": "031-413-5989",
+  "address": "경기 안산시 상록구 성포동 586번지 삼성홈플러스1층",
+  "latitude": "37.3175",
+  "longitude": "126.850334"
+},
+{
+  "number": "23",
+  "storeName": "행운로또",
+  "phoneNumber": "031-502-9455",
+  "address": "경기 안산시 상록구 일동 666-6번지 점포1호",
+  "latitude": "37.30464",
+  "longitude": "126.86589"
+},
+{
+  "number": "24",
+  "storeName": "로또판매점",
+  "phoneNumber": "031-409-2030",
+  "address": "경기 안산시 상록구 사동 1470-11 102호",
+  "latitude": "37.280224",
+  "longitude": "126.8511"
+},
+{
+  "number": "25",
+  "storeName": "명성복권",
+  "phoneNumber": "031-415-8980",
+  "address": "경기 안산시 상록구 월피동 445-11 미니스톱",
+  "latitude": "37.314026",
+  "longitude": "126.846214"
+},
+{
+  "number": "26",
+  "storeName": "로또",
+  "phoneNumber": "031-417-7816",
+  "address": "경기 안산시 상록구 부곡동 692-5번지 301호",
+  "latitude": "37.324352",
+  "longitude": "126.859406"
+},
+{
+  "number": "27",
+  "storeName": "로또슈퍼",
+  "phoneNumber": "031-502-6700",
+  "address": "경기 안산시 상록구 사동 1517-2번지 102호",
+  "latitude": "37.306717",
+  "longitude": "126.84438"
+},
+{
+  "number": "28",
+  "storeName": "성안편의점",
+  "phoneNumber": "031-501-0806",
+  "address": "경기 안산시 상록구 사동 1551-1",
+  "latitude": "37.303642",
+  "longitude": "126.844215"
+},
+{
+  "number": "29",
+  "storeName": "바로코사",
+  "phoneNumber": "031-409-1413",
+  "address": "경기 안산시 상록구 사동 1310-1",
+  "latitude": "37.295486",
+  "longitude": "126.85125"
+},
+{
+  "number": "30",
+  "storeName": "GS25(안산신영점)",
+  "phoneNumber": "031-417-4088",
+  "address": "경기 안산시 상록구 본오동 874-12번지 신영빌딩103호,104호",
+  "latitude": "37.301907",
+  "longitude": "126.86438"
+},
+{
+  "number": "31",
+  "storeName": "GS25(안산경일점)",
+  "phoneNumber": "031-480-0880",
+  "address": "경기 안산시 상록구 성포동 591-4",
+  "latitude": "37.32351",
+  "longitude": "126.84681"
+},
+{
+  "number": "32",
+  "storeName": "GS25(안산성포점)",
+  "phoneNumber": "031-484-3100",
+  "address": "경기 안산시 상록구 성포동 592번지 선경아파트B상가101호",
+  "latitude": "37.32556",
+  "longitude": "126.843285"
+},
+{
+  "number": "33",
+  "storeName": "CU(안산부곡본점)",
+  "phoneNumber": "031-410-5681",
+  "address": "경기 안산시 상록구 부곡동 727 101호",
+  "latitude": "37.335594",
+  "longitude": "126.85837"
+},
+{
+  "number": "34",
+  "storeName": "GS25(안산현대점)",
+  "phoneNumber": "031-502-0312",
+  "address": "경기 안산시 상록구 사동 1345-2번지 현대아파트중심상가104호",
+  "latitude": "37.28896",
+  "longitude": "126.85027"
+},
+{
+  "number": "35",
+  "storeName": "GS25(안산본점)",
+  "phoneNumber": "031-417-4089",
+  "address": "경기 안산시 상록구 본오동 872-19",
+  "latitude": "37.29695",
+  "longitude": "126.86339"
+},
+{
+  "number": "36",
+  "storeName": "GS25(안산팔곡점)",
+  "phoneNumber": "031-406-7727",
+  "address": "경기 안산시 상록구 본오동 741-5 1층 101호",
+  "latitude": "37.2949",
+  "longitude": "126.87599"
+},
+{
+  "number": "37",
+  "storeName": "오일마트복권",
+  "phoneNumber": "031-438-8949",
+  "address": "경기 안산시 상록구 사동 1201-4",
+  "latitude": "37.302963",
+  "longitude": "126.85207"
+},
+{
+  "number": "38",
+  "storeName": "w홈마트",
+  "phoneNumber": "031-416-6024",
+  "address": "경기 안산시 상록구 본오동 883-11",
+  "latitude": "37.292988",
+  "longitude": "126.86162"
+},
+{
+  "number": "39",
+  "storeName": "행운이가득한집",
+  "phoneNumber": "031-502-2205",
+  "address": "경기 안산시 상록구 건건동 927-9번지 동호상가B-14호",
+  "latitude": "37.30372",
+  "longitude": "126.90147"
+},
+{
+  "number": "40",
+  "storeName": "월드슈퍼",
+  "phoneNumber": "031-407-7297",
+  "address": "경기 안산시 상록구 일동 620 1층",
+  "latitude": "37.299824",
+  "longitude": "126.865105"
+},
+{
+  "number": "41",
+  "storeName": "더드림",
+  "phoneNumber": "031-405-5777",
+  "address": "경기 안산시 상록구 월피동 502-2",
+  "latitude": "37.336548",
+  "longitude": "126.843094"
+},
+{
+  "number": "42",
+  "storeName": "YS대박로또",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 본오동 914-2 103호",
+  "latitude": "37.29428",
+  "longitude": "126.853035"
+},
+{
+  "number": "43",
+  "storeName": "훼미리복권",
+  "phoneNumber": "031-403-9965",
+  "address": "경기 안산시 상록구 월피동 448 현대2차아파트상가18호",
+  "latitude": "37.33092",
+  "longitude": "126.85028"
+},
+{
+  "number": "44",
+  "storeName": "복권명당",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 월피동 492-11번지",
+  "latitude": "37.335384",
+  "longitude": "126.846054"
+},
+{
+  "number": "45",
+  "storeName": "운수대통",
+  "phoneNumber": "031-406-4819",
+  "address": "경기 안산시 상록구 부곡동 643-8번지 102호",
+  "latitude": "37.3335",
+  "longitude": "126.86406"
+},
+{
+  "number": "46",
+  "storeName": "골든픽",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 사동 1386-2 101호",
+  "latitude": "37.28618",
+  "longitude": "126.84695"
+},
+{
+  "number": "47",
+  "storeName": "로또앤포토",
+  "phoneNumber": "031-411-7664",
+  "address": "경기 안산시 상록구 본오동 666-9 102호",
+  "latitude": "37.34843",
+  "longitude": "126.87103"
+},
+{
+  "number": "48",
+  "storeName": "돼지복권슈퍼",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 부곡동 538-4 102호",
+  "latitude": "37.332188",
+  "longitude": "126.86322"
+},
+{
+  "number": "49",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 이동 570-1 1층 101호",
+  "latitude": "37.304684",
+  "longitude": "126.86328"
+},
+{
+  "number": "50",
+  "storeName": "행복을 주는 집",
+  "phoneNumber": "031-503-2431",
+  "address": "경기 안산시 상록구 팔곡이동 356-7번지",
+  "latitude": "37.297153",
+  "longitude": "126.888054"
+},
+{
+  "number": "51",
+  "storeName": "대박복권",
+  "phoneNumber": "070-7782-5400",
+  "address": "경기 안산시 상록구 본오동 769 핸드폰 가게 내부",
+  "latitude": "37.293427",
+  "longitude": "126.87005"
+},
+{
+  "number": "52",
+  "storeName": "행복플러스마트",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 일동 581-9",
+  "latitude": "37.28988",
+  "longitude": "126.86607"
+},
+{
+  "number": "53",
+  "storeName": "동행로또복권",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 본오2동 827-7 1층",
+  "latitude": "37.29358",
+  "longitude": "126.868835"
+},
+{
+  "number": "54",
+  "storeName": "전원복권판매점",
+  "phoneNumber": "",
+  "address": "경기 안산시 상록구 본오동 870-10",
+  "latitude": "37.293297",
+  "longitude": "126.86456"
+}
+]

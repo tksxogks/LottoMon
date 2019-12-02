@@ -1,0 +1,122 @@
+[
+{
+  "number": "1",
+  "storeName": "첫마을로또방",
+  "phoneNumber": "044-864-7783",
+  "address": "세종 한솔동 939 첫마을 1단지 상가 105호",
+  "latitude": "36.480507",
+  "longitude": "127.26075"
+},
+{
+  "number": "2",
+  "storeName": "미래로또",
+  "phoneNumber": "044-864-1261",
+  "address": "세종 조치원읍 원리 3-15번지",
+  "latitude": "36.601875",
+  "longitude": "127.299355"
+},
+{
+  "number": "3",
+  "storeName": "강원복권방",
+  "phoneNumber": "044-865-0603",
+  "address": "세종 조치원읍 상리 146번지",
+  "latitude": "36.601585",
+  "longitude": "127.30198"
+},
+{
+  "number": "4",
+  "storeName": "로또복권",
+  "phoneNumber": "044-866-0950",
+  "address": "세종 조치원읍 원리 10-25번지",
+  "latitude": "36.60139",
+  "longitude": "127.29719"
+},
+{
+  "number": "5",
+  "storeName": "조치원복권방",
+  "phoneNumber": "044-863-7776",
+  "address": "세종 조치원읍 원리 12-6번지",
+  "latitude": "36.60099",
+  "longitude": "127.29791"
+},
+{
+  "number": "6",
+  "storeName": "세종복권방",
+  "phoneNumber": "044-864-9994",
+  "address": "세종 용포리 90-25",
+  "latitude": "36.46226",
+  "longitude": "127.28042"
+},
+{
+  "number": "7",
+  "storeName": "대박슈퍼",
+  "phoneNumber": "",
+  "address": "세종 조치원읍 침산리 269-8번지 1층 101호",
+  "latitude": "36.603264",
+  "longitude": "127.29159"
+},
+{
+  "number": "8",
+  "storeName": "세종행복컨설팅",
+  "phoneNumber": "",
+  "address": "세종 종촌동 662 신목빌딩 103호",
+  "latitude": "36.50434",
+  "longitude": "127.24922"
+},
+{
+  "number": "9",
+  "storeName": "세종일등로또방",
+  "phoneNumber": "044-866-3041",
+  "address": "세종 금남면 용포리 193-42 cu편의점",
+  "latitude": "36.466503",
+  "longitude": "127.281715"
+},
+{
+  "number": "10",
+  "storeName": "부강로또",
+  "phoneNumber": "",
+  "address": "세종 부강면 부강리 431번지",
+  "latitude": "36.53092",
+  "longitude": "127.36892"
+},
+{
+  "number": "11",
+  "storeName": "나눔로또",
+  "phoneNumber": "",
+  "address": "세종 장군면 도계리 154-1 CU편의점",
+  "latitude": "36.49742",
+  "longitude": "127.20574"
+},
+{
+  "number": "12",
+  "storeName": "싱글벙글",
+  "phoneNumber": "",
+  "address": "세종 도담동 660 1층 132호",
+  "latitude": "36.514305",
+  "longitude": "127.258606"
+},
+{
+  "number": "13",
+  "storeName": "나눔로또",
+  "phoneNumber": "",
+  "address": "세종 전의면 동교리 158-5 2동",
+  "latitude": "36.679684",
+  "longitude": "127.207695"
+},
+{
+  "number": "14",
+  "storeName": "청운",
+  "phoneNumber": "",
+  "address": "세종 보람동 628-2 스타힐타워 117호",
+  "latitude": "36.478294",
+  "longitude": "127.289116"
+},
+{
+  "number": "15",
+  "storeName": "세종청사로또",
+  "phoneNumber": "044-864-0401",
+  "address": "세종 어진동 547 중앙타운 114호",
+  "latitude": "36.508423",
+  "longitude": "127.262505"
+}
+]

@@ -1,0 +1,362 @@
+[
+{
+  "number": "1",
+  "storeName": "코사마트크로바점",
+  "phoneNumber": "063-275-6171",
+  "address": "전북 전주시 덕진구 금암동 1580-14번지",
+  "latitude": "35.840412",
+  "longitude": "127.14153"
+},
+{
+  "number": "2",
+  "storeName": "복권세상",
+  "phoneNumber": "063-271-5248",
+  "address": "전북 전주시 덕진구 인후동2가 236-138번지",
+  "latitude": "35.8329",
+  "longitude": "127.14548"
+},
+{
+  "number": "3",
+  "storeName": "팡팡복권마트.잡화슈퍼",
+  "phoneNumber": "063-251-7764",
+  "address": "전북 전주시 덕진구 금암동 460-30번지",
+  "latitude": "35.83439",
+  "longitude": "127.13339"
+},
+{
+  "number": "4",
+  "storeName": "신대박복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 금암동 760-15",
+  "latitude": "35.833088",
+  "longitude": "127.14176"
+},
+{
+  "number": "5",
+  "storeName": "로또편의점",
+  "phoneNumber": "063-241-7754",
+  "address": "전북 전주시 덕진구 인후동1가 920-5번지",
+  "latitude": "35.827072",
+  "longitude": "127.168304"
+},
+{
+  "number": "6",
+  "storeName": "동아전업사",
+  "phoneNumber": "063-212-6369",
+  "address": "전북 전주시 덕진구 팔복동2가 247-13번지",
+  "latitude": "35.85288",
+  "longitude": "127.10582"
+},
+{
+  "number": "7",
+  "storeName": "로또편의점",
+  "phoneNumber": "063-254-6388",
+  "address": "전북 전주시 덕진구 덕진동1가 1267-18",
+  "latitude": "35.841473",
+  "longitude": "127.126305"
+},
+{
+  "number": "8",
+  "storeName": "다농현대보석",
+  "phoneNumber": "063-254-5211",
+  "address": "전북 전주시 덕진구 송천동2가 587-5번지",
+  "latitude": "35.867153",
+  "longitude": "127.116196"
+},
+{
+  "number": "9",
+  "storeName": "훼미리마트안골점",
+  "phoneNumber": "063-247-5533",
+  "address": "전북 전주시 덕진구 인후동1가 772-7번지",
+  "latitude": "35.836254",
+  "longitude": "127.15424"
+},
+{
+  "number": "10",
+  "storeName": "오성슈퍼복권방",
+  "phoneNumber": "063-275-5847",
+  "address": "전북 전주시 덕진구 덕진동2가 20번지",
+  "latitude": "35.852383",
+  "longitude": "127.11596"
+},
+{
+  "number": "11",
+  "storeName": "에덴로또",
+  "phoneNumber": "063-214-2133",
+  "address": "전북 전주시 덕진구 동산동 566-17번지",
+  "latitude": "35.868633",
+  "longitude": "127.07784"
+},
+{
+  "number": "12",
+  "storeName": "100억만들기",
+  "phoneNumber": "063-241-9560",
+  "address": "전북 전주시 덕진구 송천동2가 354-3",
+  "latitude": "35.835697",
+  "longitude": "127.129005"
+},
+{
+  "number": "13",
+  "storeName": "대명복권방",
+  "phoneNumber": "063-245-9428",
+  "address": "전북 전주시 덕진구 우아동3가 594-5번지",
+  "latitude": "35.856018",
+  "longitude": "127.15506"
+},
+{
+  "number": "14",
+  "storeName": "팡팡로또복권방",
+  "phoneNumber": "063-242-8875",
+  "address": "전북 전주시 덕진구 인후동1가 626-3",
+  "latitude": "35.833153",
+  "longitude": "127.15511"
+},
+{
+  "number": "15",
+  "storeName": "대박복권방",
+  "phoneNumber": "063-242-1860",
+  "address": "전북 전주시 덕진구 인후동1가 846-5",
+  "latitude": "35.83465",
+  "longitude": "127.164734"
+},
+{
+  "number": "16",
+  "storeName": "금암복권방",
+  "phoneNumber": "063-278-2031",
+  "address": "전북 전주시 덕진구 금암동 526-30번지",
+  "latitude": "35.837837",
+  "longitude": "127.137596"
+},
+{
+  "number": "17",
+  "storeName": "왕대박복권",
+  "phoneNumber": "063-241-7274",
+  "address": "전북 전주시 덕진구 덕진동2가 번지",
+  "latitude": "35.841614",
+  "longitude": "127.110634"
+},
+{
+  "number": "18",
+  "storeName": "복권매니아",
+  "phoneNumber": "063-272-0814",
+  "address": "전북 전주시 덕진구 덕진동1가 1400-3번지",
+  "latitude": "35.843513",
+  "longitude": "127.12351"
+},
+{
+  "number": "19",
+  "storeName": "현텔레콤",
+  "phoneNumber": "063-242-3986",
+  "address": "전북 전주시 덕진구 인후동1가 928-1",
+  "latitude": "35.825565",
+  "longitude": "127.16549"
+},
+{
+  "number": "20",
+  "storeName": "행운하우스",
+  "phoneNumber": "063-251-0810",
+  "address": "전북 전주시 덕진구 송천동1가 596-25번지",
+  "latitude": "35.862034",
+  "longitude": "127.11489"
+},
+{
+  "number": "21",
+  "storeName": "Letsgo복권유통",
+  "phoneNumber": "063-246-4530",
+  "address": "전북 전주시 덕진구 인후동1가 904-1번지",
+  "latitude": "35.82815",
+  "longitude": "127.1647"
+},
+{
+  "number": "22",
+  "storeName": "Letsgo복권방(동산점)",
+  "phoneNumber": "063-213-2109",
+  "address": "전북 전주시 덕진구 여의동 580-5",
+  "latitude": "35.87058",
+  "longitude": "127.076546"
+},
+{
+  "number": "23",
+  "storeName": "뉴팡팡복권",
+  "phoneNumber": "063-212-5382",
+  "address": "전북 전주시 덕진구 반월동 385-3번지",
+  "latitude": "35.873753",
+  "longitude": "127.07248"
+},
+{
+  "number": "24",
+  "storeName": "황금복권마트",
+  "phoneNumber": "063-276-9888",
+  "address": "전북 전주시 덕진구 송천동1가 107-179번지",
+  "latitude": "35.863304",
+  "longitude": "127.12736"
+},
+{
+  "number": "25",
+  "storeName": "찬스복권방",
+  "phoneNumber": "063-277-6575",
+  "address": "전북 전주시 덕진구 진북동 407-4번지",
+  "latitude": "35.83164",
+  "longitude": "127.136"
+},
+{
+  "number": "26",
+  "storeName": "프랜드마트두산점",
+  "phoneNumber": "063-252-3441",
+  "address": "전북 전주시 덕진구 금암동 1576-52번지",
+  "latitude": "35.839108",
+  "longitude": "127.14209"
+},
+{
+  "number": "27",
+  "storeName": "부업동아리",
+  "phoneNumber": "063-272-5509",
+  "address": "전북 전주시 덕진구 송천동1가 387-1",
+  "latitude": "35.856026",
+  "longitude": "127.12004"
+},
+{
+  "number": "28",
+  "storeName": "대박복권방",
+  "phoneNumber": "063-277-9300",
+  "address": "전북 전주시 덕진구 송천동2가 245-1번지",
+  "latitude": "35.86641",
+  "longitude": "127.12329"
+},
+{
+  "number": "29",
+  "storeName": "이마트24",
+  "phoneNumber": "070-8225-3469",
+  "address": "전북 전주시 덕진구 우아동3가 746-40번지",
+  "latitude": "35.84925",
+  "longitude": "127.15942"
+},
+{
+  "number": "30",
+  "storeName": "훼미리마트 우아대로점",
+  "phoneNumber": "063-246-2949",
+  "address": "전북 전주시 덕진구 우아동2가 866-1번지",
+  "latitude": "35.83548",
+  "longitude": "127.16735"
+},
+{
+  "number": "31",
+  "storeName": "CU(전주우아점)",
+  "phoneNumber": "063-241-9434",
+  "address": "전북 전주시 덕진구 우아동3가 746-20번지",
+  "latitude": "35.84894",
+  "longitude": "127.15697"
+},
+{
+  "number": "32",
+  "storeName": "행운복권방",
+  "phoneNumber": "063-247-3008",
+  "address": "전북 전주시 덕진구 인후동1가 811-1",
+  "latitude": "35.832523",
+  "longitude": "127.15801"
+},
+{
+  "number": "33",
+  "storeName": "광장로또",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 덕진동1가 1276-4",
+  "latitude": "35.84715",
+  "longitude": "127.15202"
+},
+{
+  "number": "34",
+  "storeName": "드림로또",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 호성동1가 749-15",
+  "latitude": "35.85833",
+  "longitude": "127.15354"
+},
+{
+  "number": "35",
+  "storeName": "모래내마트",
+  "phoneNumber": "063-254-8818",
+  "address": "전북 전주시 덕진구 금암동 200-13번지",
+  "latitude": "35.83305",
+  "longitude": "127.14246"
+},
+{
+  "number": "36",
+  "storeName": "썬",
+  "phoneNumber": "063-247-4662",
+  "address": "전북 전주시 덕진구 우아동3가 747-9번지",
+  "latitude": "35.84876",
+  "longitude": "127.15501"
+},
+{
+  "number": "37",
+  "storeName": "왕대박로또",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 만성동 1343-8",
+  "latitude": "35.836433",
+  "longitude": "127.13279"
+},
+{
+  "number": "38",
+  "storeName": "사랑복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 덕진동2가 664-8",
+  "latitude": "35.82651",
+  "longitude": "127.165855"
+},
+{
+  "number": "39",
+  "storeName": "럭키복권방",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 호성동1가 140-2",
+  "latitude": "35.864376",
+  "longitude": "127.160545"
+},
+{
+  "number": "40",
+  "storeName": "스파로또",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 송천동1가 474-36",
+  "latitude": "35.858753",
+  "longitude": "127.120834"
+},
+{
+  "number": "41",
+  "storeName": "GS25(전주리조트점)",
+  "phoneNumber": "063-242-7950",
+  "address": "전북 전주시 덕진구 우아동2가 922-6번지",
+  "latitude": "35.830246",
+  "longitude": "127.172874"
+},
+{
+  "number": "42",
+  "storeName": "GS25(송천비사벌점)",
+  "phoneNumber": "063-273-7772",
+  "address": "전북 전주시 덕진구 송천동2가 523-6번지",
+  "latitude": "35.866463",
+  "longitude": "127.12181"
+},
+{
+  "number": "43",
+  "storeName": "소현로또방",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 우아동3가 747-85",
+  "latitude": "35.85048",
+  "longitude": "127.15588"
+},
+{
+  "number": "44",
+  "storeName": "노다지복권방",
+  "phoneNumber": "063-211-0106",
+  "address": "전북 전주시 덕진구 진북동 1037-31",
+  "latitude": "35.82888",
+  "longitude": "127.13146"
+},
+{
+  "number": "45",
+  "storeName": "우연히당첨복권판매점",
+  "phoneNumber": "",
+  "address": "전북 전주시 덕진구 송천동2가 176-28",
+  "latitude": "35.86673",
+  "longitude": "127.129105"
+}
+]

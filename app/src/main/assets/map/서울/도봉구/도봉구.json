@@ -1,0 +1,322 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(창동미소점)",
+  "phoneNumber": "02-904-0133",
+  "address": "서울 도봉구 창동 254-23",
+  "latitude": "37.65329",
+  "longitude": "127.04521"
+},
+{
+  "number": "2",
+  "storeName": "드림 편의점",
+  "phoneNumber": "",
+  "address": "서울 도봉구 창동 565-9",
+  "latitude": "37.638992",
+  "longitude": "127.040085"
+},
+{
+  "number": "3",
+  "storeName": "GS25(창동본점)",
+  "phoneNumber": "02-903-6351",
+  "address": "서울 도봉구 창동 12",
+  "latitude": "37.653004",
+  "longitude": "127.04982"
+},
+{
+  "number": "4",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "서울 도봉구 방학동 646-41",
+  "latitude": "37.669037",
+  "longitude": "127.0408"
+},
+{
+  "number": "5",
+  "storeName": "현대",
+  "phoneNumber": "02-954-0343",
+  "address": "서울 도봉구 방학동 686-14번지 현대마트",
+  "latitude": "37.664696",
+  "longitude": "127.03965"
+},
+{
+  "number": "6",
+  "storeName": "삼호복권",
+  "phoneNumber": "02-990-3553",
+  "address": "서울 도봉구 쌍문동 96-43번지",
+  "latitude": "37.646736",
+  "longitude": "127.03324"
+},
+{
+  "number": "7",
+  "storeName": "방학음악사",
+  "phoneNumber": "02-954-5997",
+  "address": "서울 도봉구 방학동 703-65번지",
+  "latitude": "37.66467",
+  "longitude": "127.04236"
+},
+{
+  "number": "8",
+  "storeName": "까치(소식5)",
+  "phoneNumber": "02-3494-3375",
+  "address": "서울 도봉구 도봉동 620-19번지",
+  "latitude": "37.66987",
+  "longitude": "127.043274"
+},
+{
+  "number": "9",
+  "storeName": "행운로또방",
+  "phoneNumber": "02-995-9006",
+  "address": "서울 도봉구 창동 635-2번지",
+  "latitude": "37.64193",
+  "longitude": "127.03502"
+},
+{
+  "number": "10",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-954-5488",
+  "address": "서울 도봉구 방학동 665-9번지",
+  "latitude": "37.66265",
+  "longitude": "127.03426"
+},
+{
+  "number": "11",
+  "storeName": "행복로또방",
+  "phoneNumber": "",
+  "address": "서울 도봉구 도봉동 562-40",
+  "latitude": "37.68298",
+  "longitude": "127.04561"
+},
+{
+  "number": "12",
+  "storeName": "오성할인마트",
+  "phoneNumber": "02-3494-4011",
+  "address": "서울 도봉구 쌍문동 88-127번지",
+  "latitude": "37.650692",
+  "longitude": "127.03558"
+},
+{
+  "number": "13",
+  "storeName": "돼지슈퍼",
+  "phoneNumber": "02-995-9762",
+  "address": "서울 도봉구 쌍문동 512-23번지",
+  "latitude": "37.659046",
+  "longitude": "127.014114"
+},
+{
+  "number": "14",
+  "storeName": "국민슈퍼",
+  "phoneNumber": "02-900-6791",
+  "address": "서울 도봉구 창동 731-55번지",
+  "latitude": "37.657024",
+  "longitude": "127.04009"
+},
+{
+  "number": "15",
+  "storeName": "3단지슈퍼",
+  "phoneNumber": "02-908-7629",
+  "address": "서울 도봉구 창동 347번지 주공3단지종합상가105호",
+  "latitude": "37.650043",
+  "longitude": "127.04361"
+},
+{
+  "number": "16",
+  "storeName": "gs25녹천본점",
+  "phoneNumber": "02-996-3044",
+  "address": "서울 도봉구 창동 373번지 주공4단지일반상가104",
+  "latitude": "37.64582",
+  "longitude": "127.04769"
+},
+{
+  "number": "17",
+  "storeName": "넘보원 마트",
+  "phoneNumber": "02-955-0081",
+  "address": "서울 도봉구 도봉동 596-24번지",
+  "latitude": "37.677673",
+  "longitude": "127.04466"
+},
+{
+  "number": "18",
+  "storeName": "복권전문점",
+  "phoneNumber": "02-3491-4019",
+  "address": "서울 도봉구 방학동 658-27번지",
+  "latitude": "37.667427",
+  "longitude": "127.03995"
+},
+{
+  "number": "19",
+  "storeName": "복권마트",
+  "phoneNumber": "02-995-7865",
+  "address": "서울 도봉구 방학동 634번지",
+  "latitude": "37.66611",
+  "longitude": "127.03486"
+},
+{
+  "number": "20",
+  "storeName": "로또",
+  "phoneNumber": "02-956-1463",
+  "address": "서울 도봉구 도봉동 636-12번지",
+  "latitude": "37.66939",
+  "longitude": "127.04645"
+},
+{
+  "number": "21",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "서울 도봉구 창동 805",
+  "latitude": "37.65435",
+  "longitude": "127.04649"
+},
+{
+  "number": "22",
+  "storeName": "로또복권",
+  "phoneNumber": "02-995-1500",
+  "address": "서울 도봉구 쌍문동 98-9",
+  "latitude": "37.648",
+  "longitude": "127.03316"
+},
+{
+  "number": "23",
+  "storeName": "무지개복권",
+  "phoneNumber": "02-990-2492",
+  "address": "서울 도봉구 쌍문동 349-25",
+  "latitude": "37.64599",
+  "longitude": "127.03714"
+},
+{
+  "number": "24",
+  "storeName": "영훈슈퍼마켓",
+  "phoneNumber": "02-995-6503",
+  "address": "서울 도봉구 창동 557-5번지",
+  "latitude": "37.637768",
+  "longitude": "127.037605"
+},
+{
+  "number": "25",
+  "storeName": "한아름유통",
+  "phoneNumber": "02-906-0614",
+  "address": "서울 도봉구 쌍문동 281-52번지",
+  "latitude": "37.650795",
+  "longitude": "127.025475"
+},
+{
+  "number": "26",
+  "storeName": "3단지슈퍼",
+  "phoneNumber": "02-908-7629",
+  "address": "서울 도봉구 창동 347번지 주공3단지종합상가105호",
+  "latitude": "37.650043",
+  "longitude": "127.04361"
+},
+{
+  "number": "27",
+  "storeName": "국민슈퍼",
+  "phoneNumber": "02-900-6791",
+  "address": "서울 도봉구 창동 731-55번지",
+  "latitude": "37.657024",
+  "longitude": "127.04009"
+},
+{
+  "number": "28",
+  "storeName": "돼지슈퍼",
+  "phoneNumber": "02-995-9762",
+  "address": "서울 도봉구 쌍문동 512-23번지",
+  "latitude": "37.659046",
+  "longitude": "127.014114"
+},
+{
+  "number": "29",
+  "storeName": "오성할인마트",
+  "phoneNumber": "02-3494-4011",
+  "address": "서울 도봉구 쌍문동 88-127번지",
+  "latitude": "37.650692",
+  "longitude": "127.03558"
+},
+{
+  "number": "30",
+  "storeName": "행복로또방",
+  "phoneNumber": "",
+  "address": "서울 도봉구 도봉동 562-40",
+  "latitude": "37.68298",
+  "longitude": "127.04561"
+},
+{
+  "number": "31",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-954-5488",
+  "address": "서울 도봉구 방학동 665-9번지",
+  "latitude": "37.66265",
+  "longitude": "127.03426"
+},
+{
+  "number": "32",
+  "storeName": "행운로또방",
+  "phoneNumber": "02-995-9006",
+  "address": "서울 도봉구 창동 635-2번지",
+  "latitude": "37.64193",
+  "longitude": "127.03502"
+},
+{
+  "number": "33",
+  "storeName": "까치(소식5)",
+  "phoneNumber": "02-3494-3375",
+  "address": "서울 도봉구 도봉동 620-19번지",
+  "latitude": "37.66987",
+  "longitude": "127.043274"
+},
+{
+  "number": "34",
+  "storeName": "방학음악사",
+  "phoneNumber": "02-954-5997",
+  "address": "서울 도봉구 방학동 703-65번지",
+  "latitude": "37.66467",
+  "longitude": "127.04236"
+},
+{
+  "number": "35",
+  "storeName": "삼호복권",
+  "phoneNumber": "02-990-3553",
+  "address": "서울 도봉구 쌍문동 96-43번지",
+  "latitude": "37.646736",
+  "longitude": "127.03324"
+},
+{
+  "number": "36",
+  "storeName": "현대",
+  "phoneNumber": "02-954-0343",
+  "address": "서울 도봉구 방학동 686-14번지 현대마트",
+  "latitude": "37.664696",
+  "longitude": "127.03965"
+},
+{
+  "number": "37",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "서울 도봉구 방학동 646-41",
+  "latitude": "37.669037",
+  "longitude": "127.0408"
+},
+{
+  "number": "38",
+  "storeName": "GS25(창동본점)",
+  "phoneNumber": "02-903-6351",
+  "address": "서울 도봉구 창동 12",
+  "latitude": "37.653004",
+  "longitude": "127.04982"
+},
+{
+  "number": "39",
+  "storeName": "드림 편의점",
+  "phoneNumber": "",
+  "address": "서울 도봉구 창동 565-9",
+  "latitude": "37.638992",
+  "longitude": "127.040085"
+},
+{
+  "number": "40",
+  "storeName": "포시즌",
+  "phoneNumber": "",
+  "address": "서울 도봉구 쌍문제2동 20 1층 (쌍문동 벽산송화)",
+  "latitude": "37.658794",
+  "longitude": "127.034836"
+}
+]

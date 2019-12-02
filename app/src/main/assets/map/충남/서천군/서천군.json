@@ -1,0 +1,82 @@
+[
+{
+  "number": "1",
+  "storeName": "삼팔로또",
+  "phoneNumber": "041-953-5853",
+  "address": "충남 서천군 서천읍 군사리 696-5번지",
+  "latitude": "36.07533",
+  "longitude": "126.68642"
+},
+{
+  "number": "2",
+  "storeName": "행운천하명당",
+  "phoneNumber": "041-952-7200",
+  "address": "충남 서천군 서천읍 군사리 750-2",
+  "latitude": "36.0788",
+  "longitude": "126.68713"
+},
+{
+  "number": "3",
+  "storeName": "대박로또",
+  "phoneNumber": "041-956-7710",
+  "address": "충남 서천군 장항읍 창선1리 249",
+  "latitude": "36.011013",
+  "longitude": "126.69545"
+},
+{
+  "number": "4",
+  "storeName": "777천하명당",
+  "phoneNumber": "041-953-9900",
+  "address": "충남 서천군 서천읍 군사리 684-5번지",
+  "latitude": "36.07484",
+  "longitude": "126.68899"
+},
+{
+  "number": "5",
+  "storeName": "화산복권판매점",
+  "phoneNumber": "",
+  "address": "충남 서천군 종천면 화산리 301-11",
+  "latitude": "36.095818",
+  "longitude": "126.66435"
+},
+{
+  "number": "6",
+  "storeName": "삼팔로또",
+  "phoneNumber": "041-953-5853",
+  "address": "충남 서천군 서천읍 군사리 696-5번지",
+  "latitude": "36.07533",
+  "longitude": "126.68642"
+},
+{
+  "number": "7",
+  "storeName": "행운천하명당",
+  "phoneNumber": "041-952-7200",
+  "address": "충남 서천군 서천읍 군사리 750-2",
+  "latitude": "36.0788",
+  "longitude": "126.68713"
+},
+{
+  "number": "8",
+  "storeName": "대박로또",
+  "phoneNumber": "041-956-7710",
+  "address": "충남 서천군 장항읍 창선1리 249",
+  "latitude": "36.011013",
+  "longitude": "126.69545"
+},
+{
+  "number": "9",
+  "storeName": "777천하명당",
+  "phoneNumber": "041-953-9900",
+  "address": "충남 서천군 서천읍 군사리 684-5번지",
+  "latitude": "36.07484",
+  "longitude": "126.68899"
+},
+{
+  "number": "10",
+  "storeName": "화산복권판매점",
+  "phoneNumber": "",
+  "address": "충남 서천군 종천면 화산리 301-11",
+  "latitude": "36.095818",
+  "longitude": "126.66435"
+}
+]

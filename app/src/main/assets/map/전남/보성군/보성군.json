@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "벌교 로또복권방",
+  "phoneNumber": "061-857-0852",
+  "address": "전남 보성군 벌교읍 벌교리 737-25번지 벌교 로또편의점",
+  "latitude": "34.842136",
+  "longitude": "127.343834"
+},
+{
+  "number": "2",
+  "storeName": "훼미리마트보성역점로또복권방",
+  "phoneNumber": "061-852-0767",
+  "address": "전남 보성군 보성읍 보성리 893-12번지 CU 보성역점",
+  "latitude": "34.76776",
+  "longitude": "127.081535"
+},
+{
+  "number": "3",
+  "storeName": "88마트",
+  "phoneNumber": "061-853-2688",
+  "address": "전남 보성군 보성읍 보성리 88번지 88마트내",
+  "latitude": "34.76749",
+  "longitude": "127.08514"
+},
+{
+  "number": "4",
+  "storeName": "좋은사람들로또",
+  "phoneNumber": "061-852-0745",
+  "address": "전남 보성군 보성읍 보성리 896-4",
+  "latitude": "34.767403",
+  "longitude": "127.08094"
+}
+]

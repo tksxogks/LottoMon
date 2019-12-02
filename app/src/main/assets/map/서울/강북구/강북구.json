@@ -1,0 +1,306 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(수유유진점)",
+  "phoneNumber": "02-903-0907",
+  "address": "서울 강북구 수유동 441-69",
+  "latitude": "37.636616",
+  "longitude": "127.03155"
+},
+{
+  "number": "2",
+  "storeName": "씨스페이스(미아3점)",
+  "phoneNumber": "02-989-7904",
+  "address": "서울 강북구 미아동 304-20번지",
+  "latitude": "37.625988",
+  "longitude": "127.02574"
+},
+{
+  "number": "3",
+  "storeName": "GS25(수유점)",
+  "phoneNumber": "02-903-7974",
+  "address": "서울 강북구 수유동 174-17번지",
+  "latitude": "37.640217",
+  "longitude": "127.02708"
+},
+{
+  "number": "4",
+  "storeName": "CU(수유대로점)",
+  "phoneNumber": "02-990-4895",
+  "address": "서울 강북구 수유동 724-3번지 두울빌딩",
+  "latitude": "37.646027",
+  "longitude": "127.02441"
+},
+{
+  "number": "5",
+  "storeName": "GS25(수유역점)",
+  "phoneNumber": "02-990-6776",
+  "address": "서울 강북구 번동 418-9번지",
+  "latitude": "37.63853",
+  "longitude": "127.02669"
+},
+{
+  "number": "6",
+  "storeName": "왕대박",
+  "phoneNumber": "02-985-7440",
+  "address": "서울 강북구 미아동 134-94 1층 CU편의점",
+  "latitude": "37.620724",
+  "longitude": "127.028694"
+},
+{
+  "number": "7",
+  "storeName": "로또복권판매",
+  "phoneNumber": "02-985-8689",
+  "address": "서울 강북구 번동 433-54번지",
+  "latitude": "37.634804",
+  "longitude": "127.03345"
+},
+{
+  "number": "8",
+  "storeName": "가로매점",
+  "phoneNumber": "02-981-4399",
+  "address": "서울 강북구 미아동 35-4번지 cgv 앞 가판",
+  "latitude": "37.612022",
+  "longitude": "127.03068"
+},
+{
+  "number": "9",
+  "storeName": "교통카드판매소",
+  "phoneNumber": "02-990-3087",
+  "address": "서울 강북구 수유동 191-14번지 가판",
+  "latitude": "37.638626",
+  "longitude": "127.02588"
+},
+{
+  "number": "10",
+  "storeName": "구청앞로또명당",
+  "phoneNumber": "02-998-1293",
+  "address": "서울 강북구 수유동 191-58번지",
+  "latitude": "37.6396",
+  "longitude": "127.026306"
+},
+{
+  "number": "11",
+  "storeName": "토큰판매점",
+  "phoneNumber": "02-980-1191",
+  "address": "서울 강북구 미아동 60-5번지 가판",
+  "latitude": "37.613094",
+  "longitude": "127.029594"
+},
+{
+  "number": "12",
+  "storeName": "토큰박스",
+  "phoneNumber": "02-997-0564",
+  "address": "서울 강북구 번동 446-50번지 KFC앞 가판",
+  "latitude": "37.637505",
+  "longitude": "127.02553"
+},
+{
+  "number": "13",
+  "storeName": "디오니스",
+  "phoneNumber": "02-988-2668",
+  "address": "서울 강북구 미아동 55-59번지 1층 세븐일레븐",
+  "latitude": "37.617363",
+  "longitude": "127.0273"
+},
+{
+  "number": "14",
+  "storeName": "우이담배가게",
+  "phoneNumber": "02-906-5311",
+  "address": "서울 강북구 수유동 404-31번지",
+  "latitude": "37.63722",
+  "longitude": "127.01692"
+},
+{
+  "number": "15",
+  "storeName": "복권판매점",
+  "phoneNumber": "02-986-0326",
+  "address": "서울 강북구 미아동 51-16",
+  "latitude": "37.631233",
+  "longitude": "127.02381"
+},
+{
+  "number": "16",
+  "storeName": "담배",
+  "phoneNumber": "02-981-1922",
+  "address": "서울 강북구 미아동 777-3번지",
+  "latitude": "37.62581",
+  "longitude": "127.01846"
+},
+{
+  "number": "17",
+  "storeName": "수유시장점 복권방",
+  "phoneNumber": "02-987-3937",
+  "address": "서울 강북구 미아동 203-6",
+  "latitude": "37.629807",
+  "longitude": "127.02449"
+},
+{
+  "number": "18",
+  "storeName": "로또대박복권",
+  "phoneNumber": "02-980-9807",
+  "address": "서울 강북구 수유동 95-7번지 수유이테크밸리1층",
+  "latitude": "37.633717",
+  "longitude": "127.02277"
+},
+{
+  "number": "19",
+  "storeName": "로또복권판매",
+  "phoneNumber": "02-994-3036",
+  "address": "서울 강북구 수유동 173-14번지 가판",
+  "latitude": "37.641563",
+  "longitude": "127.02904"
+},
+{
+  "number": "20",
+  "storeName": "복권명당",
+  "phoneNumber": "02-981-0019",
+  "address": "서울 강북구 수유동 57-80번지",
+  "latitude": "37.630653",
+  "longitude": "127.01797"
+},
+{
+  "number": "21",
+  "storeName": "슈퍼전자",
+  "phoneNumber": "02-985-9943",
+  "address": "서울 강북구 미아동 688-5번지 삼양빌딩1층14호",
+  "latitude": "37.619335",
+  "longitude": "127.02068"
+},
+{
+  "number": "22",
+  "storeName": "천하명당 미아점",
+  "phoneNumber": "02-986-0318",
+  "address": "서울 강북구 송천동 482-11번지 미아CGV앞 맞너편 골목으로 300m",
+  "latitude": "37.61265",
+  "longitude": "127.0275"
+},
+{
+  "number": "23",
+  "storeName": "강호상사",
+  "phoneNumber": "02-999-2808",
+  "address": "서울 강북구 수유동 182-34",
+  "latitude": "37.642406",
+  "longitude": "127.02381"
+},
+{
+  "number": "24",
+  "storeName": "복권천하",
+  "phoneNumber": "02-985-0525",
+  "address": "서울 강북구 미아동 54-248번지",
+  "latitude": "37.612534",
+  "longitude": "127.03192"
+},
+{
+  "number": "25",
+  "storeName": "안목마트",
+  "phoneNumber": "02-907-0910",
+  "address": "서울 강북구 번동 463-33번지",
+  "latitude": "37.63934",
+  "longitude": "127.02815"
+},
+{
+  "number": "26",
+  "storeName": "에덴복권사무써비스",
+  "phoneNumber": "02-996-7252",
+  "address": "서울 강북구 수유동 455-80번지",
+  "latitude": "37.63393",
+  "longitude": "127.01374"
+},
+{
+  "number": "27",
+  "storeName": "행운찬스복권방",
+  "phoneNumber": "",
+  "address": "서울 강북구 번동 437-10번지",
+  "latitude": "37.634926",
+  "longitude": "127.02943"
+},
+{
+  "number": "28",
+  "storeName": "대박찬스",
+  "phoneNumber": "02-987-3384",
+  "address": "서울 강북구 미아동 224-58번지",
+  "latitude": "37.625755",
+  "longitude": "127.023994"
+},
+{
+  "number": "29",
+  "storeName": "현경하이퍼마켓",
+  "phoneNumber": "02-905-3677",
+  "address": "서울 강북구 수유동 311-6번지",
+  "latitude": "37.64369",
+  "longitude": "127.014725"
+},
+{
+  "number": "30",
+  "storeName": "찬스복권방",
+  "phoneNumber": "02-907-7800",
+  "address": "서울 강북구 수유동 273-66",
+  "latitude": "37.63902",
+  "longitude": "127.021706"
+},
+{
+  "number": "31",
+  "storeName": "다온복권",
+  "phoneNumber": "02-987-3611",
+  "address": "서울 강북구 번동 306-11 1층 103호",
+  "latitude": "37.628475",
+  "longitude": "127.039406"
+},
+{
+  "number": "32",
+  "storeName": "보경식품",
+  "phoneNumber": "02-988-2487",
+  "address": "서울 강북구 미아동 207-2번지",
+  "latitude": "37.627464",
+  "longitude": "127.0254"
+},
+{
+  "number": "33",
+  "storeName": "복권전문점",
+  "phoneNumber": "02-981-9864",
+  "address": "서울 강북구 미아동 460-55번지",
+  "latitude": "37.615536",
+  "longitude": "127.02865"
+},
+{
+  "number": "34",
+  "storeName": "금금산(金金産)복방",
+  "phoneNumber": "02-995-4472",
+  "address": "서울 강북구 번동 411-64번지",
+  "latitude": "37.635826",
+  "longitude": "127.029175"
+},
+{
+  "number": "35",
+  "storeName": "강북구교통카드판매대",
+  "phoneNumber": "02-982-8606",
+  "address": "서울 강북구 미아동 688-4번지 가판",
+  "latitude": "37.619167",
+  "longitude": "127.0214"
+},
+{
+  "number": "36",
+  "storeName": "플러스로또",
+  "phoneNumber": "",
+  "address": "서울 강북구 미아동 862-14",
+  "latitude": "37.620197",
+  "longitude": "127.01838"
+},
+{
+  "number": "37",
+  "storeName": "희망로또",
+  "phoneNumber": "02-900-5185",
+  "address": "서울 강북구 수유동 548-3번지",
+  "latitude": "37.64435",
+  "longitude": "127.010544"
+},
+{
+  "number": "38",
+  "storeName": "청도중국식품",
+  "phoneNumber": "02-990-9032",
+  "address": "서울 강북구 수유동 194-20",
+  "latitude": "37.64068",
+  "longitude": "127.02346"
+}
+]

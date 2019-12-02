@@ -1,0 +1,226 @@
+[
+{
+  "number": "1",
+  "storeName": "아리랑마트",
+  "phoneNumber": "055-543-6236",
+  "address": "경남 창원시 진해구 이동 633-2번지",
+  "latitude": "35.149605",
+  "longitude": "128.69772"
+},
+{
+  "number": "2",
+  "storeName": "씨유(진해제일점)",
+  "phoneNumber": "055-543-3154",
+  "address": "경남 창원시 진해구 이동 407-6번지",
+  "latitude": "35.15317",
+  "longitude": "128.69514"
+},
+{
+  "number": "3",
+  "storeName": "수성그린마트",
+  "phoneNumber": "055-551-0882",
+  "address": "경남 창원시 진해구 경화동 905-2 26호 10호",
+  "latitude": "35.15668",
+  "longitude": "128.69081"
+},
+{
+  "number": "4",
+  "storeName": "GS25(덕산제일점)",
+  "phoneNumber": "055-545-9276",
+  "address": "경남 창원시 진해구 덕산동 79-10번지",
+  "latitude": "35.144184",
+  "longitude": "128.70134"
+},
+{
+  "number": "5",
+  "storeName": "승차권판매소",
+  "phoneNumber": "055-542-7597",
+  "address": "경남 창원시 진해구 충무동 25-88번지 가판",
+  "latitude": "35.151855",
+  "longitude": "128.66658"
+},
+{
+  "number": "6",
+  "storeName": "하프타임",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 석동 327-8",
+  "latitude": "35.15802",
+  "longitude": "128.68402"
+},
+{
+  "number": "7",
+  "storeName": "잉크풀",
+  "phoneNumber": "055-546-2814",
+  "address": "경남 창원시 진해구 석동 90-2번지 주공복합상가103호",
+  "latitude": "35.15137",
+  "longitude": "128.70296"
+},
+{
+  "number": "8",
+  "storeName": "영화복권",
+  "phoneNumber": "055-552-5589",
+  "address": "경남 창원시 진해구 안골동 352-7번지",
+  "latitude": "35.10106",
+  "longitude": "128.8045"
+},
+{
+  "number": "9",
+  "storeName": "피터팬",
+  "phoneNumber": "055-543-7676",
+  "address": "경남 창원시 진해구 마천동 95-3 1호 복권판매점",
+  "latitude": "35.124367",
+  "longitude": "128.78473"
+},
+{
+  "number": "10",
+  "storeName": "로또석동",
+  "phoneNumber": "055-545-2960",
+  "address": "경남 창원시 진해구 석동 142-9번지 CU편의점 내",
+  "latitude": "35.151585",
+  "longitude": "128.7026"
+},
+{
+  "number": "11",
+  "storeName": "복권나라",
+  "phoneNumber": "055-542-5226",
+  "address": "경남 창원시 진해구 용원동 1121-11번지 CU편의점 내",
+  "latitude": "35.098522",
+  "longitude": "128.82085"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "055-542-4010",
+  "address": "경남 창원시 진해구 석동 663-6 이마트24편의점",
+  "latitude": "35.153442",
+  "longitude": "128.7071"
+},
+{
+  "number": "13",
+  "storeName": "용원로또방",
+  "phoneNumber": "055-551-9116",
+  "address": "경남 창원시 진해구 용원동 1212-1 113호",
+  "latitude": "35.10189",
+  "longitude": "128.81096"
+},
+{
+  "number": "14",
+  "storeName": "대박상사",
+  "phoneNumber": "055-551-9960",
+  "address": "경남 창원시 진해구 장천동 119-12 주상가동 103호 GS편의점",
+  "latitude": "35.12923",
+  "longitude": "128.70476"
+},
+{
+  "number": "15",
+  "storeName": "GS25(진해제일점)",
+  "phoneNumber": "055-542-4443",
+  "address": "경남 창원시 진해구 화천동 19-2번지",
+  "latitude": "35.15206",
+  "longitude": "128.6598"
+},
+{
+  "number": "16",
+  "storeName": "GS25(진해군항점)",
+  "phoneNumber": "055-547-6877",
+  "address": "경남 창원시 진해구 화천동 36-4번지",
+  "latitude": "35.15161",
+  "longitude": "128.66197"
+},
+{
+  "number": "17",
+  "storeName": "럭키로또",
+  "phoneNumber": "055-551-8018",
+  "address": "경남 창원시 진해구 자은동 657-56 CU편의점 내",
+  "latitude": "35.140774",
+  "longitude": "128.70537"
+},
+{
+  "number": "18",
+  "storeName": "CU속천점",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 태평동 54-1 CU편의점 내",
+  "latitude": "35.1456",
+  "longitude": "128.6657"
+},
+{
+  "number": "19",
+  "storeName": "위드미로또경화점",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 경화동 1301-17 이마트24편의점",
+  "latitude": "35.160576",
+  "longitude": "128.68474"
+},
+{
+  "number": "20",
+  "storeName": "타임복권",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 자은동 150-2 101호",
+  "latitude": "35.15289",
+  "longitude": "128.71317"
+},
+{
+  "number": "21",
+  "storeName": "리락컴퍼니",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 용원동 1119번지 미니스톱 내",
+  "latitude": "35.09985",
+  "longitude": "128.82213"
+},
+{
+  "number": "22",
+  "storeName": "행운로또복권방",
+  "phoneNumber": "055-551-8651",
+  "address": "경남 창원시 진해구 안골동 376-1 B1층 복권판매점",
+  "latitude": "35.14718",
+  "longitude": "128.70682"
+},
+{
+  "number": "23",
+  "storeName": "승원 롯또 판매",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 수송동 4-5 이마트24편의점",
+  "latitude": "35.15001",
+  "longitude": "128.65631"
+},
+{
+  "number": "24",
+  "storeName": "도깨비 상점",
+  "phoneNumber": "",
+  "address": "경남 창원시 진해구 태평동 40-1",
+  "latitude": "35.14645",
+  "longitude": "128.66292"
+},
+{
+  "number": "25",
+  "storeName": "우주통신롯데마트점",
+  "phoneNumber": "055-542-1300",
+  "address": "경남 창원시 진해구 석동 543-5번지 롯데마트상가1층118-2호",
+  "latitude": "35.15815",
+  "longitude": "128.6988"
+},
+{
+  "number": "26",
+  "storeName": "남문복권판매점",
+  "phoneNumber": "070-7377-8027",
+  "address": "경남 창원시 진해구 남문동 1242-2 상가107호",
+  "latitude": "35.106457",
+  "longitude": "128.751"
+},
+{
+  "number": "27",
+  "storeName": "꼭지마트",
+  "phoneNumber": "055-551-8236",
+  "address": "경남 창원시 진해구 웅천동 536-1 꼭지마트",
+  "latitude": "35.113663",
+  "longitude": "128.74905"
+},
+{
+  "number": "28",
+  "storeName": "진해D.C복권방",
+  "phoneNumber": "055-547-6640",
+  "address": "경남 창원시 진해구 자은동 910 상가동 107호",
+  "latitude": "35.152424",
+  "longitude": "128.70692"
+}
+]

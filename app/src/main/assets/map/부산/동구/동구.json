@@ -1,0 +1,138 @@
+[
+{
+  "number": "1",
+  "storeName": "슈퍼복권나라수정점",
+  "phoneNumber": "051-466-9391",
+  "address": "부산 동구 수정동 309-7번지",
+  "latitude": "35.12753",
+  "longitude": "129.0452"
+},
+{
+  "number": "2",
+  "storeName": "복권은 내친구",
+  "phoneNumber": "051-466-4139",
+  "address": "부산 동구 초량동 811-74번지",
+  "latitude": "35.12024",
+  "longitude": "129.03741"
+},
+{
+  "number": "3",
+  "storeName": "부일카서비스",
+  "phoneNumber": "051-637-7747",
+  "address": "부산 동구 범일동 830-195번지",
+  "latitude": "35.140057",
+  "longitude": "129.06306"
+},
+{
+  "number": "4",
+  "storeName": "천하명당초량점",
+  "phoneNumber": "051-465-9497",
+  "address": "부산 동구 초량동 377-7번지",
+  "latitude": "35.116882",
+  "longitude": "129.04012"
+},
+{
+  "number": "5",
+  "storeName": "돈벼락맞는곳",
+  "phoneNumber": "051-636-3669",
+  "address": "부산 동구 범일동 833-5번지",
+  "latitude": "35.139164",
+  "longitude": "129.05995"
+},
+{
+  "number": "6",
+  "storeName": "동원드림마트",
+  "phoneNumber": "051-634-5442",
+  "address": "부산 동구 좌천동 808 동원드림타운상가104동101호",
+  "latitude": "35.132626",
+  "longitude": "129.051"
+},
+{
+  "number": "7",
+  "storeName": "서원탑훼미리",
+  "phoneNumber": "051-466-6802",
+  "address": "부산 동구 수정동 771-11 4동 1층 101호",
+  "latitude": "35.128643",
+  "longitude": "129.04417"
+},
+{
+  "number": "8",
+  "storeName": "공중센타",
+  "phoneNumber": "051-467-0417",
+  "address": "부산 동구 초량동 170-4",
+  "latitude": "35.119675",
+  "longitude": "129.04108"
+},
+{
+  "number": "9",
+  "storeName": "범일서적",
+  "phoneNumber": "051-632-2672",
+  "address": "부산 동구 범일동 640-5번지 1층복권방",
+  "latitude": "35.13735",
+  "longitude": "129.05896"
+},
+{
+  "number": "10",
+  "storeName": "국세청앞센타",
+  "phoneNumber": "051-467-4993",
+  "address": "부산 동구 수정동 247-7번지 세무서옆가판",
+  "latitude": "35.130413",
+  "longitude": "129.04684"
+},
+{
+  "number": "11",
+  "storeName": "내가본사진관광상품",
+  "phoneNumber": "051-462-1006",
+  "address": "부산 동구 초량동 575-1번지 2통3반",
+  "latitude": "35.11402",
+  "longitude": "129.03806"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "051-631-5528",
+  "address": "부산 동구 범일동 830-200번지 한양아파트3동상가1층 세븐일레븐",
+  "latitude": "35.140503",
+  "longitude": "129.0639"
+},
+{
+  "number": "13",
+  "storeName": "로또명당",
+  "phoneNumber": "",
+  "address": "부산 동구 범일동 321-46",
+  "latitude": "35.135273",
+  "longitude": "129.05971"
+},
+{
+  "number": "14",
+  "storeName": "당첨로또",
+  "phoneNumber": "051-638-7782",
+  "address": "부산 동구 범일동 626-2 1층",
+  "latitude": "35.124813",
+  "longitude": "129.04576"
+},
+{
+  "number": "15",
+  "storeName": "범일 자유시장 로또",
+  "phoneNumber": "",
+  "address": "부산 동구 범일동 830-24 1층 1054호",
+  "latitude": "35.140976",
+  "longitude": "129.06104"
+},
+{
+  "number": "16",
+  "storeName": "예감로또",
+  "phoneNumber": "",
+  "address": "부산 동구 초량동 1206-1 부산역지하도상가 가-40호",
+  "latitude": "35.114437",
+  "longitude": "129.03928"
+},
+{
+  "number": "17",
+  "storeName": "황금로또",
+  "phoneNumber": "051-463-0828",
+  "address": "부산 동구 초량동 134-20",
+  "latitude": "35.120163",
+  "longitude": "129.03961"
+}
+]

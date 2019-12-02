@@ -1,0 +1,122 @@
+[
+{
+  "number": "1",
+  "storeName": "로또복권판매점",
+  "phoneNumber": "031-885-3337",
+  "address": "경기 여주시 홍문동 217-32",
+  "latitude": "37.2925",
+  "longitude": "127.6358"
+},
+{
+  "number": "2",
+  "storeName": "꿈이있는로또",
+  "phoneNumber": "031-884-6586",
+  "address": "경기 여주시 가남읍 신해리 617-6 오일뱅크 주유소",
+  "latitude": "37.21828",
+  "longitude": "127.531334"
+},
+{
+  "number": "3",
+  "storeName": "로또판매점",
+  "phoneNumber": "031-883-1382",
+  "address": "경기 여주시 능서면 신지리 802-3",
+  "latitude": "37.298824",
+  "longitude": "127.57375"
+},
+{
+  "number": "4",
+  "storeName": "금강양품",
+  "phoneNumber": "031-884-4548",
+  "address": "경기 여주시 대신면 율촌리 339-12 금강양품",
+  "latitude": "37.373627",
+  "longitude": "127.58497"
+},
+{
+  "number": "5",
+  "storeName": "우암마트",
+  "phoneNumber": "",
+  "address": "경기 여주시 가남읍 태평리 775-5 1층",
+  "latitude": "37.289124",
+  "longitude": "127.624565"
+},
+{
+  "number": "6",
+  "storeName": "성공복권방",
+  "phoneNumber": "031-882-2612",
+  "address": "경기 여주시 하동 124-12 1층",
+  "latitude": "37.29941",
+  "longitude": "127.63096"
+},
+{
+  "number": "7",
+  "storeName": "오학유통",
+  "phoneNumber": "031-885-8137",
+  "address": "경기 여주시 오학동 255-5 1층",
+  "latitude": "37.30931",
+  "longitude": "127.64378"
+},
+{
+  "number": "8",
+  "storeName": "중앙연쇄점",
+  "phoneNumber": "031-882-4053",
+  "address": "경기 여주시 가남읍 태평리 163-4 1층",
+  "latitude": "37.20354",
+  "longitude": "127.54482"
+},
+{
+  "number": "9",
+  "storeName": "협신복권방",
+  "phoneNumber": "031-882-7707",
+  "address": "경기 여주시 현암동 196-2 CU편의점내",
+  "latitude": "37.37461",
+  "longitude": "127.587875"
+},
+{
+  "number": "10",
+  "storeName": "복권세상",
+  "phoneNumber": "031-885-3273",
+  "address": "경기 여주시 하동 291-3 1층",
+  "latitude": "37.29688",
+  "longitude": "127.63311"
+},
+{
+  "number": "11",
+  "storeName": "CU(여주ＩＣ점)",
+  "phoneNumber": "031-884-1498",
+  "address": "경기 여주시 점봉동 437-1",
+  "latitude": "37.263813",
+  "longitude": "127.639786"
+},
+{
+  "number": "12",
+  "storeName": "왕대박로또",
+  "phoneNumber": "031-885-4535",
+  "address": "경기 여주시 상동 201-11 1층",
+  "latitude": "37.29699",
+  "longitude": "127.63971"
+},
+{
+  "number": "13",
+  "storeName": "복권백화점",
+  "phoneNumber": "031-885-8333",
+  "address": "경기 여주시 홍문동 207-9 1층",
+  "latitude": "37.294006",
+  "longitude": "127.63621"
+},
+{
+  "number": "14",
+  "storeName": "대박로또복권",
+  "phoneNumber": "031-885-8935",
+  "address": "경기 여주시 교동 51-6 CU여주대캠퍼스타운점",
+  "latitude": "37.26913",
+  "longitude": "127.637115"
+},
+{
+  "number": "15",
+  "storeName": "점동복권방",
+  "phoneNumber": "033-882-2052",
+  "address": "경기 여주시 점동면 청안리 123-3 1층 삼성슈퍼",
+  "latitude": "37.206715",
+  "longitude": "127.66275"
+}
+]

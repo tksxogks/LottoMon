@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "로또명당복권방",
+  "phoneNumber": "032-933-7333",
+  "address": "인천 강화군 강화읍 신문리 685-9번지",
+  "latitude": "37.74616",
+  "longitude": "126.4863"
+},
+{
+  "number": "2",
+  "storeName": "강남로또",
+  "phoneNumber": "",
+  "address": "인천 강화군 길상면 온수리 551-41 가동 101호",
+  "latitude": "37.652058",
+  "longitude": "126.492386"
+},
+{
+  "number": "3",
+  "storeName": "삼성포토랜드",
+  "phoneNumber": "032-933-3990",
+  "address": "인천 강화군 강화읍 관청리 465번지",
+  "latitude": "37.748386",
+  "longitude": "126.48396"
+},
+{
+  "number": "4",
+  "storeName": "가온공인중개사무소",
+  "phoneNumber": "032-934-0370",
+  "address": "인천 강화군 강화읍 갑곳리 342-6 가온공인중개사",
+  "latitude": "37.74218",
+  "longitude": "126.49639"
+},
+{
+  "number": "5",
+  "storeName": "복권판매점",
+  "phoneNumber": "",
+  "address": "인천 강화군 강화읍 갑곳리 169-3",
+  "latitude": "37.74357",
+  "longitude": "126.49447"
+}
+]

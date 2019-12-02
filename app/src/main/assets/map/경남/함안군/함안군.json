@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "도깨비방망이복권방",
+  "phoneNumber": "055-587-2837",
+  "address": "경남 함안군 칠서면 무릉리 1122번지 칠서에이스임대아파트상가104호",
+  "latitude": "35.316704",
+  "longitude": "128.50552"
+},
+{
+  "number": "2",
+  "storeName": "씨스페이스 함안점",
+  "phoneNumber": "055-584-6067",
+  "address": "경남 함안군 가야읍 말산리 527-4번지 홍성빌딩101-2호",
+  "latitude": "35.27756",
+  "longitude": "128.40779"
+},
+{
+  "number": "3",
+  "storeName": "행운마트",
+  "phoneNumber": "055-587-4545",
+  "address": "경남 함안군 칠원읍 오곡리 1423-92번지",
+  "latitude": "35.27699",
+  "longitude": "128.52153"
+},
+{
+  "number": "4",
+  "storeName": "공단로또점",
+  "phoneNumber": "055-587-8846",
+  "address": "경남 함안군 칠서면 대치리 325-1 슈퍼 옆 1층",
+  "latitude": "35.360104",
+  "longitude": "128.48523"
+},
+{
+  "number": "5",
+  "storeName": "함안 복권방",
+  "phoneNumber": "055-583-7928",
+  "address": "경남 함안군 가야읍 말산리 423-8 1층",
+  "latitude": "35.275894",
+  "longitude": "128.40575"
+},
+{
+  "number": "6",
+  "storeName": "함안복권방",
+  "phoneNumber": "",
+  "address": "경남 함안군 가야읍 도항리 79-18 1층 코너상가",
+  "latitude": "35.2795",
+  "longitude": "128.40384"
+},
+{
+  "number": "7",
+  "storeName": "나눔로또",
+  "phoneNumber": "",
+  "address": "경남 함안군 칠원읍 구성리 650-8 1층",
+  "latitude": "35.30892",
+  "longitude": "128.51707"
+}
+]

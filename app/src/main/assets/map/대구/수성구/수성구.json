@@ -1,0 +1,370 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(수성팔레스점)",
+  "phoneNumber": "053-745-8876",
+  "address": "대구 수성구 수성동4가 1090-1번지",
+  "latitude": "35.861004",
+  "longitude": "128.61494"
+},
+{
+  "number": "2",
+  "storeName": "씨스페이스(만촌희망점)",
+  "phoneNumber": "053-744-1608",
+  "address": "대구 수성구 만촌동 1327-14 씨스페이스 만촌희망점",
+  "latitude": "35.872395",
+  "longitude": "128.63739"
+},
+{
+  "number": "3",
+  "storeName": "GS25(수성시지점)",
+  "phoneNumber": "053-795-6014",
+  "address": "대구 수성구 신매동 567-4번지",
+  "latitude": "35.839237",
+  "longitude": "128.7055"
+},
+{
+  "number": "4",
+  "storeName": "씨스페이스(범물청구점)",
+  "phoneNumber": "053-783-8759",
+  "address": "대구 수성구 범물동 1277-11번지",
+  "latitude": "35.820625",
+  "longitude": "128.64217"
+},
+{
+  "number": "5",
+  "storeName": "황금대박점",
+  "phoneNumber": "",
+  "address": "대구 수성구 지산동 1161-32 1층 복권판매점",
+  "latitude": "35.825928",
+  "longitude": "128.6273"
+},
+{
+  "number": "6",
+  "storeName": "라온로또",
+  "phoneNumber": "053-795-6450",
+  "address": "대구 수성구 매호동 1343-8번지",
+  "latitude": "35.841305",
+  "longitude": "128.70438"
+},
+{
+  "number": "7",
+  "storeName": "복권세상",
+  "phoneNumber": "053-292-1877",
+  "address": "대구 수성구 범물동 1292-4번지",
+  "latitude": "35.818058",
+  "longitude": "128.64713"
+},
+{
+  "number": "8",
+  "storeName": "봄동로또",
+  "phoneNumber": "053-781-4983",
+  "address": "대구 수성구 범물동 455-3번지",
+  "latitude": "35.817375",
+  "longitude": "128.64482"
+},
+{
+  "number": "9",
+  "storeName": "로또복권 수성유원지점",
+  "phoneNumber": "053-764-7644",
+  "address": "대구 수성구 상동 714 편의점_CU 수성유원지점",
+  "latitude": "35.82623",
+  "longitude": "128.61342"
+},
+{
+  "number": "10",
+  "storeName": "로또복권",
+  "phoneNumber": "053-766-1429",
+  "address": "대구 수성구 범어동 774-84번지",
+  "latitude": "35.853645",
+  "longitude": "128.62363"
+},
+{
+  "number": "11",
+  "storeName": "로또복권",
+  "phoneNumber": "053-764-0097",
+  "address": "대구 수성구 상동 180-7번지",
+  "latitude": "35.85951",
+  "longitude": "128.61119"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "053-756-7027",
+  "address": "대구 수성구 수성동1가 89-5 편의점_CU 수성타운점",
+  "latitude": "35.859497",
+  "longitude": "128.61137"
+},
+{
+  "number": "13",
+  "storeName": "로또복권",
+  "phoneNumber": "053-744-6501",
+  "address": "대구 수성구 범어동 249-4번지",
+  "latitude": "35.857037",
+  "longitude": "128.63396"
+},
+{
+  "number": "14",
+  "storeName": "대로로또판매점",
+  "phoneNumber": "053-765-4844",
+  "address": "대구 수성구 두산동 207-5 1층 편의점_세븐일레븐",
+  "latitude": "35.831715",
+  "longitude": "128.6229"
+},
+{
+  "number": "15",
+  "storeName": "지에스25 신매태왕점로또",
+  "phoneNumber": "053-745-6725",
+  "address": "대구 수성구 신매동 88-2 편의점_GS25",
+  "latitude": "35.83462",
+  "longitude": "128.7117"
+},
+{
+  "number": "16",
+  "storeName": "파동로또",
+  "phoneNumber": "053-766-4324",
+  "address": "대구 수성구 파동 517-1 1층 파동 복권판매점",
+  "latitude": "35.81144",
+  "longitude": "128.61824"
+},
+{
+  "number": "17",
+  "storeName": "패밀리마트만촌점(로또판매점)",
+  "phoneNumber": "053-746-0234",
+  "address": "대구 수성구 만촌동 1463-1번지",
+  "latitude": "35.869843",
+  "longitude": "128.63292"
+},
+{
+  "number": "18",
+  "storeName": "행운마트",
+  "phoneNumber": "053-746-5999",
+  "address": "대구 수성구 만촌동 1009-41번지",
+  "latitude": "35.864094",
+  "longitude": "128.6443"
+},
+{
+  "number": "19",
+  "storeName": "로또명당",
+  "phoneNumber": "053-765-6450",
+  "address": "대구 수성구 수성동1가 305-6번지",
+  "latitude": "35.852844",
+  "longitude": "128.61319"
+},
+{
+  "number": "20",
+  "storeName": "포에니복권",
+  "phoneNumber": "053-741-4055",
+  "address": "대구 수성구 지산동 932 GS25 편의점 내",
+  "latitude": "35.838764",
+  "longitude": "128.62874"
+},
+{
+  "number": "21",
+  "storeName": "복권명당",
+  "phoneNumber": "053-794-3505",
+  "address": "대구 수성구 매호동 1040번지 동서1차아파트상가108-112호",
+  "latitude": "35.84221",
+  "longitude": "128.70998"
+},
+{
+  "number": "22",
+  "storeName": "수성복권(미니마트)",
+  "phoneNumber": "053-793-2690",
+  "address": "대구 수성구 시지동 253-3 1층 복권판매점",
+  "latitude": "35.842094",
+  "longitude": "128.69875"
+},
+{
+  "number": "23",
+  "storeName": "씨스페이드(수성점)",
+  "phoneNumber": "053-762-0182",
+  "address": "대구 수성구 중동 133-3",
+  "latitude": "35.844704",
+  "longitude": "128.61646"
+},
+{
+  "number": "24",
+  "storeName": "플라워맨",
+  "phoneNumber": "053-744-9393",
+  "address": "대구 수성구 범어동 548-8 편의점_emart 24",
+  "latitude": "35.85862",
+  "longitude": "128.6227"
+},
+{
+  "number": "25",
+  "storeName": "복권명당",
+  "phoneNumber": "053-742-4021",
+  "address": "대구 수성구 수성동1가 217-4번지",
+  "latitude": "35.855106",
+  "longitude": "128.61345"
+},
+{
+  "number": "26",
+  "storeName": "복권명당체인점",
+  "phoneNumber": "053-741-6824",
+  "address": "대구 수성구 수성동4가 1186-69번지",
+  "latitude": "35.860115",
+  "longitude": "128.61337"
+},
+{
+  "number": "27",
+  "storeName": "짱25시",
+  "phoneNumber": "053-741-7949",
+  "address": "대구 수성구 만촌동 1040-15번지",
+  "latitude": "35.85787",
+  "longitude": "128.64769"
+},
+{
+  "number": "28",
+  "storeName": "로또판매사업",
+  "phoneNumber": "053-783-0245",
+  "address": "대구 수성구 지산동 1288번지",
+  "latitude": "35.822754",
+  "longitude": "128.64095"
+},
+{
+  "number": "29",
+  "storeName": "토큰박스수성시장",
+  "phoneNumber": "053-766-3228",
+  "address": "대구 수성구 중동 102-1번지",
+  "latitude": "35.8438",
+  "longitude": "128.61308"
+},
+{
+  "number": "30",
+  "storeName": "금주의명당",
+  "phoneNumber": "053-744-0533",
+  "address": "대구 수성구 범어동 333번지",
+  "latitude": "35.849594",
+  "longitude": "128.6378"
+},
+{
+  "number": "31",
+  "storeName": "승차권판매소",
+  "phoneNumber": "053-746-0801",
+  "address": "대구 수성구 수성동2가 60-3번지",
+  "latitude": "35.85453",
+  "longitude": "128.61612"
+},
+{
+  "number": "32",
+  "storeName": "토큰박스",
+  "phoneNumber": "053-753-0235",
+  "address": "대구 수성구 범어동 173-1번지",
+  "latitude": "35.862206",
+  "longitude": "128.62737"
+},
+{
+  "number": "33",
+  "storeName": "NH한삼인",
+  "phoneNumber": "053-744-3456",
+  "address": "대구 수성구 상동 28번지",
+  "latitude": "35.838223",
+  "longitude": "128.61214"
+},
+{
+  "number": "34",
+  "storeName": "복권명당",
+  "phoneNumber": "053-766-2827",
+  "address": "대구 수성구 수성동2가 104번지",
+  "latitude": "35.851772",
+  "longitude": "128.61665"
+},
+{
+  "number": "35",
+  "storeName": "복권명당(동아스포츠점)",
+  "phoneNumber": "053-783-4125",
+  "address": "대구 수성구 지산동 1258-12번지 1층",
+  "latitude": "35.825706",
+  "longitude": "128.63173"
+},
+{
+  "number": "36",
+  "storeName": "진슈퍼",
+  "phoneNumber": "053-764-8856",
+  "address": "대구 수성구 만촌동 636-21 1층 복권판매점",
+  "latitude": "35.84823",
+  "longitude": "128.6132"
+},
+{
+  "number": "37",
+  "storeName": "세이브슈퍼",
+  "phoneNumber": "053-753-1010",
+  "address": "대구 수성구 범어동 167-7번지",
+  "latitude": "35.859127",
+  "longitude": "128.63263"
+},
+{
+  "number": "38",
+  "storeName": "복권나라",
+  "phoneNumber": "053-768-7618",
+  "address": "대구 수성구 상동 623-6번지",
+  "latitude": "35.825794",
+  "longitude": "128.60991"
+},
+{
+  "number": "39",
+  "storeName": "로또복권",
+  "phoneNumber": "053-767-1411",
+  "address": "대구 수성구 지산동 543-2 1층 척수장애인협회",
+  "latitude": "35.82521",
+  "longitude": "128.63754"
+},
+{
+  "number": "40",
+  "storeName": "복권천국(수성점)",
+  "phoneNumber": "053-765-7472",
+  "address": "대구 수성구 수성동1가 525-3번지",
+  "latitude": "35.84902",
+  "longitude": "128.61284"
+},
+{
+  "number": "41",
+  "storeName": "씨스페이스(수성3가점)",
+  "phoneNumber": "053-766-9892",
+  "address": "대구 수성구 수성동3가 332번지",
+  "latitude": "35.85395",
+  "longitude": "128.61855"
+},
+{
+  "number": "42",
+  "storeName": "황금아파트토큰판매소",
+  "phoneNumber": "053-765-5927",
+  "address": "대구 수성구 황금동 368 캐슬골드파크 4단지 1403동 앞 가판",
+  "latitude": "35.842354",
+  "longitude": "128.63762"
+},
+{
+  "number": "43",
+  "storeName": "CU(대구황금초등점)",
+  "phoneNumber": "053-763-6033",
+  "address": "대구 수성구 황금동 819-14번지 수성우방팔레스",
+  "latitude": "35.844383",
+  "longitude": "128.61768"
+},
+{
+  "number": "44",
+  "storeName": "씨스페이스(두산희망점)",
+  "phoneNumber": "053-765-5028",
+  "address": "대구 수성구 두산동 133-1번지",
+  "latitude": "35.835197",
+  "longitude": "128.62076"
+},
+{
+  "number": "45",
+  "storeName": "씨스페이스 지산중앙점",
+  "phoneNumber": "",
+  "address": "대구 수성구 지산1동 1276-12 씨스페이스 지산중앙점",
+  "latitude": "35.822536",
+  "longitude": "128.63855"
+},
+{
+  "number": "46",
+  "storeName": "복권형통",
+  "phoneNumber": "",
+  "address": "대구 수성구 범어2동 134-15 1층 복권판매점",
+  "latitude": "35.86791",
+  "longitude": "128.63254"
+}
+]

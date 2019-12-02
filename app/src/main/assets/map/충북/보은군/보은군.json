@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "보은로또판매점",
+  "phoneNumber": "043-544-1708",
+  "address": "충북 보은군 보은읍 교사리 85-5",
+  "latitude": "36.489117",
+  "longitude": "127.7175"
+},
+{
+  "number": "2",
+  "storeName": "보은로또",
+  "phoneNumber": "043-543-2119",
+  "address": "충북 보은군 보은읍 삼산리 152-15",
+  "latitude": "36.485733",
+  "longitude": "127.71752"
+},
+{
+  "number": "3",
+  "storeName": "명당로또판매점",
+  "phoneNumber": "",
+  "address": "충북 보은군 보은읍 삼산리 7 이마트에브리데이",
+  "latitude": "36.483902",
+  "longitude": "127.721596"
+}
+]

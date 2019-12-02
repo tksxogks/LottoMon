@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "복권방",
+  "phoneNumber": "033-458-1144",
+  "address": "강원 철원군 김화읍 학사리 255-1",
+  "latitude": "38.238945",
+  "longitude": "127.438644"
+},
+{
+  "number": "2",
+  "storeName": "로또복권",
+  "phoneNumber": "033-458-2050",
+  "address": "강원 철원군 서면 와수리 1149-3번지",
+  "latitude": "38.238346",
+  "longitude": "127.43825"
+},
+{
+  "number": "3",
+  "storeName": "천하명당",
+  "phoneNumber": "033-455-6959",
+  "address": "강원 철원군 동송읍 이평리 705-19",
+  "latitude": "38.20639",
+  "longitude": "127.21749"
+},
+{
+  "number": "4",
+  "storeName": "로또한마당",
+  "phoneNumber": "033-452-0645",
+  "address": "강원 철원군 갈말읍 신철원리 984-1번지",
+  "latitude": "38.14686",
+  "longitude": "127.30795"
+},
+{
+  "number": "5",
+  "storeName": "로또판매소",
+  "phoneNumber": "033-455-9554",
+  "address": "강원 철원군 동송읍 이평리 852-1번지",
+  "latitude": "38.209198",
+  "longitude": "127.21677"
+},
+{
+  "number": "6",
+  "storeName": "로또복권방",
+  "phoneNumber": "033-458-1144",
+  "address": "강원 철원군 서면 와수리 1172-20",
+  "latitude": "127.43869",
+  "longitude": "38.238953"
+}
+]

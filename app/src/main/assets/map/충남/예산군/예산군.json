@@ -1,0 +1,98 @@
+[
+{
+  "number": "1",
+  "storeName": "터미널매점",
+  "phoneNumber": "041-334-6457",
+  "address": "충남 예산군 예산읍 산성리 647",
+  "latitude": "36.694454",
+  "longitude": "126.83236"
+},
+{
+  "number": "2",
+  "storeName": "행복을주는집",
+  "phoneNumber": "041-337-5757",
+  "address": "충남 예산군 덕산면 읍내리 341-22",
+  "latitude": "36.705235",
+  "longitude": "126.66933"
+},
+{
+  "number": "3",
+  "storeName": "삽교복권방",
+  "phoneNumber": "041-338-0944",
+  "address": "충남 예산군 삽교읍 두리 803-9 CU편의점내",
+  "latitude": "36.686127",
+  "longitude": "126.73931"
+},
+{
+  "number": "4",
+  "storeName": "역전복권방",
+  "phoneNumber": "041-335-0645",
+  "address": "충남 예산군 예산읍 주교리 221-10",
+  "latitude": "36.68637",
+  "longitude": "126.830086"
+},
+{
+  "number": "5",
+  "storeName": "부자복권방",
+  "phoneNumber": "041-332-7767",
+  "address": "충남 예산군 덕산면 신평리 532",
+  "latitude": "36.690033",
+  "longitude": "126.66011"
+},
+{
+  "number": "6",
+  "storeName": "송원산업",
+  "phoneNumber": "041-333-8300",
+  "address": "충남 예산군 예산읍 산성리 762",
+  "latitude": "36.692352",
+  "longitude": "126.83551"
+},
+{
+  "number": "7",
+  "storeName": "예산일등로또",
+  "phoneNumber": "041-334-7111",
+  "address": "충남 예산군 예산읍 신례원리 303-9",
+  "latitude": "36.736874",
+  "longitude": "126.857666"
+},
+{
+  "number": "8",
+  "storeName": "신천하명당",
+  "phoneNumber": "041-334-3332",
+  "address": "충남 예산군 예산읍 발연리 324-2",
+  "latitude": "36.698833",
+  "longitude": "126.829414"
+},
+{
+  "number": "9",
+  "storeName": "행운복권방",
+  "phoneNumber": "041-334-0555",
+  "address": "충남 예산군 예산읍 궁평리 178-2번지",
+  "latitude": "36.680325",
+  "longitude": "126.85139"
+},
+{
+  "number": "10",
+  "storeName": "세븐럭",
+  "phoneNumber": "",
+  "address": "충남 예산군 예산읍 주교리 293-11번지",
+  "latitude": "36.681767",
+  "longitude": "126.83135"
+},
+{
+  "number": "11",
+  "storeName": "로또잡화점",
+  "phoneNumber": "041-331-0233",
+  "address": "충남 예산군 예산읍 예산리 786 105호 CU편의점",
+  "latitude": "36.679462",
+  "longitude": "126.84573"
+},
+{
+  "number": "12",
+  "storeName": "내포복권방",
+  "phoneNumber": "",
+  "address": "충남 예산군 덕산면 신평리 344-3",
+  "latitude": "36.70108",
+  "longitude": "126.66561"
+}
+]

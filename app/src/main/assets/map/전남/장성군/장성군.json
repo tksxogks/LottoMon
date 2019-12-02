@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "텔레콤\u0026로또",
+  "phoneNumber": "061-395-3200",
+  "address": "전남 장성군 장성읍 영천리 944-6번지",
+  "latitude": "35.299",
+  "longitude": "126.781715"
+},
+{
+  "number": "2",
+  "storeName": "로또복권판매 장성역점",
+  "phoneNumber": "061-395-3700",
+  "address": "전남 장성군 장성읍 영천리 1029-9 CU편의점 내",
+  "latitude": "35.299706",
+  "longitude": "126.781494"
+},
+{
+  "number": "3",
+  "storeName": "복음로또",
+  "phoneNumber": "061-393-5545",
+  "address": "전남 장성군 삼계면 능성리 398번지 이동통신",
+  "latitude": "35.259205",
+  "longitude": "126.66505"
+}
+]

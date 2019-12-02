@@ -1,0 +1,506 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(구로미성점)",
+  "phoneNumber": "02-2635-2025",
+  "address": "서울 구로구 신도림동 399번지 기임빌딩101호",
+  "latitude": "37.50613",
+  "longitude": "126.876595"
+},
+{
+  "number": "2",
+  "storeName": "GS25(구로제일점)",
+  "phoneNumber": "02-830-1963",
+  "address": "서울 구로구 구로동 685-215번지 103호",
+  "latitude": "37.49199",
+  "longitude": "126.875786"
+},
+{
+  "number": "3",
+  "storeName": "성민로또방",
+  "phoneNumber": "02-2069-3044",
+  "address": "서울 구로구 신도림동 292-37번지 1층",
+  "latitude": "37.50912",
+  "longitude": "126.87847"
+},
+{
+  "number": "4",
+  "storeName": "구로벤처타운점로또판매",
+  "phoneNumber": "02-865-4708",
+  "address": "서울 구로구 구로동 197-22번지 편의점사랑내",
+  "latitude": "37.485466",
+  "longitude": "126.89434"
+},
+{
+  "number": "5",
+  "storeName": "행복편의점",
+  "phoneNumber": "02-855-5485",
+  "address": "서울 구로구 구로동 142-65번지",
+  "latitude": "37.491554",
+  "longitude": "126.89229"
+},
+{
+  "number": "6",
+  "storeName": "버스토큰판매소",
+  "phoneNumber": "02-856-5898",
+  "address": "서울 구로구 구로동 1123-1번지 꽃집 옆 가판대",
+  "latitude": "37.484333",
+  "longitude": "126.90223"
+},
+{
+  "number": "7",
+  "storeName": "교통카드판매대",
+  "phoneNumber": "02-2633-1615",
+  "address": "서울 구로구 신도림동 337번지",
+  "latitude": "37.509396",
+  "longitude": "126.887726"
+},
+{
+  "number": "8",
+  "storeName": "가판점",
+  "phoneNumber": "02-2611-0929",
+  "address": "서울 구로구 온수동 119번지",
+  "latitude": "37.49136",
+  "longitude": "126.82136"
+},
+{
+  "number": "9",
+  "storeName": "종합가판점",
+  "phoneNumber": "02-861-1227",
+  "address": "서울 구로구 구로동 435번지 구로구청 앞 버스정류장 앞 가로매점",
+  "latitude": "37.495472",
+  "longitude": "126.887695"
+},
+{
+  "number": "10",
+  "storeName": "서울구가-17가판",
+  "phoneNumber": "02-868-2488",
+  "address": "서울 구로구 구로동 731-4번지 구로4동우체국앞가판",
+  "latitude": "37.490322",
+  "longitude": "126.88439"
+},
+{
+  "number": "11",
+  "storeName": "버스토큰판매소",
+  "phoneNumber": "02-2687-5284",
+  "address": "서울 구로구 개봉동 157-13번지",
+  "latitude": "37.497612",
+  "longitude": "126.856155"
+},
+{
+  "number": "12",
+  "storeName": "로또편의점",
+  "phoneNumber": "02-862-7908",
+  "address": "서울 구로구 구로제5동 536-46 지1층",
+  "latitude": "37.5024",
+  "longitude": "126.884315"
+},
+{
+  "number": "13",
+  "storeName": "대박로또",
+  "phoneNumber": "02-855-0168",
+  "address": "서울 구로구 구로동 771-10",
+  "latitude": "37.487476",
+  "longitude": "126.88835"
+},
+{
+  "number": "14",
+  "storeName": "로또복권방",
+  "phoneNumber": "02-2613-0108",
+  "address": "서울 구로구 개봉동 63-4번지",
+  "latitude": "37.501087",
+  "longitude": "126.84487"
+},
+{
+  "number": "15",
+  "storeName": "잉크와복권",
+  "phoneNumber": "02-2619-1564",
+  "address": "서울 구로구 고척동 265-7번지 1층4호",
+  "latitude": "37.503155",
+  "longitude": "126.85118"
+},
+{
+  "number": "16",
+  "storeName": "서하네",
+  "phoneNumber": "02-2685-1135",
+  "address": "서울 구로구 개봉동 407-15번지",
+  "latitude": "37.493366",
+  "longitude": "126.85807"
+},
+{
+  "number": "17",
+  "storeName": "광장하이퍼",
+  "phoneNumber": "02-2684-0640",
+  "address": "서울 구로구 구로동 1258번지 중앙유통단지C-05",
+  "latitude": "37.501007",
+  "longitude": "126.874664"
+},
+{
+  "number": "18",
+  "storeName": "스포츠토토",
+  "phoneNumber": "02-839-5174",
+  "address": "서울 구로구 구로동 1123-3 103호",
+  "latitude": "37.49351",
+  "longitude": "126.89216"
+},
+{
+  "number": "19",
+  "storeName": "성원",
+  "phoneNumber": "02-838-3991",
+  "address": "서울 구로구 구로동 730-4번지 외1필지1층",
+  "latitude": "37.490013",
+  "longitude": "126.88778"
+},
+{
+  "number": "20",
+  "storeName": "다모아복권",
+  "phoneNumber": "02-2625-1155",
+  "address": "서울 구로구 구로동 1127-22 102호",
+  "latitude": "37.486378",
+  "longitude": "126.85472"
+},
+{
+  "number": "21",
+  "storeName": "해피데이",
+  "phoneNumber": "02-6348-2900",
+  "address": "서울 구로구 구로동 612-9 1층",
+  "latitude": "37.50524",
+  "longitude": "126.87728"
+},
+{
+  "number": "22",
+  "storeName": "GS25궁동상지점",
+  "phoneNumber": "02-2686-1601",
+  "address": "서울 구로구 궁동 208-16번지",
+  "latitude": "37.49411",
+  "longitude": "126.83304"
+},
+{
+  "number": "23",
+  "storeName": "애니콜플라자",
+  "phoneNumber": "02-858-0701",
+  "address": "서울 구로구 구로동 136-40번지",
+  "latitude": "37.492527",
+  "longitude": "126.89061"
+},
+{
+  "number": "24",
+  "storeName": "탑공인중개사",
+  "phoneNumber": "02-2683-4131",
+  "address": "서울 구로구 개봉동 403-53번지",
+  "latitude": "37.49134",
+  "longitude": "126.855675"
+},
+{
+  "number": "25",
+  "storeName": "다모아",
+  "phoneNumber": "02-830-3330",
+  "address": "서울 구로구 구로동 29-21",
+  "latitude": "37.504314",
+  "longitude": "126.89155"
+},
+{
+  "number": "26",
+  "storeName": "다모아복권방",
+  "phoneNumber": "02-2684-3371",
+  "address": "서울 구로구 오류동 137-46번지 1층",
+  "latitude": "37.493282",
+  "longitude": "126.84432"
+},
+{
+  "number": "27",
+  "storeName": "다모아복권",
+  "phoneNumber": "02-2618-3257",
+  "address": "서울 구로구 오류동 315-14번지",
+  "latitude": "37.495876",
+  "longitude": "126.84278"
+},
+{
+  "number": "28",
+  "storeName": "복권방",
+  "phoneNumber": "02-859-0613",
+  "address": "서울 구로구 구로동 767-182번지",
+  "latitude": "37.48876",
+  "longitude": "126.89002"
+},
+{
+  "number": "29",
+  "storeName": "복권세계",
+  "phoneNumber": "02-868-3340",
+  "address": "서울 구로구 가리봉동 124-2번지",
+  "latitude": "37.482235",
+  "longitude": "126.88744"
+},
+{
+  "number": "30",
+  "storeName": "주택복권사랑방",
+  "phoneNumber": "02-2688-6860",
+  "address": "서울 구로구 구로동 1258번지 중앙유통지하B55-02호",
+  "latitude": "37.501007",
+  "longitude": "126.874664"
+},
+{
+  "number": "31",
+  "storeName": "가로판매소",
+  "phoneNumber": "02-862-1615",
+  "address": "서울 구로구 구로동 3-25 신도림역배수펌프장앞",
+  "latitude": "37.507725",
+  "longitude": "126.89149"
+},
+{
+  "number": "32",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-2681-1606",
+  "address": "서울 구로구 개봉동 327-22번지",
+  "latitude": "37.49167",
+  "longitude": "126.85482"
+},
+{
+  "number": "33",
+  "storeName": "명당 구로동 복권 판매점",
+  "phoneNumber": "02-2618-8090",
+  "address": "서울 구로구 구로동 430 1층",
+  "latitude": "37.502007",
+  "longitude": "126.84731"
+},
+{
+  "number": "34",
+  "storeName": "고경식품",
+  "phoneNumber": "02-2612-0584",
+  "address": "서울 구로구 고척동 72-28번지",
+  "latitude": "37.496788",
+  "longitude": "126.862465"
+},
+{
+  "number": "35",
+  "storeName": "로또샹스카페",
+  "phoneNumber": "02-837-9969",
+  "address": "서울 구로구 가리봉동 135-68번지 인화오벨리아102호",
+  "latitude": "37.479317",
+  "longitude": "126.89188"
+},
+{
+  "number": "36",
+  "storeName": "복권마을",
+  "phoneNumber": "02-3281-0021",
+  "address": "서울 구로구 구로동 805-20번지",
+  "latitude": "37.48528",
+  "longitude": "126.886024"
+},
+{
+  "number": "37",
+  "storeName": "복권명가",
+  "phoneNumber": "02-2685-4194",
+  "address": "서울 구로구 개봉동 403-165번지",
+  "latitude": "37.487965",
+  "longitude": "126.85648"
+},
+{
+  "number": "38",
+  "storeName": "경남마트",
+  "phoneNumber": "02-2616-7455",
+  "address": "서울 구로구 고척동 306번지 경남상가201호",
+  "latitude": "37.50441",
+  "longitude": "126.85682"
+},
+{
+  "number": "39",
+  "storeName": "천하명당",
+  "phoneNumber": "02-2616-4036",
+  "address": "서울 구로구 오류동 170-11",
+  "latitude": "37.491318",
+  "longitude": "126.840546"
+},
+{
+  "number": "40",
+  "storeName": "과자종합상사",
+  "phoneNumber": "02-2618-3236",
+  "address": "서울 구로구 고척동 269-5번지",
+  "latitude": "37.501446",
+  "longitude": "126.85083"
+},
+{
+  "number": "41",
+  "storeName": "공단 복권방",
+  "phoneNumber": "02-858-3360",
+  "address": "서울 구로구 가리봉동 127-11",
+  "latitude": "37.479767",
+  "longitude": "126.88951"
+},
+{
+  "number": "42",
+  "storeName": "현진식품",
+  "phoneNumber": "02-2614-8986",
+  "address": "서울 구로구 고척동 52-346번지",
+  "latitude": "37.500736",
+  "longitude": "126.863846"
+},
+{
+  "number": "43",
+  "storeName": "24시미니슈퍼",
+  "phoneNumber": "02-839-6484",
+  "address": "서울 구로구 구로동 147-6번지",
+  "latitude": "37.490623",
+  "longitude": "126.893585"
+},
+{
+  "number": "44",
+  "storeName": "미래하이퍼",
+  "phoneNumber": "02-2678-4509",
+  "address": "서울 구로구 가리봉동 134-116",
+  "latitude": "37.50145",
+  "longitude": "126.87732"
+},
+{
+  "number": "45",
+  "storeName": "천일슈퍼",
+  "phoneNumber": "02-867-2001",
+  "address": "서울 구로구 구로동 1124-72번지",
+  "latitude": "37.48341",
+  "longitude": "126.89971"
+},
+{
+  "number": "46",
+  "storeName": "로또 光복권",
+  "phoneNumber": "02-6326-7979",
+  "address": "서울 구로구 개봉동 173-3",
+  "latitude": "37.49529",
+  "longitude": "126.85844"
+},
+{
+  "number": "47",
+  "storeName": "행운로또복권판매점",
+  "phoneNumber": "02-2066-0645",
+  "address": "서울 구로구 개봉동 124-13 1층",
+  "latitude": "37.501743",
+  "longitude": "126.864555"
+},
+{
+  "number": "48",
+  "storeName": "코사마트",
+  "phoneNumber": "02-863-5100",
+  "address": "서울 구로구 구로동 108-2번지 새솔금호아파트상가1-25",
+  "latitude": "37.499985",
+  "longitude": "126.890495"
+},
+{
+  "number": "49",
+  "storeName": "복권방",
+  "phoneNumber": "02-864-8688",
+  "address": "서울 구로구 구로동 409-80번지 1층",
+  "latitude": "37.493916",
+  "longitude": "126.88263"
+},
+{
+  "number": "50",
+  "storeName": "로또복권",
+  "phoneNumber": "02-867-4123",
+  "address": "서울 구로구 구로동 738-71번지",
+  "latitude": "37.487164",
+  "longitude": "126.88522"
+},
+{
+  "number": "51",
+  "storeName": "유성포장",
+  "phoneNumber": "02-858-8010",
+  "address": "서울 구로구 구로동 145-1번지 1층코너",
+  "latitude": "37.4904",
+  "longitude": "126.892586"
+},
+{
+  "number": "52",
+  "storeName": "로또복권판매소",
+  "phoneNumber": "02-866-4334",
+  "address": "서울 구로구 구로동 797-70번지",
+  "latitude": "37.484444",
+  "longitude": "126.88917"
+},
+{
+  "number": "53",
+  "storeName": "로또구로구디점",
+  "phoneNumber": "02-868-5404",
+  "address": "서울 구로구 오류동 46-1",
+  "latitude": "37.485153",
+  "longitude": "126.89983"
+},
+{
+  "number": "54",
+  "storeName": "씨유구로미래지오점",
+  "phoneNumber": "02-865-9656",
+  "address": "서울 구로구 구로동 810 1층 편의점",
+  "latitude": "37.485153",
+  "longitude": "126.89983"
+},
+{
+  "number": "55",
+  "storeName": "행운마트",
+  "phoneNumber": "",
+  "address": "서울 구로구 개봉동 358-21",
+  "latitude": "37.48626",
+  "longitude": "126.855515"
+},
+{
+  "number": "56",
+  "storeName": "정희자",
+  "phoneNumber": "",
+  "address": "서울 구로구 구로동 104",
+  "latitude": "37.496727",
+  "longitude": "126.890564"
+},
+{
+  "number": "57",
+  "storeName": "가판로또",
+  "phoneNumber": "02-849-9959",
+  "address": "서울 구로구 구로동 573 애경백화점앞 가판",
+  "latitude": "37.500668",
+  "longitude": "126.882675"
+},
+{
+  "number": "58",
+  "storeName": "로또판매",
+  "phoneNumber": "02-2111-1342",
+  "address": "서울 구로구 구로동 3-25 1층 077호",
+  "latitude": "37.507046",
+  "longitude": "126.89023"
+},
+{
+  "number": "59",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "서울 구로구 고척동 76-137",
+  "latitude": "37.49999",
+  "longitude": "126.86675"
+},
+{
+  "number": "60",
+  "storeName": "GS25(신구로점)",
+  "phoneNumber": "02-838-4817",
+  "address": "서울 구로구 구로동 97-3",
+  "latitude": "37.49638",
+  "longitude": "126.891624"
+},
+{
+  "number": "61",
+  "storeName": "비엠코리아",
+  "phoneNumber": "02-6916-1500",
+  "address": "서울 구로구 오류동 55-50 편의점내",
+  "latitude": "37.496216",
+  "longitude": "126.844864"
+},
+{
+  "number": "62",
+  "storeName": "가로판매대",
+  "phoneNumber": "02-855-3436",
+  "address": "서울 구로구 구로동 1123-1 못된고양이 앞 가판",
+  "latitude": "37.484333",
+  "longitude": "126.90223"
+},
+{
+  "number": "63",
+  "storeName": "동행로또복권",
+  "phoneNumber": "",
+  "address": "서울 구로구 오류동 345 상가동 1층 101호",
+  "latitude": "37.493538",
+  "longitude": "126.83952"
+}
+]

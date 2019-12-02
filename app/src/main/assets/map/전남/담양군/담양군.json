@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "복권판매점(담양)",
+  "phoneNumber": "061-383-1006",
+  "address": "전남 담양군 담양읍 지침리 136-26",
+  "latitude": "35.31599",
+  "longitude": "126.983536"
+},
+{
+  "number": "2",
+  "storeName": "죽향복권방",
+  "phoneNumber": "061-383-4750",
+  "address": "전남 담양군 담양읍 지침리 107-10번지",
+  "latitude": "35.317146",
+  "longitude": "126.98591"
+},
+{
+  "number": "3",
+  "storeName": "행복나눔",
+  "phoneNumber": "061-383-6789",
+  "address": "전남 담양군 담양읍 백동리 88-6",
+  "latitude": "35.30842",
+  "longitude": "126.98525"
+}
+]

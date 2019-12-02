@@ -1,0 +1,402 @@
+[
+{
+  "number": "1",
+  "storeName": "GMART",
+  "phoneNumber": "054-457-8488",
+  "address": "경북 구미시 원평동 106-5번지",
+  "latitude": "36.129993",
+  "longitude": "128.32907"
+},
+{
+  "number": "2",
+  "storeName": "행운복권",
+  "phoneNumber": "054-456-3546",
+  "address": "경북 구미시 형곡동 168-9 101동 상가",
+  "latitude": "36.10934",
+  "longitude": "128.337"
+},
+{
+  "number": "3",
+  "storeName": "GM로또",
+  "phoneNumber": "",
+  "address": "경북 구미시 고아읍 문성리 1284",
+  "latitude": "36.156235",
+  "longitude": "128.34491"
+},
+{
+  "number": "4",
+  "storeName": "금오로또나눔",
+  "phoneNumber": "054-456-8135",
+  "address": "경북 구미시 신평동 361-15 코리아25시",
+  "latitude": "36.121464",
+  "longitude": "128.34009"
+},
+{
+  "number": "5",
+  "storeName": "한일슈퍼",
+  "phoneNumber": "054-476-0517",
+  "address": "경북 구미시 산동면 신당리 0 골드상가타워내 세븐일레븐",
+  "latitude": "36.113605",
+  "longitude": "128.42503"
+},
+{
+  "number": "6",
+  "storeName": "로또복권",
+  "phoneNumber": "054-455-7112",
+  "address": "경북 구미시 송정동 459번지",
+  "latitude": "36.11757",
+  "longitude": "128.34468"
+},
+{
+  "number": "7",
+  "storeName": "행운복권",
+  "phoneNumber": "054-608-7360",
+  "address": "경북 구미시 신평동 132-7번지",
+  "latitude": "36.123848",
+  "longitude": "128.36267"
+},
+{
+  "number": "8",
+  "storeName": "로또복권4공단점",
+  "phoneNumber": "",
+  "address": "경북 구미시 산동면 봉산리 380-2",
+  "latitude": "36.140583",
+  "longitude": "128.43942"
+},
+{
+  "number": "9",
+  "storeName": "주택복권2호점",
+  "phoneNumber": "054-454-9100",
+  "address": "경북 구미시 원평동 1028-2번지 114호",
+  "latitude": "36.1259",
+  "longitude": "128.34055"
+},
+{
+  "number": "10",
+  "storeName": "복권명당도량2호점",
+  "phoneNumber": "054-451-6697",
+  "address": "경북 구미시 도량동 792-210번지",
+  "latitude": "36.138004",
+  "longitude": "128.3325"
+},
+{
+  "number": "11",
+  "storeName": "복권명당",
+  "phoneNumber": "054-444-8044",
+  "address": "경북 구미시 도량동 240번지 미도프라자1층1호",
+  "latitude": "36.1406",
+  "longitude": "128.3235"
+},
+{
+  "number": "12",
+  "storeName": "신신낚시 구미점",
+  "phoneNumber": "054-443-6923",
+  "address": "경북 구미시 오태동 657번지",
+  "latitude": "36.155453",
+  "longitude": "128.33235"
+},
+{
+  "number": "13",
+  "storeName": "로타리상회",
+  "phoneNumber": "054-463-8597",
+  "address": "경북 구미시 공단동 263번지 상가1층4호",
+  "latitude": "36.101383",
+  "longitude": "128.38496"
+},
+{
+  "number": "14",
+  "storeName": "팍스마트",
+  "phoneNumber": "054-456-8240",
+  "address": "경북 구미시 원평동 1024-5번지",
+  "latitude": "36.127106",
+  "longitude": "128.34068"
+},
+{
+  "number": "15",
+  "storeName": "KOREA마트",
+  "phoneNumber": "054-458-9717",
+  "address": "경북 구미시 송정동 445번지",
+  "latitude": "36.120487",
+  "longitude": "128.35228"
+},
+{
+  "number": "16",
+  "storeName": "이마트24구미황상점",
+  "phoneNumber": "054-474-2551",
+  "address": "경북 구미시 인의동 827-19번지",
+  "latitude": "36.110878",
+  "longitude": "128.42572"
+},
+{
+  "number": "17",
+  "storeName": "코리아25시",
+  "phoneNumber": "054-455-9962",
+  "address": "경북 구미시 형곡동 146-2번지",
+  "latitude": "36.112602",
+  "longitude": "128.33586"
+},
+{
+  "number": "18",
+  "storeName": "씨스페이스 구미옥계 대박점",
+  "phoneNumber": "054-475-8881",
+  "address": "경북 구미시 옥계동 545번지 씨스페이스 내",
+  "latitude": "36.146854",
+  "longitude": "128.4143"
+},
+{
+  "number": "19",
+  "storeName": "세븐일레븐형곡센터점",
+  "phoneNumber": "054-452-4456",
+  "address": "경북 구미시 형곡동 322-6번지",
+  "latitude": "36.107006",
+  "longitude": "128.33774"
+},
+{
+  "number": "20",
+  "storeName": "동아문구센타",
+  "phoneNumber": "054-474-3404",
+  "address": "경북 구미시 옥계동 831-3번지",
+  "latitude": "36.138123",
+  "longitude": "128.41817"
+},
+{
+  "number": "21",
+  "storeName": "GM24(신평점)",
+  "phoneNumber": "054-462-1479",
+  "address": "경북 구미시 신평동 96-6번지",
+  "latitude": "36.122673",
+  "longitude": "128.364"
+},
+{
+  "number": "22",
+  "storeName": "대박복권",
+  "phoneNumber": "054-474-2905",
+  "address": "경북 구미시 진평동 119-2",
+  "latitude": "36.095966",
+  "longitude": "128.43375"
+},
+{
+  "number": "23",
+  "storeName": "로또복권애니타임점",
+  "phoneNumber": "054-476-8130",
+  "address": "경북 구미시 황상동 303-1번지 애니타임편의점 내",
+  "latitude": "36.109016",
+  "longitude": "128.42001"
+},
+{
+  "number": "24",
+  "storeName": "로또행운복권방",
+  "phoneNumber": "054-465-5301",
+  "address": "경북 구미시 사곡동 657-5",
+  "latitude": "36.100777",
+  "longitude": "128.36125"
+},
+{
+  "number": "25",
+  "storeName": "명덕사 복권판매점",
+  "phoneNumber": "054-451-3320",
+  "address": "경북 구미시 봉곡동 303-3번지",
+  "latitude": "36.148632",
+  "longitude": "128.31136"
+},
+{
+  "number": "26",
+  "storeName": "복권마트",
+  "phoneNumber": "054-475-9195",
+  "address": "경북 구미시 봉곡동 541-5",
+  "latitude": "36.142014",
+  "longitude": "128.30806"
+},
+{
+  "number": "27",
+  "storeName": "로또복권GM24시인의점",
+  "phoneNumber": "054-473-6178",
+  "address": "경북 구미시 인의동 671-2번지 GM편의점 내",
+  "latitude": "36.100807",
+  "longitude": "128.42691"
+},
+{
+  "number": "28",
+  "storeName": "신도로또",
+  "phoneNumber": "",
+  "address": "경북 구미시 형곡동 320-1",
+  "latitude": "36.105576",
+  "longitude": "128.33434"
+},
+{
+  "number": "29",
+  "storeName": "조와 로또",
+  "phoneNumber": "054-472-5564",
+  "address": "경북 구미시 진평동 1038-12",
+  "latitude": "36.124775",
+  "longitude": "128.34184"
+},
+{
+  "number": "30",
+  "storeName": "CU(구미사곡점)",
+  "phoneNumber": "054-463-1454",
+  "address": "경북 구미시 사곡동 481-5",
+  "latitude": "36.09799",
+  "longitude": "128.35867"
+},
+{
+  "number": "31",
+  "storeName": "CU(구미원평점)",
+  "phoneNumber": "054-458-5720",
+  "address": "경북 구미시 원평동 1049번지",
+  "latitude": "36.125725",
+  "longitude": "128.34471"
+},
+{
+  "number": "32",
+  "storeName": "CU(구미인의점)",
+  "phoneNumber": "054-472-3133",
+  "address": "경북 구미시 인의동 435-10번지",
+  "latitude": "36.108593",
+  "longitude": "128.42444"
+},
+{
+  "number": "33",
+  "storeName": "GS25(구미공단점)",
+  "phoneNumber": "054-461-1090",
+  "address": "경북 구미시 공단동 203번지 동아상가106호",
+  "latitude": "36.10993",
+  "longitude": "128.37769"
+},
+{
+  "number": "34",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "경북 구미시 봉곡동 235-1",
+  "latitude": "36.152477",
+  "longitude": "128.3082"
+},
+{
+  "number": "35",
+  "storeName": "동그라미",
+  "phoneNumber": "054-456-7587",
+  "address": "경북 구미시 고아읍 문성리 1402번지",
+  "latitude": "36.158176",
+  "longitude": "128.3506"
+},
+{
+  "number": "36",
+  "storeName": "복권명당",
+  "phoneNumber": "054-452-3094",
+  "address": "경북 구미시 원평동 123-18번지",
+  "latitude": "36.128918",
+  "longitude": "128.33044"
+},
+{
+  "number": "37",
+  "storeName": "오태NG24시복권방",
+  "phoneNumber": "054-464-2509",
+  "address": "경북 구미시 오태동 741-1 오태NG24시 편의점",
+  "latitude": "36.080265",
+  "longitude": "128.37354"
+},
+{
+  "number": "38",
+  "storeName": "로또안경콘택트",
+  "phoneNumber": "054-475-1001",
+  "address": "경북 구미시 원평동 109-20번지",
+  "latitude": "36.130295",
+  "longitude": "128.32828"
+},
+{
+  "number": "39",
+  "storeName": "그랜드로또",
+  "phoneNumber": "054-463-0081",
+  "address": "경북 구미시 비산동 102-2",
+  "latitude": "36.139587",
+  "longitude": "128.42151"
+},
+{
+  "number": "40",
+  "storeName": "코리아25옥계점",
+  "phoneNumber": "054-473-6320",
+  "address": "경북 구미시 옥계동 635-2번지",
+  "latitude": "36.138348",
+  "longitude": "128.41652"
+},
+{
+  "number": "41",
+  "storeName": "미니풀 복권판매점",
+  "phoneNumber": "054-465-6556",
+  "address": "경북 구미시 상모동 19-4",
+  "latitude": "36.08981",
+  "longitude": "128.35497"
+},
+{
+  "number": "42",
+  "storeName": "이마트24시비산로또점",
+  "phoneNumber": "054-472-2551",
+  "address": "경북 구미시 공단동 759 근린생활시설 A동 104호",
+  "latitude": "36.09886",
+  "longitude": "128.42458"
+},
+{
+  "number": "43",
+  "storeName": "스타마트",
+  "phoneNumber": "054-461-4669",
+  "address": "경북 구미시 임은동 325-2번지",
+  "latitude": "36.087555",
+  "longitude": "128.36461"
+},
+{
+  "number": "44",
+  "storeName": "복권천하명당(선산점)",
+  "phoneNumber": "054-481-7773",
+  "address": "경북 구미시 선산읍 동부리 336",
+  "latitude": "36.241",
+  "longitude": "128.30165"
+},
+{
+  "number": "45",
+  "storeName": "왕대박(원평점)",
+  "phoneNumber": "070-8613-8990",
+  "address": "경북 구미시 지산동 87-2",
+  "latitude": "36.127556",
+  "longitude": "128.33095"
+},
+{
+  "number": "46",
+  "storeName": "CU(구평희망점)",
+  "phoneNumber": "054-472-0455",
+  "address": "경북 구미시 구평동 456-1번지",
+  "latitude": "36.09269",
+  "longitude": "128.44077"
+},
+{
+  "number": "47",
+  "storeName": "원호대박복권",
+  "phoneNumber": "054-442-7711",
+  "address": "경북 구미시 고아읍 원호리 434-3 GS25구미원호점",
+  "latitude": "36.15143",
+  "longitude": "128.32922"
+},
+{
+  "number": "48",
+  "storeName": "대박복권방",
+  "phoneNumber": "",
+  "address": "경북 구미시 인동동 98-6",
+  "latitude": "36.091793",
+  "longitude": "128.43132"
+},
+{
+  "number": "49",
+  "storeName": "구미복권명당",
+  "phoneNumber": "054-465-4888",
+  "address": "경북 구미시 형곡동 109-3",
+  "latitude": "36.116295",
+  "longitude": "128.33673"
+},
+{
+  "number": "50",
+  "storeName": "도깨비로또명당",
+  "phoneNumber": "",
+  "address": "경북 구미시 양포동 733-6",
+  "latitude": "36.137978",
+  "longitude": "128.42433"
+}
+]

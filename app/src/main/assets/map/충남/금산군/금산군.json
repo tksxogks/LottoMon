@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "서독안경원",
+  "phoneNumber": "041-754-5052",
+  "address": "충남 금산군 금산읍 상리 34-10번지",
+  "latitude": "36.105373",
+  "longitude": "127.49072"
+},
+{
+  "number": "2",
+  "storeName": "노다지복권방",
+  "phoneNumber": "041-753-5045",
+  "address": "충남 금산군 금산읍 중도리 227-1번지",
+  "latitude": "36.10556",
+  "longitude": "127.49179"
+},
+{
+  "number": "3",
+  "storeName": "로또명당",
+  "phoneNumber": "041-754-0673",
+  "address": "충남 금산군 금산읍 상리 21-1",
+  "latitude": "36.109802",
+  "longitude": "127.48764"
+},
+{
+  "number": "4",
+  "storeName": "영약국",
+  "phoneNumber": "041-752-1463",
+  "address": "충남 금산군 금산읍 중도리 361-4번지",
+  "latitude": "36.102238",
+  "longitude": "127.4931"
+},
+{
+  "number": "5",
+  "storeName": "중앙사무기",
+  "phoneNumber": "041-754-2223",
+  "address": "충남 금산군 금산읍 중도리 503-4",
+  "latitude": "36.101475",
+  "longitude": "127.4899"
+},
+{
+  "number": "6",
+  "storeName": "복권판매점",
+  "phoneNumber": "",
+  "address": "충남 금산군 추부면 마전리 424-6",
+  "latitude": "36.190968",
+  "longitude": "127.47066"
+}
+]

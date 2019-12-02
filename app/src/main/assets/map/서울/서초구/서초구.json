@@ -1,0 +1,458 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(서초쌍용점)",
+  "phoneNumber": "02-3472-9651",
+  "address": "서울 서초구 서초동 1445-13",
+  "latitude": "37.484013",
+  "longitude": "127.01734"
+},
+{
+  "number": "2",
+  "storeName": "GS25(서초금호점)",
+  "phoneNumber": "02-591-2204",
+  "address": "서울 서초구 서초동 1689-1",
+  "latitude": "37.49511",
+  "longitude": "127.017624"
+},
+{
+  "number": "3",
+  "storeName": "GS25(양재삼익점)",
+  "phoneNumber": "02-572-7672",
+  "address": "서울 서초구 양재동 82 향천빌딩 105호",
+  "latitude": "37.478542",
+  "longitude": "127.04047"
+},
+{
+  "number": "4",
+  "storeName": "GS25(반포중앙점)",
+  "phoneNumber": "02-514-4249",
+  "address": "서울 서초구 반포동 739-35번지 1층",
+  "latitude": "37.505657",
+  "longitude": "127.02201"
+},
+{
+  "number": "5",
+  "storeName": "로또 마트",
+  "phoneNumber": "02-532-4487",
+  "address": "서울 서초구 서초동 1303-16",
+  "latitude": "37.502712",
+  "longitude": "127.02384"
+},
+{
+  "number": "6",
+  "storeName": "고래등복권방",
+  "phoneNumber": "02-585-8482",
+  "address": "서울 서초구 서초동 1601-1",
+  "latitude": "37.486214",
+  "longitude": "127.014465"
+},
+{
+  "number": "7",
+  "storeName": "로또명당",
+  "phoneNumber": "02-523-3033",
+  "address": "서울 서초구 방배동 467-1",
+  "latitude": "37.47922",
+  "longitude": "126.984055"
+},
+{
+  "number": "8",
+  "storeName": "버스충전소",
+  "phoneNumber": "02-591-7947",
+  "address": "서울 서초구 방배동 1763번지 가판",
+  "latitude": "37.487682",
+  "longitude": "126.9826"
+},
+{
+  "number": "9",
+  "storeName": "가판점",
+  "phoneNumber": "02-525-5609",
+  "address": "서울 서초구 서초동 1602-2 가판",
+  "latitude": "37.484978",
+  "longitude": "127.01501"
+},
+{
+  "number": "10",
+  "storeName": "버스충전소",
+  "phoneNumber": "02-3476-0469",
+  "address": "서울 서초구 잠원동 75-19 반포쇼핑3동정문앞",
+  "latitude": "37.505997",
+  "longitude": "127.00307"
+},
+{
+  "number": "11",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-532-6682",
+  "address": "서울 서초구 잠원동 69-3번지 한신4차입구",
+  "latitude": "37.506535",
+  "longitude": "127.0049"
+},
+{
+  "number": "12",
+  "storeName": "오케이상사",
+  "phoneNumber": "02-6282-2312",
+  "address": "서울 서초구 반포동 19-3번지 센트럴시티내100호매점",
+  "latitude": "37.50413",
+  "longitude": "127.00307"
+},
+{
+  "number": "13",
+  "storeName": "버스카드충전소",
+  "phoneNumber": "02-596-1411",
+  "address": "서울 서초구 잠원동 69-12 6동쇼핑앞",
+  "latitude": "37.50698",
+  "longitude": "127.00644"
+},
+{
+  "number": "14",
+  "storeName": "경영상회",
+  "phoneNumber": "02-3471-2562",
+  "address": "서울 서초구 서초동 1329-8번지",
+  "latitude": "37.493214",
+  "longitude": "127.02935"
+},
+{
+  "number": "15",
+  "storeName": "담배5호",
+  "phoneNumber": "",
+  "address": "서울 서초구 반포동 19-4번지 고속버스터미널1층담배5호",
+  "latitude": "37.505493",
+  "longitude": "127.00672"
+},
+{
+  "number": "16",
+  "storeName": "로또와 토토",
+  "phoneNumber": "02-593-5338",
+  "address": "서울 서초구 방배동 923-6 121호",
+  "latitude": "37.483097",
+  "longitude": "126.99528"
+},
+{
+  "number": "17",
+  "storeName": "복권판매소",
+  "phoneNumber": "02-597-9395",
+  "address": "서울 서초구 서초동 1575-3",
+  "latitude": "37.491833",
+  "longitude": "127.013725"
+},
+{
+  "number": "18",
+  "storeName": "행운복권마트",
+  "phoneNumber": "02-581-5673",
+  "address": "서울 서초구 방배동 937-22 1층",
+  "latitude": "37.487156",
+  "longitude": "126.99284"
+},
+{
+  "number": "19",
+  "storeName": "경부선 하차장로또방",
+  "phoneNumber": "02-593-1945",
+  "address": "서울 서초구 반포동 19-4",
+  "latitude": "37.5049",
+  "longitude": "127.00202"
+},
+{
+  "number": "20",
+  "storeName": "교통카드충전",
+  "phoneNumber": "02-532-9471",
+  "address": "서울 서초구 서초동 1317-20번지",
+  "latitude": "37.498035",
+  "longitude": "127.0265"
+},
+{
+  "number": "21",
+  "storeName": "교통카드",
+  "phoneNumber": "02-542-9887",
+  "address": "서울 서초구 반포동 723-13",
+  "latitude": "37.50807",
+  "longitude": "127.022285"
+},
+{
+  "number": "22",
+  "storeName": "미니마트",
+  "phoneNumber": "02-532-2029",
+  "address": "서울 서초구 반포동 19-4 경부선 1층 11-B호",
+  "latitude": "37.505493",
+  "longitude": "127.00672"
+},
+{
+  "number": "23",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-534-0543",
+  "address": "서울 서초구 방배동 1549",
+  "latitude": "37.486958",
+  "longitude": "126.98265"
+},
+{
+  "number": "24",
+  "storeName": "청수마트",
+  "phoneNumber": "02-577-7577",
+  "address": "서울 서초구 양재동 329",
+  "latitude": "37.468903",
+  "longitude": "127.04134"
+},
+{
+  "number": "25",
+  "storeName": "에이원텔레콤",
+  "phoneNumber": "02-534-6016",
+  "address": "서울 서초구 방배동 813-7번지 보배빌딩1층",
+  "latitude": "37.49256",
+  "longitude": "126.99026"
+},
+{
+  "number": "26",
+  "storeName": "레몬비 방배역점",
+  "phoneNumber": "02-525-4412",
+  "address": "서울 서초구 방배동 981-15 지하층 204-2호",
+  "latitude": "37.481766",
+  "longitude": "126.99835"
+},
+{
+  "number": "27",
+  "storeName": "학창\u0026배팅샵",
+  "phoneNumber": "02-583-8189",
+  "address": "서울 서초구 방배동 897-1번지 104호",
+  "latitude": "37.48763",
+  "longitude": "126.99453"
+},
+{
+  "number": "28",
+  "storeName": "우주문화사",
+  "phoneNumber": "02-599-5755",
+  "address": "서울 서초구 방배동 750-11번지",
+  "latitude": "37.497894",
+  "longitude": "126.986206"
+},
+{
+  "number": "29",
+  "storeName": "알파문구반포점",
+  "phoneNumber": "02-3476-3301",
+  "address": "서울 서초구 반포동 95-5",
+  "latitude": "37.498325",
+  "longitude": "126.99818"
+},
+{
+  "number": "30",
+  "storeName": "뮤직마트",
+  "phoneNumber": "02-574-3345",
+  "address": "서울 서초구 양재동 13-8번지",
+  "latitude": "37.483067",
+  "longitude": "127.03601"
+},
+{
+  "number": "31",
+  "storeName": "스포츠베팅샵",
+  "phoneNumber": "02-3462-9011",
+  "address": "서울 서초구 양재동 373 104호",
+  "latitude": "37.471294",
+  "longitude": "127.04433"
+},
+{
+  "number": "32",
+  "storeName": "나인투화이브양재점",
+  "phoneNumber": "02-578-8187",
+  "address": "서울 서초구 양재동 333",
+  "latitude": "37.46948",
+  "longitude": "127.04178"
+},
+{
+  "number": "33",
+  "storeName": "강남역로또가판점",
+  "phoneNumber": "02-3471-9957",
+  "address": "서울 서초구 서초동 1319-11",
+  "latitude": "37.49668",
+  "longitude": "127.02769"
+},
+{
+  "number": "34",
+  "storeName": "복권만화",
+  "phoneNumber": "02-586-0820",
+  "address": "서울 서초구 서초동 1579-9번지",
+  "latitude": "37.48828",
+  "longitude": "127.01372"
+},
+{
+  "number": "35",
+  "storeName": "buy the way (반포공원점)",
+  "phoneNumber": "070-7116-1666",
+  "address": "서울 서초구 반포동 709-8번지",
+  "latitude": "37.509167",
+  "longitude": "127.02033"
+},
+{
+  "number": "36",
+  "storeName": "복권천국",
+  "phoneNumber": "02-599-1016",
+  "address": "서울 서초구 방배동 874-7번지 1층",
+  "latitude": "37.48767",
+  "longitude": "126.99285"
+},
+{
+  "number": "37",
+  "storeName": "장원에이스",
+  "phoneNumber": "02-533-3415",
+  "address": "서울 서초구 반포동 19-4 서울고속버스터미널경부선대합식2H로또판매점",
+  "latitude": "37.505493",
+  "longitude": "127.00672"
+},
+{
+  "number": "38",
+  "storeName": "방배세양로또",
+  "phoneNumber": "",
+  "address": "서울 서초구 방배동 421-1 세양아르비체 1층 미니스톱마트",
+  "latitude": "37.485104",
+  "longitude": "126.983665"
+},
+{
+  "number": "39",
+  "storeName": "로또판매CU양재오피스점",
+  "phoneNumber": "02-587-0870",
+  "address": "서울 서초구 양재동 110-18",
+  "latitude": "37.488773",
+  "longitude": "127.01663"
+},
+{
+  "number": "40",
+  "storeName": "서초4호점로또판매",
+  "phoneNumber": "02-533-2587",
+  "address": "서울 서초구 방배4동 867-28번지",
+  "latitude": "37.48607",
+  "longitude": "126.98623"
+},
+{
+  "number": "41",
+  "storeName": "로얄마트",
+  "phoneNumber": "02-3473-8540",
+  "address": "서울 서초구 서초동 1330-11번지 금성상가104호",
+  "latitude": "37.49295",
+  "longitude": "127.02893"
+},
+{
+  "number": "42",
+  "storeName": "행복자",
+  "phoneNumber": "02-529-9090",
+  "address": "서울 서초구 양재동 7-43",
+  "latitude": "37.482708",
+  "longitude": "127.040565"
+},
+{
+  "number": "43",
+  "storeName": "서울상회",
+  "phoneNumber": "02-581-0636",
+  "address": "서울 서초구 서초동 1357-55번지 1층3호",
+  "latitude": "37.48741",
+  "longitude": "127.03081"
+},
+{
+  "number": "44",
+  "storeName": "승지GALLANT",
+  "phoneNumber": "02-592-9796",
+  "address": "서울 서초구 반포동 19-4 경부고속터미널제2매표소앞 쇼케이스16, 코너3",
+  "latitude": "37.505493",
+  "longitude": "127.00672"
+},
+{
+  "number": "45",
+  "storeName": "연초2호",
+  "phoneNumber": "02-599-4382",
+  "address": "서울 서초구 반포동 19-4번지 고속터미널내1층",
+  "latitude": "37.505493",
+  "longitude": "127.00672"
+},
+{
+  "number": "46",
+  "storeName": "보성정보통신",
+  "phoneNumber": "02-578-1955",
+  "address": "서울 서초구 양재동 279-6 1층 팝스토어",
+  "latitude": "37.475243",
+  "longitude": "127.045494"
+},
+{
+  "number": "47",
+  "storeName": "알파문구센타",
+  "phoneNumber": "02-522-3567",
+  "address": "서울 서초구 서초동 1443-1번지",
+  "latitude": "37.48515",
+  "longitude": "127.01856"
+},
+{
+  "number": "48",
+  "storeName": "로또복권판매장",
+  "phoneNumber": "02-582-4011",
+  "address": "서울 서초구 방배동 777-1",
+  "latitude": "37.49395",
+  "longitude": "126.98642"
+},
+{
+  "number": "49",
+  "storeName": "미니복권방",
+  "phoneNumber": "02-588-2354",
+  "address": "서울 서초구 방배동 1019-1",
+  "latitude": "37.478035",
+  "longitude": "127.0008"
+},
+{
+  "number": "50",
+  "storeName": "왕산 로또",
+  "phoneNumber": "02-6282-5132",
+  "address": "서울 서초구 반포동 118-3",
+  "latitude": "37.504425",
+  "longitude": "127.00776"
+},
+{
+  "number": "51",
+  "storeName": "희망",
+  "phoneNumber": "02-595-2141",
+  "address": "서울 서초구 방배동 863-4",
+  "latitude": "37.48753",
+  "longitude": "126.98578"
+},
+{
+  "number": "52",
+  "storeName": "행복",
+  "phoneNumber": "",
+  "address": "서울 서초구 잠원동 21-3 1층",
+  "latitude": "37.515038",
+  "longitude": "127.01932"
+},
+{
+  "number": "53",
+  "storeName": "GS25(반포2점)",
+  "phoneNumber": "02-542-7879",
+  "address": "서울 서초구 반포동 741번지",
+  "latitude": "37.50446",
+  "longitude": "127.02069"
+},
+{
+  "number": "54",
+  "storeName": "CU(오벨리스크점)",
+  "phoneNumber": "02-588-9423",
+  "address": "서울 서초구 서초동 1327-27",
+  "latitude": "37.49525",
+  "longitude": "127.027245"
+},
+{
+  "number": "55",
+  "storeName": "정곡식품",
+  "phoneNumber": "02-591-8535",
+  "address": "서울 서초구 서초동 1705",
+  "latitude": "37.49412",
+  "longitude": "127.00999"
+},
+{
+  "number": "56",
+  "storeName": "복권판매점",
+  "phoneNumber": "02-579-1369",
+  "address": "서울 서초구 양재2동 314-14 1층 104호",
+  "latitude": "37.479885",
+  "longitude": "127.041504"
+},
+{
+  "number": "57",
+  "storeName": "코사마트",
+  "phoneNumber": "02-598-1533",
+  "address": "서울 서초구 서초동 1440-1 국제빌딩 부근 외환은행 옆 코사마트",
+  "latitude": "37.485714",
+  "longitude": "127.02161"
+}
+]

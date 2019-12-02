@@ -1,0 +1,162 @@
+[
+{
+  "number": "1",
+  "storeName": "대영광고",
+  "phoneNumber": "031-261-9565",
+  "address": "경기 용인시 수지구 동천동 180-12번지",
+  "latitude": "37.34124",
+  "longitude": "127.10056"
+},
+{
+  "number": "2",
+  "storeName": "플러스로또",
+  "phoneNumber": "031-261-2744",
+  "address": "경기 용인시 수지구 동천동 884번지",
+  "latitude": "37.33329",
+  "longitude": "127.095474"
+},
+{
+  "number": "3",
+  "storeName": "죽전열쇠 로또복권방",
+  "phoneNumber": "031-263-1230",
+  "address": "경기 용인시 수지구 죽전동 468-5 신흥빌딩101",
+  "latitude": "37.32784",
+  "longitude": "127.11374"
+},
+{
+  "number": "4",
+  "storeName": "신봉행운스토아",
+  "phoneNumber": "",
+  "address": "경기 용인시 수지구 신봉동 40-2번지 신봉종합상가226호",
+  "latitude": "37.32368",
+  "longitude": "127.07641"
+},
+{
+  "number": "5",
+  "storeName": "황금돼지 복권방",
+  "phoneNumber": "031-265-6725",
+  "address": "경기 용인시 수지구 상현동 254번지 원희캐슬프라자LG25시편의A-104",
+  "latitude": "37.30712",
+  "longitude": "127.08492"
+},
+{
+  "number": "6",
+  "storeName": "대진로또복권",
+  "phoneNumber": "031-263-4639",
+  "address": "경기 용인시 수지구 죽전동 1176-1번지 애플프라자104호",
+  "latitude": "37.33197",
+  "longitude": "127.12045"
+},
+{
+  "number": "7",
+  "storeName": "로또광교판매소",
+  "phoneNumber": "031-211-7072",
+  "address": "경기 용인시 수지구 상현동 1131-7 1층 cu 내부",
+  "latitude": "37.29684",
+  "longitude": "127.06952"
+},
+{
+  "number": "8",
+  "storeName": "주택복권방",
+  "phoneNumber": "031-272-1861",
+  "address": "경기 용인시 수지구 풍덕천동 717-3번지 103호",
+  "latitude": "37.32387",
+  "longitude": "127.09745"
+},
+{
+  "number": "9",
+  "storeName": "광성슈퍼",
+  "phoneNumber": "031-262-1233",
+  "address": "경기 용인시 수지구 풍덕천동 722-7",
+  "latitude": "37.323196",
+  "longitude": "127.097534"
+},
+{
+  "number": "10",
+  "storeName": "주몽동명",
+  "phoneNumber": "",
+  "address": "경기 용인시 수지구 풍덕천동 239-3번지 중앙빌딩 104호",
+  "latitude": "37.315647",
+  "longitude": "127.08766"
+},
+{
+  "number": "11",
+  "storeName": "GS25(동천현대점)",
+  "phoneNumber": "031-266-3321",
+  "address": "경기 용인시 수지구 동천동 351",
+  "latitude": "37.33898",
+  "longitude": "127.09444"
+},
+{
+  "number": "12",
+  "storeName": "GS25(수지수석점)",
+  "phoneNumber": "031-304-0025",
+  "address": "경기 용인시 수지구 풍덕천동 1080-1번지 수석프라자103호",
+  "latitude": "37.32178",
+  "longitude": "127.0941"
+},
+{
+  "number": "13",
+  "storeName": "GS25(수지수진점)",
+  "phoneNumber": "031-276-0928",
+  "address": "경기 용인시 수지구 동천동 873-4번지 에덴빌딩 108호",
+  "latitude": "37.335625",
+  "longitude": "127.09337"
+},
+{
+  "number": "14",
+  "storeName": "죽전대박로또",
+  "phoneNumber": "",
+  "address": "경기 용인시 수지구 상현동 1131 1층106호",
+  "latitude": "37.29865",
+  "longitude": "127.069885"
+},
+{
+  "number": "15",
+  "storeName": "베로나복금방",
+  "phoneNumber": "031-272-0817",
+  "address": "경기 용인시 수지구 동천동 899",
+  "latitude": "37.338753",
+  "longitude": "127.10121"
+},
+{
+  "number": "16",
+  "storeName": "복권로또",
+  "phoneNumber": "",
+  "address": "경기 용인시 수지구 풍덕천동 69-90",
+  "latitude": "37.325104",
+  "longitude": "127.10043"
+},
+{
+  "number": "17",
+  "storeName": "리치조이",
+  "phoneNumber": "070-8819-5311",
+  "address": "경기 용인시 수지구 죽전동 1339-1번지 GS25 단국대앞",
+  "latitude": "37.324547",
+  "longitude": "127.12518"
+},
+{
+  "number": "18",
+  "storeName": "로또복권 수지성복점",
+  "phoneNumber": "031-263-0051",
+  "address": "경기 용인시 수지구 성복동 398-9 원타임",
+  "latitude": "37.31943",
+  "longitude": "127.06006"
+},
+{
+  "number": "19",
+  "storeName": "1조 대박 로또방",
+  "phoneNumber": "",
+  "address": "경기 용인시 수지구 성복동 278-1",
+  "latitude": "37.316788",
+  "longitude": "127.06824"
+},
+{
+  "number": "20",
+  "storeName": "가가자이 로또방",
+  "phoneNumber": "031-889-6336",
+  "address": "경기 용인시 수지구 성복동 752",
+  "latitude": "37.317932",
+  "longitude": "127.06812"
+}
+]

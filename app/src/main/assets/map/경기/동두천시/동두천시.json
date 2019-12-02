@@ -1,0 +1,122 @@
+[
+{
+  "number": "1",
+  "storeName": "복권방",
+  "phoneNumber": "031-857-4146",
+  "address": "경기 동두천시 생연동 713-1번지",
+  "latitude": "37.899",
+  "longitude": "127.05475"
+},
+{
+  "number": "2",
+  "storeName": "다우복권방",
+  "phoneNumber": "031-861-3223",
+  "address": "경기 동두천시 생연동 689-45번지",
+  "latitude": "37.901833",
+  "longitude": "127.05284"
+},
+{
+  "number": "3",
+  "storeName": "성명전력",
+  "phoneNumber": "031-866-3733",
+  "address": "경기 동두천시 생연동 696-3번지",
+  "latitude": "37.90016",
+  "longitude": "127.05292"
+},
+{
+  "number": "4",
+  "storeName": "대명로또편의점",
+  "phoneNumber": "031-863-3172",
+  "address": "경기 동두천시 생연동 657-1",
+  "latitude": "37.905003",
+  "longitude": "127.05351"
+},
+{
+  "number": "5",
+  "storeName": "인애 복권방",
+  "phoneNumber": "031-862-0627",
+  "address": "경기 동두천시 생연동 560-11번지",
+  "latitude": "37.91183",
+  "longitude": "127.05541"
+},
+{
+  "number": "6",
+  "storeName": "에이스복권방",
+  "phoneNumber": "031-862-1368",
+  "address": "경기 동두천시 생연동 385-4번지 1층",
+  "latitude": "37.899303",
+  "longitude": "127.06168"
+},
+{
+  "number": "7",
+  "storeName": "서울복권방",
+  "phoneNumber": "031-863-2582",
+  "address": "경기 동두천시 생연동 684-3번지",
+  "latitude": "37.901756",
+  "longitude": "127.05541"
+},
+{
+  "number": "8",
+  "storeName": "삼성복권방",
+  "phoneNumber": "031-868-1210",
+  "address": "경기 동두천시 생연동 686-17번지",
+  "latitude": "37.90218",
+  "longitude": "127.05365"
+},
+{
+  "number": "9",
+  "storeName": "정기사",
+  "phoneNumber": "031-862-5826",
+  "address": "경기 동두천시 생연동 489-8번지",
+  "latitude": "37.908848",
+  "longitude": "127.05798"
+},
+{
+  "number": "10",
+  "storeName": "해뜰날",
+  "phoneNumber": "",
+  "address": "경기 동두천시 지행동 694-4",
+  "latitude": "37.908222",
+  "longitude": "127.05495"
+},
+{
+  "number": "11",
+  "storeName": "소요산복권판매점",
+  "phoneNumber": "",
+  "address": "경기 동두천시 상봉암동 131-16번지",
+  "latitude": "37.94719",
+  "longitude": "127.0619"
+},
+{
+  "number": "12",
+  "storeName": "알뜰슈퍼",
+  "phoneNumber": "031-862-2670",
+  "address": "경기 동두천시 생연동 450-27번지 4/6",
+  "latitude": "37.905216",
+  "longitude": "127.05825"
+},
+{
+  "number": "13",
+  "storeName": "향기캠프",
+  "phoneNumber": "",
+  "address": "경기 동두천시 지행동 728-4",
+  "latitude": "37.89453",
+  "longitude": "127.057236"
+},
+{
+  "number": "14",
+  "storeName": "돈까스로편의점",
+  "phoneNumber": "031-861-5005",
+  "address": "경기 동두천시 지행동 677-7",
+  "latitude": "37.895267",
+  "longitude": "127.04727"
+},
+{
+  "number": "15",
+  "storeName": "미니스톱 동두천 송내점",
+  "phoneNumber": "",
+  "address": "경기 동두천시 송내동 699-8",
+  "latitude": "37.88585",
+  "longitude": "127.05392"
+}
+]

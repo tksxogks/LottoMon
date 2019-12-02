@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "학우사혜진로또판매점",
+  "phoneNumber": "054-788-2437",
+  "address": "경북 울진군 후포면 후포리 1036-12번지",
+  "latitude": "36.679",
+  "longitude": "129.4464"
+},
+{
+  "number": "2",
+  "storeName": "광포로또복권",
+  "phoneNumber": "054-782-4829",
+  "address": "경북 울진군 죽변면 후정리 671-1번지",
+  "latitude": "37.070816",
+  "longitude": "129.40955"
+},
+{
+  "number": "3",
+  "storeName": "cu북면점로또복권방",
+  "phoneNumber": "054-783-6605",
+  "address": "경북 울진군 북면 부구리 164-2번지",
+  "latitude": "37.104652",
+  "longitude": "129.37436"
+},
+{
+  "number": "4",
+  "storeName": "C. U(죽변점)",
+  "phoneNumber": "054-782-9854",
+  "address": "경북 울진군 죽변면 죽변리 255-5",
+  "latitude": "36.99692",
+  "longitude": "129.40182"
+},
+{
+  "number": "5",
+  "storeName": "CU새마실점",
+  "phoneNumber": "054-782-3338",
+  "address": "경북 울진군 울진읍 고성리 26-34 1층 CU편의점내",
+  "latitude": "36.997192",
+  "longitude": "129.40152"
+},
+{
+  "number": "6",
+  "storeName": "복권명당울진점",
+  "phoneNumber": "054-781-3177",
+  "address": "경북 울진군 울진읍 읍내리 435-10번지",
+  "latitude": "36.989235",
+  "longitude": "129.39883"
+},
+{
+  "number": "7",
+  "storeName": "복권명방",
+  "phoneNumber": "054-787-2591",
+  "address": "경북 울진군 후포면 삼율리 321-3번지",
+  "latitude": "36.680454",
+  "longitude": "129.44218"
+},
+{
+  "number": "8",
+  "storeName": "울진로또방",
+  "phoneNumber": "054-782-9959",
+  "address": "경북 울진군 평해읍 평해리 934-4 CU평해점",
+  "latitude": "37.100952",
+  "longitude": "129.36938"
+}
+]

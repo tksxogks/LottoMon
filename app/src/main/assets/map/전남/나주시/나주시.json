@@ -1,0 +1,90 @@
+[
+{
+  "number": "1",
+  "storeName": "남평로또점",
+  "phoneNumber": "061-333-8773",
+  "address": "전남 나주시 남평읍 대교리 86번지 성모약국 내",
+  "latitude": "35.046665",
+  "longitude": "126.84071"
+},
+{
+  "number": "2",
+  "storeName": "대박복권",
+  "phoneNumber": "061-332-5747",
+  "address": "전남 나주시 삼영동 48번지 대박복권",
+  "latitude": "35.009697",
+  "longitude": "126.71141"
+},
+{
+  "number": "3",
+  "storeName": "윤성상회",
+  "phoneNumber": "061-334-6591",
+  "address": "전남 나주시 성북동 86-19 나주터미널 뒷편",
+  "latitude": "35.033325",
+  "longitude": "126.721436"
+},
+{
+  "number": "4",
+  "storeName": "알리바이(나주점)",
+  "phoneNumber": "061-334-7179",
+  "address": "전남 나주시 금성동 2-2번지 알리바이",
+  "latitude": "35.031258",
+  "longitude": "126.71693"
+},
+{
+  "number": "5",
+  "storeName": "희망복권방",
+  "phoneNumber": "061-331-5544",
+  "address": "전남 나주시 이창동 759-7번지",
+  "latitude": "34.992607",
+  "longitude": "126.7095"
+},
+{
+  "number": "6",
+  "storeName": "금성복권방",
+  "phoneNumber": "061-334-2001",
+  "address": "전남 나주시 대호동 236 GS편의점 내",
+  "latitude": "35.048656",
+  "longitude": "126.72077"
+},
+{
+  "number": "7",
+  "storeName": "제일마트",
+  "phoneNumber": "061-337-1371",
+  "address": "전남 나주시 남내동 106번지 제일마트",
+  "latitude": "35.031178",
+  "longitude": "126.71964"
+},
+{
+  "number": "8",
+  "storeName": "빛가람나눔슈퍼",
+  "phoneNumber": "",
+  "address": "전남 나주시 빛가람동 756-3번지 103호",
+  "latitude": "35.013306",
+  "longitude": "126.791794"
+},
+{
+  "number": "9",
+  "storeName": "빛가람희망로또",
+  "phoneNumber": "070-4103-0176",
+  "address": "전남 나주시 빛가람동 288-7 110호 포시즌마트",
+  "latitude": "35.017776",
+  "longitude": "126.7938"
+},
+{
+  "number": "10",
+  "storeName": "로또맥주",
+  "phoneNumber": "061-336-5661",
+  "address": "전남 나주시 남평읍 남평리 178-14 남평오거리부근",
+  "latitude": "35.04571",
+  "longitude": "126.838356"
+},
+{
+  "number": "11",
+  "storeName": "나주복권방",
+  "phoneNumber": "061-333-7677",
+  "address": "전남 나주시 빛가람동 277-4 센트럴빌딩 1층",
+  "latitude": "35.015774",
+  "longitude": "126.75647"
+}
+]

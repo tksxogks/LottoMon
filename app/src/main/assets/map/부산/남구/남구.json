@@ -1,0 +1,178 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(대연중앙점)",
+  "phoneNumber": "051-626-6554",
+  "address": "부산 남구 대연동 1729-5번지",
+  "latitude": "35.134933",
+  "longitude": "129.09332"
+},
+{
+  "number": "2",
+  "storeName": "GS25(부경대점)",
+  "phoneNumber": "051-622-7445",
+  "address": "부산 남구 대연동 519-1번지",
+  "latitude": "35.133366",
+  "longitude": "129.10081"
+},
+{
+  "number": "3",
+  "storeName": "복권천국",
+  "phoneNumber": "051-631-3313",
+  "address": "부산 남구 문현동 248-21번지 대진상가7호",
+  "latitude": "35.13642",
+  "longitude": "129.07184"
+},
+{
+  "number": "4",
+  "storeName": "로또판매점",
+  "phoneNumber": "051-633-7620",
+  "address": "부산 남구 대연동 1604-5번지 다산슈퍼",
+  "latitude": "35.134235",
+  "longitude": "129.08122"
+},
+{
+  "number": "5",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "051-611-4652",
+  "address": "부산 남구 대연동 703-8번지 J마트내",
+  "latitude": "35.125977",
+  "longitude": "129.10117"
+},
+{
+  "number": "6",
+  "storeName": "행운스토어 복권",
+  "phoneNumber": "051-626-6411",
+  "address": "부산 남구 541-1",
+  "latitude": "35.113216",
+  "longitude": "129.11035"
+},
+{
+  "number": "7",
+  "storeName": "로또복권",
+  "phoneNumber": "070-4401-0316",
+  "address": "부산 남구 용당동 182-2번지",
+  "latitude": "35.114395",
+  "longitude": "129.09525"
+},
+{
+  "number": "8",
+  "storeName": "노다지복권",
+  "phoneNumber": "051-642-1497",
+  "address": "부산 남구 문현동 60-2번지 애플마트내",
+  "latitude": "35.144638",
+  "longitude": "129.07648"
+},
+{
+  "number": "9",
+  "storeName": "복권천국",
+  "phoneNumber": "051-644-9663",
+  "address": "부산 남구 대연동 1761-2번지",
+  "latitude": "35.135723",
+  "longitude": "129.08775"
+},
+{
+  "number": "10",
+  "storeName": "백경",
+  "phoneNumber": "051-627-6180",
+  "address": "부산 남구 대연동 496-1번지",
+  "latitude": "35.13375",
+  "longitude": "129.10085"
+},
+{
+  "number": "11",
+  "storeName": "세븐일레븐",
+  "phoneNumber": "051-644-5278",
+  "address": "부산 남구 문현동 406-20번지",
+  "latitude": "35.137234",
+  "longitude": "129.06976"
+},
+{
+  "number": "12",
+  "storeName": "현아상회",
+  "phoneNumber": "051-623-6408",
+  "address": "부산 남구 용호동 371-13번지",
+  "latitude": "35.11971",
+  "longitude": "129.11282"
+},
+{
+  "number": "13",
+  "storeName": "하나열쇠",
+  "phoneNumber": "051-627-4088",
+  "address": "부산 남구 용호동 495-1번지",
+  "latitude": "35.116295",
+  "longitude": "129.11128"
+},
+{
+  "number": "14",
+  "storeName": "감만정보통신",
+  "phoneNumber": "051-645-9573",
+  "address": "부산 남구 감만동 138-21번지",
+  "latitude": "35.11606",
+  "longitude": "129.08104"
+},
+{
+  "number": "15",
+  "storeName": "팬레코드",
+  "phoneNumber": "051-628-3848",
+  "address": "부산 남구 대연동 329-18번지",
+  "latitude": "35.135506",
+  "longitude": "129.0942"
+},
+{
+  "number": "16",
+  "storeName": "부산쌀상회",
+  "phoneNumber": "051-631-1659",
+  "address": "부산 남구 우암동 184-351번지",
+  "latitude": "35.125343",
+  "longitude": "129.0709"
+},
+{
+  "number": "17",
+  "storeName": "서울유통",
+  "phoneNumber": "",
+  "address": "부산 남구 감만동 33-53",
+  "latitude": "35.12395",
+  "longitude": "129.08704"
+},
+{
+  "number": "18",
+  "storeName": "행운복권",
+  "phoneNumber": "051-623-2900",
+  "address": "부산 남구 대연동 949-8번지",
+  "latitude": "35.128807",
+  "longitude": "129.09177"
+},
+{
+  "number": "19",
+  "storeName": "하늘아래명당",
+  "phoneNumber": "",
+  "address": "부산 남구 용호동 179-4 상가동 103호",
+  "latitude": "35.1293",
+  "longitude": "129.1111"
+},
+{
+  "number": "20",
+  "storeName": "대박로또",
+  "phoneNumber": "051-621-0339",
+  "address": "부산 남구 대연동 1727-11 1층 101호",
+  "latitude": "35.1332",
+  "longitude": "129.08865"
+},
+{
+  "number": "21",
+  "storeName": "팡팡로또점",
+  "phoneNumber": "051-000-0000",
+  "address": "부산 남구 용호동 83-5 1층",
+  "latitude": "35.124184",
+  "longitude": "129.1123"
+},
+{
+  "number": "22",
+  "storeName": "복권명당대동점",
+  "phoneNumber": "",
+  "address": "부산 남구 대연제3동 245",
+  "latitude": "35.15089",
+  "longitude": "129.08855"
+}
+]

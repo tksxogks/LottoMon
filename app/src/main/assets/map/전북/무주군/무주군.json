@@ -1,0 +1,18 @@
+[
+{
+  "number": "1",
+  "storeName": "로또복권",
+  "phoneNumber": "063-322-1132",
+  "address": "전북 무주군 설천면 삼공리 366-3번지",
+  "latitude": "35.905636",
+  "longitude": "127.7809"
+},
+{
+  "number": "2",
+  "storeName": "반디로또",
+  "phoneNumber": "063-322-1916",
+  "address": "전북 무주군 무주읍 읍내리 236-7",
+  "latitude": "36.007126",
+  "longitude": "127.661674"
+}
+]

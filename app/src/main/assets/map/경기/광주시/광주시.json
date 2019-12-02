@@ -1,0 +1,322 @@
+[
+{
+  "number": "1",
+  "storeName": "25편의점",
+  "phoneNumber": "031-764-1223",
+  "address": "경기 광주시 오포읍 문형리 430-4 25편의점",
+  "latitude": "37.344242",
+  "longitude": "127.21278"
+},
+{
+  "number": "2",
+  "storeName": "태양정보통신",
+  "phoneNumber": "031-764-2133",
+  "address": "경기 광주시 중대동 17-12 상가1층",
+  "latitude": "37.393196",
+  "longitude": "127.23181"
+},
+{
+  "number": "3",
+  "storeName": "프리웨이스토어",
+  "phoneNumber": "031-763-5369",
+  "address": "경기 광주시 장지동 533번지 1층",
+  "latitude": "37.40674",
+  "longitude": "127.23796"
+},
+{
+  "number": "4",
+  "storeName": "대박찬스",
+  "phoneNumber": "031-761-5729",
+  "address": "경기 광주시 경안동 108-46번지 나산상가1층4호",
+  "latitude": "37.41643",
+  "longitude": "127.25238"
+},
+{
+  "number": "5",
+  "storeName": "행복한사람들 (흥부네)",
+  "phoneNumber": "031-763-7781",
+  "address": "경기 광주시 곤지암읍 삼리 399-18번지",
+  "latitude": "37.355545",
+  "longitude": "127.325386"
+},
+{
+  "number": "6",
+  "storeName": "문구백화점",
+  "phoneNumber": "031-764-3400",
+  "address": "경기 광주시 경안동 54-11번지",
+  "latitude": "37.410362",
+  "longitude": "127.258194"
+},
+{
+  "number": "7",
+  "storeName": "월드컵복권방",
+  "phoneNumber": "031-797-1515",
+  "address": "경기 광주시 경안동 57-12번지",
+  "latitude": "37.409924",
+  "longitude": "127.258415"
+},
+{
+  "number": "8",
+  "storeName": "웃자로또",
+  "phoneNumber": "070-4128-8368",
+  "address": "경기 광주시 오포읍 추자리 287-6",
+  "latitude": "37.361156",
+  "longitude": "127.22644"
+},
+{
+  "number": "9",
+  "storeName": "행복플러스 복권방",
+  "phoneNumber": "070-8842-9973",
+  "address": "경기 광주시 오포읍 신현리 695-3번지 104호",
+  "latitude": "37.360584",
+  "longitude": "127.15261"
+},
+{
+  "number": "10",
+  "storeName": "행복을 드립니다 (흥부네)",
+  "phoneNumber": "031-765-3007",
+  "address": "경기 광주시 곤지암읍 건업리 550-7 좌측1벌",
+  "latitude": "37.406578",
+  "longitude": "127.25978"
+},
+{
+  "number": "11",
+  "storeName": "초월대박복권방",
+  "phoneNumber": "031-767-2254",
+  "address": "경기 광주시 초월읍 대쌍령리 196-18",
+  "latitude": "37.386673",
+  "longitude": "127.28822"
+},
+{
+  "number": "12",
+  "storeName": "광주역점(천운당)",
+  "phoneNumber": "031-768-9404",
+  "address": "경기 광주시 역동 202-1번지",
+  "latitude": "37.399387",
+  "longitude": "127.25375"
+},
+{
+  "number": "13",
+  "storeName": "나이키로또복권방",
+  "phoneNumber": "031-761-1755",
+  "address": "경기 광주시 초월읍 산이리 13-25",
+  "latitude": "37.362953",
+  "longitude": "127.31306"
+},
+{
+  "number": "14",
+  "storeName": "패밀리복권방",
+  "phoneNumber": "031-766-0806",
+  "address": "경기 광주시 오포읍 고산리 152-3번지",
+  "latitude": "37.3439",
+  "longitude": "127.179695"
+},
+{
+  "number": "15",
+  "storeName": "곤지암대박복권방",
+  "phoneNumber": "031-797-2511",
+  "address": "경기 광주시 곤지암읍 곤지암리 433-3",
+  "latitude": "37.349598",
+  "longitude": "127.34133"
+},
+{
+  "number": "16",
+  "storeName": "복권명당(광주시청점)",
+  "phoneNumber": "031-797-8621",
+  "address": "경기 광주시 송정동 337번지 로얄프라자 115호",
+  "latitude": "37.427128",
+  "longitude": "127.25627"
+},
+{
+  "number": "17",
+  "storeName": "행운로또복권방",
+  "phoneNumber": "031-767-1304",
+  "address": "경기 광주시 역동 23-4번지",
+  "latitude": "37.407352",
+  "longitude": "127.25932"
+},
+{
+  "number": "18",
+  "storeName": "운좋은날",
+  "phoneNumber": "031-768-7238",
+  "address": "경기 광주시 역동 27-6",
+  "latitude": "37.407944",
+  "longitude": "127.260605"
+},
+{
+  "number": "19",
+  "storeName": "씨유곤지암오향점",
+  "phoneNumber": "031-762-8762",
+  "address": "경기 광주시 곤지암읍 오향리 274-10 cu곤지암오향점",
+  "latitude": "37.363247",
+  "longitude": "127.37632"
+},
+{
+  "number": "20",
+  "storeName": "만복이네복권방",
+  "phoneNumber": "",
+  "address": "경기 광주시 송정동 128-1",
+  "latitude": "37.41883",
+  "longitude": "127.2566"
+},
+{
+  "number": "21",
+  "storeName": "대박",
+  "phoneNumber": "031-762-2208",
+  "address": "경기 광주시 퇴촌면 광동리 236-2",
+  "latitude": "37.416927",
+  "longitude": "127.27315"
+},
+{
+  "number": "22",
+  "storeName": "오포우림로또",
+  "phoneNumber": "031-766-7260",
+  "address": "경기 광주시 오포읍 고산리 182-4 1층 109호",
+  "latitude": "37.370758",
+  "longitude": "127.23246"
+},
+{
+  "number": "23",
+  "storeName": "천하명당",
+  "phoneNumber": "",
+  "address": "경기 광주시 태전동 367-12",
+  "latitude": "37.393448",
+  "longitude": "127.22485"
+},
+{
+  "number": "24",
+  "storeName": "돈벼락복권",
+  "phoneNumber": "070-4114-1172",
+  "address": "경기 광주시 목현동 427",
+  "latitude": "37.433735",
+  "longitude": "127.212265"
+},
+{
+  "number": "25",
+  "storeName": "오덕복권나라",
+  "phoneNumber": "",
+  "address": "경기 광주시 회덕동 274-1",
+  "latitude": "37.42674",
+  "longitude": "127.24271"
+},
+{
+  "number": "26",
+  "storeName": "세븐일레븐 로또판매점",
+  "phoneNumber": "031-712-3766",
+  "address": "경기 광주시 오포읍 신현리 399-3",
+  "latitude": "37.36727",
+  "longitude": "127.16217"
+},
+{
+  "number": "27",
+  "storeName": "럭키로또카페",
+  "phoneNumber": "",
+  "address": "경기 광주시 오포읍 매산리 746-8",
+  "latitude": "37.356544",
+  "longitude": "127.24588"
+},
+{
+  "number": "28",
+  "storeName": "황금도끼복권방",
+  "phoneNumber": "",
+  "address": "경기 광주시 오포읍 능평리 166-10",
+  "latitude": "37.34524",
+  "longitude": "127.17727"
+},
+{
+  "number": "29",
+  "storeName": "명당골",
+  "phoneNumber": "031-765-9294",
+  "address": "경기 광주시 쌍령동 191-8",
+  "latitude": "37.4011",
+  "longitude": "127.2724"
+},
+{
+  "number": "30",
+  "storeName": "로또판매전문점",
+  "phoneNumber": "",
+  "address": "경기 광주시 초월읍 신월리 449",
+  "latitude": "37.406467",
+  "longitude": "127.30898"
+},
+{
+  "number": "31",
+  "storeName": "행운복권방",
+  "phoneNumber": "",
+  "address": "경기 광주시 오포읍 양벌리 650-1",
+  "latitude": "37.36998",
+  "longitude": "127.24637"
+},
+{
+  "number": "32",
+  "storeName": "로또 행운 편의점",
+  "phoneNumber": "031-769-1212",
+  "address": "경기 광주시 오포읍 양벌리 67-7 1층",
+  "latitude": "37.406693",
+  "longitude": "127.2566"
+},
+{
+  "number": "33",
+  "storeName": "한아름 복권판매점",
+  "phoneNumber": "",
+  "address": "경기 광주시 탄벌동 44-2 1층",
+  "latitude": "37.415657",
+  "longitude": "127.2503"
+},
+{
+  "number": "34",
+  "storeName": "행운로또100",
+  "phoneNumber": "",
+  "address": "경기 광주시 오포읍 능평리 340-20 CU",
+  "latitude": "37.35271",
+  "longitude": "127.16501"
+},
+{
+  "number": "35",
+  "storeName": "진우행운복권방",
+  "phoneNumber": "",
+  "address": "경기 광주시 도척면 진우리 204-2",
+  "latitude": "37.32359",
+  "longitude": "127.33659"
+},
+{
+  "number": "36",
+  "storeName": "쌍동복권방",
+  "phoneNumber": "031-762-1822",
+  "address": "경기 광주시 초월읍 쌍동리 253-59",
+  "latitude": "37.37585",
+  "longitude": "127.295944"
+},
+{
+  "number": "37",
+  "storeName": "도깨비",
+  "phoneNumber": "",
+  "address": "경기 광주시 목현동 1-4",
+  "latitude": "37.42885",
+  "longitude": "127.23981"
+},
+{
+  "number": "38",
+  "storeName": "광성초경",
+  "phoneNumber": "",
+  "address": "경기 광주시 경안동 51-3",
+  "latitude": "37.405834",
+  "longitude": "127.25637"
+},
+{
+  "number": "39",
+  "storeName": "복권판매점",
+  "phoneNumber": "",
+  "address": "경기 광주시 중대동 98-6",
+  "latitude": "37.40209",
+  "longitude": "127.22023"
+},
+{
+  "number": "40",
+  "storeName": "야시장",
+  "phoneNumber": "031-768-2738",
+  "address": "경기 광주시 경안동 128-11 1층 상가",
+  "latitude": "37.414684",
+  "longitude": "127.24888"
+}
+]

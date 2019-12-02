@@ -1,0 +1,266 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(부산미남점)",
+  "phoneNumber": "051-507-6251",
+  "address": "부산 동래구 온천동 1421-36번지",
+  "latitude": "35.205803",
+  "longitude": "129.06935"
+},
+{
+  "number": "2",
+  "storeName": "GS25(동래금강점)",
+  "phoneNumber": "051-558-4495",
+  "address": "부산 동래구 온천동 94-19번지",
+  "latitude": "35.22197",
+  "longitude": "129.08116"
+},
+{
+  "number": "3",
+  "storeName": "꿈의나라",
+  "phoneNumber": "051-553-4959",
+  "address": "부산 동래구 명륜동 533-49번지 세븐일레븐마트 내",
+  "latitude": "35.20519",
+  "longitude": "129.07953"
+},
+{
+  "number": "4",
+  "storeName": "아이앤지여고점 복권방",
+  "phoneNumber": "051-504-8730",
+  "address": "부산 동래구 사직동 134-1번지",
+  "latitude": "35.198345",
+  "longitude": "129.07056"
+},
+{
+  "number": "5",
+  "storeName": "슈퍼복권나라",
+  "phoneNumber": "051-504-9936",
+  "address": "부산 동래구 사직동 58-3번지",
+  "latitude": "35.20139",
+  "longitude": "129.066"
+},
+{
+  "number": "6",
+  "storeName": "우리들마트",
+  "phoneNumber": "051-554-8966",
+  "address": "부산 동래구 온천동 148-23번지",
+  "latitude": "35.222424",
+  "longitude": "129.08435"
+},
+{
+  "number": "7",
+  "storeName": "동해슈퍼",
+  "phoneNumber": "051-552-3721",
+  "address": "부산 동래구 명륜동 533-79번지",
+  "latitude": "35.204105",
+  "longitude": "129.07933"
+},
+{
+  "number": "8",
+  "storeName": "동래복권방",
+  "phoneNumber": "051-552-0026",
+  "address": "부산 동래구 명륜동 638-19 중고악기1층",
+  "latitude": "35.21255",
+  "longitude": "129.07968"
+},
+{
+  "number": "9",
+  "storeName": "행운복권방",
+  "phoneNumber": "051-558-0644",
+  "address": "부산 동래구 온천동 154-26번지",
+  "latitude": "35.219906",
+  "longitude": "129.08359"
+},
+{
+  "number": "10",
+  "storeName": "왕대박",
+  "phoneNumber": "051-503-1524",
+  "address": "부산 동래구 사직동 140-33번지",
+  "latitude": "35.20107",
+  "longitude": "129.07411"
+},
+{
+  "number": "11",
+  "storeName": "우정식품",
+  "phoneNumber": "051-554-4353",
+  "address": "부산 동래구 온천동 185-93번지",
+  "latitude": "35.216187",
+  "longitude": "129.08018"
+},
+{
+  "number": "12",
+  "storeName": "아림슈퍼",
+  "phoneNumber": "051-528-8336",
+  "address": "부산 동래구 명장동 497-76번지 아림파크상가",
+  "latitude": "35.209988",
+  "longitude": "129.10187"
+},
+{
+  "number": "13",
+  "storeName": "신온천상회",
+  "phoneNumber": "051-504-9776",
+  "address": "부산 동래구 온천동 1444-7번지",
+  "latitude": "35.20628",
+  "longitude": "129.07236"
+},
+{
+  "number": "14",
+  "storeName": "정화식품",
+  "phoneNumber": "051-552-2322",
+  "address": "부산 동래구 수안동 281번지",
+  "latitude": "35.20107",
+  "longitude": "129.08644"
+},
+{
+  "number": "15",
+  "storeName": "금화농원",
+  "phoneNumber": "051-555-2363",
+  "address": "부산 동래구 온천동 1436-6 세븐일레븐 부산동래점 내",
+  "latitude": "35.205723",
+  "longitude": "129.07762"
+},
+{
+  "number": "16",
+  "storeName": "GS25 동래대산점",
+  "phoneNumber": "051-553-1766",
+  "address": "부산 동래구 수안동 4-17",
+  "latitude": "35.199955",
+  "longitude": "129.08418"
+},
+{
+  "number": "17",
+  "storeName": "복권나라",
+  "phoneNumber": "051-526-7357",
+  "address": "부산 동래구 명장동 489-38번지",
+  "latitude": "35.210213",
+  "longitude": "129.10454"
+},
+{
+  "number": "18",
+  "storeName": "센터",
+  "phoneNumber": "051-505-9040",
+  "address": "부산 동래구 사직동 78-8번지 가판",
+  "latitude": "35.19733",
+  "longitude": "129.06041"
+},
+{
+  "number": "19",
+  "storeName": "로또온천장점",
+  "phoneNumber": "051-513-9147",
+  "address": "부산 동래구 온천동 1750-1 5호",
+  "latitude": "35.2203",
+  "longitude": "129.08643"
+},
+{
+  "number": "20",
+  "storeName": "베스트 원마트",
+  "phoneNumber": "051-529-1556",
+  "address": "부산 동래구 안락제1동 526-2",
+  "latitude": "35.19734",
+  "longitude": "129.10121"
+},
+{
+  "number": "21",
+  "storeName": "행운로또",
+  "phoneNumber": "051-531-1915",
+  "address": "부산 동래구 안락제2동 603-12 102호 1호",
+  "latitude": "35.195164",
+  "longitude": "129.1043"
+},
+{
+  "number": "22",
+  "storeName": "터서점",
+  "phoneNumber": "051-505-4965",
+  "address": "부산 동래구 온천동 1249-14번지",
+  "latitude": "35.20437",
+  "longitude": "129.06688"
+},
+{
+  "number": "23",
+  "storeName": "글샘서점",
+  "phoneNumber": "051-528-7014",
+  "address": "부산 동래구 안락동 248번지",
+  "latitude": "35.19613",
+  "longitude": "129.10553"
+},
+{
+  "number": "24",
+  "storeName": "대영당안경원",
+  "phoneNumber": "051-555-6124",
+  "address": "부산 동래구 수안동 232번지",
+  "latitude": "35.20193",
+  "longitude": "129.08517"
+},
+{
+  "number": "25",
+  "storeName": "로또동래칠산점",
+  "phoneNumber": "051-557-4667",
+  "address": "부산 동래구 칠산동 211-1 cu칠산점 내",
+  "latitude": "35.21561",
+  "longitude": "129.10081"
+},
+{
+  "number": "26",
+  "storeName": "화신상사",
+  "phoneNumber": "051-556-5531",
+  "address": "부산 동래구 명륜동 502-5번지",
+  "latitude": "35.205086",
+  "longitude": "129.08176"
+},
+{
+  "number": "27",
+  "storeName": "금성상회",
+  "phoneNumber": "051-555-9998",
+  "address": "부산 동래구 온천동 782-21",
+  "latitude": "35.210445",
+  "longitude": "129.0736"
+},
+{
+  "number": "28",
+  "storeName": "희망복권방",
+  "phoneNumber": "051-521-2260",
+  "address": "부산 동래구 명장동 59-5번지",
+  "latitude": "35.204807",
+  "longitude": "129.10197"
+},
+{
+  "number": "29",
+  "storeName": "로또복권방",
+  "phoneNumber": "051-507-9929",
+  "address": "부산 동래구 안락동 423-2",
+  "latitude": "35.19886",
+  "longitude": "129.0973"
+},
+{
+  "number": "30",
+  "storeName": "동해마트",
+  "phoneNumber": "051-501-8285",
+  "address": "부산 동래구 사직동 42-8번지 애니타임 내",
+  "latitude": "35.197384",
+  "longitude": "129.05882"
+},
+{
+  "number": "31",
+  "storeName": "로또1번지",
+  "phoneNumber": "",
+  "address": "부산 동래구 온천동 40-13",
+  "latitude": "35.223995",
+  "longitude": "129.0822"
+},
+{
+  "number": "32",
+  "storeName": "CU(동래오렌지점)",
+  "phoneNumber": "051-552-1655",
+  "address": "부산 동래구 명륜동 401-3번지 1층",
+  "latitude": "35.20371",
+  "longitude": "129.08386"
+},
+{
+  "number": "33",
+  "storeName": "세븐일레븐 부산명륜KT점",
+  "phoneNumber": "051-501-2247",
+  "address": "부산 동래구 명륜동 465-2",
+  "latitude": "35.20463",
+  "longitude": "129.08264"
+}
+]

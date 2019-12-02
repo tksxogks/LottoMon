@@ -1,0 +1,250 @@
+[
+{
+  "number": "1",
+  "storeName": "평화슈퍼",
+  "phoneNumber": "054-761-3243",
+  "address": "경북 경주시 안강읍 양월리 1133-1번지",
+  "latitude": "35.992435",
+  "longitude": "129.22418"
+},
+{
+  "number": "2",
+  "storeName": "행복편의점",
+  "phoneNumber": "054-776-3389",
+  "address": "경북 경주시 외동읍 모화리 115-2번지 부성상가102호",
+  "latitude": "35.675163",
+  "longitude": "129.33951"
+},
+{
+  "number": "3",
+  "storeName": "GS25시래점",
+  "phoneNumber": "054-775-0250",
+  "address": "경북 경주시 시래동 1141 GS25경주시래점내",
+  "latitude": "35.71587",
+  "longitude": "129.30145"
+},
+{
+  "number": "4",
+  "storeName": "왕대박 나눔로또645",
+  "phoneNumber": "",
+  "address": "경북 경주시 서부동 253-13번지 1층 중앙점포",
+  "latitude": "35.847267",
+  "longitude": "129.20715"
+},
+{
+  "number": "5",
+  "storeName": "로또경주고속점",
+  "phoneNumber": "054-749-7794",
+  "address": "경북 경주시 노서동 170-5번지",
+  "latitude": "35.838715",
+  "longitude": "129.2042"
+},
+{
+  "number": "6",
+  "storeName": "로또",
+  "phoneNumber": "054-749-9010",
+  "address": "경북 경주시 황성동 550-1번지",
+  "latitude": "35.869408",
+  "longitude": "129.21542"
+},
+{
+  "number": "7",
+  "storeName": "입실행운복권당",
+  "phoneNumber": "054-743-5877",
+  "address": "경북 경주시 외동읍 입실리 997-28번지",
+  "latitude": "35.714973",
+  "longitude": "129.32407"
+},
+{
+  "number": "8",
+  "storeName": "토토양행",
+  "phoneNumber": "054-744-5288",
+  "address": "경북 경주시 황오동 390-68번지",
+  "latitude": "35.841164",
+  "longitude": "129.21593"
+},
+{
+  "number": "9",
+  "storeName": "행운복권방(감포)",
+  "phoneNumber": "054-741-8407",
+  "address": "경북 경주시 감포읍 감포리 367-4",
+  "latitude": "35.80669",
+  "longitude": "129.50253"
+},
+{
+  "number": "10",
+  "storeName": "일공공일안경원",
+  "phoneNumber": "054-746-1002",
+  "address": "경북 경주시 노동동 172-10번지",
+  "latitude": "35.843864",
+  "longitude": "129.21185"
+},
+{
+  "number": "11",
+  "storeName": "씨스페이스 경주읍성점",
+  "phoneNumber": "054-771-1901",
+  "address": "경북 경주시 성동동 386-1 성동프리텔 A동 116호",
+  "latitude": "35.845757",
+  "longitude": "129.21451"
+},
+{
+  "number": "12",
+  "storeName": "CU노서점",
+  "phoneNumber": "054-745-3140",
+  "address": "경북 경주시 노서동 178-12 1층 CU 노서점 내",
+  "latitude": "35.84101",
+  "longitude": "129.20302"
+},
+{
+  "number": "13",
+  "storeName": "복권명당",
+  "phoneNumber": "054-749-5775",
+  "address": "경북 경주시 성동동 233-7번지",
+  "latitude": "35.848602",
+  "longitude": "129.21422"
+},
+{
+  "number": "14",
+  "storeName": "세방매점",
+  "phoneNumber": "054-775-1351",
+  "address": "경북 경주시 용강동 754-3",
+  "latitude": "35.876583",
+  "longitude": "129.22664"
+},
+{
+  "number": "15",
+  "storeName": "로또야놀자",
+  "phoneNumber": "054-741-0645",
+  "address": "경북 경주시 동천동 599-1번지",
+  "latitude": "35.851505",
+  "longitude": "129.22401"
+},
+{
+  "number": "16",
+  "storeName": "퓨전로또판매점성동점",
+  "phoneNumber": "054-776-7093",
+  "address": "경북 경주시 성동동 80번지",
+  "latitude": "35.84658",
+  "longitude": "129.217"
+},
+{
+  "number": "17",
+  "storeName": "서라벌상사",
+  "phoneNumber": "054-743-0067",
+  "address": "경북 경주시 황오동 85-60번지",
+  "latitude": "35.841618",
+  "longitude": "129.21968"
+},
+{
+  "number": "18",
+  "storeName": "왕산마트",
+  "phoneNumber": "054-741-4680",
+  "address": "경북 경주시 성건동 342-14번지",
+  "latitude": "35.84234",
+  "longitude": "129.20628"
+},
+{
+  "number": "19",
+  "storeName": "그린시스템",
+  "phoneNumber": "054-748-7848",
+  "address": "경북 경주시 황오동 115-24번지",
+  "latitude": "35.8417",
+  "longitude": "129.21706"
+},
+{
+  "number": "20",
+  "storeName": "로또천국건천점",
+  "phoneNumber": "054-751-0300",
+  "address": "경북 경주시 건천읍 건천리 293-1번지",
+  "latitude": "35.84919",
+  "longitude": "129.10333"
+},
+{
+  "number": "21",
+  "storeName": "로또무비샵",
+  "phoneNumber": "054-749-3891",
+  "address": "경북 경주시 동천동 897-8번지",
+  "latitude": "35.848724",
+  "longitude": "129.23128"
+},
+{
+  "number": "22",
+  "storeName": "억복권방",
+  "phoneNumber": "054-745-3933",
+  "address": "경북 경주시 충효동 2987-5",
+  "latitude": "35.84257",
+  "longitude": "129.18753"
+},
+{
+  "number": "23",
+  "storeName": "산대우방점",
+  "phoneNumber": "054-763-4110",
+  "address": "경북 경주시 안강읍 산대리 2399-9번지",
+  "latitude": "36.00136",
+  "longitude": "129.19702"
+},
+{
+  "number": "24",
+  "storeName": "천하명당외동점",
+  "phoneNumber": "054-741-3956",
+  "address": "경북 경주시 외동읍 연안리 594",
+  "latitude": "35.868298",
+  "longitude": "129.21936"
+},
+{
+  "number": "25",
+  "storeName": "불국사명당복권",
+  "phoneNumber": "054-743-3450",
+  "address": "경북 경주시 구정동 631-16",
+  "latitude": "35.77665",
+  "longitude": "129.29819"
+},
+{
+  "number": "26",
+  "storeName": "복권명당황남",
+  "phoneNumber": "054-749-2924",
+  "address": "경북 경주시 황남동 489-5",
+  "latitude": "35.83738",
+  "longitude": "129.20958"
+},
+{
+  "number": "27",
+  "storeName": "복권명당동천점",
+  "phoneNumber": "054-773-6208",
+  "address": "경북 경주시 동천동 824-5번지",
+  "latitude": "35.853497",
+  "longitude": "129.22673"
+},
+{
+  "number": "28",
+  "storeName": "굿럭스토어",
+  "phoneNumber": "",
+  "address": "경북 경주시 용강동 1332-5 1층",
+  "latitude": "35.862484",
+  "longitude": "129.2255"
+},
+{
+  "number": "29",
+  "storeName": "로또복권 황성점",
+  "phoneNumber": "054-772-1888",
+  "address": "경북 경주시 황성동 472-8 4호",
+  "latitude": "35.865974",
+  "longitude": "129.21448"
+},
+{
+  "number": "30",
+  "storeName": "행복로또",
+  "phoneNumber": "054-751-1724",
+  "address": "경북 경주시 성건동 172-5 1층",
+  "latitude": "35.850006",
+  "longitude": "129.20665"
+},
+{
+  "number": "31",
+  "storeName": "역전로또",
+  "phoneNumber": "054-746-8290",
+  "address": "경북 경주시 황오동 172-5 1층 짐케어내",
+  "latitude": "35.843815",
+  "longitude": "129.2176"
+}
+]

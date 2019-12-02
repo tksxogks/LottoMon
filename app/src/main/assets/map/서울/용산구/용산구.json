@@ -1,0 +1,306 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(행복마트점)",
+  "phoneNumber": "02-702-2568",
+  "address": "서울 용산구 서계동 73-3 씨스페이스 행복마트점",
+  "latitude": "37.532654",
+  "longitude": "126.95027"
+},
+{
+  "number": "2",
+  "storeName": "오케이(ok)로또",
+  "phoneNumber": "02-715-1511",
+  "address": "서울 용산구 문배동 24-21 101동 102호",
+  "latitude": "37.53698",
+  "longitude": "126.96875"
+},
+{
+  "number": "3",
+  "storeName": "CU(이태원해밀턴점)",
+  "phoneNumber": "02-749-2507",
+  "address": "서울 용산구 이태원동 127-28번지",
+  "latitude": "37.533985",
+  "longitude": "126.9942"
+},
+{
+  "number": "4",
+  "storeName": "CU(용산남영점)",
+  "phoneNumber": "02-794-4640",
+  "address": "서울 용산구 남영동 3-1번지",
+  "latitude": "37.545086",
+  "longitude": "126.97335"
+},
+{
+  "number": "5",
+  "storeName": "GS25(서울역점)",
+  "phoneNumber": "02-704-5135",
+  "address": "서울 용산구 동자동 43-120번지",
+  "latitude": "37.553978",
+  "longitude": "126.97231"
+},
+{
+  "number": "6",
+  "storeName": "GS25(한남중앙점)",
+  "phoneNumber": "02-796-2250",
+  "address": "서울 용산구 한남동 657-85번지",
+  "latitude": "37.534096",
+  "longitude": "127.00618"
+},
+{
+  "number": "7",
+  "storeName": "CU(용산신창점)",
+  "phoneNumber": "02-702-0761",
+  "address": "서울 용산구 신창동 59-4번지",
+  "latitude": "37.53523",
+  "longitude": "126.955635"
+},
+{
+  "number": "8",
+  "storeName": "CU(도원삼성점)",
+  "phoneNumber": "02-3273-1364",
+  "address": "서울 용산구 도원동 8-24",
+  "latitude": "37.539364",
+  "longitude": "126.957924"
+},
+{
+  "number": "9",
+  "storeName": "한가람마트(슈퍼마켓)",
+  "phoneNumber": "02-792-1152",
+  "address": "서울 용산구 보광동 274-1",
+  "latitude": "37.531086",
+  "longitude": "127.00103"
+},
+{
+  "number": "10",
+  "storeName": "신문가판대",
+  "phoneNumber": "02-798-7732",
+  "address": "서울 용산구 한강로2가 142 용산우체국앞 가판",
+  "latitude": "37.529797",
+  "longitude": "126.968994"
+},
+{
+  "number": "11",
+  "storeName": "한양복권",
+  "phoneNumber": "02-798-9457",
+  "address": "서울 용산구 용산동3가 1-33번지",
+  "latitude": "37.53402",
+  "longitude": "126.97551"
+},
+{
+  "number": "12",
+  "storeName": "대박나라",
+  "phoneNumber": "02-796-8494",
+  "address": "서울 용산구 이태원동 224-3",
+  "latitude": "37.53904",
+  "longitude": "126.9893"
+},
+{
+  "number": "13",
+  "storeName": "델타슈퍼",
+  "phoneNumber": "02-794-9898",
+  "address": "서울 용산구 한강로2가 157-5번지",
+  "latitude": "37.529602",
+  "longitude": "126.96954"
+},
+{
+  "number": "14",
+  "storeName": "영진복권방",
+  "phoneNumber": "02-793-8237",
+  "address": "서울 용산구 용산동2가 17-16",
+  "latitude": "37.54552",
+  "longitude": "126.98539"
+},
+{
+  "number": "15",
+  "storeName": "럭키슈퍼",
+  "phoneNumber": "02-753-0330",
+  "address": "서울 용산구 후암동 27-14",
+  "latitude": "37.55061",
+  "longitude": "126.97739"
+},
+{
+  "number": "16",
+  "storeName": "종합가판점",
+  "phoneNumber": "02-749-5365",
+  "address": "서울 용산구 남영동 84번지",
+  "latitude": "37.542362",
+  "longitude": "126.97335"
+},
+{
+  "number": "17",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-797-3329",
+  "address": "서울 용산구 한강로2가 174-4번지 신용산역 1번출구앞 가판",
+  "latitude": "37.529713",
+  "longitude": "126.96877"
+},
+{
+  "number": "18",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-704-4967",
+  "address": "서울 용산구 원효로2가 72번지",
+  "latitude": "37.53597",
+  "longitude": "126.96244"
+},
+{
+  "number": "19",
+  "storeName": "신문가판점",
+  "phoneNumber": "02-796-3001",
+  "address": "서울 용산구 갈월동 98-39번지",
+  "latitude": "37.541603",
+  "longitude": "126.9721"
+},
+{
+  "number": "20",
+  "storeName": "이촌가판점",
+  "phoneNumber": "02-749-5636",
+  "address": "서울 용산구 이촌동 409번지",
+  "latitude": "37.520756",
+  "longitude": "126.973465"
+},
+{
+  "number": "21",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-717-5523",
+  "address": "서울 용산구 원효로2가 94-2번지",
+  "latitude": "37.535",
+  "longitude": "126.96146"
+},
+{
+  "number": "22",
+  "storeName": "도로가판집",
+  "phoneNumber": "02-796-0326",
+  "address": "서울 용산구 한강로3가 40-592번지",
+  "latitude": "37.525867",
+  "longitude": "126.96442"
+},
+{
+  "number": "23",
+  "storeName": "복권마을",
+  "phoneNumber": "02-778-6535",
+  "address": "서울 용산구 동자동 4번지",
+  "latitude": "37.55302",
+  "longitude": "126.97617"
+},
+{
+  "number": "24",
+  "storeName": "9스토아",
+  "phoneNumber": "02-793-1665",
+  "address": "서울 용산구 이태원동 130-43",
+  "latitude": "37.534317",
+  "longitude": "126.99514"
+},
+{
+  "number": "25",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "02-717-6475",
+  "address": "서울 용산구 신계동 36-11번지",
+  "latitude": "37.533844",
+  "longitude": "126.962715"
+},
+{
+  "number": "26",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-706-2920",
+  "address": "서울 용산구 서계동 260-20번지",
+  "latitude": "37.55056",
+  "longitude": "126.96378"
+},
+{
+  "number": "27",
+  "storeName": "캐논종합",
+  "phoneNumber": "02-6733-8949",
+  "address": "서울 용산구 한강로3가 1-3번지 나진10동가125호",
+  "latitude": "37.53343",
+  "longitude": "126.96217"
+},
+{
+  "number": "28",
+  "storeName": "구두로또",
+  "phoneNumber": "",
+  "address": "서울 용산구 용문동 8-92번지",
+  "latitude": "37.538044",
+  "longitude": "126.96085"
+},
+{
+  "number": "29",
+  "storeName": "일점오로또",
+  "phoneNumber": "",
+  "address": "서울 용산구 한강로1가 231-25 가동 2호",
+  "latitude": "37.5364",
+  "longitude": "126.97249"
+},
+{
+  "number": "30",
+  "storeName": "태양상회",
+  "phoneNumber": "02-756-3519",
+  "address": "서울 용산구 동자동 14-81번지",
+  "latitude": "37.552975",
+  "longitude": "126.97293"
+},
+{
+  "number": "31",
+  "storeName": "럭키슈퍼",
+  "phoneNumber": "02-753-0330",
+  "address": "서울 용산구 후암동 27-14",
+  "latitude": "37.55061",
+  "longitude": "126.97739"
+},
+{
+  "number": "32",
+  "storeName": "영진복권방",
+  "phoneNumber": "02-793-8237",
+  "address": "서울 용산구 용산동2가 17-16",
+  "latitude": "37.54552",
+  "longitude": "126.98539"
+},
+{
+  "number": "33",
+  "storeName": "델타슈퍼",
+  "phoneNumber": "02-794-9898",
+  "address": "서울 용산구 한강로2가 157-5번지",
+  "latitude": "37.529602",
+  "longitude": "126.96954"
+},
+{
+  "number": "34",
+  "storeName": "대박나라",
+  "phoneNumber": "02-796-8494",
+  "address": "서울 용산구 이태원동 224-3",
+  "latitude": "37.53904",
+  "longitude": "126.9893"
+},
+{
+  "number": "35",
+  "storeName": "한양복권",
+  "phoneNumber": "02-798-9457",
+  "address": "서울 용산구 용산동3가 1-33번지",
+  "latitude": "37.53402",
+  "longitude": "126.97551"
+},
+{
+  "number": "36",
+  "storeName": "신문가판대",
+  "phoneNumber": "02-798-7732",
+  "address": "서울 용산구 한강로2가 142 용산우체국앞 가판",
+  "latitude": "37.529797",
+  "longitude": "126.968994"
+},
+{
+  "number": "37",
+  "storeName": "한가람마트(슈퍼마켓)",
+  "phoneNumber": "02-792-1152",
+  "address": "서울 용산구 보광동 274-1",
+  "latitude": "37.531086",
+  "longitude": "127.00103"
+},
+{
+  "number": "38",
+  "storeName": "오케이(ok)로또",
+  "phoneNumber": "02-715-1511",
+  "address": "서울 용산구 문배동 24-21 101동 102호",
+  "latitude": "37.53698",
+  "longitude": "126.96875"
+}
+]
