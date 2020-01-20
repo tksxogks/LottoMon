@@ -1,0 +1,282 @@
+[
+{
+  "number": "1",
+  "storeName": "광교로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 영통구 이의동 1349 118호",
+  "latitude": "37.290737",
+  "longitude": "127.0467"
+},
+{
+  "number": "2",
+  "storeName": "로또삼성복권방",
+  "phoneNumber": "031-214-8249",
+  "address": "경기 수원시 영통구 원천동 550-1 원천훼미리타운105호",
+  "latitude": "37.26671",
+  "longitude": "127.058174"
+},
+{
+  "number": "3",
+  "storeName": "챤스복권",
+  "phoneNumber": "031-273-1076",
+  "address": "경기 수원시 영통구 망포동 542-11 중앙프라자1층4호",
+  "latitude": "37.23887",
+  "longitude": "127.056564"
+},
+{
+  "number": "4",
+  "storeName": "이플러스",
+  "phoneNumber": "031-217-3005",
+  "address": "경기 수원시 영통구 매탄동 153-14",
+  "latitude": "37.274235",
+  "longitude": "127.044334"
+},
+{
+  "number": "5",
+  "storeName": "매탄동슈퍼",
+  "phoneNumber": "031-211-2966",
+  "address": "경기 수원시 영통구 매탄동 111-1",
+  "latitude": "37.272633",
+  "longitude": "127.050446"
+},
+{
+  "number": "6",
+  "storeName": "미니슈퍼",
+  "phoneNumber": "031-273-4242",
+  "address": "경기 수원시 영통구 영통동 1024-7 영통빌딩108호",
+  "latitude": "37.247936",
+  "longitude": "127.07709"
+},
+{
+  "number": "7",
+  "storeName": "한아름복권방(매탄점)",
+  "phoneNumber": "031-238-4791",
+  "address": "경기 수원시 영통구 매탄동 1174",
+  "latitude": "37.255276",
+  "longitude": "127.03866"
+},
+{
+  "number": "8",
+  "storeName": "신나무실매표소",
+  "phoneNumber": "031-205-0240",
+  "address": "경기 수원시 영통구 영통동 965-2 신원미주아파트앞가판",
+  "latitude": "37.25212",
+  "longitude": "127.06701"
+},
+{
+  "number": "9",
+  "storeName": "영통매표소",
+  "phoneNumber": "031-202-3010",
+  "address": "경기 수원시 영통구 영통동 1048-2 청명역3번출구 매표소",
+  "latitude": "37.257812",
+  "longitude": "127.07938"
+},
+{
+  "number": "10",
+  "storeName": "가두판매점",
+  "phoneNumber": "031-205-2660",
+  "address": "경기 수원시 영통구 영통동 976-11 망포역8번출구 앞",
+  "latitude": "37.246292",
+  "longitude": "127.05926"
+},
+{
+  "number": "11",
+  "storeName": "큰사랑통신",
+  "phoneNumber": "031-211-0987",
+  "address": "경기 수원시 영통구 매탄동 200-21 101호",
+  "latitude": "37.268513",
+  "longitude": "127.04905"
+},
+{
+  "number": "12",
+  "storeName": "수원명당복권방",
+  "phoneNumber": "031-273-2119",
+  "address": "경기 수원시 영통구 원천동 250-3",
+  "latitude": "37.26553",
+  "longitude": "127.06267"
+},
+{
+  "number": "13",
+  "storeName": "들꽃편의점",
+  "phoneNumber": "031-215-2777",
+  "address": "경기 수원시 영통구 매탄동 196-18",
+  "latitude": "37.272312",
+  "longitude": "127.04592"
+},
+{
+  "number": "14",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-205-2356",
+  "address": "경기 수원시 영통구 영통동 998-1 평익칼라스위트110호",
+  "latitude": "37.253517",
+  "longitude": "127.0752"
+},
+{
+  "number": "15",
+  "storeName": "돈주리복권방",
+  "phoneNumber": "070-8187-8524",
+  "address": "경기 수원시 영통구 영통동 985-5 102호",
+  "latitude": "37.245235",
+  "longitude": "127.06684"
+},
+{
+  "number": "16",
+  "storeName": "럭키복권방",
+  "phoneNumber": "070-4100-1806",
+  "address": "경기 수원시 영통구 이의동 1335 아이플렉스104호",
+  "latitude": "37.288174",
+  "longitude": "127.05747"
+},
+{
+  "number": "17",
+  "storeName": "즉석복권방",
+  "phoneNumber": "031-212-5841",
+  "address": "경기 수원시 영통구 매탄동 866-18",
+  "latitude": "37.263844",
+  "longitude": "127.04716"
+},
+{
+  "number": "18",
+  "storeName": "GS25(수원황골점)",
+  "phoneNumber": "031-204-3307",
+  "address": "경기 수원시 영통구 영통동 945-7번지",
+  "latitude": "37.26626",
+  "longitude": "127.08165"
+},
+{
+  "number": "19",
+  "storeName": "GS25(수원우영점)",
+  "phoneNumber": "031-211-2554",
+  "address": "경기 수원시 영통구 매탄동 1263-4번지 103호",
+  "latitude": "37.25957",
+  "longitude": "127.04421"
+},
+{
+  "number": "20",
+  "storeName": "GS25(수원삼성점)",
+  "phoneNumber": "031-212-4382",
+  "address": "경기 수원시 영통구 매탄동 1267-7 104호 GS25",
+  "latitude": "37.25902",
+  "longitude": "127.04515"
+},
+{
+  "number": "21",
+  "storeName": "GS25(수원매탄점)",
+  "phoneNumber": "031-211-0669",
+  "address": "경기 수원시 영통구 매탄동 810-4번지 성일프라자117호",
+  "latitude": "37.26558",
+  "longitude": "127.042"
+},
+{
+  "number": "22",
+  "storeName": "GS25(수원뉴타운점)",
+  "phoneNumber": "031-212-6011",
+  "address": "경기 수원시 영통구 매탄동 1264-1 삼성프라자 103호",
+  "latitude": "37.259865",
+  "longitude": "127.044624"
+},
+{
+  "number": "23",
+  "storeName": "GS25(수원행복점)",
+  "phoneNumber": "031-273-0713",
+  "address": "경기 수원시 영통구 영통동 974-6번지 세일빌딩111호",
+  "latitude": "37.246754",
+  "longitude": "127.06078"
+},
+{
+  "number": "24",
+  "storeName": "GS25(수원은마점)",
+  "phoneNumber": "031-204-5003",
+  "address": "경기 수원시 영통구 영통동 959-1",
+  "latitude": "37.254517",
+  "longitude": "127.07347"
+},
+{
+  "number": "25",
+  "storeName": "GS25(신동삼성점)",
+  "phoneNumber": "031-273-3359",
+  "address": "경기 수원시 영통구 신동 334-18",
+  "latitude": "37.25177",
+  "longitude": "127.076065"
+},
+{
+  "number": "26",
+  "storeName": "GS25(영통번영점)",
+  "phoneNumber": "031-203-4825",
+  "address": "경기 수원시 영통구 영통동 1038-1",
+  "latitude": "37.253773",
+  "longitude": "127.076904"
+},
+{
+  "number": "27",
+  "storeName": "명당슈퍼",
+  "phoneNumber": "070-7758-9356",
+  "address": "경기 수원시 영통구 원천동 76-1",
+  "latitude": "37.27401",
+  "longitude": "127.04704"
+},
+{
+  "number": "28",
+  "storeName": "장원로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 영통구 매탄동 153-120 1층 3호",
+  "latitude": "37.274654",
+  "longitude": "127.04239"
+},
+{
+  "number": "29",
+  "storeName": "무지개 복권",
+  "phoneNumber": "031-215-6571",
+  "address": "경기 수원시 영통구 영통동 1053-2 GS25영통벽산점",
+  "latitude": "37.264862",
+  "longitude": "127.08288"
+},
+{
+  "number": "30",
+  "storeName": "행운로또",
+  "phoneNumber": "031-217-1161",
+  "address": "경기 수원시 영통구 매탄동 139-9 1층 CU매탄중앙점",
+  "latitude": "37.27313",
+  "longitude": "127.04426"
+},
+{
+  "number": "31",
+  "storeName": "영통대박복권",
+  "phoneNumber": "031-217-2534",
+  "address": "경기 수원시 영통구 하동 966 1층 101호",
+  "latitude": "37.29389",
+  "longitude": "127.06894"
+},
+{
+  "number": "32",
+  "storeName": "상호없음",
+  "phoneNumber": "031-211-3666",
+  "address": "경기 수원시 영통구 이의동 1248 리치프라자 101호",
+  "latitude": "37.30083",
+  "longitude": "127.0452"
+},
+{
+  "number": "33",
+  "storeName": "114로또복권판매점",
+  "phoneNumber": "",
+  "address": "경기 수원시 영통구 망포동 650-146 1층 104호",
+  "latitude": "37.236065",
+  "longitude": "127.051765"
+},
+{
+  "number": "34",
+  "storeName": "봄날 로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 영통구 광교1동 1352 130동 109호",
+  "latitude": "37.2901",
+  "longitude": "127.0449"
+},
+{
+  "number": "35",
+  "storeName": "설레임 복권",
+  "phoneNumber": "",
+  "address": "경기 수원시 영통구 매탄동 436-40 1층",
+  "latitude": "37.25833",
+  "longitude": "127.057846"
+}
+]

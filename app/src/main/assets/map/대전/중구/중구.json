@@ -1,0 +1,378 @@
+[
+{
+  "number": "1",
+  "storeName": "복권명당",
+  "phoneNumber": "042-252-8979",
+  "address": "대전 중구 중촌동 21-18번지",
+  "latitude": "36.338165",
+  "longitude": "127.40909"
+},
+{
+  "number": "2",
+  "storeName": "노다지복권방",
+  "phoneNumber": "042-586-5113",
+  "address": "대전 중구 문화동 311-6 삼익아파트 상가 A동 2호",
+  "latitude": "36.31848",
+  "longitude": "127.40582"
+},
+{
+  "number": "3",
+  "storeName": "가나25시",
+  "phoneNumber": "042-255-1947",
+  "address": "대전 중구 용두동 24-3번지",
+  "latitude": "36.32478",
+  "longitude": "127.41088"
+},
+{
+  "number": "4",
+  "storeName": "투맨마트",
+  "phoneNumber": "042-535-7750",
+  "address": "대전 중구 태평동 266-4번지",
+  "latitude": "36.324993",
+  "longitude": "127.39912"
+},
+{
+  "number": "5",
+  "storeName": "1등 복권방",
+  "phoneNumber": "042-285-5777",
+  "address": "대전 중구 옥계동 149-8번지",
+  "latitude": "36.297607",
+  "longitude": "127.455284"
+},
+{
+  "number": "6",
+  "storeName": "로또플러스마트",
+  "phoneNumber": "042-274-3426",
+  "address": "대전 중구 옥계동 17-12번지",
+  "latitude": "36.30241",
+  "longitude": "127.45113"
+},
+{
+  "number": "7",
+  "storeName": "호정복권방",
+  "phoneNumber": "042-257-8021",
+  "address": "대전 중구 은행동 18-13번지",
+  "latitude": "36.329876",
+  "longitude": "127.427574"
+},
+{
+  "number": "8",
+  "storeName": "천하제일복권명당",
+  "phoneNumber": "042-532-7157",
+  "address": "대전 중구 태평동 377-4번지",
+  "latitude": "36.3264",
+  "longitude": "127.39486"
+},
+{
+  "number": "9",
+  "storeName": "위앤조이 유천점",
+  "phoneNumber": "042-585-5557",
+  "address": "대전 중구 유천동 186-4번지",
+  "latitude": "36.31885",
+  "longitude": "127.40032"
+},
+{
+  "number": "10",
+  "storeName": "복권명당",
+  "phoneNumber": "042-526-5593",
+  "address": "대전 중구 유천동 322-1번지 121호",
+  "latitude": "36.321205",
+  "longitude": "127.39431"
+},
+{
+  "number": "11",
+  "storeName": "진플러스안경",
+  "phoneNumber": "042-221-1011",
+  "address": "대전 중구 부사동 153-20번지",
+  "latitude": "36.31278",
+  "longitude": "127.43505"
+},
+{
+  "number": "12",
+  "storeName": "복권천하문화점",
+  "phoneNumber": "042-584-6015",
+  "address": "대전 중구 문화동 466-6번지",
+  "latitude": "36.309715",
+  "longitude": "127.40281"
+},
+{
+  "number": "13",
+  "storeName": "복권천국",
+  "phoneNumber": "042-221-3804",
+  "address": "대전 중구 대흥동 370-6",
+  "latitude": "36.318195",
+  "longitude": "127.42569"
+},
+{
+  "number": "14",
+  "storeName": "대박복권방",
+  "phoneNumber": "042-252-2156",
+  "address": "대전 중구 용두동 13-7번지",
+  "latitude": "36.322968",
+  "longitude": "127.414444"
+},
+{
+  "number": "15",
+  "storeName": "대박로또복권방",
+  "phoneNumber": "042-286-8945",
+  "address": "대전 중구 문창동 361-11번지",
+  "latitude": "36.314137",
+  "longitude": "127.43702"
+},
+{
+  "number": "16",
+  "storeName": "우성비디오책",
+  "phoneNumber": "042-584-4546",
+  "address": "대전 중구 산성동 116-45번지",
+  "latitude": "36.309605",
+  "longitude": "127.39295"
+},
+{
+  "number": "17",
+  "storeName": "로또방",
+  "phoneNumber": "042-222-1066",
+  "address": "대전 중구 대흥동 452-55번지",
+  "latitude": "36.32411",
+  "longitude": "127.422806"
+},
+{
+  "number": "18",
+  "storeName": "드림로또",
+  "phoneNumber": "042-585-4093",
+  "address": "대전 중구 산성동 270-7번지",
+  "latitude": "36.30203",
+  "longitude": "127.38589"
+},
+{
+  "number": "19",
+  "storeName": "석교복권천국",
+  "phoneNumber": "042-285-9569",
+  "address": "대전 중구 석교동 66-2번지",
+  "latitude": "36.308983",
+  "longitude": "127.443855"
+},
+{
+  "number": "20",
+  "storeName": "유공자로또방",
+  "phoneNumber": "042-533-3860",
+  "address": "대전 중구 오류동 149-29번지",
+  "latitude": "36.32333",
+  "longitude": "127.41048"
+},
+{
+  "number": "21",
+  "storeName": "로또는내운명",
+  "phoneNumber": "",
+  "address": "대전 중구 부사동 260-11 1층",
+  "latitude": "36.311596",
+  "longitude": "127.43739"
+},
+{
+  "number": "22",
+  "storeName": "그린마트",
+  "phoneNumber": "042-537-2279",
+  "address": "대전 중구 대흥동 186-3 이안과병원 건너편",
+  "latitude": "36.326008",
+  "longitude": "127.42712"
+},
+{
+  "number": "23",
+  "storeName": "대전하이퍼",
+  "phoneNumber": "042-585-4817",
+  "address": "대전 중구 산성동 280-11",
+  "latitude": "36.30521",
+  "longitude": "127.39056"
+},
+{
+  "number": "24",
+  "storeName": "삼성소비자슈퍼",
+  "phoneNumber": "042-254-9960",
+  "address": "대전 중구 선화동 157-8번지",
+  "latitude": "36.334293",
+  "longitude": "127.41398"
+},
+{
+  "number": "25",
+  "storeName": "선화슈퍼",
+  "phoneNumber": "042-257-3353",
+  "address": "대전 중구 선화동 133-25번지",
+  "latitude": "36.33194",
+  "longitude": "127.41904"
+},
+{
+  "number": "26",
+  "storeName": "타임마트",
+  "phoneNumber": "042-223-6227",
+  "address": "대전 중구 선화동 382-49번지",
+  "latitude": "36.324467",
+  "longitude": "127.41887"
+},
+{
+  "number": "27",
+  "storeName": "그린로또",
+  "phoneNumber": "042-252-1241",
+  "address": "대전 중구 중촌동 98-20번지",
+  "latitude": "36.34003",
+  "longitude": "127.411995"
+},
+{
+  "number": "28",
+  "storeName": "알파",
+  "phoneNumber": "042-385-2002",
+  "address": "대전 중구 유천동 278-10 알파마트",
+  "latitude": "36.311626",
+  "longitude": "127.39446"
+},
+{
+  "number": "29",
+  "storeName": "미니슈퍼",
+  "phoneNumber": "042-226-6427",
+  "address": "대전 중구 유천동 215-44",
+  "latitude": "36.33387",
+  "longitude": "127.4189"
+},
+{
+  "number": "30",
+  "storeName": "씨유 대전태평점",
+  "phoneNumber": "042-524-9613",
+  "address": "대전 중구 태평동 410-9번지",
+  "latitude": "36.326645",
+  "longitude": "127.39279"
+},
+{
+  "number": "31",
+  "storeName": "우성비디오책",
+  "phoneNumber": "042-584-4546",
+  "address": "대전 중구 산성동 116-45번지",
+  "latitude": "36.309605",
+  "longitude": "127.39295"
+},
+{
+  "number": "32",
+  "storeName": "현대LOTTO복권",
+  "phoneNumber": "042-528-0645",
+  "address": "대전 중구 유천동 305-4번지",
+  "latitude": "36.31741",
+  "longitude": "127.39467"
+},
+{
+  "number": "33",
+  "storeName": "금맥을캐다",
+  "phoneNumber": "042-585-7066",
+  "address": "대전 중구 산성동 145-24",
+  "latitude": "36.311188",
+  "longitude": "127.38884"
+},
+{
+  "number": "34",
+  "storeName": "대박마트",
+  "phoneNumber": "042-257-4959",
+  "address": "대전 중구 대사동 69-59번지",
+  "latitude": "36.318687",
+  "longitude": "127.430595"
+},
+{
+  "number": "35",
+  "storeName": "세븐일레븐 서대전점",
+  "phoneNumber": "042-533-6672",
+  "address": "대전 중구 선화동 85-1 세븐일레븐",
+  "latitude": "36.33599",
+  "longitude": "127.41938"
+},
+{
+  "number": "36",
+  "storeName": "씨스페이스(대흥상아)",
+  "phoneNumber": "042-255-2956",
+  "address": "대전 중구 대흥동 95-6번지",
+  "latitude": "36.32545",
+  "longitude": "127.43114"
+},
+{
+  "number": "37",
+  "storeName": "GS25(대전태평점)",
+  "phoneNumber": "042-527-2534",
+  "address": "대전 중구 유천동 189-5 백강미소빌딩",
+  "latitude": "36.322548",
+  "longitude": "127.39874"
+},
+{
+  "number": "38",
+  "storeName": "GS25(대전유천점)",
+  "phoneNumber": "042-581-3050",
+  "address": "대전 중구 유천동 336-2번지",
+  "latitude": "36.315903",
+  "longitude": "127.39076"
+},
+{
+  "number": "39",
+  "storeName": "GS25(대전문화점)",
+  "phoneNumber": "042-252-9825",
+  "address": "대전 중구 은행동 65-10",
+  "latitude": "36.32898",
+  "longitude": "127.428856"
+},
+{
+  "number": "40",
+  "storeName": "GS25(한밭도서관점)",
+  "phoneNumber": "042-585-3330",
+  "address": "대전 중구 문화동 161-10",
+  "latitude": "36.30956",
+  "longitude": "127.40788"
+},
+{
+  "number": "41",
+  "storeName": "GS25(중촌현대점)",
+  "phoneNumber": "042-255-0554",
+  "address": "대전 중구 중촌동 17-2번지",
+  "latitude": "36.337303",
+  "longitude": "127.41252"
+},
+{
+  "number": "42",
+  "storeName": "GS25(대전국일점)",
+  "phoneNumber": "042-252-6586",
+  "address": "대전 중구 문화동 1-160",
+  "latitude": "36.32118",
+  "longitude": "127.415825"
+},
+{
+  "number": "43",
+  "storeName": "GS25(대전안영점)",
+  "phoneNumber": "042-582-3281",
+  "address": "대전 중구 안영동 656-5",
+  "latitude": "36.29121",
+  "longitude": "127.379875"
+},
+{
+  "number": "44",
+  "storeName": "준원슈퍼",
+  "phoneNumber": "042-226-8740",
+  "address": "대전 중구 대흥동 211번지",
+  "latitude": "36.32654",
+  "longitude": "127.42425"
+},
+{
+  "number": "45",
+  "storeName": "보문도매마트",
+  "phoneNumber": "042-253-1357",
+  "address": "대전 중구 대사동 87-40",
+  "latitude": "36.31675",
+  "longitude": "127.42617"
+},
+{
+  "number": "46",
+  "storeName": "돈벼락마트",
+  "phoneNumber": "042-526-6111",
+  "address": "대전 중구 목동 5-15번지",
+  "latitude": "36.33363",
+  "longitude": "127.41197"
+},
+{
+  "number": "47",
+  "storeName": "씨스페이스(서부터미널)",
+  "phoneNumber": "042-586-9996",
+  "address": "대전 중구 산성동 759-33 서부터미널 씨스페이스",
+  "latitude": "36.312828",
+  "longitude": "127.38811"
+}
+]

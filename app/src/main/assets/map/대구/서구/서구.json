@@ -1,0 +1,314 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(내당점)",
+  "phoneNumber": "053-566-0974",
+  "address": "대구 서구 내당동 11-8",
+  "latitude": "35.864567",
+  "longitude": "128.56483"
+},
+{
+  "number": "2",
+  "storeName": "CU(서대구공단점)",
+  "phoneNumber": "053-573-4566",
+  "address": "대구 서구 이현동 45-235번지 대한동아무지개",
+  "latitude": "35.868786",
+  "longitude": "128.53279"
+},
+{
+  "number": "3",
+  "storeName": "GS25(평리이현점)",
+  "phoneNumber": "053-568-9315",
+  "address": "대구 서구 평리동 574-4",
+  "latitude": "35.87904",
+  "longitude": "128.55008"
+},
+{
+  "number": "4",
+  "storeName": "드림마트복권",
+  "phoneNumber": "053-522-0991",
+  "address": "대구 서구 비산동 1717-2번지",
+  "latitude": "35.89245",
+  "longitude": "128.55281"
+},
+{
+  "number": "5",
+  "storeName": "로또복권명당",
+  "phoneNumber": "053-551-5656",
+  "address": "대구 서구 중리동 33-1 1층 cu편의점",
+  "latitude": "35.86915",
+  "longitude": "128.54951"
+},
+{
+  "number": "6",
+  "storeName": "썬빌리지서구청점",
+  "phoneNumber": "053-567-3833",
+  "address": "대구 서구 평리동 1335-6번지",
+  "latitude": "35.87059",
+  "longitude": "128.55708"
+},
+{
+  "number": "7",
+  "storeName": "위천청과마트(로또복권)",
+  "phoneNumber": "053-558-9562",
+  "address": "대구 서구 평리동 1363-4 위천청과마트",
+  "latitude": "35.86485",
+  "longitude": "128.55664"
+},
+{
+  "number": "8",
+  "storeName": "로또매니아(북부점)",
+  "phoneNumber": "053-357-6444",
+  "address": "대구 서구 비산동 1856-3번지",
+  "latitude": "35.884228",
+  "longitude": "128.55522"
+},
+{
+  "number": "9",
+  "storeName": "복권명당",
+  "phoneNumber": "053-525-0354",
+  "address": "대구 서구 비산동 151-28번지",
+  "latitude": "35.871872",
+  "longitude": "128.57697"
+},
+{
+  "number": "10",
+  "storeName": "복권명당",
+  "phoneNumber": "053-354-7776",
+  "address": "대구 서구 비산동 1382-2 만평네거리",
+  "latitude": "35.87014",
+  "longitude": "128.55185"
+},
+{
+  "number": "11",
+  "storeName": "복권나라",
+  "phoneNumber": "053-521-2864",
+  "address": "대구 서구 중리동 1157번지",
+  "latitude": "35.861076",
+  "longitude": "128.53806"
+},
+{
+  "number": "12",
+  "storeName": "운수대통",
+  "phoneNumber": "053-358-6826",
+  "address": "대구 서구 비산동 1240-16번지",
+  "latitude": "35.886963",
+  "longitude": "128.56395"
+},
+{
+  "number": "13",
+  "storeName": "코리아마트(비산점)",
+  "phoneNumber": "",
+  "address": "대구 서구 비산동 368-2번지",
+  "latitude": "35.87243",
+  "longitude": "128.56871"
+},
+{
+  "number": "14",
+  "storeName": "칠곡슈퍼(평리점)",
+  "phoneNumber": "053-565-4060",
+  "address": "대구 서구 평리동 616-13번지",
+  "latitude": "35.877533",
+  "longitude": "128.55463"
+},
+{
+  "number": "15",
+  "storeName": "월드복권",
+  "phoneNumber": "053-351-1418",
+  "address": "대구 서구 이현동 35-18번지",
+  "latitude": "35.87844",
+  "longitude": "128.54369"
+},
+{
+  "number": "16",
+  "storeName": "로또명당(북부점)",
+  "phoneNumber": "053-357-9839",
+  "address": "대구 서구 비산동 1367번지",
+  "latitude": "35.88604",
+  "longitude": "128.55789"
+},
+{
+  "number": "17",
+  "storeName": "롯데상사",
+  "phoneNumber": "053-555-0065",
+  "address": "대구 서구 비산동 328-9번지",
+  "latitude": "35.871384",
+  "longitude": "128.57085"
+},
+{
+  "number": "18",
+  "storeName": "행운복권(평리주공)",
+  "phoneNumber": "053-564-4110",
+  "address": "대구 서구 비산동 506-7 북비산네거리 가기전",
+  "latitude": "35.866283",
+  "longitude": "128.56"
+},
+{
+  "number": "19",
+  "storeName": "로또판매",
+  "phoneNumber": "053-563-1239",
+  "address": "대구 서구 내당동 429-28번지",
+  "latitude": "35.856705",
+  "longitude": "128.54721"
+},
+{
+  "number": "20",
+  "storeName": "로또복권",
+  "phoneNumber": "053-522-6366",
+  "address": "대구 서구 내당동 468-4 CU편의점_대구두류역점",
+  "latitude": "35.85712",
+  "longitude": "128.55452"
+},
+{
+  "number": "21",
+  "storeName": "복권명당(반고개네거리)",
+  "phoneNumber": "070-8264-0821",
+  "address": "대구 서구 내당동 871-10번지",
+  "latitude": "35.862602",
+  "longitude": "128.57213"
+},
+{
+  "number": "22",
+  "storeName": "코리아마트(청구점)",
+  "phoneNumber": "",
+  "address": "대구 서구 평리동 1406-8번지",
+  "latitude": "35.865402",
+  "longitude": "128.5552"
+},
+{
+  "number": "23",
+  "storeName": "토토복권",
+  "phoneNumber": "053-561-1298",
+  "address": "대구 서구 비산동 286-6번지",
+  "latitude": "35.867516",
+  "longitude": "128.57208"
+},
+{
+  "number": "24",
+  "storeName": "복권판매소(서문큰장네거리)",
+  "phoneNumber": "053-572-1329",
+  "address": "대구 서구 내당동 1035-33번지",
+  "latitude": "35.87049",
+  "longitude": "128.57877"
+},
+{
+  "number": "25",
+  "storeName": "승차권판매소(서구청1호점)",
+  "phoneNumber": "053-561-8214",
+  "address": "대구 서구 평리동 1230-9번지",
+  "latitude": "35.871803",
+  "longitude": "128.55922"
+},
+{
+  "number": "26",
+  "storeName": "토큰박스",
+  "phoneNumber": "053-572-5858",
+  "address": "대구 서구 내당동 965번지",
+  "latitude": "35.865982",
+  "longitude": "128.57153"
+},
+{
+  "number": "27",
+  "storeName": "토큰박스(퀸스로드점)",
+  "phoneNumber": "053-566-7725",
+  "address": "대구 서구 중리동 1136번지 토큰박스",
+  "latitude": "35.86285",
+  "longitude": "128.54362"
+},
+{
+  "number": "28",
+  "storeName": "승차권판매소(팔달시장건너)",
+  "phoneNumber": "053-352-9183",
+  "address": "대구 서구 비산동 1208-1번지",
+  "latitude": "35.8888",
+  "longitude": "128.56696"
+},
+{
+  "number": "29",
+  "storeName": "코리아마트평리점",
+  "phoneNumber": "053-556-0804",
+  "address": "대구 서구 평리동 1492-22번지",
+  "latitude": "35.87448",
+  "longitude": "128.55461"
+},
+{
+  "number": "30",
+  "storeName": "세진전자통신",
+  "phoneNumber": "053-566-4466",
+  "address": "대구 서구 평리동 1094-4번지",
+  "latitude": "35.871902",
+  "longitude": "128.5552"
+},
+{
+  "number": "31",
+  "storeName": "복권뱅크",
+  "phoneNumber": "053-562-3446",
+  "address": "대구 서구 평리동 925-1 1층 복권판매점",
+  "latitude": "35.874954",
+  "longitude": "128.55249"
+},
+{
+  "number": "32",
+  "storeName": "다모아문구",
+  "phoneNumber": "053-571-8787",
+  "address": "대구 서구 평리동 676-7",
+  "latitude": "35.87783",
+  "longitude": "128.55939"
+},
+{
+  "number": "33",
+  "storeName": "거봉마트(원고개시장)",
+  "phoneNumber": "053-561-9393",
+  "address": "대구 서구 평리동 762-3번지",
+  "latitude": "35.879276",
+  "longitude": "128.56726"
+},
+{
+  "number": "34",
+  "storeName": "복권나라",
+  "phoneNumber": "053-249-5288",
+  "address": "대구 서구 내당4동 411-39번지",
+  "latitude": "35.860477",
+  "longitude": "128.54614"
+},
+{
+  "number": "35",
+  "storeName": "로또명당셀마트",
+  "phoneNumber": "053-555-9833",
+  "address": "대구 서구 내당동 307-1번지",
+  "latitude": "35.86005",
+  "longitude": "128.55104"
+},
+{
+  "number": "36",
+  "storeName": "GS25(만평점)",
+  "phoneNumber": "053-354-0225",
+  "address": "대구 서구 비산동 1210-2 GS25만평점",
+  "latitude": "35.888992",
+  "longitude": "128.56572"
+},
+{
+  "number": "37",
+  "storeName": "승차권판매소(북비산점)",
+  "phoneNumber": "053-557-2880",
+  "address": "대구 서구 비산동 579-3",
+  "latitude": "35.880142",
+  "longitude": "128.57155"
+},
+{
+  "number": "38",
+  "storeName": "복권세상",
+  "phoneNumber": "053-351-9440",
+  "address": "대구 서구 비산동 883-9번지",
+  "latitude": "35.884384",
+  "longitude": "128.557"
+},
+{
+  "number": "39",
+  "storeName": "나눔로또판매점",
+  "phoneNumber": "",
+  "address": "대구 서구 비산동 434-28 제12호,제8호",
+  "latitude": "35.87458",
+  "longitude": "128.57153"
+}
+]

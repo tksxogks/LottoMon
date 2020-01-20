@@ -1,0 +1,410 @@
+[
+{
+  "number": "1",
+  "storeName": "GS수완로또",
+  "phoneNumber": "062-952-9511",
+  "address": "광주 광산구 수완동 1377번지 1층 GS편의점",
+  "latitude": "35.19159",
+  "longitude": "126.83048"
+},
+{
+  "number": "2",
+  "storeName": "알리바이첨단점",
+  "phoneNumber": "062-974-1282",
+  "address": "광주 광산구 월계동 891-7번지 알리바이",
+  "latitude": "35.213825",
+  "longitude": "126.84572"
+},
+{
+  "number": "3",
+  "storeName": "복권세상",
+  "phoneNumber": "062-430-9072",
+  "address": "광주 광산구 우산동 1580-1 복권세상",
+  "latitude": "35.163216",
+  "longitude": "126.806305"
+},
+{
+  "number": "4",
+  "storeName": "천하명당복권전문점",
+  "phoneNumber": "062-956-2315",
+  "address": "광주 광산구 우산동 1586-4번지",
+  "latitude": "35.162907",
+  "longitude": "126.809166"
+},
+{
+  "number": "5",
+  "storeName": "호반할인마트",
+  "phoneNumber": "062-944-5824",
+  "address": "광주 광산구 도산동 1295-8번지",
+  "latitude": "35.127907",
+  "longitude": "126.790115"
+},
+{
+  "number": "6",
+  "storeName": "토토죤",
+  "phoneNumber": "062-953-5656",
+  "address": "광주 광산구 비아동 90-1 1층",
+  "latitude": "35.223354",
+  "longitude": "126.82433"
+},
+{
+  "number": "7",
+  "storeName": "프렌드24시",
+  "phoneNumber": "070-4696-3920",
+  "address": "광주 광산구 쌍암동 655-3 빌리오네2 제1층 106호",
+  "latitude": "35.21919",
+  "longitude": "126.84231"
+},
+{
+  "number": "8",
+  "storeName": "남양마트",
+  "phoneNumber": "062-972-1355",
+  "address": "광주 광산구 월계동 765-6번지 남양아파트 상가101호",
+  "latitude": "35.21433",
+  "longitude": "126.84085"
+},
+{
+  "number": "9",
+  "storeName": "미니스톱 평동타운점",
+  "phoneNumber": "062-944-1756",
+  "address": "광주 광산구 옥동 1238번지 미니스톱 내",
+  "latitude": "35.125072",
+  "longitude": "126.76728"
+},
+{
+  "number": "10",
+  "storeName": "형제당복권방",
+  "phoneNumber": "062-942-3332",
+  "address": "광주 광산구 월계동 781-5 1층",
+  "latitude": "35.13838",
+  "longitude": "126.79469"
+},
+{
+  "number": "11",
+  "storeName": "알리바이 공항",
+  "phoneNumber": "062-945-4572",
+  "address": "광주 광산구 송정동 258-28번지 1층 알리바이",
+  "latitude": "35.136673",
+  "longitude": "126.798775"
+},
+{
+  "number": "12",
+  "storeName": "알리바이신창점",
+  "phoneNumber": "070-8846-1282",
+  "address": "광주 광산구 신창동 1128-5번지 1층 알리바이 내",
+  "latitude": "35.196167",
+  "longitude": "126.83771"
+},
+{
+  "number": "13",
+  "storeName": "대박나라",
+  "phoneNumber": "062-952-7142",
+  "address": "광주 광산구 산정동 976-9 1층",
+  "latitude": "35.166702",
+  "longitude": "126.804"
+},
+{
+  "number": "14",
+  "storeName": "모아드림복권방",
+  "phoneNumber": "062-943-7778",
+  "address": "광주 광산구 소촌동 279-7번지 1층 복권방",
+  "latitude": "35.152294",
+  "longitude": "126.7932"
+},
+{
+  "number": "15",
+  "storeName": "알리바이 수완점",
+  "phoneNumber": "062-955-1283",
+  "address": "광주 광산구 장덕동 1330 1층 알리바이",
+  "latitude": "35.192955",
+  "longitude": "126.814224"
+},
+{
+  "number": "16",
+  "storeName": "차밍복권방",
+  "phoneNumber": "062-956-3366",
+  "address": "광주 광산구 월곡동 683-3번지 동구빌딩1층",
+  "latitude": "35.175602",
+  "longitude": "126.81161"
+},
+{
+  "number": "17",
+  "storeName": "빛고을로또",
+  "phoneNumber": "062-941-6094",
+  "address": "광주 광산구 소촌동 832-1번지 세븐일레븐",
+  "latitude": "35.157436",
+  "longitude": "126.791885"
+},
+{
+  "number": "18",
+  "storeName": "썬복권",
+  "phoneNumber": "062-959-1160",
+  "address": "광주 광산구 도천동 622-6번지 미니스톱내",
+  "latitude": "35.208576",
+  "longitude": "126.81472"
+},
+{
+  "number": "19",
+  "storeName": "코사마트",
+  "phoneNumber": "062-955-2650",
+  "address": "광주 광산구 신창동 1108-1번지 부영상가1층112호",
+  "latitude": "35.186577",
+  "longitude": "126.83974"
+},
+{
+  "number": "20",
+  "storeName": "컴퓨터A/S",
+  "phoneNumber": "062-956-3119",
+  "address": "광주 광산구 월곡동 61-19번지",
+  "latitude": "35.16623",
+  "longitude": "126.80951"
+},
+{
+  "number": "21",
+  "storeName": "백송마트",
+  "phoneNumber": "062-972-7766",
+  "address": "광주 광산구 월계동 771-8번지 104호",
+  "latitude": "35.213448",
+  "longitude": "126.837456"
+},
+{
+  "number": "22",
+  "storeName": "세븐일레븐 수완점",
+  "phoneNumber": "062-961-8777",
+  "address": "광주 광산구 수완동 1428 세븐일레븐내",
+  "latitude": "35.190357",
+  "longitude": "126.82535"
+},
+{
+  "number": "23",
+  "storeName": "또또슈퍼",
+  "phoneNumber": "062-942-2300",
+  "address": "광주 광산구 소촌동 529-16번지",
+  "latitude": "35.141052",
+  "longitude": "126.79364"
+},
+{
+  "number": "24",
+  "storeName": "더존할인마트",
+  "phoneNumber": "062-953-1144",
+  "address": "광주 광산구 운남동 782-5번지 더존1빌딩1층",
+  "latitude": "35.17736",
+  "longitude": "126.815186"
+},
+{
+  "number": "25",
+  "storeName": "역전복권방",
+  "phoneNumber": "062-941-9737",
+  "address": "광주 광산구 송정동 1003-189 1층",
+  "latitude": "35.13773",
+  "longitude": "126.792046"
+},
+{
+  "number": "26",
+  "storeName": "영화마을운남점",
+  "phoneNumber": "062-955-7179",
+  "address": "광주 광산구 신가동 910-3번지 1층 영화마을",
+  "latitude": "35.179195",
+  "longitude": "126.82646"
+},
+{
+  "number": "27",
+  "storeName": "버블샵카페 고래의꿈",
+  "phoneNumber": "062-956-7888",
+  "address": "광주 광산구 운남동 776-3번지 운남주공아파트 상가108호",
+  "latitude": "35.178036",
+  "longitude": "126.82498"
+},
+{
+  "number": "28",
+  "storeName": "알리바이",
+  "phoneNumber": "062-961-7142",
+  "address": "광주 광산구 신가동 986-4번지 1층 알리바이",
+  "latitude": "35.185314",
+  "longitude": "126.83667"
+},
+{
+  "number": "29",
+  "storeName": "이마트24 광주옥동점",
+  "phoneNumber": "062-942-6643",
+  "address": "광주 광산구 옥동 221-3 이마트24 편의점",
+  "latitude": "35.124607",
+  "longitude": "126.760864"
+},
+{
+  "number": "30",
+  "storeName": "CU(광주우산점)",
+  "phoneNumber": "062-433-8567",
+  "address": "광주 광산구 우산동 1573-1번지",
+  "latitude": "35.163933",
+  "longitude": "126.80263"
+},
+{
+  "number": "31",
+  "storeName": "로또천국",
+  "phoneNumber": "062-941-5281",
+  "address": "광주 광산구 산정동 936-6",
+  "latitude": "35.174107",
+  "longitude": "129.8061"
+},
+{
+  "number": "32",
+  "storeName": "드림",
+  "phoneNumber": "062-941-1357",
+  "address": "광주 광산구 선암동 593번지 104호",
+  "latitude": "35.146465",
+  "longitude": "126.77769"
+},
+{
+  "number": "33",
+  "storeName": "로또플러스24",
+  "phoneNumber": "062-954-0645",
+  "address": "광주 광산구 수완동 1086 109호 로또플러스24",
+  "latitude": "35.191044",
+  "longitude": "126.82605"
+},
+{
+  "number": "34",
+  "storeName": "하나로 로또",
+  "phoneNumber": "062-972-5033",
+  "address": "광주 광산구 월계동 764-2",
+  "latitude": "35.21517",
+  "longitude": "126.83475"
+},
+{
+  "number": "35",
+  "storeName": "일신마트",
+  "phoneNumber": "062-972-0153",
+  "address": "광주 광산구 월계동 757-8 일신아파트 상가동 1층 104호",
+  "latitude": "35.2211",
+  "longitude": "126.83641"
+},
+{
+  "number": "36",
+  "storeName": "장고분로또(토토편의방)",
+  "phoneNumber": "062-972-0645",
+  "address": "광주 광산구 월계동 767-3번지 1층",
+  "latitude": "35.21326",
+  "longitude": "126.841194"
+},
+{
+  "number": "37",
+  "storeName": "하나마트(하남4번로)",
+  "phoneNumber": "062-956-4595",
+  "address": "광주 광산구 장덕동 992-12번지 하나마트내",
+  "latitude": "35.190735",
+  "longitude": "126.80927"
+},
+{
+  "number": "38",
+  "storeName": "광주신창점로또판매",
+  "phoneNumber": "062-959-6456",
+  "address": "광주 광산구 신창동 1219번지 신창프뤼몰타운106호 CU편의점",
+  "latitude": "35.19086",
+  "longitude": "126.83747"
+},
+{
+  "number": "39",
+  "storeName": "행운복권방",
+  "phoneNumber": "062-944-9550",
+  "address": "광주 광산구 우산동 1077-7 1층",
+  "latitude": "35.152126",
+  "longitude": "126.80983"
+},
+{
+  "number": "40",
+  "storeName": "호대점",
+  "phoneNumber": "062-944-6698",
+  "address": "광주 광산구 선암동 768 CU편의점 내",
+  "latitude": "35.14849",
+  "longitude": "126.77022"
+},
+{
+  "number": "41",
+  "storeName": "행복을주는가게",
+  "phoneNumber": "062-955-6262",
+  "address": "광주 광산구 신가동 1235 102호",
+  "latitude": "35.181057",
+  "longitude": "126.818565"
+},
+{
+  "number": "42",
+  "storeName": "행복로또점",
+  "phoneNumber": "",
+  "address": "광주 광산구 흑석동 52",
+  "latitude": "35.182796",
+  "longitude": "126.80877"
+},
+{
+  "number": "43",
+  "storeName": "행복나눔복권방",
+  "phoneNumber": "092-959-7764",
+  "address": "광주 광산구 하남동 785 105호 GS편의점",
+  "latitude": "35.177128",
+  "longitude": "126.80305"
+},
+{
+  "number": "44",
+  "storeName": "세븐일레븐 송정로또",
+  "phoneNumber": "061-951-4327",
+  "address": "광주 광산구 송정동 707-3 세븐일레븐",
+  "latitude": "35.190796",
+  "longitude": "126.82913"
+},
+{
+  "number": "45",
+  "storeName": "첨단위드미 로또판매",
+  "phoneNumber": "062-973-3735",
+  "address": "광주 광산구 쌍암동 694-116 102호 위드미편의점 내",
+  "latitude": "35.214878",
+  "longitude": "126.84905"
+},
+{
+  "number": "46",
+  "storeName": "알리바이로또",
+  "phoneNumber": "062-959-1281",
+  "address": "광주 광산구 장덕동 505-86 가동 101호 알리바이",
+  "latitude": "35.202675",
+  "longitude": "126.8122"
+},
+{
+  "number": "47",
+  "storeName": "로또첨단CGV점",
+  "phoneNumber": "062-972-4182",
+  "address": "광주 광산구 쌍암동 694-48 CU편의점",
+  "latitude": "35.21573",
+  "longitude": "126.85012"
+},
+{
+  "number": "48",
+  "storeName": "알리바이(송정)",
+  "phoneNumber": "062-941-1282",
+  "address": "광주 광산구 송정동 800-4 알리바이",
+  "latitude": "35.140114",
+  "longitude": "126.797"
+},
+{
+  "number": "49",
+  "storeName": "진곡산단로또",
+  "phoneNumber": "",
+  "address": "광주 광산구 오선동 658 1층",
+  "latitude": "35.20209",
+  "longitude": "126.79163"
+},
+{
+  "number": "50",
+  "storeName": "25운수점",
+  "phoneNumber": "062-944-7958",
+  "address": "광주 광산구 운수동 25-1 GS편의점 내",
+  "latitude": "35.15112",
+  "longitude": "126.78632"
+},
+{
+  "number": "51",
+  "storeName": "알리바이 하남점",
+  "phoneNumber": "062-956-1888",
+  "address": "광주 광산구 하남동 650 102호 알리바이 내",
+  "latitude": "35.17619",
+  "longitude": "126.798584"
+}
+]

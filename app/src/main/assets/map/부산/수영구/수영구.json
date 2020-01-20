@@ -1,0 +1,178 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(수영광안점)",
+  "phoneNumber": "051-757-1270",
+  "address": "부산 수영구 광안동 75-1",
+  "latitude": "35.166885",
+  "longitude": "129.11656"
+},
+{
+  "number": "2",
+  "storeName": "GS25(민락중앙점)",
+  "phoneNumber": "051-759-4835",
+  "address": "부산 수영구 민락동 181-82",
+  "latitude": "35.155884",
+  "longitude": "129.12502"
+},
+{
+  "number": "3",
+  "storeName": "예스마트",
+  "phoneNumber": "051-623-0880",
+  "address": "부산 수영구 남천동 18-16번지",
+  "latitude": "35.14281",
+  "longitude": "129.10957"
+},
+{
+  "number": "4",
+  "storeName": "리치복권방",
+  "phoneNumber": "070-4221-9733",
+  "address": "부산 수영구 민락동 113-21번지 B동101호 쉼표",
+  "latitude": "35.17158",
+  "longitude": "129.10371"
+},
+{
+  "number": "5",
+  "storeName": "초원",
+  "phoneNumber": "051-761-2626",
+  "address": "부산 수영구 광안동 76-1번지 센텀미라클내",
+  "latitude": "35.166702",
+  "longitude": "129.11801"
+},
+{
+  "number": "6",
+  "storeName": "MC수영점",
+  "phoneNumber": "051-753-7043",
+  "address": "부산 수영구 광안동 688-27",
+  "latitude": "35.16416",
+  "longitude": "129.11385"
+},
+{
+  "number": "7",
+  "storeName": "팔도로또",
+  "phoneNumber": "051-753-5767",
+  "address": "부산 수영구 수영동 444-15번지 청백도서내",
+  "latitude": "35.16822",
+  "longitude": "129.11703"
+},
+{
+  "number": "8",
+  "storeName": "롯또(파워세일마트)",
+  "phoneNumber": "051-755-0749",
+  "address": "부산 수영구 수영동 484-1 수영동, E마트24",
+  "latitude": "35.15891",
+  "longitude": "129.1215"
+},
+{
+  "number": "9",
+  "storeName": "노다지복권방",
+  "phoneNumber": "051-751-7826",
+  "address": "부산 수영구 망미동 832-33번지",
+  "latitude": "35.1733",
+  "longitude": "129.09908"
+},
+{
+  "number": "10",
+  "storeName": "다복슈퍼",
+  "phoneNumber": "051-751-4166",
+  "address": "부산 수영구 수영동 451-13번지",
+  "latitude": "35.1692",
+  "longitude": "129.11287"
+},
+{
+  "number": "11",
+  "storeName": "대원슈퍼마켓",
+  "phoneNumber": "051-753-2655",
+  "address": "부산 수영구 광안동 373-15번지",
+  "latitude": "35.15247",
+  "longitude": "129.112"
+},
+{
+  "number": "12",
+  "storeName": "마이프랜드",
+  "phoneNumber": "051-756-0491",
+  "address": "부산 수영구 민락동 184-6번지",
+  "latitude": "35.154984",
+  "longitude": "129.11848"
+},
+{
+  "number": "13",
+  "storeName": "이마트24 광안리굿-7",
+  "phoneNumber": "051-752-4743",
+  "address": "부산 수영구 광안동 158-64",
+  "latitude": "35.155273",
+  "longitude": "129.11768"
+},
+{
+  "number": "14",
+  "storeName": "캐릭터궁전",
+  "phoneNumber": "051-752-3933",
+  "address": "부산 수영구 망미동 412-21",
+  "latitude": "35.17647",
+  "longitude": "129.10759"
+},
+{
+  "number": "15",
+  "storeName": "하프타임과정로",
+  "phoneNumber": "051-751-4940",
+  "address": "부산 수영구 망미동 413-13번지",
+  "latitude": "35.17516",
+  "longitude": "129.10774"
+},
+{
+  "number": "16",
+  "storeName": "세원로또복권방",
+  "phoneNumber": "051-753-1898",
+  "address": "부산 수영구 수영동 445-3 101호",
+  "latitude": "35.16861",
+  "longitude": "129.11682"
+},
+{
+  "number": "17",
+  "storeName": "황실복권방",
+  "phoneNumber": "051-751-7450",
+  "address": "부산 수영구 망미동 434-40번지 첼시와맨유",
+  "latitude": "35.178894",
+  "longitude": "129.10696"
+},
+{
+  "number": "18",
+  "storeName": "M.C",
+  "phoneNumber": "051-622-5552",
+  "address": "부산 수영구 민락동 163-5",
+  "latitude": "35.158745",
+  "longitude": "129.12279"
+},
+{
+  "number": "19",
+  "storeName": "비치슈퍼",
+  "phoneNumber": "051-626-8843",
+  "address": "부산 수영구 남천동 148-5번지 비치B상가지하 110호",
+  "latitude": "35.145763",
+  "longitude": "129.11508"
+},
+{
+  "number": "20",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "부산 수영구 남천동 255 6호",
+  "latitude": "35.140568",
+  "longitude": "129.10751"
+},
+{
+  "number": "21",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "부산 수영구 광안동 744-15",
+  "latitude": "35.156982",
+  "longitude": "129.11275"
+},
+{
+  "number": "22",
+  "storeName": "황금돼지로또",
+  "phoneNumber": "",
+  "address": "부산 수영구 남천제2동 6-17",
+  "latitude": "35.14637",
+  "longitude": "129.11246"
+}
+]

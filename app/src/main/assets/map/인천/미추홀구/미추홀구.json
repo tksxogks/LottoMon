@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(주안1-2)",
+  "phoneNumber": "032-875-9944",
+  "address": "인천 미추홀구 주안동 224-1",
+  "latitude": "37.462887",
+  "longitude": "126.679985"
+},
+{
+  "number": "2",
+  "storeName": "로또복권사업장",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 주안동 주안역지하상가철28호",
+  "latitude": "37.464844",
+  "longitude": "126.67983"
+},
+{
+  "number": "3",
+  "storeName": "로또",
+  "phoneNumber": "032-431-8443",
+  "address": "인천 미추홀구 주안4동 391-19",
+  "latitude": "37.45644",
+  "longitude": "126.68501"
+},
+{
+  "number": "4",
+  "storeName": "솔드아웃(용현점)",
+  "phoneNumber": "032-888-5488",
+  "address": "인천 미추홀구 용현3동 1층",
+  "latitude": "37.454475",
+  "longitude": "126.649155"
+},
+{
+  "number": "5",
+  "storeName": "더드림로또",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 관교동 15 1층 상점2호",
+  "latitude": "37.441647",
+  "longitude": "126.70175"
+},
+{
+  "number": "6",
+  "storeName": "씨유 용현보훈회관점",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 용현3동 450-177",
+  "latitude": "37.45623",
+  "longitude": "126.65118"
+},
+{
+  "number": "7",
+  "storeName": "나미로또",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 주안8동 1518",
+  "latitude": "37.450462",
+  "longitude": "126.68614"
+},
+{
+  "number": "8",
+  "storeName": "동원인테리어",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 도화동",
+  "latitude": "37.465034",
+  "longitude": "126.6664"
+},
+{
+  "number": "9",
+  "storeName": "성명당",
+  "phoneNumber": "032-873-3137",
+  "address": "인천 미추홀구 도화동",
+  "latitude": "37.459454",
+  "longitude": "126.67263"
+},
+{
+  "number": "10",
+  "storeName": "천운 복권방",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 학익동 661-3",
+  "latitude": "37.439552",
+  "longitude": "126.67391"
+},
+{
+  "number": "11",
+  "storeName": "석바위시장 황금돼지",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 주안동 898-15",
+  "latitude": "37.460705",
+  "longitude": "126.69443"
+},
+{
+  "number": "12",
+  "storeName": "행운복권방",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 학익1동 415-9",
+  "latitude": "37.445786",
+  "longitude": "126.65807"
+},
+{
+  "number": "13",
+  "storeName": "행복복권",
+  "phoneNumber": "",
+  "address": "인천 미추홀구 학익2동 312-38",
+  "latitude": "37.446056",
+  "longitude": "126.666145"
+}
+]

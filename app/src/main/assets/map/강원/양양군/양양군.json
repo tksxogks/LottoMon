@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "그린로또",
+  "phoneNumber": "033-673-1177",
+  "address": "강원 양양군 양양읍 남문리 80",
+  "latitude": "38.07477",
+  "longitude": "128.62144"
+},
+{
+  "number": "2",
+  "storeName": "복권닷컴",
+  "phoneNumber": "033-671-8252",
+  "address": "강원 양양군 양양읍 남문리 16-24번지",
+  "latitude": "38.075535",
+  "longitude": "128.6223"
+},
+{
+  "number": "3",
+  "storeName": "CU(양양터미널점)",
+  "phoneNumber": "033-631-3005",
+  "address": "강원 양양군 양양읍 남문리 2-14번지",
+  "latitude": "38.078045",
+  "longitude": "128.62552"
+},
+{
+  "number": "4",
+  "storeName": "금강",
+  "phoneNumber": "033-672-0909",
+  "address": "강원 양양군 강현면 물치리 66-29번지",
+  "latitude": "38.15449",
+  "longitude": "128.60764"
+}
+]

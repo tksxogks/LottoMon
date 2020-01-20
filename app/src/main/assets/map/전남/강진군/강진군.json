@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "로또편의점",
+  "phoneNumber": "061-282-3935",
+  "address": "전남 강진군 강진읍 남성리 24-36",
+  "latitude": "34.63693",
+  "longitude": "126.77141"
+},
+{
+  "number": "2",
+  "storeName": "황금로또",
+  "phoneNumber": "061-434-2554",
+  "address": "전남 강진군 강진읍 춘전리 12번지 황금당",
+  "latitude": "34.638756",
+  "longitude": "126.76758"
+},
+{
+  "number": "3",
+  "storeName": "대운로또명당",
+  "phoneNumber": "061-433-5906",
+  "address": "전남 강진군 강진읍 동성리 218-15",
+  "latitude": "34.641205",
+  "longitude": "126.77387"
+}
+]

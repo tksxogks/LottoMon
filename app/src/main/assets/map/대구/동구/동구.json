@@ -1,0 +1,362 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(입석강변점)",
+  "phoneNumber": "053-985-8254",
+  "address": "대구 동구 입석동 933-2번지",
+  "latitude": "35.890205",
+  "longitude": "128.64642"
+},
+{
+  "number": "2",
+  "storeName": "CU(팔공보성점)",
+  "phoneNumber": "053-986-2427",
+  "address": "대구 동구 지묘동 330-2번지",
+  "latitude": "35.940678",
+  "longitude": "128.64067"
+},
+{
+  "number": "3",
+  "storeName": "GS25(동구신서점)",
+  "phoneNumber": "053-965-8572",
+  "address": "대구 동구 신서동 530-4번지",
+  "latitude": "35.86635",
+  "longitude": "128.72508"
+},
+{
+  "number": "4",
+  "storeName": "씨스페이스(신서혁신점)",
+  "phoneNumber": "053-965-8065",
+  "address": "대구 동구 각산동 1033-3번지",
+  "latitude": "35.87832",
+  "longitude": "128.71375"
+},
+{
+  "number": "5",
+  "storeName": "로또대박점",
+  "phoneNumber": "053-752-4348",
+  "address": "대구 동구 신천동 273-6번지",
+  "latitude": "35.874466",
+  "longitude": "128.61795"
+},
+{
+  "number": "6",
+  "storeName": "복권이야기",
+  "phoneNumber": "053-524-8000",
+  "address": "대구 동구 신서동 1148-3",
+  "latitude": "35.87862",
+  "longitude": "128.73192"
+},
+{
+  "number": "7",
+  "storeName": "로또복권",
+  "phoneNumber": "053-985-5817",
+  "address": "대구 동구 입석동 1006-19번지",
+  "latitude": "35.88987",
+  "longitude": "128.64265"
+},
+{
+  "number": "8",
+  "storeName": "로또복권",
+  "phoneNumber": "053-981-0526",
+  "address": "대구 동구 신암동 259-16 1층 CU편의점내",
+  "latitude": "35.89392",
+  "longitude": "128.64435"
+},
+{
+  "number": "9",
+  "storeName": "로또",
+  "phoneNumber": "053-953-0335",
+  "address": "대구 동구 효목동 69-2번지",
+  "latitude": "35.885902",
+  "longitude": "128.6368"
+},
+{
+  "number": "10",
+  "storeName": "로또복권",
+  "phoneNumber": "053-965-8697",
+  "address": "대구 동구 율하동 1154 1층 세븐일레븐",
+  "latitude": "35.8671",
+  "longitude": "128.69249"
+},
+{
+  "number": "11",
+  "storeName": "복권명당",
+  "phoneNumber": "053-982-4957",
+  "address": "대구 동구 불로동 1170번지",
+  "latitude": "35.910126",
+  "longitude": "128.64124"
+},
+{
+  "number": "12",
+  "storeName": "복권명당",
+  "phoneNumber": "053-964-5929",
+  "address": "대구 동구 동호동 106-25번지",
+  "latitude": "35.868156",
+  "longitude": "128.7135"
+},
+{
+  "number": "13",
+  "storeName": "복권명당율하점",
+  "phoneNumber": "053-965-7668",
+  "address": "대구 동구 율하동 898-5번지",
+  "latitude": "35.870167",
+  "longitude": "128.69803"
+},
+{
+  "number": "14",
+  "storeName": "복권명당",
+  "phoneNumber": "053-744-4656",
+  "address": "대구 동구 신천동 483-18",
+  "latitude": "35.87415",
+  "longitude": "128.63425"
+},
+{
+  "number": "15",
+  "storeName": "복권명당",
+  "phoneNumber": "053-943-2006",
+  "address": "대구 동구 효목동 173-2번지",
+  "latitude": "35.88142",
+  "longitude": "128.6462"
+},
+{
+  "number": "16",
+  "storeName": "복권천국",
+  "phoneNumber": "053-957-8507",
+  "address": "대구 동구 신암동 185-1번지",
+  "latitude": "35.878063",
+  "longitude": "128.61798"
+},
+{
+  "number": "17",
+  "storeName": "이마트24대구안심점",
+  "phoneNumber": "053-963-0501",
+  "address": "대구 동구 괴전동 165-4번지 이마트24",
+  "latitude": "35.870678",
+  "longitude": "128.73285"
+},
+{
+  "number": "18",
+  "storeName": "해안25시",
+  "phoneNumber": "053-982-2006",
+  "address": "대구 동구 방촌동 1010-53번지",
+  "latitude": "35.884285",
+  "longitude": "128.66016"
+},
+{
+  "number": "19",
+  "storeName": "훼미리팔공지묘점내로또복권판매점",
+  "phoneNumber": "053-986-7197",
+  "address": "대구 동구 지묘동 818-1번지",
+  "latitude": "35.94127",
+  "longitude": "128.63757"
+},
+{
+  "number": "20",
+  "storeName": "복권명당",
+  "phoneNumber": "053-985-8860",
+  "address": "대구 동구 입석동 930-66번지",
+  "latitude": "35.889996",
+  "longitude": "128.64682"
+},
+{
+  "number": "21",
+  "storeName": "복권명당(효동점)",
+  "phoneNumber": "053-957-7834",
+  "address": "대구 동구 효목동 89-14 동촌 강나루아파트 건너편",
+  "latitude": "35.885185",
+  "longitude": "128.64224"
+},
+{
+  "number": "22",
+  "storeName": "복권천국",
+  "phoneNumber": "053-985-0645",
+  "address": "대구 동구 방촌동 1118-116번지",
+  "latitude": "35.87669",
+  "longitude": "128.66986"
+},
+{
+  "number": "23",
+  "storeName": "대운통상",
+  "phoneNumber": "",
+  "address": "대구 동구 방촌동 1050-71",
+  "latitude": "35.88289",
+  "longitude": "128.66174"
+},
+{
+  "number": "24",
+  "storeName": "복권명당신기점",
+  "phoneNumber": "",
+  "address": "대구 동구 신기동 44-5번지",
+  "latitude": "35.869392",
+  "longitude": "128.70767"
+},
+{
+  "number": "25",
+  "storeName": "로또명당(효목점)",
+  "phoneNumber": "053-745-6450",
+  "address": "대구 동구 효목동 353-8번지",
+  "latitude": "35.877983",
+  "longitude": "128.6401"
+},
+{
+  "number": "26",
+  "storeName": "동구시장토큰박스",
+  "phoneNumber": "053-742-5106",
+  "address": "대구 동구 효목동 532번지 토큰박스",
+  "latitude": "35.873875",
+  "longitude": "128.63942"
+},
+{
+  "number": "27",
+  "storeName": "토큰박스동구청",
+  "phoneNumber": "053-957-3209",
+  "address": "대구 동구 신암동 100-1 토큰박스",
+  "latitude": "35.887203",
+  "longitude": "128.63496"
+},
+{
+  "number": "28",
+  "storeName": "씨유 지저동",
+  "phoneNumber": "053-981-9842",
+  "address": "대구 동구 지저동 761-48 1층 CU편의잠",
+  "latitude": "35.893665",
+  "longitude": "128.63766"
+},
+{
+  "number": "29",
+  "storeName": "토큰박스",
+  "phoneNumber": "053-756-1134",
+  "address": "대구 동구 신천동 329-15번지 토큰박스",
+  "latitude": "35.877716",
+  "longitude": "128.62944"
+},
+{
+  "number": "30",
+  "storeName": "토큰판매소",
+  "phoneNumber": "053-957-1397",
+  "address": "대구 동구 효목동 956-7번지",
+  "latitude": "35.885582",
+  "longitude": "128.63493"
+},
+{
+  "number": "31",
+  "storeName": "프랜드리",
+  "phoneNumber": "053-958-0645",
+  "address": "대구 동구 신암동 766번지 신암뜨랜채상가111호",
+  "latitude": "35.88334",
+  "longitude": "128.61777"
+},
+{
+  "number": "32",
+  "storeName": "공항게임방",
+  "phoneNumber": "053-985-5155",
+  "address": "대구 동구 지저동 669-41번지",
+  "latitude": "35.896847",
+  "longitude": "128.63773"
+},
+{
+  "number": "33",
+  "storeName": "가인안경",
+  "phoneNumber": "053-958-7300",
+  "address": "대구 동구 효목동 120-48번지",
+  "latitude": "35.88376",
+  "longitude": "128.64142"
+},
+{
+  "number": "34",
+  "storeName": "복권명당",
+  "phoneNumber": "053-963-1703",
+  "address": "대구 동구 신기동 125-4",
+  "latitude": "35.8729",
+  "longitude": "128.70462"
+},
+{
+  "number": "35",
+  "storeName": "대진",
+  "phoneNumber": "053-965-9973",
+  "address": "대구 동구 율하동 1230번지 훼미리마트",
+  "latitude": "35.86574",
+  "longitude": "128.696"
+},
+{
+  "number": "36",
+  "storeName": "로또대박파티마삼거리",
+  "phoneNumber": "",
+  "address": "대구 동구 신암동 620-61 이노PC방",
+  "latitude": "35.883923",
+  "longitude": "128.6256"
+},
+{
+  "number": "37",
+  "storeName": "복권명당(세븐신서롯데점)",
+  "phoneNumber": "053-952-8544",
+  "address": "대구 동구 신서동 621-7 1층 세븐일레븐",
+  "latitude": "35.870564",
+  "longitude": "128.72267"
+},
+{
+  "number": "38",
+  "storeName": "복권당첨",
+  "phoneNumber": "053-951-4843",
+  "address": "대구 동구 신천동 556-1번지 신천주공상가102동114호",
+  "latitude": "35.874798",
+  "longitude": "128.61305"
+},
+{
+  "number": "39",
+  "storeName": "다산종합관리",
+  "phoneNumber": "053-982-7911",
+  "address": "대구 동구 용계동 420-6번지",
+  "latitude": "35.877655",
+  "longitude": "128.67621"
+},
+{
+  "number": "40",
+  "storeName": "로또복권",
+  "phoneNumber": "053-756-0275",
+  "address": "대구 동구 신천동 312-5 1층 GS25편의점내",
+  "latitude": "35.88337",
+  "longitude": "128.63173"
+},
+{
+  "number": "41",
+  "storeName": "로또동호점",
+  "phoneNumber": "053-962-5415",
+  "address": "대구 동구 동호동 366-4 1층 CU편의점내",
+  "latitude": "35.867554",
+  "longitude": "128.72368"
+},
+{
+  "number": "42",
+  "storeName": "CU(방촌점)",
+  "phoneNumber": "053-983-6555",
+  "address": "대구 동구 방촌동 871-20번지",
+  "latitude": "35.880165",
+  "longitude": "128.66922"
+},
+{
+  "number": "43",
+  "storeName": "씨스페이스(동구혁신점)",
+  "phoneNumber": "053-756-3416",
+  "address": "대구 동구 동호동 116-1번지",
+  "latitude": "35.871895",
+  "longitude": "128.71349"
+},
+{
+  "number": "44",
+  "storeName": "GS25(신천제일점)",
+  "phoneNumber": "053-753-1013",
+  "address": "대구 동구 신천동 126-1번지",
+  "latitude": "35.8694",
+  "longitude": "128.62358"
+},
+{
+  "number": "45",
+  "storeName": "팅크잉크토너전문점",
+  "phoneNumber": "053-257-0456",
+  "address": "대구 동구 신천동 739-25번지 현대아파트점포5호",
+  "latitude": "35.872307",
+  "longitude": "128.61852"
+}
+]

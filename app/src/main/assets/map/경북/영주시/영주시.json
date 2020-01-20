@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "챔스",
+  "phoneNumber": "054-632-8948",
+  "address": "경북 영주시 영주동 422-1 경북 영주시 중앙로 51",
+  "latitude": "36.821266",
+  "longitude": "128.62201"
+},
+{
+  "number": "2",
+  "storeName": "복권명당",
+  "phoneNumber": "054-638-0060",
+  "address": "경북 영주시 하망동 252-56번지",
+  "latitude": "36.827198",
+  "longitude": "128.63214"
+},
+{
+  "number": "3",
+  "storeName": "광시당",
+  "phoneNumber": "054-632-1824",
+  "address": "경북 영주시 하망동 422-42번지",
+  "latitude": "36.822617",
+  "longitude": "128.62714"
+},
+{
+  "number": "4",
+  "storeName": "황금복권",
+  "phoneNumber": "054-634-0810",
+  "address": "경북 영주시 영주동 504-4번지",
+  "latitude": "36.82495",
+  "longitude": "128.62068"
+},
+{
+  "number": "5",
+  "storeName": "불타는복권",
+  "phoneNumber": "054-638-3430",
+  "address": "경북 영주시 풍기읍 성내리 33-1",
+  "latitude": "36.871708",
+  "longitude": "128.52753"
+},
+{
+  "number": "6",
+  "storeName": "진양상회",
+  "phoneNumber": "054-636-0727",
+  "address": "경북 영주시 휴천동 303-21번지",
+  "latitude": "36.811256",
+  "longitude": "128.62402"
+},
+{
+  "number": "7",
+  "storeName": "거부로또",
+  "phoneNumber": "054-631-2130",
+  "address": "경북 영주시 영주동 364-5번지",
+  "latitude": "36.8257",
+  "longitude": "128.62437"
+},
+{
+  "number": "8",
+  "storeName": "세중로또",
+  "phoneNumber": "054-635-3037",
+  "address": "경북 영주시 가흥동 1735 CU편의점",
+  "latitude": "36.818653",
+  "longitude": "128.58537"
+},
+{
+  "number": "9",
+  "storeName": "세븐일레븐영주가흥로또점",
+  "phoneNumber": "054-633-2954",
+  "address": "경북 영주시 가흥동 1976-2번지",
+  "latitude": "36.809612",
+  "longitude": "128.60942"
+},
+{
+  "number": "10",
+  "storeName": "세븐일레븐풍기ic점",
+  "phoneNumber": "054-631-7707",
+  "address": "경북 영주시 봉현면 오현리 156 경북 영주시 소백로 1755 세븐일레븐",
+  "latitude": "36.857845",
+  "longitude": "128.52628"
+},
+{
+  "number": "11",
+  "storeName": "로또나라",
+  "phoneNumber": "054-633-7790",
+  "address": "경북 영주시 휴천동 493-45번지",
+  "latitude": "36.80824",
+  "longitude": "128.61948"
+},
+{
+  "number": "12",
+  "storeName": "행운복권",
+  "phoneNumber": "054-633-7544",
+  "address": "경북 영주시 영주동 511-9 경북 영주시 영주로154 1층 cu편의점",
+  "latitude": "36.824978",
+  "longitude": "128.61667"
+},
+{
+  "number": "13",
+  "storeName": "씨유 영주 가흥대로점",
+  "phoneNumber": "054-632-9666",
+  "address": "경북 영주시 가흥동 1821 CU가흥대로점",
+  "latitude": "36.81281",
+  "longitude": "128.6165"
+}
+]

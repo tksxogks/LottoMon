@@ -1,0 +1,234 @@
+[
+{
+  "number": "1",
+  "storeName": "도울복권",
+  "phoneNumber": "062-222-3168",
+  "address": "광주 동구 궁동 61-4번지",
+  "latitude": "35.150364",
+  "longitude": "126.91796"
+},
+{
+  "number": "2",
+  "storeName": "형제기획 복권시대",
+  "phoneNumber": "062-228-4872",
+  "address": "광주 동구 금남로5가 166 복권시대",
+  "latitude": "35.151188",
+  "longitude": "126.91412"
+},
+{
+  "number": "3",
+  "storeName": "대박복권방",
+  "phoneNumber": "062-225-2400",
+  "address": "광주 동구 용산동 273-2번지 대박복권방",
+  "latitude": "35.121124",
+  "longitude": "126.932976"
+},
+{
+  "number": "4",
+  "storeName": "신영복권방",
+  "phoneNumber": "062-224-2898",
+  "address": "광주 동구 계림동 485-58번지 신영복권방",
+  "latitude": "35.157513",
+  "longitude": "126.91814"
+},
+{
+  "number": "5",
+  "storeName": "오케이 홈네트윅스",
+  "phoneNumber": "062-432-8989",
+  "address": "광주 동구 산수동 526-27번지",
+  "latitude": "35.155323",
+  "longitude": "126.933685"
+},
+{
+  "number": "6",
+  "storeName": "줄리아나마트",
+  "phoneNumber": "062-234-3658",
+  "address": "광주 동구 충장로3가 11번지 1층 줄리아나마트",
+  "latitude": "35.14884",
+  "longitude": "126.915764"
+},
+{
+  "number": "7",
+  "storeName": "훼미리그랜드",
+  "phoneNumber": "062-222-3694",
+  "address": "광주 동구 학동 734-2번지 CU그랜드점내",
+  "latitude": "35.13252",
+  "longitude": "126.93137"
+},
+{
+  "number": "8",
+  "storeName": "부흥",
+  "phoneNumber": "062-234-1281",
+  "address": "광주 동구 학동 44-7 알리바이 학동점내",
+  "latitude": "35.12398",
+  "longitude": "126.9319"
+},
+{
+  "number": "9",
+  "storeName": "지산로또방",
+  "phoneNumber": "062-232-3824",
+  "address": "광주 동구 지산동 443번지",
+  "latitude": "35.148766",
+  "longitude": "126.93072"
+},
+{
+  "number": "10",
+  "storeName": "행복로또",
+  "phoneNumber": "",
+  "address": "광주 동구 학동 876-11번지 행복로또",
+  "latitude": "35.132965",
+  "longitude": "126.92803"
+},
+{
+  "number": "11",
+  "storeName": "일공공안경콘택트",
+  "phoneNumber": "062-225-0500",
+  "address": "광주 동구 대의동 2번지 일공공안경",
+  "latitude": "35.15029",
+  "longitude": "126.920616"
+},
+{
+  "number": "12",
+  "storeName": "GS25 두암타운점",
+  "phoneNumber": "062-251-7142",
+  "address": "광주 동구 산수동 685",
+  "latitude": "35.160973",
+  "longitude": "126.9355"
+},
+{
+  "number": "13",
+  "storeName": "복권방",
+  "phoneNumber": "062-225-1666",
+  "address": "광주 동구 계림동 471-30번지",
+  "latitude": "35.15542",
+  "longitude": "126.91696"
+},
+{
+  "number": "14",
+  "storeName": "알리바이 계림점",
+  "phoneNumber": "062-232-1282",
+  "address": "광주 동구 계림동 519-1번지 알리바이내",
+  "latitude": "35.15973",
+  "longitude": "126.9262"
+},
+{
+  "number": "15",
+  "storeName": "충장인업사",
+  "phoneNumber": "062-227-3862",
+  "address": "광주 동구 학동 110-15번지",
+  "latitude": "35.14166",
+  "longitude": "126.920975"
+},
+{
+  "number": "16",
+  "storeName": "씨유 광주산수점",
+  "phoneNumber": "062-223-7953",
+  "address": "광주 동구 산수동 494-12",
+  "latitude": "35.153786",
+  "longitude": "126.92438"
+},
+{
+  "number": "17",
+  "storeName": "시청슈퍼",
+  "phoneNumber": "062-523-2772",
+  "address": "광주 동구 계림동 560-18번지",
+  "latitude": "35.162308",
+  "longitude": "126.91711"
+},
+{
+  "number": "18",
+  "storeName": "24시편의점",
+  "phoneNumber": "062-226-5558",
+  "address": "광주 동구 충장로1가 8-2번지 해피데이편의점내",
+  "latitude": "35.148266",
+  "longitude": "126.91289"
+},
+{
+  "number": "19",
+  "storeName": "맑은샘",
+  "phoneNumber": "062-233-5757",
+  "address": "광주 동구 충장로4가 29-2번지 밀리오레앞도로 가판",
+  "latitude": "35.148766",
+  "longitude": "126.91308"
+},
+{
+  "number": "20",
+  "storeName": "CU(광주학동점)",
+  "phoneNumber": "062-236-2290",
+  "address": "광주 동구 학동 618-9번지",
+  "latitude": "35.13666",
+  "longitude": "126.92591"
+},
+{
+  "number": "21",
+  "storeName": "대박이네",
+  "phoneNumber": "062-227-1393",
+  "address": "광주 동구 서석동 50-4번지",
+  "latitude": "35.14593",
+  "longitude": "126.92214"
+},
+{
+  "number": "22",
+  "storeName": "위드미",
+  "phoneNumber": "062-224-7277",
+  "address": "광주 동구 금동 50 위드미편의점내",
+  "latitude": "35.143597",
+  "longitude": "126.91576"
+},
+{
+  "number": "23",
+  "storeName": "노다지슈퍼",
+  "phoneNumber": "062-226-4374",
+  "address": "광주 동구 금남로5가 37-6번지 1층",
+  "latitude": "35.153484",
+  "longitude": "126.91082"
+},
+{
+  "number": "24",
+  "storeName": "천재일우",
+  "phoneNumber": "062-226-1012",
+  "address": "광주 동구 지산동 706-22번지",
+  "latitude": "35.150158",
+  "longitude": "126.93688"
+},
+{
+  "number": "25",
+  "storeName": "씨유서석그랜드점",
+  "phoneNumber": "062-224-3678",
+  "address": "광주 동구 서석동 24-9 CU서석그랜드점",
+  "latitude": "35.148354",
+  "longitude": "126.918755"
+},
+{
+  "number": "26",
+  "storeName": "일등복권방슈퍼",
+  "phoneNumber": "062-225-2029",
+  "address": "광주 동구 장동 103-14",
+  "latitude": "35.147163",
+  "longitude": "126.922134"
+},
+{
+  "number": "27",
+  "storeName": "1등로또방",
+  "phoneNumber": "062-223-3535",
+  "address": "광주 동구 계림동 378-3",
+  "latitude": "35.15543",
+  "longitude": "126.92211"
+},
+{
+  "number": "28",
+  "storeName": "홈마트복권",
+  "phoneNumber": "062-225-2582",
+  "address": "광주 동구 지산동 507-9 홈마트내",
+  "latitude": "35.14506",
+  "longitude": "126.92933"
+},
+{
+  "number": "29",
+  "storeName": "고래복권",
+  "phoneNumber": "",
+  "address": "광주 동구 호남동 37-2",
+  "latitude": "35.148876",
+  "longitude": "126.91244"
+}
+]

@@ -1,0 +1,594 @@
+[
+{
+  "number": "1",
+  "storeName": "삼영복권",
+  "phoneNumber": "055-337-9226",
+  "address": "경남 김해시 내외동 322-3번지 1층",
+  "latitude": "35.22981",
+  "longitude": "128.86818"
+},
+{
+  "number": "2",
+  "storeName": "로또통신",
+  "phoneNumber": "055-324-0077",
+  "address": "경남 김해시 내외동 1252-2번지 삼우빌딩104호",
+  "latitude": "35.234207",
+  "longitude": "128.86586"
+},
+{
+  "number": "3",
+  "storeName": "돈벼락맞는곳",
+  "phoneNumber": "070-7533-8395",
+  "address": "경남 김해시 불암동 220-253번지",
+  "latitude": "35.222237",
+  "longitude": "128.92819"
+},
+{
+  "number": "4",
+  "storeName": "신라슈퍼",
+  "phoneNumber": "055-342-1165",
+  "address": "경남 김해시 진영읍 여래리 711-1",
+  "latitude": "35.302757",
+  "longitude": "128.7365"
+},
+{
+  "number": "5",
+  "storeName": "코사마트김해점",
+  "phoneNumber": "055-337-2933",
+  "address": "경남 김해시 안동 172-1번지",
+  "latitude": "35.236214",
+  "longitude": "128.91772"
+},
+{
+  "number": "6",
+  "storeName": "AM\u0026PM",
+  "phoneNumber": "055-327-4867",
+  "address": "경남 김해시 부원동 839-8번지",
+  "latitude": "35.230354",
+  "longitude": "128.8819"
+},
+{
+  "number": "7",
+  "storeName": "MONEY(편의점)",
+  "phoneNumber": "055-314-7717",
+  "address": "경남 김해시 317-7번지 110호",
+  "latitude": "35.192936",
+  "longitude": "128.80331"
+},
+{
+  "number": "8",
+  "storeName": "행운소리 로또판매점",
+  "phoneNumber": "",
+  "address": "경남 김해시 진영읍 죽곡리 203 행복플러스25편의점 내",
+  "latitude": "35.277767",
+  "longitude": "128.76694"
+},
+{
+  "number": "9",
+  "storeName": "구산복권방",
+  "phoneNumber": "055-338-1270",
+  "address": "경남 김해시 북부동 481-3 보보스빌딩 107호",
+  "latitude": "35.250893",
+  "longitude": "128.87221"
+},
+{
+  "number": "10",
+  "storeName": "외동복권",
+  "phoneNumber": "055-328-2508",
+  "address": "경남 김해시 대동면 초정리 136-5 GS편의점 내",
+  "latitude": "35.236385",
+  "longitude": "128.986"
+},
+{
+  "number": "11",
+  "storeName": "진영로또판매점",
+  "phoneNumber": "",
+  "address": "경남 김해시 진영읍 여래리 700-11번지",
+  "latitude": "35.30297",
+  "longitude": "128.73392"
+},
+{
+  "number": "12",
+  "storeName": "복권나라",
+  "phoneNumber": "",
+  "address": "경남 김해시 율하동 1352-1번지 중앙프라자101호가층나호",
+  "latitude": "35.172794",
+  "longitude": "128.81566"
+},
+{
+  "number": "13",
+  "storeName": "대박복권방",
+  "phoneNumber": "055-339-1843",
+  "address": "경남 김해시 삼정동 592-3번지 대박복권방",
+  "latitude": "35.232124",
+  "longitude": "128.89606"
+},
+{
+  "number": "14",
+  "storeName": "수퍼복권나라",
+  "phoneNumber": "055-327-5825",
+  "address": "경남 김해시 삼안동 543-3번지 1층 복권판매점",
+  "latitude": "35.228905",
+  "longitude": "128.91562"
+},
+{
+  "number": "15",
+  "storeName": "로또냉동",
+  "phoneNumber": "055-311-1212",
+  "address": "경남 김해시 장유1동 1163-9번지 삼봉타운상가 1층4호",
+  "latitude": "35.201473",
+  "longitude": "128.81165"
+},
+{
+  "number": "16",
+  "storeName": "다올DC마트",
+  "phoneNumber": "055-338-7382",
+  "address": "경남 김해시 356-5번지",
+  "latitude": "35.242077",
+  "longitude": "128.90067"
+},
+{
+  "number": "17",
+  "storeName": "행운복권방",
+  "phoneNumber": "055-335-8214",
+  "address": "경남 김해시 북부동 104번지",
+  "latitude": "35.238834",
+  "longitude": "128.87659"
+},
+{
+  "number": "18",
+  "storeName": "복슈퍼",
+  "phoneNumber": "055-327-2828",
+  "address": "경남 김해시 북부동 1410-2 분성마을5단지 푸르지오주상가1층111호",
+  "latitude": "35.27012",
+  "longitude": "128.86241"
+},
+{
+  "number": "19",
+  "storeName": "삼거리슈퍼",
+  "phoneNumber": "055-335-2479",
+  "address": "경남 김해시 부원동 845-1",
+  "latitude": "35.230972",
+  "longitude": "128.88298"
+},
+{
+  "number": "20",
+  "storeName": "삼방동토토플러스복권방",
+  "phoneNumber": "055-335-3981",
+  "address": "경남 김해시 삼방동 667-9번지",
+  "latitude": "35.249374",
+  "longitude": "128.91032"
+},
+{
+  "number": "21",
+  "storeName": "로또카페",
+  "phoneNumber": "055-339-8295",
+  "address": "경남 김해시 454-13 1층 커피전문점",
+  "latitude": "35.17721",
+  "longitude": "128.8029"
+},
+{
+  "number": "22",
+  "storeName": "영화채널24할인마트",
+  "phoneNumber": "055-313-9991",
+  "address": "경남 김해시 52-3번지 비전타워104호",
+  "latitude": "35.193726",
+  "longitude": "128.79701"
+},
+{
+  "number": "23",
+  "storeName": "복권방",
+  "phoneNumber": "055-346-7234",
+  "address": "경남 김해시 진례면 신안리 367-1번지",
+  "latitude": "35.266453",
+  "longitude": "128.75356"
+},
+{
+  "number": "24",
+  "storeName": "로또명당",
+  "phoneNumber": "055-312-2124",
+  "address": "경남 김해시 56-8번지 남명프라자1층 CU편의점내",
+  "latitude": "35.19357",
+  "longitude": "128.79964"
+},
+{
+  "number": "25",
+  "storeName": "씨스페이스(한림신천점)",
+  "phoneNumber": "055-342-0881",
+  "address": "경남 김해시 한림면 신천리 789-7번지",
+  "latitude": "35.277153",
+  "longitude": "128.82863"
+},
+{
+  "number": "26",
+  "storeName": "씨스페이스(삼정점)",
+  "phoneNumber": "055-312-2267",
+  "address": "경남 김해시 활천동 634-1",
+  "latitude": "35.23373",
+  "longitude": "128.89935"
+},
+{
+  "number": "27",
+  "storeName": "씨스페이스(어방가야점)",
+  "phoneNumber": "055-332-8833",
+  "address": "경남 김해시 어방동 531-4번지",
+  "latitude": "35.244053",
+  "longitude": "128.90582"
+},
+{
+  "number": "28",
+  "storeName": "GS25(김해인덕점)",
+  "phoneNumber": "055-337-8929",
+  "address": "경남 김해시 삼방동 160-7",
+  "latitude": "35.246544",
+  "longitude": "128.9041"
+},
+{
+  "number": "29",
+  "storeName": "씨스페이스(삼계가야점)",
+  "phoneNumber": "055-333-3638",
+  "address": "경남 김해시 삼계동 1462-9번지 102호",
+  "latitude": "35.263203",
+  "longitude": "128.87073"
+},
+{
+  "number": "30",
+  "storeName": "주촌대박로또점",
+  "phoneNumber": "055-338-5020",
+  "address": "경남 김해시 주촌면 천곡리 9-2 세븐일레븐 편의점 내",
+  "latitude": "35.239815",
+  "longitude": "128.83084"
+},
+{
+  "number": "31",
+  "storeName": "포시즌",
+  "phoneNumber": "055-335-9766",
+  "address": "경남 김해시 내외동 1123-1번지 복권판매점",
+  "latitude": "35.238846",
+  "longitude": "128.86702"
+},
+{
+  "number": "32",
+  "storeName": "삼성복권마트",
+  "phoneNumber": "055-337-9973",
+  "address": "경남 김해시 외동 703-1번지",
+  "latitude": "35.233974",
+  "longitude": "128.85205"
+},
+{
+  "number": "33",
+  "storeName": "성미상회",
+  "phoneNumber": "055-322-9997",
+  "address": "경남 김해시 내외동 1185-2",
+  "latitude": "35.235302",
+  "longitude": "128.86003"
+},
+{
+  "number": "34",
+  "storeName": "천사마트복권방",
+  "phoneNumber": "055-339-3008",
+  "address": "경남 김해시 상동면 대감리 651-3번지",
+  "latitude": "35.30898",
+  "longitude": "128.93214"
+},
+{
+  "number": "35",
+  "storeName": "라쌍떼복권(오렌지마트)",
+  "phoneNumber": "055-321-6625",
+  "address": "경남 김해시 내외동 1101-7번지",
+  "latitude": "35.237427",
+  "longitude": "128.85864"
+},
+{
+  "number": "36",
+  "storeName": "꿈의가게",
+  "phoneNumber": "070-7309-2515",
+  "address": "경남 김해시 어방동 1096-12번지",
+  "latitude": "35.235283",
+  "longitude": "128.90453"
+},
+{
+  "number": "37",
+  "storeName": "씨스페이스(김해구산점)",
+  "phoneNumber": "055-328-3676",
+  "address": "경남 김해시 구산동 275-6번지",
+  "latitude": "35.248646",
+  "longitude": "128.87271"
+},
+{
+  "number": "38",
+  "storeName": "씨스페이스(김해부원점)",
+  "phoneNumber": "055-322-6094",
+  "address": "경남 김해시 부원동 607-17번지",
+  "latitude": "35.22737",
+  "longitude": "128.88278"
+},
+{
+  "number": "39",
+  "storeName": "GS25(김해가야점)",
+  "phoneNumber": "055-321-4182",
+  "address": "경남 김해시 부원동 610-33번지",
+  "latitude": "35.229393",
+  "longitude": "128.88342"
+},
+{
+  "number": "40",
+  "storeName": "GS25(김해서상점)",
+  "phoneNumber": "055-311-6699",
+  "address": "경남 김해시 서상동 152-10번지 1층",
+  "latitude": "35.233295",
+  "longitude": "128.88148"
+},
+{
+  "number": "41",
+  "storeName": "GS25(김해하나점)",
+  "phoneNumber": "055-324-6862",
+  "address": "경남 김해시 부원동 607-6번지",
+  "latitude": "35.22791",
+  "longitude": "128.88385"
+},
+{
+  "number": "42",
+  "storeName": "CU(김해활천점)",
+  "phoneNumber": "055-333-0535",
+  "address": "경남 김해시 어방동 1131-8번지",
+  "latitude": "35.236763",
+  "longitude": "128.90364"
+},
+{
+  "number": "43",
+  "storeName": "로또판매점",
+  "phoneNumber": "055-345-3548",
+  "address": "경남 김해시 진영읍 진영리 1523번지 CU편의점 내",
+  "latitude": "35.30652",
+  "longitude": "128.72618"
+},
+{
+  "number": "44",
+  "storeName": "로또 골든루트점",
+  "phoneNumber": "055-338-1700",
+  "address": "경남 김해시 주촌면 망덕리 904-3 1층 GS편의점내",
+  "latitude": "35.22208",
+  "longitude": "128.82454"
+},
+{
+  "number": "45",
+  "storeName": "로또복권",
+  "phoneNumber": "055-322-0012",
+  "address": "경남 김해시 279-45번지 복권판매점",
+  "latitude": "35.236618",
+  "longitude": "128.9147"
+},
+{
+  "number": "46",
+  "storeName": "로또행운마트",
+  "phoneNumber": "055-313-2345",
+  "address": "경남 김해시 155-12번지",
+  "latitude": "35.20378",
+  "longitude": "128.81003"
+},
+{
+  "number": "47",
+  "storeName": "수성공인중개사사무소",
+  "phoneNumber": "055-331-6303",
+  "address": "경남 김해시 내외동 1186-15",
+  "latitude": "35.23418",
+  "longitude": "128.8605"
+},
+{
+  "number": "48",
+  "storeName": "누리 복권",
+  "phoneNumber": "055-312-7790",
+  "address": "경남 김해시 외동 1249-4 1층 144호, 한국2차아파트 주상가",
+  "latitude": "35.23214",
+  "longitude": "128.8648"
+},
+{
+  "number": "49",
+  "storeName": "김해명당복권",
+  "phoneNumber": "055-328-0770",
+  "address": "경남 김해시 주촌면 천곡리 503 메카마트 내",
+  "latitude": "35.23736",
+  "longitude": "128.82994"
+},
+{
+  "number": "50",
+  "storeName": "은성로또",
+  "phoneNumber": "055-328-0553",
+  "address": "경남 김해시 삼정동 663-5 1층 CU편의점 내",
+  "latitude": "35.228428",
+  "longitude": "128.90181"
+},
+{
+  "number": "51",
+  "storeName": "대풍로또판매점",
+  "phoneNumber": "055-337-4380",
+  "address": "경남 김해시 579-11",
+  "latitude": "35.19227",
+  "longitude": "128.80525"
+},
+{
+  "number": "52",
+  "storeName": "행운복권방",
+  "phoneNumber": "055-325-3511",
+  "address": "경남 김해시 부원동 601-9 1층",
+  "latitude": "35.22971",
+  "longitude": "128.8821"
+},
+{
+  "number": "53",
+  "storeName": "지-아트",
+  "phoneNumber": "055-311-8226",
+  "address": "경남 김해시 1315-8 복권판매점",
+  "latitude": "35.170403",
+  "longitude": "128.81203"
+},
+{
+  "number": "54",
+  "storeName": "초이스복권카페",
+  "phoneNumber": "055-345-8836",
+  "address": "경남 김해시 진영읍 진영리 1614-9 1층 105호 CU편의점 그랜드프라자 내",
+  "latitude": "35.30701",
+  "longitude": "128.72984"
+},
+{
+  "number": "55",
+  "storeName": "로또복권방",
+  "phoneNumber": "055-311-9954",
+  "address": "경남 김해시 구산동 1083-1 1-1호 CU김해구산캐스빌점 내",
+  "latitude": "35.253025",
+  "longitude": "128.86699"
+},
+{
+  "number": "56",
+  "storeName": "블루25",
+  "phoneNumber": "055-326-9992",
+  "address": "경남 김해시 616-7",
+  "latitude": "35.228024",
+  "longitude": "128.88493"
+},
+{
+  "number": "57",
+  "storeName": "삼정상회",
+  "phoneNumber": "",
+  "address": "경남 김해시 활천동 108-13 가동 109호",
+  "latitude": "35.229755",
+  "longitude": "128.89359"
+},
+{
+  "number": "58",
+  "storeName": "365팡팡복권",
+  "phoneNumber": "055-342-3688",
+  "address": "경남 김해시 진영읍 진영리 1611-3번지 상가136동108호",
+  "latitude": "35.31203",
+  "longitude": "128.73308"
+},
+{
+  "number": "59",
+  "storeName": "고기집",
+  "phoneNumber": "055-331-4860",
+  "address": "경남 김해시 북부동 1478-2 1층 복권판매점",
+  "latitude": "35.261948",
+  "longitude": "128.8707"
+},
+{
+  "number": "60",
+  "storeName": "홈런복권방",
+  "phoneNumber": "",
+  "address": "경남 김해시 1108-1 이마트24 편의점 내",
+  "latitude": "35.17695",
+  "longitude": "128.81602"
+},
+{
+  "number": "61",
+  "storeName": "행복로또방",
+  "phoneNumber": "",
+  "address": "경남 김해시 활천동 652-6",
+  "latitude": "35.231197",
+  "longitude": "128.90303"
+},
+{
+  "number": "62",
+  "storeName": "대동복권방",
+  "phoneNumber": "055-313-7207",
+  "address": "경남 김해시 802-2 이마트24편의점 내",
+  "latitude": "35.207104",
+  "longitude": "128.80556"
+},
+{
+  "number": "63",
+  "storeName": "대운복권",
+  "phoneNumber": "",
+  "address": "경남 김해시 321-7 영해빌딩 106호 복권판매점",
+  "latitude": "35.18672",
+  "longitude": "128.79752"
+},
+{
+  "number": "64",
+  "storeName": "드림마트",
+  "phoneNumber": "",
+  "address": "경남 김해시 삼정동 617-5 1층",
+  "latitude": "35.228157",
+  "longitude": "128.89613"
+},
+{
+  "number": "65",
+  "storeName": "오름복권",
+  "phoneNumber": "055-346-2204",
+  "address": "경남 김해시 진례면 송정리 336-6 CU편의점 내",
+  "latitude": "35.252323",
+  "longitude": "128.74742"
+},
+{
+  "number": "66",
+  "storeName": "빙그레 돈벼락 맞는곳",
+  "phoneNumber": "055-345-8261",
+  "address": "경남 김해시 한림면 병동리 980-7 CU편의점 내",
+  "latitude": "35.293255",
+  "longitude": "128.78294"
+},
+{
+  "number": "67",
+  "storeName": "토토전문점",
+  "phoneNumber": "055-333-9645",
+  "address": "경남 김해시 북부동 1487-5번지 거림맥스랜드103호",
+  "latitude": "35.261227",
+  "longitude": "128.87163"
+},
+{
+  "number": "68",
+  "storeName": "행운로또방",
+  "phoneNumber": "",
+  "address": "경남 김해시 진영읍 진영리 1620-8 103호",
+  "latitude": "35.30813",
+  "longitude": "128.73322"
+},
+{
+  "number": "69",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "경남 김해시 장유1동 196-4",
+  "latitude": "35.20075",
+  "longitude": "128.81541"
+},
+{
+  "number": "70",
+  "storeName": "율상 복권방",
+  "phoneNumber": "",
+  "address": "경남 김해시 1297 상가309동104-2호",
+  "latitude": "35.173",
+  "longitude": "128.8083"
+},
+{
+  "number": "71",
+  "storeName": "황금로또",
+  "phoneNumber": "",
+  "address": "경남 김해시 내외동 704-15",
+  "latitude": "35.23254",
+  "longitude": "128.85182"
+},
+{
+  "number": "72",
+  "storeName": "일등복권",
+  "phoneNumber": "",
+  "address": "경남 김해시 1500-14 복권판매점",
+  "latitude": "35.257023",
+  "longitude": "128.86652"
+},
+{
+  "number": "73",
+  "storeName": "골든복권방",
+  "phoneNumber": "055-313-0945",
+  "address": "경남 김해시 주촌면 농소리 637-1 골든공구종합상사 내",
+  "latitude": "35.213318",
+  "longitude": "128.8302"
+},
+{
+  "number": "74",
+  "storeName": "운좋은 복권방",
+  "phoneNumber": "",
+  "address": "경남 김해시 장유2동 60-3 106호",
+  "latitude": "35.196564",
+  "longitude": "128.80309"
+}
+]

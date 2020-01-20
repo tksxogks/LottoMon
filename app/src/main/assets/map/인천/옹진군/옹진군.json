@@ -1,0 +1,18 @@
+[
+{
+  "number": "1",
+  "storeName": "백령로또",
+  "phoneNumber": "",
+  "address": "인천 옹진군 백령면 진촌리 740-1번지",
+  "latitude": "37.972042",
+  "longitude": "124.72061"
+},
+{
+  "number": "2",
+  "storeName": "김영로또",
+  "phoneNumber": "032-886-0523",
+  "address": "인천 옹진군 영흥면 내리 8-165번지",
+  "latitude": "37.25469",
+  "longitude": "126.49688"
+}
+]

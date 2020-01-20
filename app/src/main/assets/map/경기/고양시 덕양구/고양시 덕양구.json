@@ -1,0 +1,361 @@
+[
+{
+  "number": "1",
+  "storeName": "대박복권나라",
+  "phoneNumber": "031-963-6425",
+  "address": "경기 고양시 덕양구 관산동 238-10번지",
+  "latitude": "37.688507",
+  "longitude": "126.861946"
+},
+{
+  "number": "2",
+  "storeName": "화정로또",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신동 707-2번지 미우프라자101호",
+  "latitude": "37.613567",
+  "longitude": "126.83368"
+},
+{
+  "number": "3",
+  "storeName": "럭키디엔씨",
+  "phoneNumber": "031-964-3100",
+  "address": "경기 고양시 덕양구 고양동 719 푸른마을3단지상가동106",
+  "latitude": "37.709835",
+  "longitude": "126.90312"
+},
+{
+  "number": "4",
+  "storeName": "현대25시편의점",
+  "phoneNumber": "031-970-0377",
+  "address": "경기 고양시 덕양구 토당동 373-1번지 101호",
+  "latitude": "37.623863",
+  "longitude": "126.8241"
+},
+{
+  "number": "5",
+  "storeName": "복권방",
+  "phoneNumber": "031-972-5078",
+  "address": "경기 고양시 덕양구 동산동 373 1층",
+  "latitude": "37.656612",
+  "longitude": "126.831505"
+},
+{
+  "number": "6",
+  "storeName": "데이앤나잇",
+  "phoneNumber": "031-968-3441",
+  "address": "경기 고양시 덕양구 주교동 578-2번지",
+  "latitude": "37.660076",
+  "longitude": "126.83629"
+},
+{
+  "number": "7",
+  "storeName": "버스표판매소",
+  "phoneNumber": "031-978-1143",
+  "address": "경기 고양시 덕양구 행신동 973 971번지선",
+  "latitude": "37.618294",
+  "longitude": "126.84328"
+},
+{
+  "number": "8",
+  "storeName": "버스표판매소",
+  "phoneNumber": "031-972-4890",
+  "address": "경기 고양시 덕양구 화정동 952번지 부영809동 앞 버스표판매소",
+  "latitude": "37.631996",
+  "longitude": "126.828674"
+},
+{
+  "number": "9",
+  "storeName": "교통카드충전소",
+  "phoneNumber": "031-978-0261",
+  "address": "경기 고양시 덕양구 화정동 1098번지 화정역 2번출구",
+  "latitude": "37.63459",
+  "longitude": "126.83325"
+},
+{
+  "number": "10",
+  "storeName": "화정동롯데마트앞가판점",
+  "phoneNumber": "031-978-3158",
+  "address": "경기 고양시 덕양구 화정동 982번지 롯데마트앞가판점",
+  "latitude": "37.632908",
+  "longitude": "126.83111"
+},
+{
+  "number": "11",
+  "storeName": "로또복권방",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신동 952 1층 105호",
+  "latitude": "37.6233",
+  "longitude": "126.837"
+},
+{
+  "number": "12",
+  "storeName": "화정복권",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 화정동 913-1 1층",
+  "latitude": "37.639103",
+  "longitude": "126.832085"
+},
+{
+  "number": "13",
+  "storeName": "굿프랜즈편의점",
+  "phoneNumber": "031-979-9470",
+  "address": "경기 고양시 덕양구 토당동 877-1번지",
+  "latitude": "37.620583",
+  "longitude": "126.82474"
+},
+{
+  "number": "14",
+  "storeName": "로또복권",
+  "phoneNumber": "031-979-4713",
+  "address": "경기 고양시 덕양구 행신동 637-34번지 효정빌딩103",
+  "latitude": "37.62406",
+  "longitude": "126.83253"
+},
+{
+  "number": "15",
+  "storeName": "웃는로또방",
+  "phoneNumber": "031-974-0187",
+  "address": "경기 고양시 덕양구 토당동 335-113",
+  "latitude": "37.62394",
+  "longitude": "126.817276"
+},
+{
+  "number": "16",
+  "storeName": "필텍시스템",
+  "phoneNumber": "031-974-4440",
+  "address": "경기 고양시 덕양구 토당동 251-16 1층",
+  "latitude": "37.626667",
+  "longitude": "126.81816"
+},
+{
+  "number": "17",
+  "storeName": "24시편의점",
+  "phoneNumber": "031-969-4696",
+  "address": "경기 고양시 덕양구 화정동 908번지 코스미온상가101",
+  "latitude": "37.63799",
+  "longitude": "126.83361"
+},
+{
+  "number": "18",
+  "storeName": "코사마트한양점",
+  "phoneNumber": "031-962-0122",
+  "address": "경기 고양시 덕양구 성사동 499번지",
+  "latitude": "37.65841",
+  "longitude": "126.839554"
+},
+{
+  "number": "19",
+  "storeName": "GS25(고양주교점)",
+  "phoneNumber": "031-968-6322",
+  "address": "경기 고양시 덕양구 주교동 568번지 1층3호",
+  "latitude": "37.657776",
+  "longitude": "126.83491"
+},
+{
+  "number": "20",
+  "storeName": "인스토어편의점",
+  "phoneNumber": "031-962-1212",
+  "address": "경기 고양시 덕양구 화정동 969-1번지 새롬프라자1층 100호",
+  "latitude": "37.635193",
+  "longitude": "126.83191"
+},
+{
+  "number": "21",
+  "storeName": "황금대박방",
+  "phoneNumber": "02-381-2877",
+  "address": "경기 고양시 덕양구 삼송동 30-29번지",
+  "latitude": "37.657597",
+  "longitude": "126.83777"
+},
+{
+  "number": "22",
+  "storeName": "고양월드식품복권",
+  "phoneNumber": "031-962-3210",
+  "address": "경기 고양시 덕양구 고양동 243 삼라마이다스프라자 제1층 제115호",
+  "latitude": "37.70111",
+  "longitude": "126.901794"
+},
+{
+  "number": "23",
+  "storeName": "용천",
+  "phoneNumber": "031-979-3084",
+  "address": "경기 고양시 덕양구 주교동 613",
+  "latitude": "37.657234",
+  "longitude": "126.83522"
+},
+{
+  "number": "24",
+  "storeName": "대박",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 신원동 627-1 1층 일부",
+  "latitude": "37.65514",
+  "longitude": "126.836334"
+},
+{
+  "number": "25",
+  "storeName": "준마트",
+  "phoneNumber": "031-972-5078",
+  "address": "경기 고양시 덕양구 행신동 650-52번지",
+  "latitude": "37.619442",
+  "longitude": "126.82814"
+},
+{
+  "number": "26",
+  "storeName": "예스",
+  "phoneNumber": "031-974-4071",
+  "address": "경기 고양시 덕양구 화정동 977번지 밀레니엄타워105",
+  "latitude": "37.63211",
+  "longitude": "126.83307"
+},
+{
+  "number": "27",
+  "storeName": "버스표판매소",
+  "phoneNumber": "031-973-9558",
+  "address": "경기 고양시 덕양구 행신동 993번지 비금빌딩앞",
+  "latitude": "37.62243",
+  "longitude": "126.83606"
+},
+{
+  "number": "28",
+  "storeName": "벽제매표소",
+  "phoneNumber": "031-962-8692",
+  "address": "경기 고양시 덕양구 관산동 227-11번지 통일로약국앞",
+  "latitude": "37.686516",
+  "longitude": "126.862144"
+},
+{
+  "number": "29",
+  "storeName": "삼천리자전거",
+  "phoneNumber": "031-967-7768",
+  "address": "경기 고양시 덕양구 화정동 884번지",
+  "latitude": "37.639996",
+  "longitude": "126.83556"
+},
+{
+  "number": "30",
+  "storeName": "반딧불복권",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 성사동 725 상가동 105호",
+  "latitude": "37.63605",
+  "longitude": "126.83254"
+},
+{
+  "number": "31",
+  "storeName": "월드25",
+  "phoneNumber": "031-963-9966",
+  "address": "경기 고양시 덕양구 화정동 975",
+  "latitude": "37.635586",
+  "longitude": "126.83576"
+},
+{
+  "number": "32",
+  "storeName": "로또복권",
+  "phoneNumber": "031-978-8850",
+  "address": "경기 고양시 덕양구 행신동 983 샘터마을229동 앞 버스표판매소",
+  "latitude": "37.62081",
+  "longitude": "126.83933"
+},
+{
+  "number": "33",
+  "storeName": "대박 오렌지24시 편의점",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 성사동 700-7 1층",
+  "latitude": "37.663673",
+  "longitude": "126.889824"
+},
+{
+  "number": "34",
+  "storeName": "위드미 덕양 지도공원점",
+  "phoneNumber": "031-970-1582",
+  "address": "경기 고양시 덕양구 토당동 899-9번지 1층 2호",
+  "latitude": "37.62709",
+  "longitude": "126.82774"
+},
+{
+  "number": "35",
+  "storeName": "로또방",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신동 1056-5 101호",
+  "latitude": "37.62179",
+  "longitude": "126.84573"
+},
+{
+  "number": "36",
+  "storeName": "행신웨이팅",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신동 997 바로주차빌딩 102호",
+  "latitude": "37.62298",
+  "longitude": "126.83428"
+},
+{
+  "number": "37",
+  "storeName": "고양행복복권",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 삼송동 135-37 1층",
+  "latitude": "37.6525",
+  "longitude": "126.889786"
+},
+{
+  "number": "38",
+  "storeName": "서정로또",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신3동 1082-2 1층 105호",
+  "latitude": "37.618565",
+  "longitude": "126.84551"
+},
+{
+  "number": "39",
+  "storeName": "서종복권판매점",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 주교동 211-3 1층",
+  "latitude": "37.65673",
+  "longitude": "126.83044"
+},
+{
+  "number": "40",
+  "storeName": "가을하늘",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행주동 869-3",
+  "latitude": "37.61825",
+  "longitude": "126.82313"
+},
+{
+  "number": "41",
+  "storeName": "대박",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 주교동 578-2 1층",
+  "latitude": "37.660347",
+  "longitude": "126.836296"
+}
+]{
+  "number": "1",
+  "storeName": "행운복권",
+  "phoneNumber": "031-795-5536",
+  "address": "경기 하남시 풍산동 493 R110호",
+  "latitude": "37.539772",
+  "longitude": "127.20147"
+},
+{
+  "number": "2",
+  "storeName": "로또마트",
+  "phoneNumber": "031-794-6668",
+  "address": "경기 하남시 풍산동 565 미사강변 아란티움 상가 내",
+  "latitude": "37.54294",
+  "longitude": "127.20559"
+},
+{
+  "number": "1",
+  "storeName": "대박복권나라",
+  "phoneNumber": "031-963-6425",
+  "address": "경기 고양시 덕양구 관산동 238-10번지",
+  "latitude": "37.688507",
+  "longitude": "126.861946"
+},
+{
+  "number": "2",
+  "storeName": "화정로또",
+  "phoneNumber": "",
+  "address": "경기 고양시 덕양구 행신동 707-2번지 미우프라자101호",
+  "latitude": "37.613567",
+  "longitude": "126.83368"
+},

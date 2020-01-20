@@ -1,0 +1,306 @@
+[
+{
+  "number": "1",
+  "storeName": "복권나라",
+  "phoneNumber": "033-257-0153",
+  "address": "강원 춘천시 퇴계동 959-1 1층",
+  "latitude": "37.876335",
+  "longitude": "127.75525"
+},
+{
+  "number": "2",
+  "storeName": "불티나",
+  "phoneNumber": "",
+  "address": "강원 춘천시 후평동 753-2 1층",
+  "latitude": "37.890453",
+  "longitude": "127.75247"
+},
+{
+  "number": "3",
+  "storeName": "봉의산마트",
+  "phoneNumber": "033-242-2653",
+  "address": "강원 춘천시 후평동 727-3 1층",
+  "latitude": "37.882584",
+  "longitude": "127.74866"
+},
+{
+  "number": "4",
+  "storeName": "우리마트",
+  "phoneNumber": "033-251-8588",
+  "address": "강원 춘천시 석사동 756-1 1층 우측",
+  "latitude": "37.871414",
+  "longitude": "127.737816"
+},
+{
+  "number": "5",
+  "storeName": "그린스토아",
+  "phoneNumber": "033-253-4744",
+  "address": "강원 춘천시 중앙로1가 74",
+  "latitude": "37.881123",
+  "longitude": "127.72849"
+},
+{
+  "number": "6",
+  "storeName": "플러스복권방",
+  "phoneNumber": "033-251-8087",
+  "address": "강원 춘천시 효자동 663-2",
+  "latitude": "37.871788",
+  "longitude": "127.73287"
+},
+{
+  "number": "7",
+  "storeName": "복권가판",
+  "phoneNumber": "033-256-9119",
+  "address": "강원 춘천시 조양동 6-227 1층 이마트 24",
+  "latitude": "37.880993",
+  "longitude": "127.72882"
+},
+{
+  "number": "8",
+  "storeName": "제일복권",
+  "phoneNumber": "033-244-7578",
+  "address": "강원 춘천시 중앙로1가 80 스탠다드차타드은행앞 가판",
+  "latitude": "37.880817",
+  "longitude": "127.72826"
+},
+{
+  "number": "9",
+  "storeName": "희망로또",
+  "phoneNumber": "033-243-4855",
+  "address": "강원 춘천시 운교동 182-6 동부시장 농협은행앞 가판",
+  "latitude": "37.876774",
+  "longitude": "127.735146"
+},
+{
+  "number": "10",
+  "storeName": "주택복권판매소",
+  "phoneNumber": "033-243-4404",
+  "address": "강원 춘천시 조양동 37-11 대우증권옆 가판",
+  "latitude": "37.879974",
+  "longitude": "127.72855"
+},
+{
+  "number": "11",
+  "storeName": "407억당첨가판점",
+  "phoneNumber": "033-256-4710",
+  "address": "강원 춘천시 중앙로2가 27-1 국민은행앞 가판",
+  "latitude": "37.879192",
+  "longitude": "127.72662"
+},
+{
+  "number": "12",
+  "storeName": "행운로또",
+  "phoneNumber": "033-253-0395",
+  "address": "강원 춘천시 운교동 193 신한은행강원영업부지점앞 가판",
+  "latitude": "37.878426",
+  "longitude": "127.73013"
+},
+{
+  "number": "13",
+  "storeName": "명동열쇠",
+  "phoneNumber": "033-241-2963",
+  "address": "강원 춘천시 중앙로2가 11 신한은행춘천중앙지점옆 가판",
+  "latitude": "37.879818",
+  "longitude": "127.7274"
+},
+{
+  "number": "14",
+  "storeName": "해피데이",
+  "phoneNumber": "033-242-3242",
+  "address": "강원 춘천시 퇴계동 917 한성아파트상가102호",
+  "latitude": "37.85858",
+  "longitude": "127.72224"
+},
+{
+  "number": "15",
+  "storeName": "공지천복권방",
+  "phoneNumber": "",
+  "address": "강원 춘천시 근화동 742 1층",
+  "latitude": "37.880993",
+  "longitude": "127.71343"
+},
+{
+  "number": "16",
+  "storeName": "드림오피스문구",
+  "phoneNumber": "033-261-6877",
+  "address": "강원 춘천시 석사동 796-14",
+  "latitude": "37.85661",
+  "longitude": "127.742294"
+},
+{
+  "number": "17",
+  "storeName": "바른손(퇴계점)",
+  "phoneNumber": "033-261-9638",
+  "address": "강원 춘천시 퇴계동 983 주공2단지상가101호",
+  "latitude": "37.857754",
+  "longitude": "127.73639"
+},
+{
+  "number": "18",
+  "storeName": "모닝글로리(온의점)",
+  "phoneNumber": "033-254-8599",
+  "address": "강원 춘천시 온의동 571 금호3차아파트상가102호",
+  "latitude": "37.8667",
+  "longitude": "127.716484"
+},
+{
+  "number": "19",
+  "storeName": "복권나라",
+  "phoneNumber": "033-244-7743",
+  "address": "강원 춘천시 후평동 687-20",
+  "latitude": "37.880535",
+  "longitude": "127.745026"
+},
+{
+  "number": "20",
+  "storeName": "운수대통복권방",
+  "phoneNumber": "033-264-4478",
+  "address": "강원 춘천시 석사동 671-5",
+  "latitude": "37.85892",
+  "longitude": "127.74261"
+},
+{
+  "number": "21",
+  "storeName": "로또645",
+  "phoneNumber": "033-262-5462",
+  "address": "강원 춘천시 퇴계동 1012 CU 춘천한주점",
+  "latitude": "37.84917",
+  "longitude": "127.737274"
+},
+{
+  "number": "22",
+  "storeName": "노다지유통",
+  "phoneNumber": "033-252-7345",
+  "address": "강원 춘천시 효자동 710-14 1층",
+  "latitude": "37.86631",
+  "longitude": "127.73277"
+},
+{
+  "number": "23",
+  "storeName": "백억만로또",
+  "phoneNumber": "033-256-3561",
+  "address": "강원 춘천시 퇴계동 667번지 7B-3L",
+  "latitude": "37.866093",
+  "longitude": "127.72451"
+},
+{
+  "number": "24",
+  "storeName": "클로버로또",
+  "phoneNumber": "033-244-8497",
+  "address": "강원 춘천시 우두동 1067 세븐일레븐 내",
+  "latitude": "37.88281",
+  "longitude": "127.729"
+},
+{
+  "number": "25",
+  "storeName": "드림복권전문점",
+  "phoneNumber": "033-241-7374",
+  "address": "강원 춘천시 퇴계동 895-4",
+  "latitude": "37.860336",
+  "longitude": "127.72782"
+},
+{
+  "number": "26",
+  "storeName": "복권방에피소드",
+  "phoneNumber": "033-254-2992",
+  "address": "강원 춘천시 온의동 514-7",
+  "latitude": "37.863434",
+  "longitude": "127.71993"
+},
+{
+  "number": "27",
+  "storeName": "대박의터",
+  "phoneNumber": "033-264-8818",
+  "address": "강원 춘천시 동내면 학곡리 594",
+  "latitude": "37.83621",
+  "longitude": "127.76009"
+},
+{
+  "number": "28",
+  "storeName": "거두리복권방",
+  "phoneNumber": "033-256-8080",
+  "address": "강원 춘천시 동내면 거두리 939-2 부영아파트제상가1-102호",
+  "latitude": "37.854206",
+  "longitude": "127.7534"
+},
+{
+  "number": "29",
+  "storeName": "전우사",
+  "phoneNumber": "033-254-3328",
+  "address": "강원 춘천시 중앙로2가 112",
+  "latitude": "37.880585",
+  "longitude": "127.72704"
+},
+{
+  "number": "30",
+  "storeName": "천하명당",
+  "phoneNumber": "033-242-0049",
+  "address": "강원 춘천시 후평동 842-7 1층",
+  "latitude": "37.88479",
+  "longitude": "127.74455"
+},
+{
+  "number": "31",
+  "storeName": "행운로또판매점",
+  "phoneNumber": "",
+  "address": "강원 춘천시 효자동 747-4 1층",
+  "latitude": "37.87827",
+  "longitude": "127.73896"
+},
+{
+  "number": "32",
+  "storeName": "우두로또",
+  "phoneNumber": "",
+  "address": "강원 춘천시 우두동 691-14 1층",
+  "latitude": "37.90204",
+  "longitude": "127.72841"
+},
+{
+  "number": "33",
+  "storeName": "퇴계로또",
+  "phoneNumber": "033-264-0226",
+  "address": "강원 춘천시 효자동 696 GS25 남춘로점",
+  "latitude": "37.867462",
+  "longitude": "127.72864"
+},
+{
+  "number": "34",
+  "storeName": "영균로또",
+  "phoneNumber": "",
+  "address": "강원 춘천시 석사동 694-2 상가동 102호",
+  "latitude": "37.87955",
+  "longitude": "127.76271"
+},
+{
+  "number": "35",
+  "storeName": "운수대통",
+  "phoneNumber": "",
+  "address": "강원 춘천시 후평동 864 상가동 1층",
+  "latitude": "37.873146",
+  "longitude": "127.75052"
+},
+{
+  "number": "36",
+  "storeName": "복돼지복권방",
+  "phoneNumber": "",
+  "address": "강원 춘천시 후평동 795-11 1층, 9호",
+  "latitude": "37.879375",
+  "longitude": "127.75006"
+},
+{
+  "number": "37",
+  "storeName": "안마산 복권명당",
+  "phoneNumber": "",
+  "address": "강원 춘천시 퇴계동 1-2 1층 CU",
+  "latitude": "37.748318",
+  "longitude": "128.88367"
+},
+{
+  "number": "38",
+  "storeName": "거두로또",
+  "phoneNumber": "",
+  "address": "강원 춘천시 동내면 거두리 917-4 1층",
+  "latitude": "37.856205",
+  "longitude": "127.75238"
+}
+]

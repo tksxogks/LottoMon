@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-582-4599",
+  "address": "경기 가평군 가평읍 읍내리 448-3 1층",
+  "latitude": "37.831013",
+  "longitude": "127.51275"
+},
+{
+  "number": "2",
+  "storeName": "현리행운복권방",
+  "phoneNumber": "031-585-3096",
+  "address": "경기 가평군 조종면 현리 410-25",
+  "latitude": "37.818184",
+  "longitude": "127.35024"
+},
+{
+  "number": "3",
+  "storeName": "복권사랑",
+  "phoneNumber": "031-582-7832",
+  "address": "경기 가평군 청평면 청평리 434-15 1층 CU청평중앙로점",
+  "latitude": "37.82489",
+  "longitude": "127.51575"
+},
+{
+  "number": "4",
+  "storeName": "설악복권방",
+  "phoneNumber": "",
+  "address": "경기 가평군 설악면 신천리 158 1층",
+  "latitude": "37.671387",
+  "longitude": "127.48863"
+},
+{
+  "number": "5",
+  "storeName": "복권방",
+  "phoneNumber": "031-585-2779",
+  "address": "경기 가평군 청평면 청평리 462-2 1층",
+  "latitude": "37.737328",
+  "longitude": "127.41858"
+},
+{
+  "number": "6",
+  "storeName": "로또",
+  "phoneNumber": "",
+  "address": "경기 가평군 가평읍 대곡리 168-16 L마켓",
+  "latitude": "37.82493",
+  "longitude": "127.51313"
+},
+{
+  "number": "7",
+  "storeName": "가평설악로또",
+  "phoneNumber": "031-584-5811",
+  "address": "경기 가평군 설악면 신천리 409-11 1층",
+  "latitude": "37.677113",
+  "longitude": "127.493225"
+}
+]

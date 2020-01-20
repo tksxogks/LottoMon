@@ -1,0 +1,226 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(대명점)",
+  "phoneNumber": "053-654-4983",
+  "address": "대구 남구 대명동 1591-20",
+  "latitude": "35.83855",
+  "longitude": "128.56049"
+},
+{
+  "number": "2",
+  "storeName": "CU(대명청구점)",
+  "phoneNumber": "053-656-6760",
+  "address": "대구 남구 대명동 1792-1번지",
+  "latitude": "35.855293",
+  "longitude": "128.59035"
+},
+{
+  "number": "3",
+  "storeName": "GS25(대구교대점)",
+  "phoneNumber": "053-472-7702",
+  "address": "대구 남구 대명동 2007-6 GS25 대구교대점",
+  "latitude": "35.85257",
+  "longitude": "128.59091"
+},
+{
+  "number": "4",
+  "storeName": "금영미디어",
+  "phoneNumber": "",
+  "address": "대구 남구 대명동 1807-15",
+  "latitude": "35.851074",
+  "longitude": "128.58812"
+},
+{
+  "number": "5",
+  "storeName": "로또복권효성점",
+  "phoneNumber": "053-474-8358",
+  "address": "대구 남구 봉덕동 1067-180번지",
+  "latitude": "35.838245",
+  "longitude": "128.60103"
+},
+{
+  "number": "6",
+  "storeName": "대박로또",
+  "phoneNumber": "053-473-0935",
+  "address": "대구 남구 봉덕동 632-16 대구 남구 봉덕동 632-16 이마트24",
+  "latitude": "35.844666",
+  "longitude": "128.59785"
+},
+{
+  "number": "7",
+  "storeName": "로또나라",
+  "phoneNumber": "053-652-1819",
+  "address": "대구 남구 대명동 1651-16번지",
+  "latitude": "35.841946",
+  "longitude": "128.57288"
+},
+{
+  "number": "8",
+  "storeName": "로또명당",
+  "phoneNumber": "053-627-0645",
+  "address": "대구 남구 대명동 2148-6번지",
+  "latitude": "35.85093",
+  "longitude": "128.58127"
+},
+{
+  "number": "9",
+  "storeName": "로또명당",
+  "phoneNumber": "053-471-0645",
+  "address": "대구 남구 이천동 200-13",
+  "latitude": "35.854893",
+  "longitude": "128.60417"
+},
+{
+  "number": "10",
+  "storeName": "복권천국",
+  "phoneNumber": "053-652-7123",
+  "address": "대구 남구 대명동 207-3",
+  "latitude": "35.84327",
+  "longitude": "128.58568"
+},
+{
+  "number": "11",
+  "storeName": "오케이할인마트",
+  "phoneNumber": "053-656-4168",
+  "address": "대구 남구 대명동 332-6번지 훼미리25",
+  "latitude": "35.841125",
+  "longitude": "128.58234"
+},
+{
+  "number": "12",
+  "storeName": "대림서점",
+  "phoneNumber": "053-472-0508",
+  "address": "대구 남구 봉덕동 1010-4 대림서점",
+  "latitude": "35.847332",
+  "longitude": "128.59084"
+},
+{
+  "number": "13",
+  "storeName": "이솝비디오대여점",
+  "phoneNumber": "053-472-8065",
+  "address": "대구 남구 이천동 639-8번지",
+  "latitude": "35.856182",
+  "longitude": "128.59593"
+},
+{
+  "number": "14",
+  "storeName": "원화복권샵",
+  "phoneNumber": "053-656-8899",
+  "address": "대구 남구 대명동 2567-2 대구 남구 명덕로 74 1층",
+  "latitude": "35.857845",
+  "longitude": "128.57898"
+},
+{
+  "number": "15",
+  "storeName": "복권명당",
+  "phoneNumber": "053-651-2426",
+  "address": "대구 남구 대명동 40-1 세븐일레븐대명센터점",
+  "latitude": "35.846706",
+  "longitude": "128.5902"
+},
+{
+  "number": "16",
+  "storeName": "리눅스텍",
+  "phoneNumber": "053-474-1118",
+  "address": "대구 남구 봉덕동 477-3 대구 남구 봉덕로 9길 118",
+  "latitude": "35.849815",
+  "longitude": "128.59814"
+},
+{
+  "number": "17",
+  "storeName": "복권토큰판매소",
+  "phoneNumber": "053-653-8455",
+  "address": "대구 남구 대명동 332-16번지 토큰박스",
+  "latitude": "35.840973",
+  "longitude": "128.58209"
+},
+{
+  "number": "18",
+  "storeName": "로또판매소(서부정류장)",
+  "phoneNumber": "053-623-2342",
+  "address": "대구 남구 대명동 1135-1번지 토큰박스",
+  "latitude": "35.836784",
+  "longitude": "128.55775"
+},
+{
+  "number": "19",
+  "storeName": "로또판매소",
+  "phoneNumber": "053-474-2809",
+  "address": "대구 남구 봉덕동 1298-2번지 토큰박스",
+  "latitude": "35.84678",
+  "longitude": "128.59093"
+},
+{
+  "number": "20",
+  "storeName": "승차권판매소",
+  "phoneNumber": "053-625-5589",
+  "address": "대구 남구 대명동 2297-1번지 토큰박스",
+  "latitude": "35.854294",
+  "longitude": "128.5741"
+},
+{
+  "number": "21",
+  "storeName": "진주식육 로또복권가든점",
+  "phoneNumber": "053-476-6446",
+  "address": "대구 남구 봉덕동 559-33번지",
+  "latitude": "35.84242",
+  "longitude": "128.60057"
+},
+{
+  "number": "22",
+  "storeName": "경북윤업사",
+  "phoneNumber": "053-652-9712",
+  "address": "대구 남구 대명동 810-4번지",
+  "latitude": "35.839355",
+  "longitude": "128.57547"
+},
+{
+  "number": "23",
+  "storeName": "코리아마트(앞산점)",
+  "phoneNumber": "053-625-9573",
+  "address": "대구 남구 대명동 1721-24 김밥천국",
+  "latitude": "35.846073",
+  "longitude": "128.5798"
+},
+{
+  "number": "24",
+  "storeName": "세븐일레븐봉덕희망점",
+  "phoneNumber": "053-472-0625",
+  "address": "대구 남구 봉덕동 595-10번지",
+  "latitude": "35.84527",
+  "longitude": "128.5947"
+},
+{
+  "number": "25",
+  "storeName": "행운복권",
+  "phoneNumber": "053-476-9664",
+  "address": "대구 남구 이천동 542-22번지",
+  "latitude": "35.846546",
+  "longitude": "128.60425"
+},
+{
+  "number": "26",
+  "storeName": "로또1등봉덕대박집",
+  "phoneNumber": "053-476-6651",
+  "address": "대구 남구 봉덕동 956-4",
+  "latitude": "35.84434",
+  "longitude": "128.60133"
+},
+{
+  "number": "27",
+  "storeName": "모닝마트",
+  "phoneNumber": "053-625-8848",
+  "address": "대구 남구 대명동 3052-36번지",
+  "latitude": "35.84553",
+  "longitude": "128.56494"
+},
+{
+  "number": "28",
+  "storeName": "GS대명남로점",
+  "phoneNumber": "053-656-8768",
+  "address": "대구 남구 대명5동 1713-2",
+  "latitude": "35.845554",
+  "longitude": "128.5804"
+}
+]

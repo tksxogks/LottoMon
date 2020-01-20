@@ -1,0 +1,618 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(문래한신점)",
+  "phoneNumber": "02-2634-5321",
+  "address": "서울 영등포구 양평동1가 14-1번지",
+  "latitude": "37.521515",
+  "longitude": "126.88801"
+},
+{
+  "number": "2",
+  "storeName": "CU(문래벤처점)",
+  "phoneNumber": "02-2636-9197",
+  "address": "서울 영등포구 문래동3가 82-29번지",
+  "latitude": "37.520123",
+  "longitude": "126.890144"
+},
+{
+  "number": "3",
+  "storeName": "CU(대림지성점)",
+  "phoneNumber": "02-836-5040",
+  "address": "서울 영등포구 대림동 894-30번지",
+  "latitude": "37.494473",
+  "longitude": "126.90539"
+},
+{
+  "number": "4",
+  "storeName": "CU(영등포마사회점)",
+  "phoneNumber": "02-2637-0565",
+  "address": "서울 영등포구 영등포동3가 18",
+  "latitude": "37.518127",
+  "longitude": "126.907005"
+},
+{
+  "number": "5",
+  "storeName": "CU(영등포메인점)",
+  "phoneNumber": "02-3409-2500",
+  "address": "서울 영등포구 영등포동6가 80-2번지",
+  "latitude": "37.520336",
+  "longitude": "126.90375"
+},
+{
+  "number": "6",
+  "storeName": "CU(신길도림점)",
+  "phoneNumber": "02-846-5540",
+  "address": "서울 영등포구 신길동 289-6",
+  "latitude": "37.508167",
+  "longitude": "126.90541"
+},
+{
+  "number": "7",
+  "storeName": "GS25(양평역점)",
+  "phoneNumber": "02-2676-8807",
+  "address": "서울 영등포구 양평동3가 23-4 월드프라자103호",
+  "latitude": "37.52612",
+  "longitude": "126.8861"
+},
+{
+  "number": "8",
+  "storeName": "씨스페이스(대림점)",
+  "phoneNumber": "02-849-7272",
+  "address": "서울 영등포구 대림동 993-57 1동 9호",
+  "latitude": "37.49385",
+  "longitude": "126.89898"
+},
+{
+  "number": "9",
+  "storeName": "GS25(성애병원점)",
+  "phoneNumber": "02-842-9691",
+  "address": "서울 영등포구 신길동 467-3",
+  "latitude": "37.512108",
+  "longitude": "126.92171"
+},
+{
+  "number": "10",
+  "storeName": "CU(당산한강점)",
+  "phoneNumber": "02-2633-7643",
+  "address": "서울 영등포구 당산동4가 29번지",
+  "latitude": "37.527973",
+  "longitude": "126.90283"
+},
+{
+  "number": "11",
+  "storeName": "CU(영등포중앙점)",
+  "phoneNumber": "02-2679-7961",
+  "address": "서울 영등포구 영등포동2가 177-2번지",
+  "latitude": "37.519108",
+  "longitude": "126.90992"
+},
+{
+  "number": "12",
+  "storeName": "GS25(동여의점)",
+  "phoneNumber": "02-761-2575",
+  "address": "서울 영등포구 여의도동 45-13번지 포레스텔빌딩17호",
+  "latitude": "37.5201",
+  "longitude": "126.92879"
+},
+{
+  "number": "13",
+  "storeName": "GS25(여의타워점)",
+  "phoneNumber": "02-761-9377",
+  "address": "서울 영등포구 여의도동 61-5번지 리버타워 102호",
+  "latitude": "37.519413",
+  "longitude": "126.938576"
+},
+{
+  "number": "14",
+  "storeName": "GS25(에클라트점)",
+  "phoneNumber": "02-761-0794",
+  "address": "서울 영등포구 여의도동 14-21번지 GS에클라트빌딩105호",
+  "latitude": "37.52979",
+  "longitude": "126.91925"
+},
+{
+  "number": "15",
+  "storeName": "로또복권판매",
+  "phoneNumber": "",
+  "address": "서울 영등포구 영등포동7가 76-2번지",
+  "latitude": "37.524803",
+  "longitude": "126.90564"
+},
+{
+  "number": "16",
+  "storeName": "하나아파텔점로또판매",
+  "phoneNumber": "02-831-2822",
+  "address": "서울 영등포구 도림동 265-6번지 하나빌딩1층",
+  "latitude": "37.50803",
+  "longitude": "126.89551"
+},
+{
+  "number": "17",
+  "storeName": "버스판매소",
+  "phoneNumber": "02-2679-4659",
+  "address": "서울 영등포구 영등포동4가 440번지 신세계앞",
+  "latitude": "37.517532",
+  "longitude": "126.905716"
+},
+{
+  "number": "18",
+  "storeName": "버스표판매소",
+  "phoneNumber": "02-2068-9457",
+  "address": "서울 영등포구 당산동6가 306-1",
+  "latitude": "37.534847",
+  "longitude": "126.90222"
+},
+{
+  "number": "19",
+  "storeName": "가판점(신문)",
+  "phoneNumber": "02-2636-6177",
+  "address": "서울 영등포구 당산동6가 331-1번지",
+  "latitude": "37.53443",
+  "longitude": "126.90128"
+},
+{
+  "number": "20",
+  "storeName": "당산로또명당점",
+  "phoneNumber": "02-2634-0995",
+  "address": "서울 영등포구 당산동6가 337-19번지",
+  "latitude": "37.534615",
+  "longitude": "126.90086"
+},
+{
+  "number": "21",
+  "storeName": "교통카드판매대",
+  "phoneNumber": "02-786-2480",
+  "address": "서울 영등포구 여의도동 25-3",
+  "latitude": "37.523746",
+  "longitude": "126.926865"
+},
+{
+  "number": "22",
+  "storeName": "버스카드충전소",
+  "phoneNumber": "02-817-4996",
+  "address": "서울 영등포구 신길동 1432번지 가판",
+  "latitude": "37.51378",
+  "longitude": "126.92667"
+},
+{
+  "number": "23",
+  "storeName": "로또로또",
+  "phoneNumber": "02-2679-0717",
+  "address": "서울 영등포구 당산동6가 342",
+  "latitude": "37.515472",
+  "longitude": "126.906685"
+},
+{
+  "number": "24",
+  "storeName": "로또방",
+  "phoneNumber": "02-2675-5400",
+  "address": "서울 영등포구 영등포동3가 9-13",
+  "latitude": "37.517605",
+  "longitude": "126.90649"
+},
+{
+  "number": "25",
+  "storeName": "로또대박복권",
+  "phoneNumber": "02-2634-1267",
+  "address": "서울 영등포구 양평동4가 64-1번지",
+  "latitude": "37.536037",
+  "longitude": "126.89716"
+},
+{
+  "number": "26",
+  "storeName": "하이퍼",
+  "phoneNumber": "02-2631-3483",
+  "address": "서울 영등포구 당산동4가 32-58",
+  "latitude": "37.5292",
+  "longitude": "126.898705"
+},
+{
+  "number": "27",
+  "storeName": "명당복권",
+  "phoneNumber": "02-2676-5378",
+  "address": "서울 영등포구 영등포동5가 6-8번지",
+  "latitude": "37.51951",
+  "longitude": "126.90766"
+},
+{
+  "number": "28",
+  "storeName": "몽곡사",
+  "phoneNumber": "02-2634-2281",
+  "address": "서울 영등포구 영등포동2가 94-23번지 조광빌딩105호",
+  "latitude": "37.523033",
+  "longitude": "126.91059"
+},
+{
+  "number": "29",
+  "storeName": "신나라",
+  "phoneNumber": "02-2679-8440",
+  "address": "서울 영등포구 문래동3가 77-44번지",
+  "latitude": "37.519043",
+  "longitude": "126.88946"
+},
+{
+  "number": "30",
+  "storeName": "복드림",
+  "phoneNumber": "02-2678-3159",
+  "address": "서울 영등포구 양평동4가 100번지",
+  "latitude": "37.537354",
+  "longitude": "126.894485"
+},
+{
+  "number": "31",
+  "storeName": "행운예감",
+  "phoneNumber": "02-843-7776",
+  "address": "서울 영등포구 신길제7동 696번지",
+  "latitude": "37.50302",
+  "longitude": "126.92096"
+},
+{
+  "number": "32",
+  "storeName": "드림파크",
+  "phoneNumber": "02-848-1333",
+  "address": "서울 영등포구 신길동 4759번지 삼성상가1층10호",
+  "latitude": "37.496296",
+  "longitude": "126.91133"
+},
+{
+  "number": "33",
+  "storeName": "천안문복권방",
+  "phoneNumber": "02-832-9821",
+  "address": "서울 영등포구 대림동 1048-8",
+  "latitude": "37.49304",
+  "longitude": "126.89679"
+},
+{
+  "number": "34",
+  "storeName": "드림마트",
+  "phoneNumber": "02-841-2228",
+  "address": "서울 영등포구 신길동 192-142번지",
+  "latitude": "37.512234",
+  "longitude": "126.91016"
+},
+{
+  "number": "35",
+  "storeName": "365 로또",
+  "phoneNumber": "02-556-6292",
+  "address": "서울 영등포구 대림동 990-59",
+  "latitude": "37.490616",
+  "longitude": "126.898056"
+},
+{
+  "number": "36",
+  "storeName": "고려통신",
+  "phoneNumber": "02-834-3332",
+  "address": "서울 영등포구 대림동 804-30번지",
+  "latitude": "37.494667",
+  "longitude": "126.89671"
+},
+{
+  "number": "37",
+  "storeName": "행운대박복권",
+  "phoneNumber": "02-848-5892",
+  "address": "서울 영등포구 영등포동 618-210번지",
+  "latitude": "37.514355",
+  "longitude": "126.906784"
+},
+{
+  "number": "38",
+  "storeName": "대박찬스",
+  "phoneNumber": "02-834-8849",
+  "address": "서울 영등포구 도림동 144-175번지 1층복권방",
+  "latitude": "37.50887",
+  "longitude": "126.90008"
+},
+{
+  "number": "39",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-2675-6566",
+  "address": "서울 영등포구 영등포동 489-18",
+  "latitude": "37.51696",
+  "longitude": "126.90914"
+},
+{
+  "number": "40",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-2671-7917",
+  "address": "서울 영등포구 당산동6가 331-6번지 가판",
+  "latitude": "37.534428",
+  "longitude": "126.901634"
+},
+{
+  "number": "41",
+  "storeName": "PLUSONE365",
+  "phoneNumber": "02-2679-1325",
+  "address": "서울 영등포구 양평동1가 37번지",
+  "latitude": "37.523373",
+  "longitude": "126.89048"
+},
+{
+  "number": "42",
+  "storeName": "한보당",
+  "phoneNumber": "02-833-0189",
+  "address": "서울 영등포구 신길동 323번지",
+  "latitude": "37.50604",
+  "longitude": "126.90694"
+},
+{
+  "number": "43",
+  "storeName": "신성사",
+  "phoneNumber": "02-849-1862",
+  "address": "서울 영등포구 신길동 448-3",
+  "latitude": "37.49691",
+  "longitude": "126.90804"
+},
+{
+  "number": "44",
+  "storeName": "나라시스컴",
+  "phoneNumber": "02-2632-6999",
+  "address": "서울 영등포구 영등포동5가 18-58번지 영신상가1호",
+  "latitude": "37.51971",
+  "longitude": "126.906685"
+},
+{
+  "number": "45",
+  "storeName": "행운의사랑방",
+  "phoneNumber": "02-3667-8282",
+  "address": "서울 영등포구 문래동4가 6-1번지",
+  "latitude": "37.515682",
+  "longitude": "126.89157"
+},
+{
+  "number": "46",
+  "storeName": "왕대박",
+  "phoneNumber": "02-847-6637",
+  "address": "서울 영등포구 신길동 1321번지",
+  "latitude": "37.512737",
+  "longitude": "126.92361"
+},
+{
+  "number": "47",
+  "storeName": "복권마을",
+  "phoneNumber": "02-834-8911",
+  "address": "서울 영등포구 신길동 347-220번지",
+  "latitude": "37.50457",
+  "longitude": "126.90358"
+},
+{
+  "number": "48",
+  "storeName": "로또복권",
+  "phoneNumber": "02-780-6116",
+  "address": "서울 영등포구 여의도동 44-2",
+  "latitude": "37.526592",
+  "longitude": "126.92973"
+},
+{
+  "number": "49",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-783-5467",
+  "address": "서울 영등포구 여의도동 44-35번지 제일빌딩1층107",
+  "latitude": "37.519093",
+  "longitude": "126.930916"
+},
+{
+  "number": "50",
+  "storeName": "로또",
+  "phoneNumber": "02-786-1114",
+  "address": "서울 영등포구 여의도동 53번지 우정빌딩 106호",
+  "latitude": "37.51703",
+  "longitude": "126.917366"
+},
+{
+  "number": "51",
+  "storeName": "대박로또",
+  "phoneNumber": "02-2635-8889",
+  "address": "서울 영등포구 영등포동2가 331번지",
+  "latitude": "37.519367",
+  "longitude": "126.90871"
+},
+{
+  "number": "52",
+  "storeName": "-",
+  "phoneNumber": "02-2679-7530",
+  "address": "서울 영등포구 영등포동4가 425-8번지",
+  "latitude": "37.51618",
+  "longitude": "126.905266"
+},
+{
+  "number": "53",
+  "storeName": "영등포6호점로또판매",
+  "phoneNumber": "02-2633-2953",
+  "address": "서울 영등포구 영등포동8가 76-1번지 삼환상가106 편의점내",
+  "latitude": "37.529366",
+  "longitude": "126.90499"
+},
+{
+  "number": "54",
+  "storeName": "로또복권",
+  "phoneNumber": "02-2675-7839",
+  "address": "서울 영등포구 당산동5가 42 삼성래미안4차아파트상가110-2",
+  "latitude": "37.53207",
+  "longitude": "126.902985"
+},
+{
+  "number": "55",
+  "storeName": "꽃이활짝피는복권방",
+  "phoneNumber": "02-2636-1355",
+  "address": "서울 영등포구 문래동3가 55-5번지 홈플러스앞 택시정거장 옆 가판",
+  "latitude": "37.51792",
+  "longitude": "126.894905"
+},
+{
+  "number": "56",
+  "storeName": "빌딩매점",
+  "phoneNumber": "02-836-1124",
+  "address": "서울 영등포구 신길동 3591번지 남서울아파트상가 13동 103-나호",
+  "latitude": "37.501034",
+  "longitude": "126.90986"
+},
+{
+  "number": "57",
+  "storeName": "영일식품",
+  "phoneNumber": "02-2675-3420",
+  "address": "서울 영등포구 당산동3가 228-1",
+  "latitude": "37.52619",
+  "longitude": "126.89779"
+},
+{
+  "number": "58",
+  "storeName": "신세계슈퍼",
+  "phoneNumber": "070-7736-2578",
+  "address": "서울 영등포구 대림동 739-1번지",
+  "latitude": "37.497772",
+  "longitude": "126.8983"
+},
+{
+  "number": "59",
+  "storeName": "유진식품",
+  "phoneNumber": "02-833-4377",
+  "address": "서울 영등포구 신길동 436-26번지",
+  "latitude": "37.498",
+  "longitude": "126.9045"
+},
+{
+  "number": "60",
+  "storeName": "G마트",
+  "phoneNumber": "02-849-8249",
+  "address": "서울 영등포구 대림동 862-6번지",
+  "latitude": "37.49159",
+  "longitude": "126.90217"
+},
+{
+  "number": "61",
+  "storeName": "우선식품",
+  "phoneNumber": "02-833-0049",
+  "address": "서울 영등포구 신길동 163-5번지",
+  "latitude": "37.512444",
+  "longitude": "126.916695"
+},
+{
+  "number": "62",
+  "storeName": "GS25 영등포구청점",
+  "phoneNumber": "02-2631-9353",
+  "address": "서울 영등포구 당산동2가 164번지 현대상가116호",
+  "latitude": "37.523563",
+  "longitude": "126.894905"
+},
+{
+  "number": "63",
+  "storeName": "데스콤㈜영등포영업소",
+  "phoneNumber": "02-2631-1322",
+  "address": "서울 영등포구 영등포동5가 25-1",
+  "latitude": "37.520576",
+  "longitude": "126.90519"
+},
+{
+  "number": "64",
+  "storeName": "대박복권마을",
+  "phoneNumber": "02-2632-9780",
+  "address": "서울 영등포구 당산동3가 209번지",
+  "latitude": "37.52706",
+  "longitude": "126.89715"
+},
+{
+  "number": "65",
+  "storeName": "1등로또",
+  "phoneNumber": "",
+  "address": "서울 영등포구 영등포동5가 45-5번지",
+  "latitude": "37.522408",
+  "longitude": "126.90534"
+},
+{
+  "number": "66",
+  "storeName": "행운로또",
+  "phoneNumber": "02-6082-6688",
+  "address": "서울 영등포구 신길동 4902-14",
+  "latitude": "37.504932",
+  "longitude": "126.91078"
+},
+{
+  "number": "67",
+  "storeName": "다모아복권",
+  "phoneNumber": "02-843-3332",
+  "address": "서울 영등포구 신길동 4035-2번지 103호",
+  "latitude": "37.499786",
+  "longitude": "126.91634"
+},
+{
+  "number": "68",
+  "storeName": "하나복권(가로판매점)",
+  "phoneNumber": "02-2638-0110",
+  "address": "서울 영등포구 영등포동4가 66번지 가판",
+  "latitude": "37.519314",
+  "longitude": "126.90465"
+},
+{
+  "number": "69",
+  "storeName": "대창청과슈퍼",
+  "phoneNumber": "02-848-7919",
+  "address": "서울 영등포구 신길동 221-39",
+  "latitude": "37.509575",
+  "longitude": "126.91052"
+},
+{
+  "number": "70",
+  "storeName": "은혜",
+  "phoneNumber": "02-842-5874",
+  "address": "서울 영등포구 대림동 751-5번지",
+  "latitude": "37.496895",
+  "longitude": "126.90358"
+},
+{
+  "number": "71",
+  "storeName": "싱글벙글복권",
+  "phoneNumber": "02-848-0809",
+  "address": "서울 영등포구 신길동 1152번지 싱글벙글마트내",
+  "latitude": "37.506207",
+  "longitude": "126.922295"
+},
+{
+  "number": "72",
+  "storeName": "승리상사",
+  "phoneNumber": "",
+  "address": "서울 영등포구 신길동 42-2번지 신길역지하환승통로",
+  "latitude": "37.51061",
+  "longitude": "126.91707"
+},
+{
+  "number": "73",
+  "storeName": "무지개슈퍼",
+  "phoneNumber": "02-842-2910",
+  "address": "서울 영등포구 신길동 97-4",
+  "latitude": "37.51478",
+  "longitude": "126.92034"
+},
+{
+  "number": "74",
+  "storeName": "상민복권",
+  "phoneNumber": "",
+  "address": "서울 영등포구 대림동 845-14",
+  "latitude": "37.495865",
+  "longitude": "126.902016"
+},
+{
+  "number": "75",
+  "storeName": "CU(대림중앙점)",
+  "phoneNumber": "02-834-1930",
+  "address": "서울 영등포구 대림동 775-7번지 1층",
+  "latitude": "37.499226",
+  "longitude": "126.89766"
+},
+{
+  "number": "76",
+  "storeName": "100세로또",
+  "phoneNumber": "070-8816-1106",
+  "address": "서울 영등포구 영등포동6가 81",
+  "latitude": "37.520645",
+  "longitude": "126.90186"
+},
+{
+  "number": "77",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "서울 영등포구 신길동 110-2",
+  "latitude": "37.513416",
+  "longitude": "126.91734"
+}
+]

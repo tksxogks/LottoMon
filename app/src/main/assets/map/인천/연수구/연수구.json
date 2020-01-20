@@ -1,0 +1,266 @@
+[
+{
+  "number": "1",
+  "storeName": "LG슈퍼",
+  "phoneNumber": "032-814-2310",
+  "address": "인천 연수구 연수동 517-9번지",
+  "latitude": "37.42632",
+  "longitude": "126.68487"
+},
+{
+  "number": "2",
+  "storeName": "장군슈퍼",
+  "phoneNumber": "032-834-1533",
+  "address": "인천 연수구 옥련동 580-9번지",
+  "latitude": "37.417328",
+  "longitude": "126.65591"
+},
+{
+  "number": "3",
+  "storeName": "진우슈퍼",
+  "phoneNumber": "032-814-7505",
+  "address": "인천 연수구 연수동 542번지",
+  "latitude": "37.420116",
+  "longitude": "126.67977"
+},
+{
+  "number": "4",
+  "storeName": "한주복권방",
+  "phoneNumber": "032-833-0089",
+  "address": "인천 연수구 청학동 528-1번지 cu편의점내",
+  "latitude": "37.42846",
+  "longitude": "126.663666"
+},
+{
+  "number": "5",
+  "storeName": "씨유송도프라자",
+  "phoneNumber": "032-214-0789",
+  "address": "인천 연수구 송도동 2-6번지 송도프라자108호",
+  "latitude": "37.395714",
+  "longitude": "126.65244"
+},
+{
+  "number": "6",
+  "storeName": "제일슈퍼",
+  "phoneNumber": "032-816-5775",
+  "address": "인천 연수구 동춘동 937번지 제일상가112호",
+  "latitude": "37.408623",
+  "longitude": "126.67081"
+},
+{
+  "number": "7",
+  "storeName": "골든복권",
+  "phoneNumber": "032-821-4209",
+  "address": "인천 연수구 연수동 528-13번지",
+  "latitude": "37.4247",
+  "longitude": "126.686295"
+},
+{
+  "number": "8",
+  "storeName": "명동럭키로또",
+  "phoneNumber": "032-811-1145",
+  "address": "인천 연수구 선학동 403-34 102호",
+  "latitude": "37.42588",
+  "longitude": "126.697914"
+},
+{
+  "number": "9",
+  "storeName": "LOTTO가맹점",
+  "phoneNumber": "032-816-7557",
+  "address": "인천 연수구 동춘동 943번지 동남아파트상가동140호",
+  "latitude": "37.40117",
+  "longitude": "126.668236"
+},
+{
+  "number": "10",
+  "storeName": "무한대박",
+  "phoneNumber": "032-811-0752",
+  "address": "인천 연수구 연수동 571-1번지",
+  "latitude": "37.418617",
+  "longitude": "126.68115"
+},
+{
+  "number": "11",
+  "storeName": "씨유인천선학점",
+  "phoneNumber": "032-818-7080",
+  "address": "인천 연수구 선학동 357-1 104호",
+  "latitude": "37.423298",
+  "longitude": "126.70133"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "032-812-7580",
+  "address": "인천 연수구 연수동 634번지 우성2차아파트 앞 도로",
+  "latitude": "37.41179",
+  "longitude": "126.685074"
+},
+{
+  "number": "13",
+  "storeName": "한국인세계대박복권",
+  "phoneNumber": "032-831-2459",
+  "address": "인천 연수구 옥련동 285번지",
+  "latitude": "37.42762",
+  "longitude": "126.65521"
+},
+{
+  "number": "14",
+  "storeName": "로또복권방",
+  "phoneNumber": "032-831-0645",
+  "address": "인천 연수구 옥련동 462-12번지 103호",
+  "latitude": "37.4244",
+  "longitude": "126.64531"
+},
+{
+  "number": "15",
+  "storeName": "복권방",
+  "phoneNumber": "032-815-4955",
+  "address": "인천 연수구 송도동 149 301동 비 - 107호, 롯데캐슬캠퍼스타운",
+  "latitude": "37.424362",
+  "longitude": "126.682495"
+},
+{
+  "number": "16",
+  "storeName": "삼성로또",
+  "phoneNumber": "032-817-4956",
+  "address": "인천 연수구 선학동 411-4번지",
+  "latitude": "37.423794",
+  "longitude": "126.697334"
+},
+{
+  "number": "17",
+  "storeName": "노다지복권방",
+  "phoneNumber": "032-819-6338",
+  "address": "인천 연수구 동춘동 936-5번지",
+  "latitude": "37.407795",
+  "longitude": "126.67201"
+},
+{
+  "number": "18",
+  "storeName": "CU(송도점)",
+  "phoneNumber": "032-832-0074",
+  "address": "인천 연수구 옥련동 540-4번지",
+  "latitude": "37.418602",
+  "longitude": "126.65143"
+},
+{
+  "number": "19",
+  "storeName": "CU(연수청학점)",
+  "phoneNumber": "032-812-3434",
+  "address": "인천 연수구 청학동 500-4번지",
+  "latitude": "37.41629",
+  "longitude": "126.67593"
+},
+{
+  "number": "20",
+  "storeName": "GS25(연수청학점)",
+  "phoneNumber": "032-818-8287",
+  "address": "인천 연수구 연수동 507-1",
+  "latitude": "37.425472",
+  "longitude": "126.68274"
+},
+{
+  "number": "21",
+  "storeName": "GS25(연수단비점)",
+  "phoneNumber": "032-818-2940",
+  "address": "인천 연수구 연수동 598-2번지 동순빌딩 101호",
+  "latitude": "37.414196",
+  "longitude": "126.67816"
+},
+{
+  "number": "22",
+  "storeName": "한빛마트",
+  "phoneNumber": "032-816-0287",
+  "address": "인천 연수구 동춘동 921 내 상가 101호",
+  "latitude": "37.409466",
+  "longitude": "126.67081"
+},
+{
+  "number": "23",
+  "storeName": "로또슈퍼",
+  "phoneNumber": "",
+  "address": "인천 연수구 옥련동 399-1 가동 일부호",
+  "latitude": "37.423164",
+  "longitude": "126.65248"
+},
+{
+  "number": "24",
+  "storeName": "슈퍼뱅크",
+  "phoneNumber": "032-813-0642",
+  "address": "인천 연수구 연수동 592 111호",
+  "latitude": "37.421394",
+  "longitude": "126.66913"
+},
+{
+  "number": "25",
+  "storeName": "대박천하",
+  "phoneNumber": "070-4001-3494",
+  "address": "인천 연수구 연수동 556-10 103호",
+  "latitude": "37.421993",
+  "longitude": "126.675385"
+},
+{
+  "number": "26",
+  "storeName": "로그인 인천대입구역점",
+  "phoneNumber": "",
+  "address": "인천 연수구 송도동 8-4 모아프라자 105호",
+  "latitude": "37.385483",
+  "longitude": "126.64303"
+},
+{
+  "number": "27",
+  "storeName": "로또명당",
+  "phoneNumber": "",
+  "address": "인천 연수구 송도동 3-2 드림시티 135호",
+  "latitude": "37.39491",
+  "longitude": "126.65013"
+},
+{
+  "number": "28",
+  "storeName": "송도1호 로또",
+  "phoneNumber": "",
+  "address": "인천 연수구 송도동 4-1 에이치동 1층 20호",
+  "latitude": "37.391743",
+  "longitude": "126.6492"
+},
+{
+  "number": "29",
+  "storeName": "나눔로또 지식정보단지역점",
+  "phoneNumber": "",
+  "address": "인천 연수구 송도동 9-26 103호",
+  "latitude": "37.378555",
+  "longitude": "126.645615"
+},
+{
+  "number": "30",
+  "storeName": "우주복권판매점",
+  "phoneNumber": "032-832-7978",
+  "address": "인천 연수구 연수동 593-4 상가 108호",
+  "latitude": "37.416374",
+  "longitude": "126.68026"
+},
+{
+  "number": "31",
+  "storeName": "준텔레콤",
+  "phoneNumber": "",
+  "address": "인천 연수구 옥련1동 308-4 1층 3호",
+  "latitude": "37.427063",
+  "longitude": "126.65734"
+},
+{
+  "number": "32",
+  "storeName": "1등복권방",
+  "phoneNumber": "",
+  "address": "인천 연수구 송도동 21-13 104호",
+  "latitude": "37.395397",
+  "longitude": "126.64496"
+},
+{
+  "number": "33",
+  "storeName": "행복한상상",
+  "phoneNumber": "",
+  "address": "인천 연수구 청학동 527-1",
+  "latitude": "37.42781",
+  "longitude": "126.66352"
+}
+]

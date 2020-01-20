@@ -1,0 +1,266 @@
+[
+{
+  "number": "1",
+  "storeName": "SK행운편의점",
+  "phoneNumber": "031-374-4233",
+  "address": "경기 오산시 수청동 619-5 베네치아B동 103호",
+  "latitude": "37.169483",
+  "longitude": "127.06494"
+},
+{
+  "number": "2",
+  "storeName": "노다지복권방",
+  "phoneNumber": "031-374-1002",
+  "address": "경기 오산시 오산동 371-1번지",
+  "latitude": "37.15407",
+  "longitude": "127.06882"
+},
+{
+  "number": "3",
+  "storeName": "포유25다농점",
+  "phoneNumber": "031-375-2468",
+  "address": "경기 오산시 오산동 924-1번지 거성그린프라자114호",
+  "latitude": "37.149635",
+  "longitude": "127.07542"
+},
+{
+  "number": "4",
+  "storeName": "플러스원(오산점)",
+  "phoneNumber": "031-374-3157",
+  "address": "경기 오산시 원동 762-34번지",
+  "latitude": "37.145866",
+  "longitude": "127.069305"
+},
+{
+  "number": "5",
+  "storeName": "복권나라",
+  "phoneNumber": "031-377-1589",
+  "address": "경기 오산시 오산동 853-19번지",
+  "latitude": "37.15122",
+  "longitude": "127.07147"
+},
+{
+  "number": "6",
+  "storeName": "그린스모크",
+  "phoneNumber": "031-378-6367",
+  "address": "경기 오산시 금암동 501-3 106호",
+  "latitude": "37.17495",
+  "longitude": "127.05108"
+},
+{
+  "number": "7",
+  "storeName": "가수로또복권",
+  "phoneNumber": "031-374-3800",
+  "address": "경기 오산시 누읍동 533-1번지",
+  "latitude": "37.141117",
+  "longitude": "127.047165"
+},
+{
+  "number": "8",
+  "storeName": "궐동로또복권방",
+  "phoneNumber": "031-378-9007",
+  "address": "경기 오산시 궐동 641-9번지",
+  "latitude": "37.158134",
+  "longitude": "127.06427"
+},
+{
+  "number": "9",
+  "storeName": "포유25대호점",
+  "phoneNumber": "031-376-5060",
+  "address": "경기 오산시 궐동 679-3번지",
+  "latitude": "37.159416",
+  "longitude": "127.0544"
+},
+{
+  "number": "10",
+  "storeName": "행복한집",
+  "phoneNumber": "031-376-0645",
+  "address": "경기 오산시 원동 379-8번지",
+  "latitude": "37.13775",
+  "longitude": "127.0741"
+},
+{
+  "number": "11",
+  "storeName": "무지개복권",
+  "phoneNumber": "031-377-0645",
+  "address": "경기 오산시 은계동 7",
+  "latitude": "37.160454",
+  "longitude": "127.078285"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경기 오산시 원동 559-1번지 CU오산한주점",
+  "latitude": "37.1412",
+  "longitude": "127.0761"
+},
+{
+  "number": "13",
+  "storeName": "천복당",
+  "phoneNumber": "031-373-7040",
+  "address": "경기 오산시 원동 215-3번지",
+  "latitude": "37.14619",
+  "longitude": "127.07426"
+},
+{
+  "number": "14",
+  "storeName": "나라통신",
+  "phoneNumber": "031-377-2015",
+  "address": "경기 오산시 원동 777-15",
+  "latitude": "37.14462",
+  "longitude": "127.06871"
+},
+{
+  "number": "15",
+  "storeName": "미니스톱 오산천점",
+  "phoneNumber": "",
+  "address": "경기 오산시 중앙동 326-1",
+  "latitude": "37.153732",
+  "longitude": "127.069275"
+},
+{
+  "number": "16",
+  "storeName": "세븐일레븐 오산양산점 로또판매점",
+  "phoneNumber": "",
+  "address": "경기 오산시 양산동 669-4 세븐일레븐",
+  "latitude": "37.195442",
+  "longitude": "127.02999"
+},
+{
+  "number": "17",
+  "storeName": "나눔로또",
+  "phoneNumber": "031-373-6910",
+  "address": "경기 오산시 수청동 11-5 수청주공슈퍼",
+  "latitude": "0.0",
+  "longitude": "0.0"
+},
+{
+  "number": "18",
+  "storeName": "심봤다복권방",
+  "phoneNumber": "031-375-6663",
+  "address": "경기 오산시 가수동 294-1 같은건물내에서 이전",
+  "latitude": "37.15044",
+  "longitude": "127.06126"
+},
+{
+  "number": "19",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "031-375-3005",
+  "address": "경기 오산시 갈곶동 184-1번지",
+  "latitude": "37.12823",
+  "longitude": "127.06685"
+},
+{
+  "number": "20",
+  "storeName": "복돼지",
+  "phoneNumber": "",
+  "address": "경기 오산시 원동 841 113호",
+  "latitude": "37.142006",
+  "longitude": "127.06961"
+},
+{
+  "number": "21",
+  "storeName": "천억복권방",
+  "phoneNumber": "",
+  "address": "경기 오산시 원동 560-6번지",
+  "latitude": "37.140724",
+  "longitude": "127.07436"
+},
+{
+  "number": "22",
+  "storeName": "드림로또",
+  "phoneNumber": "031-373-8236",
+  "address": "경기 오산시 원동 771-5",
+  "latitude": "37.144558",
+  "longitude": "127.07125"
+},
+{
+  "number": "23",
+  "storeName": "세븐일레븐 오산벌음점",
+  "phoneNumber": "",
+  "address": "경기 오산시 벌음동 116-2",
+  "latitude": "37.139385",
+  "longitude": "127.03737"
+},
+{
+  "number": "24",
+  "storeName": "대박복권방",
+  "phoneNumber": "",
+  "address": "경기 오산시 은계동 69-3 1층",
+  "latitude": "37.15952",
+  "longitude": "127.07034"
+},
+{
+  "number": "25",
+  "storeName": "줄줄이복권방",
+  "phoneNumber": "031-375-3656",
+  "address": "경기 오산시 부산동 778-8 1층 105호",
+  "latitude": "37.157066",
+  "longitude": "127.07897"
+},
+{
+  "number": "26",
+  "storeName": "백마점",
+  "phoneNumber": "",
+  "address": "경기 오산시 원동 774-31",
+  "latitude": "37.144062",
+  "longitude": "127.069695"
+},
+{
+  "number": "27",
+  "storeName": "나눔로또",
+  "phoneNumber": "",
+  "address": "경기 오산시 오산동 873-7 101호",
+  "latitude": "37.149143",
+  "longitude": "127.06866"
+},
+{
+  "number": "28",
+  "storeName": "한반도복권방",
+  "phoneNumber": "",
+  "address": "경기 오산시 고현동 17-4",
+  "latitude": "37.135918",
+  "longitude": "127.08058"
+},
+{
+  "number": "29",
+  "storeName": "로또판매점",
+  "phoneNumber": "031-374-2332",
+  "address": "경기 오산시 궐동 49-26 1층",
+  "latitude": "37.157845",
+  "longitude": "127.068596"
+},
+{
+  "number": "30",
+  "storeName": "오산제일복권",
+  "phoneNumber": "",
+  "address": "경기 오산시 갈곶동 126-17 101호",
+  "latitude": "37.132504",
+  "longitude": "127.06889"
+},
+{
+  "number": "31",
+  "storeName": "우주로또",
+  "phoneNumber": "031-372-6888",
+  "address": "경기 오산시 원동 764-18",
+  "latitude": "37.14626",
+  "longitude": "127.07204"
+},
+{
+  "number": "32",
+  "storeName": "홈런복권판매점",
+  "phoneNumber": "",
+  "address": "경기 오산시 수청동 620-1 제1층 109호",
+  "latitude": "37.170742",
+  "longitude": "127.06571"
+},
+{
+  "number": "33",
+  "storeName": "물향기",
+  "phoneNumber": "",
+  "address": "경기 오산시 대원동 754-10 제1층",
+  "latitude": "37.148556",
+  "longitude": "127.07343"
+}
+]

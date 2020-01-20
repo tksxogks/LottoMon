@@ -1,0 +1,74 @@
+[
+{
+  "number": "1",
+  "storeName": "로또명당",
+  "phoneNumber": "043-753-7942",
+  "address": "충북 진천군 진천읍 읍내리 258-5",
+  "latitude": "36.85869",
+  "longitude": "127.44365"
+},
+{
+  "number": "2",
+  "storeName": "황금알복권방",
+  "phoneNumber": "043-536-3007",
+  "address": "충북 진천군 진천읍 읍내리 403-2",
+  "latitude": "36.8547",
+  "longitude": "127.4419"
+},
+{
+  "number": "3",
+  "storeName": "그린복권",
+  "phoneNumber": "043-537-4335",
+  "address": "충북 진천군 이월면 송림리 693",
+  "latitude": "36.92995",
+  "longitude": "127.42903"
+},
+{
+  "number": "4",
+  "storeName": "팡팡복권방",
+  "phoneNumber": "043-535-5358",
+  "address": "충북 진천군 광혜원면 광혜원리 265-3번지",
+  "latitude": "36.989994",
+  "longitude": "127.44531"
+},
+{
+  "number": "5",
+  "storeName": "꿈꾸는 주주 로또",
+  "phoneNumber": "043-534-1156",
+  "address": "충북 진천군 덕산면 두촌리 2722 주성프라자 1층 103호",
+  "latitude": "36.900707",
+  "longitude": "127.52845"
+},
+{
+  "number": "6",
+  "storeName": "왕대박로또",
+  "phoneNumber": "043-533-5583",
+  "address": "충북 진천군 진천읍 읍내리 173-3",
+  "latitude": "36.860313",
+  "longitude": "127.445175"
+},
+{
+  "number": "7",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "충북 진천군 진천읍 교성리 10-2",
+  "latitude": "36.85451",
+  "longitude": "127.44809"
+},
+{
+  "number": "8",
+  "storeName": "대박나눔로또",
+  "phoneNumber": "",
+  "address": "충북 진천군 진천읍 읍내리 239-10",
+  "latitude": "36.859257",
+  "longitude": "127.43935"
+},
+{
+  "number": "9",
+  "storeName": "일등대박복권방",
+  "phoneNumber": "043-536-0066",
+  "address": "충북 진천군 진천읍 읍내리 471-56 애견미용삽 1층",
+  "latitude": "36.861908",
+  "longitude": "127.44458"
+}
+]

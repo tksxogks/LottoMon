@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "행운나눔로또판매점",
+  "phoneNumber": "061-842-9293",
+  "address": "전남 고흥군 도양읍 봉암리 2072-46번지 빅마켓 내",
+  "latitude": "34.52903",
+  "longitude": "127.13616"
+},
+{
+  "number": "2",
+  "storeName": "복권전문점(고흥)",
+  "phoneNumber": "061-832-0545",
+  "address": "전남 고흥군 고흥읍 남계리 631-55번지 복권전문점",
+  "latitude": "34.607372",
+  "longitude": "127.284615"
+},
+{
+  "number": "3",
+  "storeName": "로또동강",
+  "phoneNumber": "",
+  "address": "전남 고흥군 동강면 유둔리 199-21",
+  "latitude": "34.779682",
+  "longitude": "127.333565"
+},
+{
+  "number": "4",
+  "storeName": "녹동하나로마트로또방",
+  "phoneNumber": "061-842-4400",
+  "address": "전남 고흥군 도양읍 봉암리 3190번지 녹동 하나로마트 내",
+  "latitude": "34.52871",
+  "longitude": "127.144394"
+}
+]

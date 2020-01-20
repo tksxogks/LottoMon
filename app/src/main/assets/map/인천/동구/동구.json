@@ -1,0 +1,74 @@
+[
+{
+  "number": "1",
+  "storeName": "서흥로또방",
+  "phoneNumber": "032-766-3639",
+  "address": "인천 동구 화평동 350-8번지 1층",
+  "latitude": "37.479168",
+  "longitude": "126.630585"
+},
+{
+  "number": "2",
+  "storeName": "버스매표소447",
+  "phoneNumber": "032-765-1454",
+  "address": "인천 동구 송림동 50-146",
+  "latitude": "37.477352",
+  "longitude": "126.6452"
+},
+{
+  "number": "3",
+  "storeName": "드림존",
+  "phoneNumber": "032-588-2011",
+  "address": "인천 동구 송림동 294번지 인천산업용품센터편익상가B-102",
+  "latitude": "37.4859",
+  "longitude": "126.65508"
+},
+{
+  "number": "4",
+  "storeName": "제일복권",
+  "phoneNumber": "032-764-0888",
+  "address": "인천 동구 송림동 31-20번지",
+  "latitude": "37.477856",
+  "longitude": "126.65054"
+},
+{
+  "number": "5",
+  "storeName": "우리상회",
+  "phoneNumber": "032-772-0894",
+  "address": "인천 동구 송림동 31-16번지",
+  "latitude": "37.4776",
+  "longitude": "126.649826"
+},
+{
+  "number": "6",
+  "storeName": "한일로또",
+  "phoneNumber": "032-764-8566",
+  "address": "인천 동구 송림동 64-27",
+  "latitude": "37.472977",
+  "longitude": "126.64619"
+},
+{
+  "number": "7",
+  "storeName": "행운마트",
+  "phoneNumber": "032-765-8872",
+  "address": "인천 동구 송림동 56-9번지",
+  "latitude": "37.475407",
+  "longitude": "126.6427"
+},
+{
+  "number": "8",
+  "storeName": "행운로또",
+  "phoneNumber": "",
+  "address": "인천 동구 송현동 66-182번지 1층",
+  "latitude": "37.48005",
+  "longitude": "126.63423"
+},
+{
+  "number": "9",
+  "storeName": "희망슈퍼",
+  "phoneNumber": "032-765-8080",
+  "address": "인천 동구 화수동 264-2",
+  "latitude": "37.48123",
+  "longitude": "126.62995"
+}
+]

@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "동아슈퍼",
+  "phoneNumber": "043-743-4712",
+  "address": "충북 영동군 영동읍 계산리 684-32번지",
+  "latitude": "36.175564",
+  "longitude": "127.77848"
+},
+{
+  "number": "2",
+  "storeName": "로또복권방",
+  "phoneNumber": "043-745-0645",
+  "address": "충북 영동군 영동읍 계산리 688-1",
+  "latitude": "36.174385",
+  "longitude": "127.775696"
+},
+{
+  "number": "3",
+  "storeName": "레인보우복권",
+  "phoneNumber": "043-742-3886",
+  "address": "충북 영동군 영동읍 계산리 663-34번지",
+  "latitude": "36.172993",
+  "longitude": "127.78219"
+}
+]

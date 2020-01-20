@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "3억복권방",
+  "phoneNumber": "033-552-9805",
+  "address": "강원 태백시 황지동 30-8번지",
+  "latitude": "37.1715",
+  "longitude": "128.99236"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "033-552-9988",
+  "address": "강원 태백시 황지동 262-7번지",
+  "latitude": "37.176495",
+  "longitude": "128.9873"
+},
+{
+  "number": "3",
+  "storeName": "돈벼락복권",
+  "phoneNumber": "033-552-2252",
+  "address": "강원 태백시 황지동 621-28번지 1통4반",
+  "latitude": "37.171524",
+  "longitude": "128.9921"
+},
+{
+  "number": "4",
+  "storeName": "복권명당",
+  "phoneNumber": "033-552-6996",
+  "address": "강원 태백시 황지동 95-17번지",
+  "latitude": "37.16155",
+  "longitude": "128.99086"
+},
+{
+  "number": "5",
+  "storeName": "복돼지복권방",
+  "phoneNumber": "033-553-5008",
+  "address": "강원 태백시 황지동 91-4번지",
+  "latitude": "37.159473",
+  "longitude": "128.98962"
+}
+]

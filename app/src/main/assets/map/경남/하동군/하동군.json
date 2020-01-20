@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "로또복권판매",
+  "phoneNumber": "055-884-4544",
+  "address": "경남 하동군 하동읍 읍내리 333-14",
+  "latitude": "35.070614",
+  "longitude": "127.75115"
+},
+{
+  "number": "2",
+  "storeName": "하동로또명당",
+  "phoneNumber": "055-884-7890",
+  "address": "경남 하동군 하동읍 읍내리 322-1번지",
+  "latitude": "35.070454",
+  "longitude": "127.74981"
+},
+{
+  "number": "3",
+  "storeName": "로또복권",
+  "phoneNumber": "055-884-1131",
+  "address": "경남 하동군 금남면 계천리 987번지 지리산빅마트 내",
+  "latitude": "34.997047",
+  "longitude": "127.80979"
+},
+{
+  "number": "4",
+  "storeName": "진교로또복권판매점",
+  "phoneNumber": "055-882-4454",
+  "address": "경남 하동군 진교면 진교리 302-70번지",
+  "latitude": "35.028446",
+  "longitude": "127.90301"
+}
+]

@@ -1,0 +1,346 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(동작점)",
+  "phoneNumber": "02-841-0841",
+  "address": "서울 동작구 신대방동 690-20",
+  "latitude": "37.487362",
+  "longitude": "126.90958"
+},
+{
+  "number": "2",
+  "storeName": "GS25(사당드림점)",
+  "phoneNumber": "02-587-7697",
+  "address": "서울 동작구 사당동 1038-51번지",
+  "latitude": "37.47844",
+  "longitude": "126.979164"
+},
+{
+  "number": "3",
+  "storeName": "GS25(사당남사점)",
+  "phoneNumber": "02-521-2274",
+  "address": "서울 동작구 사당동 1005-54번지",
+  "latitude": "37.482807",
+  "longitude": "126.98079"
+},
+{
+  "number": "4",
+  "storeName": "GS25(사당신동아점)",
+  "phoneNumber": "02-595-2524",
+  "address": "서울 동작구 사당동 128-12",
+  "latitude": "37.4886",
+  "longitude": "126.97956"
+},
+{
+  "number": "5",
+  "storeName": "GS25(신림로점)",
+  "phoneNumber": "02-826-8536",
+  "address": "서울 동작구 신대방동 344-258번지",
+  "latitude": "37.494934",
+  "longitude": "126.92712"
+},
+{
+  "number": "6",
+  "storeName": "신영상회",
+  "phoneNumber": "02-816-2802",
+  "address": "서울 동작구 노량진동 235-5",
+  "latitude": "37.50988",
+  "longitude": "126.94242"
+},
+{
+  "number": "7",
+  "storeName": "한냉매점",
+  "phoneNumber": "02-2254-8550",
+  "address": "서울 동작구 노량진동 13-6 2층 10호",
+  "latitude": "37.51497",
+  "longitude": "126.94138"
+},
+{
+  "number": "8",
+  "storeName": "CU 장승배기역점",
+  "phoneNumber": "02-823-2871",
+  "address": "서울 동작구 노량진동 311-31",
+  "latitude": "37.506298",
+  "longitude": "126.93947"
+},
+{
+  "number": "9",
+  "storeName": "은경식품",
+  "phoneNumber": "02-813-2613",
+  "address": "서울 동작구 상도동 477-2",
+  "latitude": "37.49832",
+  "longitude": "126.95213"
+},
+{
+  "number": "10",
+  "storeName": "로또복권판매",
+  "phoneNumber": "02-832-1760",
+  "address": "서울 동작구 신대방동 395-68",
+  "latitude": "37.490517",
+  "longitude": "126.92392"
+},
+{
+  "number": "11",
+  "storeName": "행운로또",
+  "phoneNumber": "02-827-0075",
+  "address": "서울 동작구 흑석동 43-94",
+  "latitude": "37.50693",
+  "longitude": "126.9662"
+},
+{
+  "number": "12",
+  "storeName": "로또",
+  "phoneNumber": "02-817-9272",
+  "address": "서울 동작구 대방동 91-7번지 5번출구가판점",
+  "latitude": "37.508095",
+  "longitude": "126.926254"
+},
+{
+  "number": "13",
+  "storeName": "토로또가판점",
+  "phoneNumber": "02-823-8621",
+  "address": "서울 동작구 노량진동 148-8 가판",
+  "latitude": "37.51351",
+  "longitude": "126.94485"
+},
+{
+  "number": "14",
+  "storeName": "토큰박스",
+  "phoneNumber": "02-825-4555",
+  "address": "서울 동작구 흑석동 102-25 가판점",
+  "latitude": "37.50803",
+  "longitude": "126.96277"
+},
+{
+  "number": "15",
+  "storeName": "Q마트",
+  "phoneNumber": "02-822-5008",
+  "address": "서울 동작구 노량진동 236-13",
+  "latitude": "37.510483",
+  "longitude": "126.94035"
+},
+{
+  "number": "16",
+  "storeName": "이수복권방",
+  "phoneNumber": "02-594-0738",
+  "address": "서울 동작구 사당동 145-11",
+  "latitude": "37.485966",
+  "longitude": "126.98085"
+},
+{
+  "number": "17",
+  "storeName": "가판점",
+  "phoneNumber": "02-812-2906",
+  "address": "서울 동작구 상도동 32-10 가판",
+  "latitude": "37.504696",
+  "longitude": "126.94573"
+},
+{
+  "number": "18",
+  "storeName": "천하명당",
+  "phoneNumber": "02-537-5699",
+  "address": "서울 동작구 사당동 79-44",
+  "latitude": "37.490356",
+  "longitude": "126.98159"
+},
+{
+  "number": "19",
+  "storeName": "복권나라",
+  "phoneNumber": "02-814-6824",
+  "address": "서울 동작구 상도동 536",
+  "latitude": "37.50561",
+  "longitude": "126.94174"
+},
+{
+  "number": "20",
+  "storeName": "현대서점",
+  "phoneNumber": "02-814-9389",
+  "address": "서울 동작구 대방동 502 103동 2호",
+  "latitude": "37.512753",
+  "longitude": "126.931526"
+},
+{
+  "number": "21",
+  "storeName": "학림서점",
+  "phoneNumber": "02-815-5482",
+  "address": "서울 동작구 본동 400",
+  "latitude": "37.512688",
+  "longitude": "126.95137"
+},
+{
+  "number": "22",
+  "storeName": "삼성열쇠공사",
+  "phoneNumber": "02-822-4422",
+  "address": "서울 동작구 노량진동 119-144",
+  "latitude": "37.51148",
+  "longitude": "126.94449"
+},
+{
+  "number": "23",
+  "storeName": "코사마트",
+  "phoneNumber": "02-824-6610",
+  "address": "서울 동작구 대방동 401-5",
+  "latitude": "37.499733",
+  "longitude": "126.92206"
+},
+{
+  "number": "24",
+  "storeName": "개미식품",
+  "phoneNumber": "02-813-8151",
+  "address": "서울 동작구 노량진동 41-5 건설상가 115호",
+  "latitude": "37.513145",
+  "longitude": "126.93803"
+},
+{
+  "number": "25",
+  "storeName": "중앙슈퍼",
+  "phoneNumber": "02-812-1938",
+  "address": "서울 동작구 흑석동 184-27",
+  "latitude": "37.507713",
+  "longitude": "126.96058"
+},
+{
+  "number": "26",
+  "storeName": "정훈슈퍼",
+  "phoneNumber": "02-821-7983",
+  "address": "서울 동작구 신대방동 377-1",
+  "latitude": "37.498035",
+  "longitude": "126.92072"
+},
+{
+  "number": "27",
+  "storeName": "삼원미니슈퍼",
+  "phoneNumber": "02-815-1631",
+  "address": "서울 동작구 상도동 328-7 1층",
+  "latitude": "37.5001",
+  "longitude": "126.9308"
+},
+{
+  "number": "28",
+  "storeName": "상도편의점",
+  "phoneNumber": "02-824-1576",
+  "address": "서울 동작구 상도1동 745-1",
+  "latitude": "37.5027",
+  "longitude": "126.94773"
+},
+{
+  "number": "29",
+  "storeName": "럭키복권",
+  "phoneNumber": "02-822-7101",
+  "address": "서울 동작구 상도동 208-32 1층 안경점",
+  "latitude": "37.498745",
+  "longitude": "126.943665"
+},
+{
+  "number": "30",
+  "storeName": "복권세계",
+  "phoneNumber": "02-849-7252",
+  "address": "서울 동작구 신대방동 618-26번지",
+  "latitude": "37.487923",
+  "longitude": "126.91218"
+},
+{
+  "number": "31",
+  "storeName": "덕성식품",
+  "phoneNumber": "02-812-1666",
+  "address": "서울 동작구 신대방동 348-3번지",
+  "latitude": "37.49839",
+  "longitude": "126.92831"
+},
+{
+  "number": "32",
+  "storeName": "복권명당",
+  "phoneNumber": "02-826-7209",
+  "address": "서울 동작구 신대방동 338-19",
+  "latitude": "37.498074",
+  "longitude": "126.9292"
+},
+{
+  "number": "33",
+  "storeName": "뉴현대칼라",
+  "phoneNumber": "02-815-9955",
+  "address": "서울 동작구 상도동 191-1 1층 3호",
+  "latitude": "37.502815",
+  "longitude": "126.93538"
+},
+{
+  "number": "34",
+  "storeName": "복권나라",
+  "phoneNumber": "02-817-3479",
+  "address": "서울 동작구 상도동 256-42",
+  "latitude": "37.499084",
+  "longitude": "126.93328"
+},
+{
+  "number": "35",
+  "storeName": "명당복권방",
+  "phoneNumber": "02-812-4209",
+  "address": "서울 동작구 상도1동 628 상도역 5번 출구인근",
+  "latitude": "37.50405",
+  "longitude": "126.94953"
+},
+{
+  "number": "36",
+  "storeName": "썬마트",
+  "phoneNumber": "02-825-1776",
+  "address": "서울 동작구 신대방제2동 360-65번지",
+  "latitude": "37.49684",
+  "longitude": "126.924416"
+},
+{
+  "number": "37",
+  "storeName": "한누리",
+  "phoneNumber": "02-592-3171",
+  "address": "서울 동작구 사당동 132-6",
+  "latitude": "37.48761",
+  "longitude": "126.981"
+},
+{
+  "number": "38",
+  "storeName": "신동아로또판매점",
+  "phoneNumber": "02-814-2650",
+  "address": "서울 동작구 상도동 17-62",
+  "latitude": "37.506176",
+  "longitude": "126.94754"
+},
+{
+  "number": "39",
+  "storeName": "복권마을(사당점)",
+  "phoneNumber": "02-3472-9886",
+  "address": "서울 동작구 사당동 313-2 1층",
+  "latitude": "37.481884",
+  "longitude": "126.97253"
+},
+{
+  "number": "40",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "02-3472-1451",
+  "address": "서울 동작구 사당동 1031-1",
+  "latitude": "37.479794",
+  "longitude": "126.9809"
+},
+{
+  "number": "41",
+  "storeName": "GS25(사당역점)",
+  "phoneNumber": "02-3473-2245",
+  "address": "서울 동작구 사당동 1044-37번지",
+  "latitude": "37.47716",
+  "longitude": "126.979836"
+},
+{
+  "number": "42",
+  "storeName": "GS25(동작대방점)",
+  "phoneNumber": "02-822-9925",
+  "address": "서울 동작구 대방동 336-13번지",
+  "latitude": "37.499496",
+  "longitude": "126.92937"
+},
+{
+  "number": "43",
+  "storeName": "와이케이파트너스",
+  "phoneNumber": "",
+  "address": "서울 동작구 사당동 265-29번지 1층",
+  "latitude": "37.4838",
+  "longitude": "126.97234"
+}
+]

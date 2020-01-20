@@ -1,0 +1,666 @@
+[
+{
+  "number": "1",
+  "storeName": "씨스페이스(부평동아)",
+  "phoneNumber": "032-502-9064",
+  "address": "인천 부평구 부평동 546-67번지 1층",
+  "latitude": "37.49373",
+  "longitude": "126.7218"
+},
+{
+  "number": "2",
+  "storeName": "찬스복권방",
+  "phoneNumber": "032-526-8707",
+  "address": "인천 부평구 부평동 645-46번지 1층",
+  "latitude": "37.487106",
+  "longitude": "126.72511"
+},
+{
+  "number": "3",
+  "storeName": "행운복권",
+  "phoneNumber": "032-422-7911",
+  "address": "인천 부평구 십정동 297-3",
+  "latitude": "37.47422",
+  "longitude": "126.699036"
+},
+{
+  "number": "4",
+  "storeName": "복권천국",
+  "phoneNumber": "032-501-1009",
+  "address": "인천 부평구 갈산동 172번지 양영빌딩1층",
+  "latitude": "37.51707",
+  "longitude": "126.72441"
+},
+{
+  "number": "5",
+  "storeName": "복권전문점",
+  "phoneNumber": "032-502-7960",
+  "address": "인천 부평구 청천동 236-20번지",
+  "latitude": "37.503723",
+  "longitude": "126.71512"
+},
+{
+  "number": "6",
+  "storeName": "대박복권",
+  "phoneNumber": "032-526-7648",
+  "address": "인천 부평구 부평동 610-4번지",
+  "latitude": "37.48761",
+  "longitude": "126.727844"
+},
+{
+  "number": "7",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-505-6564",
+  "address": "인천 부평구 부개동 259-16번지",
+  "latitude": "37.485588",
+  "longitude": "126.737144"
+},
+{
+  "number": "8",
+  "storeName": "세븐일레븐 부평로또점",
+  "phoneNumber": "032-818-6425",
+  "address": "인천 부평구 부평동 760-326번지",
+  "latitude": "37.48663",
+  "longitude": "126.71742"
+},
+{
+  "number": "9",
+  "storeName": "아킬무역",
+  "phoneNumber": "032-522-1678",
+  "address": "인천 부평구 부평동 760-377번지 101호",
+  "latitude": "37.4855",
+  "longitude": "126.71814"
+},
+{
+  "number": "10",
+  "storeName": "24시슈퍼",
+  "phoneNumber": "032-425-9244",
+  "address": "인천 부평구 십정동 279-7번지",
+  "latitude": "37.476143",
+  "longitude": "126.69538"
+},
+{
+  "number": "11",
+  "storeName": "짱복권방",
+  "phoneNumber": "",
+  "address": "인천 부평구 산곡동 369-262번지",
+  "latitude": "37.492126",
+  "longitude": "126.704895"
+},
+{
+  "number": "12",
+  "storeName": "행운마트",
+  "phoneNumber": "032-429-3278",
+  "address": "인천 부평구 십정동 355-18번지",
+  "latitude": "37.471752",
+  "longitude": "126.69536"
+},
+{
+  "number": "13",
+  "storeName": "대박슈퍼",
+  "phoneNumber": "032-521-9492",
+  "address": "인천 부평구 부평동 179-14번지",
+  "latitude": "37.490814",
+  "longitude": "126.72864"
+},
+{
+  "number": "14",
+  "storeName": "태화복권",
+  "phoneNumber": "032-527-5477",
+  "address": "인천 부평구 갈산동 416 태화아파트 상가1층",
+  "latitude": "37.5232",
+  "longitude": "126.72864"
+},
+{
+  "number": "15",
+  "storeName": "원제슈퍼마켓",
+  "phoneNumber": "032-522-5485",
+  "address": "인천 부평구 청천동 10-1번지 1층",
+  "latitude": "37.519295",
+  "longitude": "126.70491"
+},
+{
+  "number": "16",
+  "storeName": "주경슈퍼",
+  "phoneNumber": "032-523-4581",
+  "address": "인천 부평구 부개동 301-31번지",
+  "latitude": "37.486935",
+  "longitude": "126.738174"
+},
+{
+  "number": "17",
+  "storeName": "욱일슈퍼",
+  "phoneNumber": "032-514-3255",
+  "address": "인천 부평구 일신동 110-5번지",
+  "latitude": "37.48459",
+  "longitude": "126.74671"
+},
+{
+  "number": "18",
+  "storeName": "경영매표소",
+  "phoneNumber": "032-521-8780",
+  "address": "인천 부평구 부평동 546-62번지 북인천우체국앞",
+  "latitude": "37.491497",
+  "longitude": "126.72153"
+},
+{
+  "number": "19",
+  "storeName": "노타리매표소",
+  "phoneNumber": "032-527-4333",
+  "address": "인천 부평구 부평동 549-43번지 가판",
+  "latitude": "37.491486",
+  "longitude": "126.72258"
+},
+{
+  "number": "20",
+  "storeName": "매표소(가판대)",
+  "phoneNumber": "032-512-2097",
+  "address": "인천 부평구 산곡동 2-8 가판 도깨비시장청원B/D앞",
+  "latitude": "37.51278",
+  "longitude": "126.703606"
+},
+{
+  "number": "21",
+  "storeName": "매표소",
+  "phoneNumber": "032-514-3276",
+  "address": "인천 부평구 산곡동 159-52번지 롯데마트앞",
+  "latitude": "37.504974",
+  "longitude": "126.70406"
+},
+{
+  "number": "22",
+  "storeName": "탑포인트부평점",
+  "phoneNumber": "032-519-5586",
+  "address": "인천 부평구 부평동 557-1번지 1층",
+  "latitude": "37.492844",
+  "longitude": "126.72959"
+},
+{
+  "number": "23",
+  "storeName": "하늘과바다",
+  "phoneNumber": "032-505-3152",
+  "address": "인천 부평구 부개동 67-9번지",
+  "latitude": "37.49796",
+  "longitude": "126.7352"
+},
+{
+  "number": "24",
+  "storeName": "미니마트",
+  "phoneNumber": "032-361-7782",
+  "address": "인천 부평구 산곡동 99-13",
+  "latitude": "37.508327",
+  "longitude": "126.70385"
+},
+{
+  "number": "25",
+  "storeName": "로또복권방",
+  "phoneNumber": "032-330-8310",
+  "address": "인천 부평구 산곡동 181-41 1층",
+  "latitude": "37.504772",
+  "longitude": "126.69944"
+},
+{
+  "number": "26",
+  "storeName": "스타로또",
+  "phoneNumber": "070-8903-2752",
+  "address": "인천 부평구 부평동 431-46번지",
+  "latitude": "37.504414",
+  "longitude": "126.72176"
+},
+{
+  "number": "27",
+  "storeName": "만복래",
+  "phoneNumber": "032-528-5599",
+  "address": "인천 부평구 부평동 370-1번지 1층",
+  "latitude": "37.4968",
+  "longitude": "126.72482"
+},
+{
+  "number": "28",
+  "storeName": "복권방",
+  "phoneNumber": "032-504-6779",
+  "address": "인천 부평구 산곡동 49-16",
+  "latitude": "37.505775",
+  "longitude": "126.72307"
+},
+{
+  "number": "29",
+  "storeName": "따봉복권방",
+  "phoneNumber": "032-508-0645",
+  "address": "인천 부평구 부평동 889-5번지",
+  "latitude": "37.504868",
+  "longitude": "126.725334"
+},
+{
+  "number": "30",
+  "storeName": "로또복권방",
+  "phoneNumber": "",
+  "address": "인천 부평구 부평동 738-21 지하 2층 223호",
+  "latitude": "37.489777",
+  "longitude": "126.723305"
+},
+{
+  "number": "31",
+  "storeName": "왕대박복권",
+  "phoneNumber": "",
+  "address": "인천 부평구 삼산동 57번지 삼보아파트상가 103호",
+  "latitude": "37.52121",
+  "longitude": "126.73763"
+},
+{
+  "number": "32",
+  "storeName": "올리콜 소리기획",
+  "phoneNumber": "032-508-2321",
+  "address": "인천 부평구 부평5동 10-783번지",
+  "latitude": "37.50267",
+  "longitude": "126.73121"
+},
+{
+  "number": "33",
+  "storeName": "인생역전복권방",
+  "phoneNumber": "032-504-4750",
+  "address": "인천 부평구 청천동 10-17번지 상가1층",
+  "latitude": "37.51858",
+  "longitude": "126.7047"
+},
+{
+  "number": "34",
+  "storeName": "하영마트",
+  "phoneNumber": "032-523-0329",
+  "address": "인천 부평구 부평동 654-8",
+  "latitude": "37.50733",
+  "longitude": "126.71892"
+},
+{
+  "number": "35",
+  "storeName": "로또판매점",
+  "phoneNumber": "032-514-4630",
+  "address": "인천 부평구 산곡동 119-51번지",
+  "latitude": "37.507812",
+  "longitude": "126.708855"
+},
+{
+  "number": "36",
+  "storeName": "정다운복권 조이마트",
+  "phoneNumber": "032-504-2645",
+  "address": "인천 부평구 부개동 12-198번지 1층",
+  "latitude": "37.504498",
+  "longitude": "126.73628"
+},
+{
+  "number": "37",
+  "storeName": "세정로또",
+  "phoneNumber": "032-508-4333",
+  "address": "인천 부평구 부평동 274-85번지 로또복권방",
+  "latitude": "37.48915",
+  "longitude": "126.70994"
+},
+{
+  "number": "38",
+  "storeName": "로또슈퍼",
+  "phoneNumber": "032-515-1588",
+  "address": "인천 부평구 일신동 105-2번지",
+  "latitude": "37.4854",
+  "longitude": "126.74271"
+},
+{
+  "number": "39",
+  "storeName": "노다지복권방",
+  "phoneNumber": "032-522-1259",
+  "address": "인천 부평구 십정동 186-353번지 1층",
+  "latitude": "37.483925",
+  "longitude": "126.7073"
+},
+{
+  "number": "40",
+  "storeName": "로또복권",
+  "phoneNumber": "032-424-4732",
+  "address": "인천 부평구 십정동 397-20번지",
+  "latitude": "37.473145",
+  "longitude": "126.70084"
+},
+{
+  "number": "41",
+  "storeName": "찬스센타백운점",
+  "phoneNumber": "032-523-4188",
+  "address": "인천 부평구 십정동 173-10,12번지",
+  "latitude": "37.484768",
+  "longitude": "126.70874"
+},
+{
+  "number": "42",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-505-1189",
+  "address": "인천 부평구 부평동 709-1",
+  "latitude": "37.487736",
+  "longitude": "126.72471"
+},
+{
+  "number": "43",
+  "storeName": "행운복권방",
+  "phoneNumber": "032-501-0596",
+  "address": "인천 부평구 십정동 181-233 인천 부평구 십정동 181-233",
+  "latitude": "37.48386",
+  "longitude": "126.71045"
+},
+{
+  "number": "44",
+  "storeName": "대박천하마트",
+  "phoneNumber": "032-507-2505",
+  "address": "인천 부평구 갈산동 367번지",
+  "latitude": "37.511524",
+  "longitude": "126.7263"
+},
+{
+  "number": "45",
+  "storeName": "다운이앤씨",
+  "phoneNumber": "032-524-1288",
+  "address": "인천 부평구 청천동 48-176번지 1층",
+  "latitude": "37.517456",
+  "longitude": "126.702545"
+},
+{
+  "number": "46",
+  "storeName": "복권방",
+  "phoneNumber": "032-523-0645",
+  "address": "인천 부평구 부개동 131-11번지",
+  "latitude": "37.493916",
+  "longitude": "126.735115"
+},
+{
+  "number": "47",
+  "storeName": "용꿈돼지꿈",
+  "phoneNumber": "032-434-7728",
+  "address": "인천 부평구 십정동 514-14번지",
+  "latitude": "37.47095",
+  "longitude": "126.70483"
+},
+{
+  "number": "48",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-521-9011",
+  "address": "인천 부평구 부평동 115-24 1층",
+  "latitude": "37.50097",
+  "longitude": "126.73292"
+},
+{
+  "number": "49",
+  "storeName": "행운복권마트",
+  "phoneNumber": "032-521-7211",
+  "address": "인천 부평구 부개동 492-8",
+  "latitude": "37.50794",
+  "longitude": "126.726395"
+},
+{
+  "number": "50",
+  "storeName": "왕대박복권편의점",
+  "phoneNumber": "032-505-0943",
+  "address": "인천 부평구 부개동 106-19 1층",
+  "latitude": "37.492874",
+  "longitude": "126.74063"
+},
+{
+  "number": "51",
+  "storeName": "대한빌딩",
+  "phoneNumber": "032-528-2888",
+  "address": "인천 부평구 부평동 534-27번지",
+  "latitude": "37.490997",
+  "longitude": "126.722305"
+},
+{
+  "number": "52",
+  "storeName": "흥부네복권",
+  "phoneNumber": "032-517-5456",
+  "address": "인천 부평구 부평동 65-115번지 대우아파트상가102호",
+  "latitude": "37.49946",
+  "longitude": "126.718216"
+},
+{
+  "number": "53",
+  "storeName": "시티라이프",
+  "phoneNumber": "032-502-8102",
+  "address": "인천 부평구 갈산동 108-11번지",
+  "latitude": "37.518677",
+  "longitude": "126.726974"
+},
+{
+  "number": "54",
+  "storeName": "GS25(부평여산점)",
+  "phoneNumber": "032-501-2025",
+  "address": "인천 부평구 부평동 440-5번지 여산빌딩",
+  "latitude": "37.499622",
+  "longitude": "126.72248"
+},
+{
+  "number": "55",
+  "storeName": "GS25(부개역점)",
+  "phoneNumber": "032-526-5973",
+  "address": "인천 부평구 부개동 289-9번지 1층",
+  "latitude": "37.488167",
+  "longitude": "126.73961"
+},
+{
+  "number": "56",
+  "storeName": "GS25(백운역점)",
+  "phoneNumber": "032-516-2221",
+  "address": "인천 부평구 십정동 174-118",
+  "latitude": "37.48489",
+  "longitude": "126.7084"
+},
+{
+  "number": "57",
+  "storeName": "GS25(동암북부점)",
+  "phoneNumber": "032-423-1688",
+  "address": "인천 부평구 십정동 402-58번지",
+  "latitude": "37.47172",
+  "longitude": "126.70232"
+},
+{
+  "number": "58",
+  "storeName": "GS25(부평대림점)",
+  "phoneNumber": "032-505-4058",
+  "address": "인천 부평구 부평1동 534-61",
+  "latitude": "37.49669",
+  "longitude": "126.72853"
+},
+{
+  "number": "59",
+  "storeName": "GS25(십정센터점)",
+  "phoneNumber": "032-571-1121",
+  "address": "인천 부평구 십정동 117 B동",
+  "latitude": "37.47868",
+  "longitude": "126.69056"
+},
+{
+  "number": "60",
+  "storeName": "인성미니슈퍼",
+  "phoneNumber": "032-525-2140",
+  "address": "인천 부평구 산곡동 45-44번지",
+  "latitude": "37.51314",
+  "longitude": "126.70318"
+},
+{
+  "number": "61",
+  "storeName": "복권광장",
+  "phoneNumber": "032-429-4811",
+  "address": "인천 부평구 십정동 442-8번지 1층",
+  "latitude": "37.46955",
+  "longitude": "126.69775"
+},
+{
+  "number": "62",
+  "storeName": "버스매표소",
+  "phoneNumber": "032-523-6498",
+  "address": "인천 부평구 부평동 549-39번지 가판",
+  "latitude": "37.491776",
+  "longitude": "126.72273"
+},
+{
+  "number": "63",
+  "storeName": "대광철물",
+  "phoneNumber": "032-503-0725",
+  "address": "인천 부평구 청천동 174번지",
+  "latitude": "37.51729",
+  "longitude": "126.70461"
+},
+{
+  "number": "64",
+  "storeName": "이지마트24",
+  "phoneNumber": "032-502-3309",
+  "address": "인천 부평구 부평동 377-27번지",
+  "latitude": "37.499596",
+  "longitude": "126.730255"
+},
+{
+  "number": "65",
+  "storeName": "힘찬슈퍼 복권방",
+  "phoneNumber": "032-504-1122",
+  "address": "인천 부평구 부평동 134-32번지",
+  "latitude": "37.495354",
+  "longitude": "126.7304"
+},
+{
+  "number": "66",
+  "storeName": "복권방",
+  "phoneNumber": "032-513-3337",
+  "address": "인천 부평구 부평동 439-11번지",
+  "latitude": "37.50137",
+  "longitude": "126.722145"
+},
+{
+  "number": "67",
+  "storeName": "복권마을",
+  "phoneNumber": "032-502-4865",
+  "address": "인천 부평구 청천동 178-5번지",
+  "latitude": "37.515877",
+  "longitude": "126.70452"
+},
+{
+  "number": "68",
+  "storeName": "복권천국",
+  "phoneNumber": "032-519-8133",
+  "address": "인천 부평구 삼산동 254-4번지 102호",
+  "latitude": "37.517643",
+  "longitude": "126.734024"
+},
+{
+  "number": "69",
+  "storeName": "명당터복권",
+  "phoneNumber": "032-518-1253",
+  "address": "인천 부평구 삼산동 460-8번지 삼산프라자105",
+  "latitude": "37.50753",
+  "longitude": "126.73507"
+},
+{
+  "number": "70",
+  "storeName": "동수슈퍼문구복권",
+  "phoneNumber": "032-524-4735",
+  "address": "인천 부평구 부평동 624-19번지",
+  "latitude": "37.485424",
+  "longitude": "126.729805"
+},
+{
+  "number": "71",
+  "storeName": "혜원 로또 편의점",
+  "phoneNumber": "032-529-6233",
+  "address": "인천 부평구 부평동 915 제1층 5호",
+  "latitude": "37.477364",
+  "longitude": "126.7098"
+},
+{
+  "number": "72",
+  "storeName": "현이네로또",
+  "phoneNumber": "",
+  "address": "인천 부평구 청천동 425",
+  "latitude": "37.517635",
+  "longitude": "126.72011"
+},
+{
+  "number": "73",
+  "storeName": "복권판매",
+  "phoneNumber": "032-502-7265",
+  "address": "인천 부평구 부개동 166-3",
+  "latitude": "37.566536",
+  "longitude": "126.97797"
+},
+{
+  "number": "74",
+  "storeName": "십정동 로또 킹",
+  "phoneNumber": "",
+  "address": "인천 부평구 십정동 557-33 1층 세븐일레븐",
+  "latitude": "37.506603",
+  "longitude": "126.70776"
+},
+{
+  "number": "75",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "인천 부평구 십정동 250",
+  "latitude": "37.476185",
+  "longitude": "126.69163"
+},
+{
+  "number": "76",
+  "storeName": "대박메이커",
+  "phoneNumber": "",
+  "address": "인천 부평구 청천동 180-4",
+  "latitude": "37.51322",
+  "longitude": "126.70561"
+},
+{
+  "number": "77",
+  "storeName": "씨스페이스(부평프렌즈점)",
+  "phoneNumber": "032-506-4919",
+  "address": "인천 부평구 부평동 185-41번지",
+  "latitude": "37.497192",
+  "longitude": "126.72304"
+},
+{
+  "number": "78",
+  "storeName": "세븐일레븐 십정본점",
+  "phoneNumber": "",
+  "address": "인천 부평구 부개2동 502-5",
+  "latitude": "37.49735",
+  "longitude": "126.73862"
+},
+{
+  "number": "79",
+  "storeName": "부평대박로또",
+  "phoneNumber": "",
+  "address": "인천 부평구 십정동 479-47 후레쉬마트",
+  "latitude": "37.489334",
+  "longitude": "126.738625"
+},
+{
+  "number": "80",
+  "storeName": "운수대통",
+  "phoneNumber": "",
+  "address": "인천 부평구 십정동 408-15 1층 A호",
+  "latitude": "37.471073",
+  "longitude": "126.7033"
+},
+{
+  "number": "81",
+  "storeName": "부평노체점로또",
+  "phoneNumber": "",
+  "address": "인천 부평구 부평동 529-40",
+  "latitude": "37.498287",
+  "longitude": "126.721054"
+},
+{
+  "number": "82",
+  "storeName": "행운로또방",
+  "phoneNumber": "",
+  "address": "인천 부평구 십정동 322-19 1층",
+  "latitude": "37.47407",
+  "longitude": "126.69577"
+},
+{
+  "number": "83",
+  "storeName": "1등 복권",
+  "phoneNumber": "",
+  "address": "인천 부평구 부평동 529-1 1층",
+  "latitude": "37.499226",
+  "longitude": "126.7219"
+}
+]

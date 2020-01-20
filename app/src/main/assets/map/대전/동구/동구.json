@@ -1,0 +1,306 @@
+[
+{
+  "number": "1",
+  "storeName": "노다지복권방",
+  "phoneNumber": "",
+  "address": "대전 동구 홍도동 2-26",
+  "latitude": "36.34923",
+  "longitude": "127.429146"
+},
+{
+  "number": "2",
+  "storeName": "천하명당홍명복권방",
+  "phoneNumber": "042-252-7871",
+  "address": "대전 동구 정동 26번지",
+  "latitude": "36.331963",
+  "longitude": "127.43203"
+},
+{
+  "number": "3",
+  "storeName": "노다지복권방",
+  "phoneNumber": "042-631-5488",
+  "address": "대전 동구 성남동 505-7번지",
+  "latitude": "36.346672",
+  "longitude": "127.43213"
+},
+{
+  "number": "4",
+  "storeName": "노다지복권방",
+  "phoneNumber": "042-624-4479",
+  "address": "대전 동구 가오동 236-22번지",
+  "latitude": "36.305183",
+  "longitude": "127.452705"
+},
+{
+  "number": "5",
+  "storeName": "대박마트",
+  "phoneNumber": "042-272-5515",
+  "address": "대전 동구 가오동 398-4 101호",
+  "latitude": "36.345383",
+  "longitude": "127.42911"
+},
+{
+  "number": "6",
+  "storeName": "로또미림샵",
+  "phoneNumber": "",
+  "address": "대전 동구 가양2동 87-27번지",
+  "latitude": "36.34875",
+  "longitude": "127.45074"
+},
+{
+  "number": "7",
+  "storeName": "베스토아(용전2호)",
+  "phoneNumber": "",
+  "address": "대전 동구 용전동 63-3번지 복합터미널서관1층59호",
+  "latitude": "36.35022",
+  "longitude": "127.43682"
+},
+{
+  "number": "8",
+  "storeName": "주공24시편의방",
+  "phoneNumber": "042-271-4779",
+  "address": "대전 동구 판암동 204번지 판암주공아파트2차상가",
+  "latitude": "36.316628",
+  "longitude": "127.46115"
+},
+{
+  "number": "9",
+  "storeName": "럭키뱅크",
+  "phoneNumber": "042-624-9800",
+  "address": "대전 동구 용전동 42-13번지",
+  "latitude": "36.35562",
+  "longitude": "127.43253"
+},
+{
+  "number": "10",
+  "storeName": "천하명당복권방역전점",
+  "phoneNumber": "042-257-2006",
+  "address": "대전 동구 정동 15-23번지",
+  "latitude": "36.332375",
+  "longitude": "127.431885"
+},
+{
+  "number": "11",
+  "storeName": "복권명당(대청점)",
+  "phoneNumber": "070-8867-0010",
+  "address": "대전 동구 용운동 487번지",
+  "latitude": "36.32688",
+  "longitude": "127.45003"
+},
+{
+  "number": "12",
+  "storeName": "복권판매소",
+  "phoneNumber": "042-633-3692",
+  "address": "대전 동구 대동 152-5번지",
+  "latitude": "36.327",
+  "longitude": "127.432686"
+},
+{
+  "number": "13",
+  "storeName": "보보스복권방",
+  "phoneNumber": "042-621-0223",
+  "address": "대전 동구 용전동 67-9번지",
+  "latitude": "36.35259",
+  "longitude": "127.436966"
+},
+{
+  "number": "14",
+  "storeName": "유연마트",
+  "phoneNumber": "042-283-2026",
+  "address": "대전 동구 신흥동 11-7번지",
+  "latitude": "36.322163",
+  "longitude": "127.44513"
+},
+{
+  "number": "15",
+  "storeName": "금강슈퍼",
+  "phoneNumber": "042-221-4853",
+  "address": "대전 동구 원동 62-11번지",
+  "latitude": "36.328545",
+  "longitude": "127.43163"
+},
+{
+  "number": "16",
+  "storeName": "로또대박마트",
+  "phoneNumber": "070-8759-5777",
+  "address": "대전 동구 대성동 267-1 로또대박마트",
+  "latitude": "36.2904",
+  "longitude": "127.46335"
+},
+{
+  "number": "17",
+  "storeName": "꽃돼지복권",
+  "phoneNumber": "042-625-3935",
+  "address": "대전 동구 대동 172-11",
+  "latitude": "36.330463",
+  "longitude": "127.44213"
+},
+{
+  "number": "18",
+  "storeName": "천하제일복권명당",
+  "phoneNumber": "042-273-8880",
+  "address": "대전 동구 용운동 304-1번지",
+  "latitude": "36.327595",
+  "longitude": "127.461914"
+},
+{
+  "number": "19",
+  "storeName": "베팅샵(양파)",
+  "phoneNumber": "042-621-0490",
+  "address": "대전 동구 용전동 182-42번지",
+  "latitude": "36.350113",
+  "longitude": "127.43169"
+},
+{
+  "number": "20",
+  "storeName": "장터슈퍼",
+  "phoneNumber": "042-272-1654",
+  "address": "대전 동구 인동 212-1번지",
+  "latitude": "36.31972",
+  "longitude": "127.43853"
+},
+{
+  "number": "21",
+  "storeName": "복권전문판매점",
+  "phoneNumber": "042-673-8937",
+  "address": "대전 동구 가양동 433-8번지",
+  "latitude": "36.345684",
+  "longitude": "127.442345"
+},
+{
+  "number": "22",
+  "storeName": "동부슈퍼",
+  "phoneNumber": "042-625-3166",
+  "address": "대전 동구 가양동 451-21번지",
+  "latitude": "36.349636",
+  "longitude": "127.43923"
+},
+{
+  "number": "23",
+  "storeName": "후생사제3매장",
+  "phoneNumber": "042-623-2525",
+  "address": "대전 동구 가양동 38-6번지",
+  "latitude": "36.349697",
+  "longitude": "127.44682"
+},
+{
+  "number": "24",
+  "storeName": "로또공인중개사사무소",
+  "phoneNumber": "042-285-4585",
+  "address": "대전 동구 용운동 437-3번지",
+  "latitude": "36.328743",
+  "longitude": "127.454285"
+},
+{
+  "number": "25",
+  "storeName": "중앙교통카드로또점",
+  "phoneNumber": "042-226-5757",
+  "address": "대전 동구 중동 27-11번지 구 대훈서적앞",
+  "latitude": "36.330055",
+  "longitude": "127.430504"
+},
+{
+  "number": "26",
+  "storeName": "승차권판매소",
+  "phoneNumber": "042-254-6730",
+  "address": "대전 동구 중동 26-2 가판대",
+  "latitude": "36.330654",
+  "longitude": "127.430435"
+},
+{
+  "number": "27",
+  "storeName": "GS25(대전터미널점)",
+  "phoneNumber": "042-638-2050",
+  "address": "대전 동구 용전동 63-11 GS25",
+  "latitude": "36.35197",
+  "longitude": "127.43642"
+},
+{
+  "number": "28",
+  "storeName": "GS25(대전판암점)",
+  "phoneNumber": "042-273-7171",
+  "address": "대전 동구 용운동 401-10 GS25 편의점",
+  "latitude": "36.32327",
+  "longitude": "127.46028"
+},
+{
+  "number": "29",
+  "storeName": "이브자리원동점",
+  "phoneNumber": "042-257-0336",
+  "address": "대전 동구 원동 65-7",
+  "latitude": "36.328564",
+  "longitude": "127.432205"
+},
+{
+  "number": "30",
+  "storeName": "로또6/45",
+  "phoneNumber": "042-639-6519",
+  "address": "대전 동구 성남동 47-2번지",
+  "latitude": "36.341118",
+  "longitude": "127.43609"
+},
+{
+  "number": "31",
+  "storeName": "복권방",
+  "phoneNumber": "042-223-6100",
+  "address": "대전 동구 중동 77-2번지",
+  "latitude": "36.33078",
+  "longitude": "127.43253"
+},
+{
+  "number": "32",
+  "storeName": "파워로또",
+  "phoneNumber": "042-635-1661",
+  "address": "대전 동구 용전동 117-15 복합터미널 앞 버스정류장",
+  "latitude": "36.329533",
+  "longitude": "127.43319"
+},
+{
+  "number": "33",
+  "storeName": "대전우표사",
+  "phoneNumber": "042-256-8415",
+  "address": "대전 동구 중동 88-3번지",
+  "latitude": "36.330032",
+  "longitude": "127.43209"
+},
+{
+  "number": "34",
+  "storeName": "현암꽃플라워",
+  "phoneNumber": "042-633-6887",
+  "address": "대전 동구 삼성동 352-12번지",
+  "latitude": "36.34213",
+  "longitude": "127.41912"
+},
+{
+  "number": "35",
+  "storeName": "로또잭팟(금정사)",
+  "phoneNumber": "042-672-8245",
+  "address": "대전 동구 소제동 309-5번지",
+  "latitude": "36.337242",
+  "longitude": "127.43803"
+},
+{
+  "number": "36",
+  "storeName": "로또기업",
+  "phoneNumber": "042-719-7777",
+  "address": "대전 동구 성남동 494-7 복합터미널 건너편",
+  "latitude": "36.349064",
+  "longitude": "127.43694"
+},
+{
+  "number": "37",
+  "storeName": "복권로또판매점",
+  "phoneNumber": "042-626-8414",
+  "address": "대전 동구 자양동 198-17",
+  "latitude": "36.341743",
+  "longitude": "127.44844"
+},
+{
+  "number": "38",
+  "storeName": "행복로또방",
+  "phoneNumber": "",
+  "address": "대전 동구 가양1동 343-11 1층(가양동)",
+  "latitude": "36.34323",
+  "longitude": "127.44129"
+}
+]

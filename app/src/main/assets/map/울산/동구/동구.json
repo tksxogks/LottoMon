@@ -1,0 +1,186 @@
+[
+{
+  "number": "1",
+  "storeName": "영24",
+  "phoneNumber": "052-235-9188",
+  "address": "울산 동구 화정동 652-12번지",
+  "latitude": "35.493965",
+  "longitude": "129.42455"
+},
+{
+  "number": "2",
+  "storeName": "광명24시편의점",
+  "phoneNumber": "052-232-2657",
+  "address": "울산 동구 서부동 181-4번지",
+  "latitude": "35.52555",
+  "longitude": "129.43288"
+},
+{
+  "number": "3",
+  "storeName": "송정마트",
+  "phoneNumber": "052-235-3817",
+  "address": "울산 동구 방어동 913-20번지",
+  "latitude": "35.489548",
+  "longitude": "129.41841"
+},
+{
+  "number": "4",
+  "storeName": "CN마트",
+  "phoneNumber": "052-235-3721",
+  "address": "울산 동구 화정동 849-27번지",
+  "latitude": "35.49842",
+  "longitude": "129.41982"
+},
+{
+  "number": "5",
+  "storeName": "복권나라",
+  "phoneNumber": "",
+  "address": "울산 동구 방어동 505-8 111동101호",
+  "latitude": "35.482994",
+  "longitude": "129.41821"
+},
+{
+  "number": "6",
+  "storeName": "GS25울산동구남목점",
+  "phoneNumber": "052-252-0196",
+  "address": "울산 동구 동부동 259-13",
+  "latitude": "35.541836",
+  "longitude": "129.42636"
+},
+{
+  "number": "7",
+  "storeName": "우리들꽃바위",
+  "phoneNumber": "052-201-4929",
+  "address": "울산 동구 방어동 1113번지 정림아파트상가1동",
+  "latitude": "35.48899",
+  "longitude": "129.41237"
+},
+{
+  "number": "8",
+  "storeName": "CN마트",
+  "phoneNumber": "052-234-3051",
+  "address": "울산 동구 일산동 535-6번지",
+  "latitude": "35.5021",
+  "longitude": "129.4248"
+},
+{
+  "number": "9",
+  "storeName": "동성복권방",
+  "phoneNumber": "052-252-1128",
+  "address": "울산 동구 서부동 315-2번지",
+  "latitude": "35.540398",
+  "longitude": "129.4253"
+},
+{
+  "number": "10",
+  "storeName": "대박복권방",
+  "phoneNumber": "052-236-3377",
+  "address": "울산 동구 전하동 626-6번지",
+  "latitude": "35.511402",
+  "longitude": "129.42975"
+},
+{
+  "number": "11",
+  "storeName": "나눔복권",
+  "phoneNumber": "052-236-0645",
+  "address": "울산 동구 화정동 637-37번지",
+  "latitude": "35.496548",
+  "longitude": "129.42737"
+},
+{
+  "number": "12",
+  "storeName": "미니스톱 울산동진점",
+  "phoneNumber": "",
+  "address": "울산 동구 방어동 139-3 1층 편의점",
+  "latitude": "35.486683",
+  "longitude": "129.4256"
+},
+{
+  "number": "13",
+  "storeName": "복권방",
+  "phoneNumber": "052-252-3221",
+  "address": "울산 동구 전하동 300-14번지",
+  "latitude": "35.517483",
+  "longitude": "129.43169"
+},
+{
+  "number": "14",
+  "storeName": "천하복권방",
+  "phoneNumber": "052-233-6882",
+  "address": "울산 동구 전하동 618-8번지",
+  "latitude": "35.51243",
+  "longitude": "129.42749"
+},
+{
+  "number": "15",
+  "storeName": "일등복권마트",
+  "phoneNumber": "052-986-9429",
+  "address": "울산 동구 일산동 533-11번지",
+  "latitude": "35.502644",
+  "longitude": "129.42758"
+},
+{
+  "number": "16",
+  "storeName": "남목복권방",
+  "phoneNumber": "070-7867-9790",
+  "address": "울산 동구 동부동 194-66번지",
+  "latitude": "35.540745",
+  "longitude": "129.42796"
+},
+{
+  "number": "17",
+  "storeName": "에브리데이",
+  "phoneNumber": "052-235-5577",
+  "address": "울산 동구 서부동 113-49번지",
+  "latitude": "35.52234",
+  "longitude": "129.43245"
+},
+{
+  "number": "18",
+  "storeName": "화정복권방",
+  "phoneNumber": "052-252-7773",
+  "address": "울산 동구 화정동 637-2번지",
+  "latitude": "35.496857",
+  "longitude": "129.4268"
+},
+{
+  "number": "19",
+  "storeName": "동울산일등편의점",
+  "phoneNumber": "052-911-2458",
+  "address": "울산 동구 전하동 651-8",
+  "latitude": "35.510235",
+  "longitude": "129.42828"
+},
+{
+  "number": "20",
+  "storeName": "에이스로또",
+  "phoneNumber": "052-233-4231",
+  "address": "울산 동구 전하동 664-1 e마트24시내",
+  "latitude": "35.50889",
+  "longitude": "129.42715"
+},
+{
+  "number": "21",
+  "storeName": "울산문현점 로또점",
+  "phoneNumber": "052-233-2342",
+  "address": "울산 동구 방어동 1128-1 GS25편의점",
+  "latitude": "35.487183",
+  "longitude": "129.41324"
+},
+{
+  "number": "22",
+  "storeName": "금돼지로또방",
+  "phoneNumber": "",
+  "address": "울산 동구 방어동 288-5",
+  "latitude": "35.485756",
+  "longitude": "129.42029"
+},
+{
+  "number": "23",
+  "storeName": "영희복권방",
+  "phoneNumber": "",
+  "address": "울산 동구 전하동 681-3 무주슈퍼",
+  "latitude": "35.507286",
+  "longitude": "129.42905"
+}
+]

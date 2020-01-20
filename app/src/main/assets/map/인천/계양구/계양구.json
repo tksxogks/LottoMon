@@ -1,0 +1,338 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(계산동경점)",
+  "phoneNumber": "032-547-2018",
+  "address": "인천 계양구 계산동 1076-7번지 도쿄프라자1층2호",
+  "latitude": "37.53574",
+  "longitude": "126.73629"
+},
+{
+  "number": "2",
+  "storeName": "알파슈퍼",
+  "phoneNumber": "032-547-2392",
+  "address": "인천 계양구 효성동 331-6번지",
+  "latitude": "37.524647",
+  "longitude": "126.71045"
+},
+{
+  "number": "3",
+  "storeName": "복슈퍼",
+  "phoneNumber": "032-551-6829",
+  "address": "인천 계양구 계산동 988-56번지",
+  "latitude": "37.53717",
+  "longitude": "126.72409"
+},
+{
+  "number": "4",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "032-555-0702",
+  "address": "인천 계양구 효성동 305-8번지 1층",
+  "latitude": "37.52443",
+  "longitude": "126.710915"
+},
+{
+  "number": "5",
+  "storeName": "장미유통",
+  "phoneNumber": "032-541-5708",
+  "address": "인천 계양구 작전동 707-12번지",
+  "latitude": "37.525375",
+  "longitude": "126.735855"
+},
+{
+  "number": "6",
+  "storeName": "에이스복권",
+  "phoneNumber": "032-546-0471",
+  "address": "인천 계양구 계산동 917-11번지",
+  "latitude": "37.543255",
+  "longitude": "126.7333"
+},
+{
+  "number": "7",
+  "storeName": "수석슈퍼",
+  "phoneNumber": "032-541-2618",
+  "address": "인천 계양구 계산동 939-1번지 상가",
+  "latitude": "37.543377",
+  "longitude": "126.72007"
+},
+{
+  "number": "8",
+  "storeName": "미니스톱인천효성점",
+  "phoneNumber": "032-547-9341",
+  "address": "인천 계양구 효성동 63-2번지",
+  "latitude": "37.53222",
+  "longitude": "126.710396"
+},
+{
+  "number": "9",
+  "storeName": "라이프슈퍼",
+  "phoneNumber": "032-549-9685",
+  "address": "인천 계양구 용종동 210-1번지 태영프라자106호",
+  "latitude": "37.538776",
+  "longitude": "126.73758"
+},
+{
+  "number": "10",
+  "storeName": "한마음병원앞버스매표소",
+  "phoneNumber": "032-542-9921",
+  "address": "인천 계양구 작전동 865-34번지",
+  "latitude": "37.528526",
+  "longitude": "126.72211"
+},
+{
+  "number": "11",
+  "storeName": "드림투어 작전",
+  "phoneNumber": "032-544-5900",
+  "address": "인천 계양구 작전동 448-7 홈플러스 2층 로또판매점",
+  "latitude": "37.526134",
+  "longitude": "126.72125"
+},
+{
+  "number": "12",
+  "storeName": "복권세상",
+  "phoneNumber": "032-542-8612",
+  "address": "인천 계양구 작전동 854-15번지",
+  "latitude": "37.532665",
+  "longitude": "126.72393"
+},
+{
+  "number": "13",
+  "storeName": "복권천하",
+  "phoneNumber": "032-542-0232",
+  "address": "인천 계양구 임학동 5-44번지",
+  "latitude": "37.546917",
+  "longitude": "126.737465"
+},
+{
+  "number": "14",
+  "storeName": "로또복권",
+  "phoneNumber": "032-549-8560",
+  "address": "인천 계양구 작전동 855-25번지 대암빌딩1층",
+  "latitude": "37.53466",
+  "longitude": "126.72299"
+},
+{
+  "number": "15",
+  "storeName": "흥부네박터졌네",
+  "phoneNumber": "032-555-7772",
+  "address": "인천 계양구 계산동 966-1번지",
+  "latitude": "37.537964",
+  "longitude": "126.72467"
+},
+{
+  "number": "16",
+  "storeName": "로또복권판매소",
+  "phoneNumber": "032-555-9253",
+  "address": "인천 계양구 임학동 28-1 102호",
+  "latitude": "37.547386",
+  "longitude": "126.736824"
+},
+{
+  "number": "17",
+  "storeName": "삼성로또명당",
+  "phoneNumber": "032-554-0150",
+  "address": "인천 계양구 작전동 919-4",
+  "latitude": "37.52801",
+  "longitude": "126.735954"
+},
+{
+  "number": "18",
+  "storeName": "로또커피앤",
+  "phoneNumber": "032-555-1798",
+  "address": "인천 계양구 11-1번지",
+  "latitude": "37.580063",
+  "longitude": "126.779144"
+},
+{
+  "number": "19",
+  "storeName": "팡스그랜드제과점",
+  "phoneNumber": "032-554-0089",
+  "address": "인천 계양구 작전동 915-1번지 태화아파트상가119",
+  "latitude": "37.529236",
+  "longitude": "126.74103"
+},
+{
+  "number": "20",
+  "storeName": "초이스편의점",
+  "phoneNumber": "032-548-3427",
+  "address": "인천 계양구 작전동 30-1 상가동 102호",
+  "latitude": "37.530865",
+  "longitude": "126.72187"
+},
+{
+  "number": "21",
+  "storeName": "대박로또",
+  "phoneNumber": "032-545-1139",
+  "address": "인천 계양구 작전동 680-6번지 106호",
+  "latitude": "37.525772",
+  "longitude": "126.738754"
+},
+{
+  "number": "22",
+  "storeName": "이레",
+  "phoneNumber": "032-551-0682",
+  "address": "인천 계양구 계산동 929번지",
+  "latitude": "37.54392",
+  "longitude": "126.72508"
+},
+{
+  "number": "23",
+  "storeName": "해피데이로또복권",
+  "phoneNumber": "032-553-1155",
+  "address": "인천 계양구 계산동 931-32번지",
+  "latitude": "37.543816",
+  "longitude": "126.72161"
+},
+{
+  "number": "24",
+  "storeName": "부자나라",
+  "phoneNumber": "032-552-2526",
+  "address": "인천 계양구 효성동 321-60번지",
+  "latitude": "37.5274",
+  "longitude": "126.708275"
+},
+{
+  "number": "25",
+  "storeName": "행운복권방",
+  "phoneNumber": "032-556-4011",
+  "address": "인천 계양구 계산동 337-12번지 103호",
+  "latitude": "37.54134",
+  "longitude": "126.728485"
+},
+{
+  "number": "26",
+  "storeName": "복권왕국",
+  "phoneNumber": "032-543-0317",
+  "address": "인천 계양구 계산동 956-30번지",
+  "latitude": "37.53924",
+  "longitude": "126.72327"
+},
+{
+  "number": "27",
+  "storeName": "도깨비복권방",
+  "phoneNumber": "032-544-3558",
+  "address": "인천 계양구 작전동 863-19",
+  "latitude": "37.53086",
+  "longitude": "126.723976"
+},
+{
+  "number": "28",
+  "storeName": "좋은터",
+  "phoneNumber": "032-552-5587",
+  "address": "인천 계양구 효성동 195-19 1층",
+  "latitude": "37.527554",
+  "longitude": "126.71979"
+},
+{
+  "number": "29",
+  "storeName": "안전열쇠",
+  "phoneNumber": "032-551-4477",
+  "address": "인천 계양구 계산동 12-1번지 명인프라자102호",
+  "latitude": "37.542816",
+  "longitude": "126.73186"
+},
+{
+  "number": "30",
+  "storeName": "성모당약국",
+  "phoneNumber": "032-515-3838",
+  "address": "인천 계양구 박촌동 52-8번지",
+  "latitude": "37.555794",
+  "longitude": "126.74533"
+},
+{
+  "number": "31",
+  "storeName": "우리마트",
+  "phoneNumber": "032-546-8468",
+  "address": "인천 계양구 작전동 72-2번지 한아름상가101 102호",
+  "latitude": "37.532906",
+  "longitude": "126.731865"
+},
+{
+  "number": "32",
+  "storeName": "인생대역전",
+  "phoneNumber": "032-546-9110",
+  "address": "인천 계양구 임학동 10-10번지",
+  "latitude": "37.545452",
+  "longitude": "126.73868"
+},
+{
+  "number": "33",
+  "storeName": "희망복권방",
+  "phoneNumber": "032-551-0054",
+  "address": "인천 계양구 작전동 871-68",
+  "latitude": "37.52809",
+  "longitude": "126.72896"
+},
+{
+  "number": "34",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "인천 계양구 효성동 253-1 1층3호",
+  "latitude": "37.52802",
+  "longitude": "126.71181"
+},
+{
+  "number": "35",
+  "storeName": "후연로또점",
+  "phoneNumber": "",
+  "address": "인천 계양구 장기동 138-11 1층",
+  "latitude": "37.579407",
+  "longitude": "126.73477"
+},
+{
+  "number": "36",
+  "storeName": "연우로또",
+  "phoneNumber": "",
+  "address": "인천 계양구 계산동 973 1층",
+  "latitude": "37.54026",
+  "longitude": "126.72175"
+},
+{
+  "number": "37",
+  "storeName": "상록로또",
+  "phoneNumber": "",
+  "address": "인천 계양구 작전동 901-1",
+  "latitude": "37.5318",
+  "longitude": "126.73428"
+},
+{
+  "number": "38",
+  "storeName": "로또방",
+  "phoneNumber": "",
+  "address": "인천 계양구 계산동 946-6 102호",
+  "latitude": "37.539562",
+  "longitude": "126.71527"
+},
+{
+  "number": "39",
+  "storeName": "드림로또",
+  "phoneNumber": "032-549-2989",
+  "address": "인천 계양구 효성동 580-11",
+  "latitude": "37.52869",
+  "longitude": "126.70178"
+},
+{
+  "number": "40",
+  "storeName": "노다지복권",
+  "phoneNumber": "",
+  "address": "인천 계양구 병방동 119-1 1층, 일부호",
+  "latitude": "37.548035",
+  "longitude": "126.741425"
+},
+{
+  "number": "41",
+  "storeName": "여기로또방",
+  "phoneNumber": "032-548-3624",
+  "address": "인천 계양구 효성동 251-15",
+  "latitude": "37.527374",
+  "longitude": "126.711105"
+},
+{
+  "number": "42",
+  "storeName": "더킹로또",
+  "phoneNumber": "",
+  "address": "인천 계양구 동양동 641-4",
+  "latitude": "37.55934",
+  "longitude": "126.75935"
+}
+]

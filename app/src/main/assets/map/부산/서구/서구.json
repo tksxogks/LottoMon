@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "씨유 동대신역점",
+  "phoneNumber": "051-244-3917",
+  "address": "부산 서구 서대신동1가 52-16",
+  "latitude": "35.109097",
+  "longitude": "129.01813"
+},
+{
+  "number": "2",
+  "storeName": "씨스페이스(송도바다점)",
+  "phoneNumber": "051-254-0610",
+  "address": "부산 서구 암남동 359-1번지",
+  "latitude": "35.076004",
+  "longitude": "129.01631"
+},
+{
+  "number": "3",
+  "storeName": "충무로또",
+  "phoneNumber": "051-242-7242",
+  "address": "부산 서구 충무동1가 17-12",
+  "latitude": "35.096394",
+  "longitude": "129.02333"
+},
+{
+  "number": "4",
+  "storeName": "만구수산유통",
+  "phoneNumber": "051-253-3573",
+  "address": "부산 서구 남부민동 685번지 현대타운상가1층86호 복권판매점",
+  "latitude": "35.092663",
+  "longitude": "129.02449"
+},
+{
+  "number": "5",
+  "storeName": "복터진나라",
+  "phoneNumber": "051-245-7167",
+  "address": "부산 서구 서대신동2가 134-4번지 1층 복권판매점",
+  "latitude": "35.109684",
+  "longitude": "129.01492"
+},
+{
+  "number": "6",
+  "storeName": "제일복권",
+  "phoneNumber": "051-243-4691",
+  "address": "부산 서구 암남동 344-2 1층 복권방",
+  "latitude": "35.0788",
+  "longitude": "129.01657"
+},
+{
+  "number": "7",
+  "storeName": "로터리복권방",
+  "phoneNumber": "051-245-0404",
+  "address": "부산 서구 충무동1가 14-2",
+  "latitude": "35.096207",
+  "longitude": "129.02489"
+},
+{
+  "number": "8",
+  "storeName": "돈벼락맞는곳",
+  "phoneNumber": "051-245-6275",
+  "address": "부산 서구 토성동3가 1-11번지",
+  "latitude": "35.101917",
+  "longitude": "129.02007"
+},
+{
+  "number": "9",
+  "storeName": "올라운드투어",
+  "phoneNumber": "051-246-3713",
+  "address": "부산 서구 동대신동1가 99-2번지 로또슈퍼센타",
+  "latitude": "35.111153",
+  "longitude": "129.02144"
+},
+{
+  "number": "10",
+  "storeName": "복권천국",
+  "phoneNumber": "051-257-8821",
+  "address": "부산 서구 부민동2가 10-8번지",
+  "latitude": "35.103184",
+  "longitude": "129.01974"
+},
+{
+  "number": "11",
+  "storeName": "제일복권",
+  "phoneNumber": "051-243-7756",
+  "address": "부산 서구 남부민동 643번지 충무쇼핑1층",
+  "latitude": "35.093056",
+  "longitude": "129.02328"
+},
+{
+  "number": "12",
+  "storeName": "씨스페이스(서구대신점)",
+  "phoneNumber": "051-243-2749",
+  "address": "부산 서구 동대신동3가 125-4 씨스페이스 서구대신점",
+  "latitude": "35.11696",
+  "longitude": "129.01727"
+},
+{
+  "number": "13",
+  "storeName": "GS25(서대신점)",
+  "phoneNumber": "051-245-5090",
+  "address": "부산 서구 서대신동3가 271-2",
+  "latitude": "35.113903",
+  "longitude": "129.01424"
+}
+]

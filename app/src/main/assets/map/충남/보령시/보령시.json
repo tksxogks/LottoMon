@@ -1,0 +1,114 @@
+[
+{
+  "number": "1",
+  "storeName": "원동슈퍼",
+  "phoneNumber": "041-935-6680",
+  "address": "충남 보령시 대천동 172-8번지",
+  "latitude": "36.351112",
+  "longitude": "126.597466"
+},
+{
+  "number": "2",
+  "storeName": "GOOD25시편의마트",
+  "phoneNumber": "041-932-1920",
+  "address": "충남 보령시 대천동 344-80",
+  "latitude": "36.35078",
+  "longitude": "126.59201"
+},
+{
+  "number": "3",
+  "storeName": "보령복권방",
+  "phoneNumber": "041-931-8987",
+  "address": "충남 보령시 대천동 828-4번지",
+  "latitude": "36.349",
+  "longitude": "126.59825"
+},
+{
+  "number": "4",
+  "storeName": "하나로슈퍼",
+  "phoneNumber": "041-935-6287",
+  "address": "충남 보령시 명천동 389",
+  "latitude": "36.341785",
+  "longitude": "126.607376"
+},
+{
+  "number": "5",
+  "storeName": "동부슈퍼로또",
+  "phoneNumber": "041-936-1337",
+  "address": "충남 보령시 대천동 372-1번지 동부아파트상가107호",
+  "latitude": "36.35439",
+  "longitude": "126.5851"
+},
+{
+  "number": "6",
+  "storeName": "CU보령동대점",
+  "phoneNumber": "041-935-2201",
+  "address": "충남 보령시 동대동 1886번지 1층상가",
+  "latitude": "36.34516",
+  "longitude": "126.60301"
+},
+{
+  "number": "7",
+  "storeName": "로또하우스",
+  "phoneNumber": "041-931-6161",
+  "address": "충남 보령시 주교면 주교리 254-10",
+  "latitude": "36.39043",
+  "longitude": "126.56802"
+},
+{
+  "number": "8",
+  "storeName": "로또대박명당(보령점)",
+  "phoneNumber": "",
+  "address": "충남 보령시 대천동 774-14",
+  "latitude": "36.349915",
+  "longitude": "126.60039"
+},
+{
+  "number": "9",
+  "storeName": "이마트24보령골드점",
+  "phoneNumber": "041-934-4657",
+  "address": "충남 보령시 대천동 289 주2동 1~2호",
+  "latitude": "36.34612",
+  "longitude": "126.58915"
+},
+{
+  "number": "10",
+  "storeName": "풀 복권방",
+  "phoneNumber": "041-936-8989",
+  "address": "충남 보령시 동대동 1257",
+  "latitude": "36.34979",
+  "longitude": "126.60233"
+},
+{
+  "number": "11",
+  "storeName": "동대로또복권방",
+  "phoneNumber": "",
+  "address": "충남 보령시 동대동 1529",
+  "latitude": "36.350826",
+  "longitude": "126.61025"
+},
+{
+  "number": "12",
+  "storeName": "부자네복권",
+  "phoneNumber": "041-931-9282",
+  "address": "충남 보령시 궁촌동 347 114호",
+  "latitude": "36.34249",
+  "longitude": "126.589676"
+},
+{
+  "number": "13",
+  "storeName": "로또판매소",
+  "phoneNumber": "",
+  "address": "충남 보령시 대천4동 414-5 102호",
+  "latitude": "36.343636",
+  "longitude": "126.60387"
+},
+{
+  "number": "14",
+  "storeName": "화력로또",
+  "phoneNumber": "041-936-7898",
+  "address": "충남 보령시 주교면 고정리 328-2 웨이스탑 편의점내",
+  "latitude": "36.396767",
+  "longitude": "126.50049"
+}
+]

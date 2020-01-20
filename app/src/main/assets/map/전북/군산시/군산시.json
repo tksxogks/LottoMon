@@ -1,0 +1,330 @@
+[
+{
+  "number": "1",
+  "storeName": "미르복권편의점",
+  "phoneNumber": "063-445-0668",
+  "address": "전북 군산시 수송동 68-20번지",
+  "latitude": "35.970093",
+  "longitude": "126.718994"
+},
+{
+  "number": "2",
+  "storeName": "천하명당산북점",
+  "phoneNumber": "063-466-1745",
+  "address": "전북 군산시 산북동 3541-10번지",
+  "latitude": "35.96755",
+  "longitude": "126.68436"
+},
+{
+  "number": "3",
+  "storeName": "부자복권방",
+  "phoneNumber": "063-445-7227",
+  "address": "전북 군산시 대명동 138-12번지",
+  "latitude": "35.980453",
+  "longitude": "126.72024"
+},
+{
+  "number": "4",
+  "storeName": "서영상사(순창샘물)",
+  "phoneNumber": "063-466-6953",
+  "address": "전북 군산시 소룡동 1538-3번지",
+  "latitude": "35.97384",
+  "longitude": "126.67846"
+},
+{
+  "number": "5",
+  "storeName": "대박천국",
+  "phoneNumber": "063-446-7279",
+  "address": "전북 군산시 소룡동 608-4",
+  "latitude": "35.984406",
+  "longitude": "126.70936"
+},
+{
+  "number": "6",
+  "storeName": "도깨비복권방",
+  "phoneNumber": "063-468-5554",
+  "address": "전북 군산시 문화동 34-7번지",
+  "latitude": "35.969936",
+  "longitude": "126.70906"
+},
+{
+  "number": "7",
+  "storeName": "전원슈퍼",
+  "phoneNumber": "063-463-0771",
+  "address": "전북 군산시 나운동 1255-8번지",
+  "latitude": "35.95834",
+  "longitude": "126.68726"
+},
+{
+  "number": "8",
+  "storeName": "현대마트휴게실",
+  "phoneNumber": "063-445-9206",
+  "address": "전북 군산시 경암동 674-25번지",
+  "latitude": "35.975716",
+  "longitude": "126.72671"
+},
+{
+  "number": "9",
+  "storeName": "누가마트",
+  "phoneNumber": "063-446-8200",
+  "address": "전북 군산시 조촌동 776-14번지",
+  "latitude": "35.975246",
+  "longitude": "126.73279"
+},
+{
+  "number": "10",
+  "storeName": "롯데마트",
+  "phoneNumber": "063-468-6878",
+  "address": "전북 군산시 나운동 345번지",
+  "latitude": "35.963364",
+  "longitude": "126.69949"
+},
+{
+  "number": "11",
+  "storeName": "로또팡팡 토토팡팡",
+  "phoneNumber": "063-465-3639",
+  "address": "전북 군산시 지곡동 525-1번지",
+  "latitude": "35.95669",
+  "longitude": "126.71062"
+},
+{
+  "number": "12",
+  "storeName": "신일마트",
+  "phoneNumber": "063-463-7510",
+  "address": "전북 군산시 나운동 156-2번지",
+  "latitude": "35.958515",
+  "longitude": "126.69815"
+},
+{
+  "number": "13",
+  "storeName": "농산물직판장",
+  "phoneNumber": "063-463-5711",
+  "address": "전북 군산시 나운동 501번지",
+  "latitude": "35.9676",
+  "longitude": "126.7051"
+},
+{
+  "number": "14",
+  "storeName": "삼창복권방",
+  "phoneNumber": "063-451-7798",
+  "address": "전북 군산시 조촌동 828-7번지",
+  "latitude": "35.974342",
+  "longitude": "126.73737"
+},
+{
+  "number": "15",
+  "storeName": "클로버복권샵",
+  "phoneNumber": "063-471-5588",
+  "address": "전북 군산시 미장동 51-1",
+  "latitude": "35.92425",
+  "longitude": "126.64261"
+},
+{
+  "number": "16",
+  "storeName": "제일로또복권방",
+  "phoneNumber": "063-468-0755",
+  "address": "전북 군산시 미룡동 843-5번지",
+  "latitude": "35.958443",
+  "longitude": "126.67594"
+},
+{
+  "number": "17",
+  "storeName": "그린복권방",
+  "phoneNumber": "063-445-7996",
+  "address": "전북 군산시 나운동 767-12",
+  "latitude": "35.9896",
+  "longitude": "126.71175"
+},
+{
+  "number": "18",
+  "storeName": "복드림로또복권방",
+  "phoneNumber": "063-461-3736",
+  "address": "전북 군산시 문화동 909-3번지",
+  "latitude": "35.971966",
+  "longitude": "126.70599"
+},
+{
+  "number": "19",
+  "storeName": "복권나라",
+  "phoneNumber": "063-452-5412",
+  "address": "전북 군산시 대야면 지경리 731-2번지",
+  "latitude": "35.946663",
+  "longitude": "126.810326"
+},
+{
+  "number": "20",
+  "storeName": "종합복권판매소",
+  "phoneNumber": "063-446-9468",
+  "address": "전북 군산시 동흥남동 398-18",
+  "latitude": "35.971954",
+  "longitude": "126.72794"
+},
+{
+  "number": "21",
+  "storeName": "골드복권방",
+  "phoneNumber": "063-445-1212",
+  "address": "전북 군산시 중앙로2가 1-1번지",
+  "latitude": "35.984913",
+  "longitude": "126.715805"
+},
+{
+  "number": "22",
+  "storeName": "도깨비복권방",
+  "phoneNumber": "063-445-9588",
+  "address": "전북 군산시 삼학동 313-17번지",
+  "latitude": "35.977146",
+  "longitude": "126.7158"
+},
+{
+  "number": "23",
+  "storeName": "영유통(로또복권)",
+  "phoneNumber": "063-468-6541",
+  "address": "전북 군산시 미룡동 896-3번지",
+  "latitude": "35.943935",
+  "longitude": "126.68989"
+},
+{
+  "number": "24",
+  "storeName": "인생역전복권방",
+  "phoneNumber": "063-442-7922",
+  "address": "전북 군산시 문화동 536-2",
+  "latitude": "35.97981",
+  "longitude": "126.73273"
+},
+{
+  "number": "25",
+  "storeName": "우정슈퍼",
+  "phoneNumber": "063-466-4570",
+  "address": "전북 군산시 소룡동 1535-15",
+  "latitude": "35.97285",
+  "longitude": "126.680725"
+},
+{
+  "number": "26",
+  "storeName": "금강안경원",
+  "phoneNumber": "063-442-9911",
+  "address": "전북 군산시 중앙로1가 9-8",
+  "latitude": "35.987957",
+  "longitude": "126.710815"
+},
+{
+  "number": "27",
+  "storeName": "GS25(군산제일점)",
+  "phoneNumber": "063-468-2562",
+  "address": "전북 군산시 나운동 795-2번지",
+  "latitude": "35.96559",
+  "longitude": "126.69439"
+},
+{
+  "number": "28",
+  "storeName": "CU(군산대점)",
+  "phoneNumber": "063-462-9810",
+  "address": "전북 군산시 미룡동 867-5번지",
+  "latitude": "35.947216",
+  "longitude": "126.68646"
+},
+{
+  "number": "29",
+  "storeName": "무지개",
+  "phoneNumber": "063-468-3654",
+  "address": "전북 군산시 수송동 821-5",
+  "latitude": "35.96269",
+  "longitude": "126.71454"
+},
+{
+  "number": "30",
+  "storeName": "G(금정)마트휴게실",
+  "phoneNumber": "",
+  "address": "전북 군산시 조촌동 752-1번지",
+  "latitude": "35.969864",
+  "longitude": "126.738075"
+},
+{
+  "number": "31",
+  "storeName": "대박찬스",
+  "phoneNumber": "063-445-8714",
+  "address": "전북 군산시 산북동 3535-9번지",
+  "latitude": "35.969345",
+  "longitude": "126.679344"
+},
+{
+  "number": "32",
+  "storeName": "떳다복권방",
+  "phoneNumber": "063-453-6436",
+  "address": "전북 군산시 조촌동 739-22번지",
+  "latitude": "35.971943",
+  "longitude": "126.73806"
+},
+{
+  "number": "33",
+  "storeName": "제일마트",
+  "phoneNumber": "063-443-2166",
+  "address": "전북 군산시 경장동 500-21번지",
+  "latitude": "35.971523",
+  "longitude": "126.73281"
+},
+{
+  "number": "34",
+  "storeName": "보증슈퍼",
+  "phoneNumber": "063-452-0752",
+  "address": "전북 군산시 소룡동 1555-7",
+  "latitude": "35.973392",
+  "longitude": "126.67609"
+},
+{
+  "number": "35",
+  "storeName": "한아름슈퍼",
+  "phoneNumber": "063-461-6153",
+  "address": "전북 군산시 소룡동 1534-15번지",
+  "latitude": "35.971397",
+  "longitude": "126.68294"
+},
+{
+  "number": "36",
+  "storeName": "제일복권방",
+  "phoneNumber": "063-462-6020",
+  "address": "전북 군산시 삼학동 812-29번지",
+  "latitude": "35.976967",
+  "longitude": "126.70974"
+},
+{
+  "number": "37",
+  "storeName": "푸른복권방",
+  "phoneNumber": "063-468-9261",
+  "address": "전북 군산시 나운동 855-1번지",
+  "latitude": "35.961475",
+  "longitude": "126.69154"
+},
+{
+  "number": "38",
+  "storeName": "피씨마트",
+  "phoneNumber": "",
+  "address": "전북 군산시 경암동 614-1",
+  "latitude": "35.977604",
+  "longitude": "126.724434"
+},
+{
+  "number": "39",
+  "storeName": "아라복권",
+  "phoneNumber": "",
+  "address": "전북 군산시 수송동 831-1",
+  "latitude": "35.96715",
+  "longitude": "126.714775"
+},
+{
+  "number": "40",
+  "storeName": "복주머니로또복권방",
+  "phoneNumber": "063-465-3414",
+  "address": "전북 군산시 월명동 22-7",
+  "latitude": "35.984623",
+  "longitude": "126.70733"
+},
+{
+  "number": "41",
+  "storeName": "양지당시계점",
+  "phoneNumber": "",
+  "address": "전북 군산시 월명동 14-3",
+  "latitude": "35.98403",
+  "longitude": "126.70955"
+}
+]

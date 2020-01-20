@@ -1,0 +1,370 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(금호삼성점)",
+  "phoneNumber": "02-2299-5370",
+  "address": "서울 성동구 금호동1가 1801-1번지 서초쌍용플래티넘",
+  "latitude": "37.548687",
+  "longitude": "127.0261"
+},
+{
+  "number": "2",
+  "storeName": "CU( 한양대엔터식스점)",
+  "phoneNumber": "02-6454-6148",
+  "address": "서울 성동구 행당동 155-1",
+  "latitude": "37.557076",
+  "longitude": "127.04003"
+},
+{
+  "number": "3",
+  "storeName": "대박로또",
+  "phoneNumber": "",
+  "address": "서울 성동구 용답동 49-17",
+  "latitude": "37.563286",
+  "longitude": "127.05212"
+},
+{
+  "number": "4",
+  "storeName": "운수대통가판점",
+  "phoneNumber": "02-2281-7211",
+  "address": "서울 성동구 하왕십리동 966-14",
+  "latitude": "37.562393",
+  "longitude": "127.033226"
+},
+{
+  "number": "5",
+  "storeName": "KB행당동지점옆가판",
+  "phoneNumber": "02-2298-4620",
+  "address": "서울 성동구 행당동 320-22번지",
+  "latitude": "37.557743",
+  "longitude": "127.03426"
+},
+{
+  "number": "6",
+  "storeName": "가로판매1-4-28",
+  "phoneNumber": "02-2299-0898",
+  "address": "서울 성동구 마장동 521-10번지",
+  "latitude": "37.56974",
+  "longitude": "127.037865"
+},
+{
+  "number": "7",
+  "storeName": "신문가판대뚝섬역에스콰이야본사앞",
+  "phoneNumber": "02-497-9911",
+  "address": "서울 성동구 성수동1가 656-297번지",
+  "latitude": "37.547653",
+  "longitude": "127.04475"
+},
+{
+  "number": "8",
+  "storeName": "토큰판매소",
+  "phoneNumber": "02-2216-6970",
+  "address": "서울 성동구 용답동 128-3번지",
+  "latitude": "37.57003",
+  "longitude": "127.047264"
+},
+{
+  "number": "9",
+  "storeName": "만복당",
+  "phoneNumber": "02-2253-3026",
+  "address": "서울 성동구 금호동1가 125-1 신한은행 앞",
+  "latitude": "37.554813",
+  "longitude": "127.02033"
+},
+{
+  "number": "10",
+  "storeName": "토마토",
+  "phoneNumber": "02-2291-1110",
+  "address": "서울 성동구 행당동 3-3번지",
+  "latitude": "37.560696",
+  "longitude": "127.03944"
+},
+{
+  "number": "11",
+  "storeName": "우리은행금호동지점앞가판",
+  "phoneNumber": "02-2297-8965",
+  "address": "서울 성동구 금호동4가 1109번지",
+  "latitude": "37.548176",
+  "longitude": "127.020996"
+},
+{
+  "number": "12",
+  "storeName": "로또복권",
+  "phoneNumber": "02-2297-5393",
+  "address": "서울 성동구 응봉동 193-79번지 응봉문구내",
+  "latitude": "37.549698",
+  "longitude": "127.03077"
+},
+{
+  "number": "13",
+  "storeName": "로또복권판매소",
+  "phoneNumber": "02-2294-4262",
+  "address": "서울 성동구 도선동 185-5번지",
+  "latitude": "37.56383",
+  "longitude": "127.03285"
+},
+{
+  "number": "14",
+  "storeName": "옥수역복권방",
+  "phoneNumber": "02-2298-5000",
+  "address": "서울 성동구 옥수동 385-4번지",
+  "latitude": "37.54155",
+  "longitude": "127.0166"
+},
+{
+  "number": "15",
+  "storeName": "샘물약국",
+  "phoneNumber": "02-464-5173",
+  "address": "서울 성동구 성수동1가 714",
+  "latitude": "37.54334",
+  "longitude": "127.051674"
+},
+{
+  "number": "16",
+  "storeName": "한양복권",
+  "phoneNumber": "02-2213-6822",
+  "address": "서울 성동구 용답동 44-4번지",
+  "latitude": "37.562794",
+  "longitude": "127.05391"
+},
+{
+  "number": "17",
+  "storeName": "금호복권방",
+  "phoneNumber": "02-2233-0477",
+  "address": "서울 성동구 금호동2가 479번지",
+  "latitude": "37.553535",
+  "longitude": "127.01957"
+},
+{
+  "number": "18",
+  "storeName": "상신복권방",
+  "phoneNumber": "02-2295-5200",
+  "address": "서울 성동구 홍익동 123번지",
+  "latitude": "37.565994",
+  "longitude": "127.035416"
+},
+{
+  "number": "19",
+  "storeName": "복조리복권방",
+  "phoneNumber": "02-467-3586",
+  "address": "서울 성동구 송정동 66-31번지",
+  "latitude": "37.54951",
+  "longitude": "127.06626"
+},
+{
+  "number": "20",
+  "storeName": "양지명당복권",
+  "phoneNumber": "02-2293-5550",
+  "address": "서울 성동구 도선동 161번지",
+  "latitude": "37.563484",
+  "longitude": "127.03428"
+},
+{
+  "number": "21",
+  "storeName": "복돼지복권방",
+  "phoneNumber": "02-497-5412",
+  "address": "서울 성동구 성수동2가 289-205번지",
+  "latitude": "37.54861",
+  "longitude": "127.05583"
+},
+{
+  "number": "22",
+  "storeName": "미래통신",
+  "phoneNumber": "02-498-4125",
+  "address": "서울 성동구 성수동2가 275-6번지 1층",
+  "latitude": "37.540306",
+  "longitude": "127.06261"
+},
+{
+  "number": "23",
+  "storeName": "복권천국",
+  "phoneNumber": "02-463-5050",
+  "address": "서울 성동구 성수동2가 289-306번지 1층 3호",
+  "latitude": "37.54585",
+  "longitude": "127.05734"
+},
+{
+  "number": "24",
+  "storeName": "복권천국",
+  "phoneNumber": "02-2299-3418",
+  "address": "서울 성동구 행당동 298-25번지 1층",
+  "latitude": "37.55991",
+  "longitude": "127.032906"
+},
+{
+  "number": "25",
+  "storeName": "대지사",
+  "phoneNumber": "02-2293-0447",
+  "address": "서울 성동구 도선동 363-1",
+  "latitude": "37.5643",
+  "longitude": "127.0303"
+},
+{
+  "number": "26",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-466-0887",
+  "address": "서울 성동구 성수동2가 300-75번지 1층4호",
+  "latitude": "37.54569",
+  "longitude": "127.05384"
+},
+{
+  "number": "27",
+  "storeName": "복권방(천하명당)",
+  "phoneNumber": "02-2296-1314",
+  "address": "서울 성동구 행당동 347번지 행당동대림아파트 리빙프라자동 지하2층 비202",
+  "latitude": "37.557846",
+  "longitude": "127.027336"
+},
+{
+  "number": "28",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-466-0889",
+  "address": "서울 성동구 성수동2가 316-61번지 1층 1호",
+  "latitude": "37.5432",
+  "longitude": "127.05434"
+},
+{
+  "number": "29",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-499-8507",
+  "address": "서울 성동구 성수동2가 250-64번지",
+  "latitude": "37.53937",
+  "longitude": "127.06212"
+},
+{
+  "number": "30",
+  "storeName": "복권클럽",
+  "phoneNumber": "02-2237-3367",
+  "address": "서울 성동구 금호동4가 147",
+  "latitude": "37.548336",
+  "longitude": "127.02315"
+},
+{
+  "number": "31",
+  "storeName": "대성사",
+  "phoneNumber": "02-463-3582",
+  "address": "서울 성동구 성수동1가 13-398",
+  "latitude": "37.55059",
+  "longitude": "127.05017"
+},
+{
+  "number": "32",
+  "storeName": "로또복권",
+  "phoneNumber": "02-2293-1255",
+  "address": "서울 성동구 하왕십리동 989번지",
+  "latitude": "37.56262",
+  "longitude": "127.03061"
+},
+{
+  "number": "33",
+  "storeName": "행당상회",
+  "phoneNumber": "02-2281-3850",
+  "address": "서울 성동구 행당동 191-3번지",
+  "latitude": "37.565582",
+  "longitude": "127.03686"
+},
+{
+  "number": "34",
+  "storeName": "대일슈퍼",
+  "phoneNumber": "02-2295-3527",
+  "address": "서울 성동구 마장동 478-7번지",
+  "latitude": "37.569393",
+  "longitude": "127.03715"
+},
+{
+  "number": "35",
+  "storeName": "훼미리24",
+  "phoneNumber": "02-464-9532",
+  "address": "서울 성동구 성수동2가 278-49번지",
+  "latitude": "37.559917",
+  "longitude": "127.03607"
+},
+{
+  "number": "36",
+  "storeName": "복권나라",
+  "phoneNumber": "02-2245-9298",
+  "address": "서울 성동구 용답동 14-1번지 1층",
+  "latitude": "37.56441",
+  "longitude": "127.05384"
+},
+{
+  "number": "37",
+  "storeName": "우리슈퍼",
+  "phoneNumber": "070-8959-4858",
+  "address": "서울 성동구 행당동 309-9번지",
+  "latitude": "37.559246",
+  "longitude": "127.03337"
+},
+{
+  "number": "38",
+  "storeName": "우리식품",
+  "phoneNumber": "02-468-8004",
+  "address": "서울 성동구 성수동1가 14-62번지",
+  "latitude": "37.546204",
+  "longitude": "127.04976"
+},
+{
+  "number": "39",
+  "storeName": "부자랑",
+  "phoneNumber": "02-498-1705",
+  "address": "서울 성동구 성수동2가 561-2번지",
+  "latitude": "37.536865",
+  "longitude": "127.05524"
+},
+{
+  "number": "40",
+  "storeName": "로또방",
+  "phoneNumber": "02-2291-3535",
+  "address": "서울 성동구 하왕십리동 946-43번지 CU 내",
+  "latitude": "37.56398",
+  "longitude": "127.02944"
+},
+{
+  "number": "41",
+  "storeName": "복다방",
+  "phoneNumber": "",
+  "address": "서울 성동구 성수동2가 279-42 1층 102호",
+  "latitude": "37.5447",
+  "longitude": "127.06506"
+},
+{
+  "number": "42",
+  "storeName": "GS25(금호점)",
+  "phoneNumber": "02-2281-2796",
+  "address": "서울 성동구 옥수동 528 126동 B201호",
+  "latitude": "37.545227",
+  "longitude": "127.02531"
+},
+{
+  "number": "43",
+  "storeName": "GS25(행당점)",
+  "phoneNumber": "02-2292-7266",
+  "address": "서울 성동구 행당동 286-4번지 286-4",
+  "latitude": "37.561954",
+  "longitude": "127.03389"
+},
+{
+  "number": "44",
+  "storeName": "CU(성수한진점)",
+  "phoneNumber": "02-466-6768",
+  "address": "서울 성동구 성수동1가 704번지",
+  "latitude": "37.541058",
+  "longitude": "127.045395"
+},
+{
+  "number": "45",
+  "storeName": "비디오카페(성수점)",
+  "phoneNumber": "02-499-7331",
+  "address": "서울 성동구 성수동2가 506번지 1층",
+  "latitude": "37.537724",
+  "longitude": "127.05275"
+},
+{
+  "number": "46",
+  "storeName": "로또명당",
+  "phoneNumber": "",
+  "address": "서울 성동구 성수1가제1동 229-5",
+  "latitude": "37.538265",
+  "longitude": "127.04924"
+}
+]

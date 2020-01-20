@@ -1,0 +1,554 @@
+[
+{
+  "number": "1",
+  "storeName": "목감매표소",
+  "phoneNumber": "031-483-3515",
+  "address": "경기 시흥시 목감동 202-22",
+  "latitude": "37.38784",
+  "longitude": "126.861465"
+},
+{
+  "number": "2",
+  "storeName": "로또명당",
+  "phoneNumber": "031-434-0690",
+  "address": "경기 시흥시 170-2 002호",
+  "latitude": "37.345154",
+  "longitude": "126.72523"
+},
+{
+  "number": "3",
+  "storeName": "부현제일명당",
+  "phoneNumber": "031-499-7037",
+  "address": "경기 시흥시 정왕동 1558-11번지 102호",
+  "latitude": "37.34354",
+  "longitude": "126.74691"
+},
+{
+  "number": "4",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-430-5454",
+  "address": "경기 시흥시 정왕동 1367-1 19동 122호",
+  "latitude": "37.335163",
+  "longitude": "126.72729"
+},
+{
+  "number": "5",
+  "storeName": "아주명당복권방",
+  "phoneNumber": "031-507-7645",
+  "address": "경기 시흥시 정왕동 1394번지 아주아파트상가104호",
+  "latitude": "37.35327",
+  "longitude": "126.735306"
+},
+{
+  "number": "6",
+  "storeName": "둘리복권방",
+  "phoneNumber": "031-319-3653",
+  "address": "경기 시흥시 정왕동 1736-3번지 한강프라자제1층101호",
+  "latitude": "37.345276",
+  "longitude": "126.73626"
+},
+{
+  "number": "7",
+  "storeName": "운수대통",
+  "phoneNumber": "031-498-1477",
+  "address": "경기 시흥시 신천동 888-1번지 101호",
+  "latitude": "37.431625",
+  "longitude": "126.79206"
+},
+{
+  "number": "8",
+  "storeName": "3.7복권방",
+  "phoneNumber": "031-494-1070",
+  "address": "경기 시흥시 거모동 1728-5번지 17블록6-1롯트삼성프라자1층",
+  "latitude": "37.347244",
+  "longitude": "126.78303"
+},
+{
+  "number": "9",
+  "storeName": "노다지복권방",
+  "phoneNumber": "031-314-1016",
+  "address": "경기 시흥시 대야동 345-16번지 1층상가",
+  "latitude": "37.448193",
+  "longitude": "126.79206"
+},
+{
+  "number": "10",
+  "storeName": "시화트윈로또판매점",
+  "phoneNumber": "031-497-3885",
+  "address": "경기 시흥시 정왕동 1861-8번지 트윈프라자B131 132호",
+  "latitude": "37.35309",
+  "longitude": "126.72501"
+},
+{
+  "number": "11",
+  "storeName": "로또명당",
+  "phoneNumber": "031-497-8506",
+  "address": "경기 시흥시 정왕동 1575-12번지 101호",
+  "latitude": "37.345985",
+  "longitude": "126.744896"
+},
+{
+  "number": "12",
+  "storeName": "로또(파발마점)",
+  "phoneNumber": "031-432-5006",
+  "address": "경기 시흥시 정왕동 2302번지 역전프라자105호",
+  "latitude": "37.3519",
+  "longitude": "126.74058"
+},
+{
+  "number": "13",
+  "storeName": "복권나라",
+  "phoneNumber": "031-311-8934",
+  "address": "경기 시흥시 신천동 771-4번지",
+  "latitude": "37.437443",
+  "longitude": "126.78621"
+},
+{
+  "number": "14",
+  "storeName": "복권마을",
+  "phoneNumber": "031-311-7625",
+  "address": "경기 시흥시 신천동 750-4 101호",
+  "latitude": "37.439175",
+  "longitude": "126.77964"
+},
+{
+  "number": "15",
+  "storeName": "도일복권방",
+  "phoneNumber": "031-492-4868",
+  "address": "경기 시흥시 거모동 1658-22번지",
+  "latitude": "37.34038",
+  "longitude": "126.783646"
+},
+{
+  "number": "16",
+  "storeName": "싼타슈퍼",
+  "phoneNumber": "031-433-3667",
+  "address": "경기 시흥시 정왕동 1212-13",
+  "latitude": "37.345528",
+  "longitude": "126.74739"
+},
+{
+  "number": "17",
+  "storeName": "그린하이퍼",
+  "phoneNumber": "070-8187-9177",
+  "address": "경기 시흥시 월곶동 1006-4 유호플러스빌105호",
+  "latitude": "37.388775",
+  "longitude": "126.73492"
+},
+{
+  "number": "18",
+  "storeName": "아름다운슈퍼",
+  "phoneNumber": "031-491-5987",
+  "address": "경기 시흥시 거모동 1753-7",
+  "latitude": "37.342205",
+  "longitude": "126.784874"
+},
+{
+  "number": "19",
+  "storeName": "오이도직판장마트",
+  "phoneNumber": "031-431-4454",
+  "address": "경기 시흥시 정왕동 2003-8번지 오이도이주단지B",
+  "latitude": "37.345848",
+  "longitude": "126.6882"
+},
+{
+  "number": "20",
+  "storeName": "25시슈퍼",
+  "phoneNumber": "031-432-6273",
+  "address": "경기 시흥시 정왕동 1882-11번지 홍익프라자1층107호",
+  "latitude": "37.36241",
+  "longitude": "126.72997"
+},
+{
+  "number": "21",
+  "storeName": "메가마트",
+  "phoneNumber": "031-498-7224",
+  "address": "경기 시흥시 정왕동 1861-3번지 메가쇼핑몰1층123호",
+  "latitude": "37.354214",
+  "longitude": "126.72352"
+},
+{
+  "number": "22",
+  "storeName": "신천가판점",
+  "phoneNumber": "031-311-6585",
+  "address": "경기 시흥시 신천동 712-10번지",
+  "latitude": "37.440956",
+  "longitude": "126.78462"
+},
+{
+  "number": "23",
+  "storeName": "사격장매표소",
+  "phoneNumber": "031-313-3381",
+  "address": "경기 시흥시 은행동 37-22",
+  "latitude": "37.43876",
+  "longitude": "126.797195"
+},
+{
+  "number": "24",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-404-9060",
+  "address": "경기 시흥시 대야동 545-1번지 트윈프라자B동114호",
+  "latitude": "37.44198",
+  "longitude": "126.79212"
+},
+{
+  "number": "25",
+  "storeName": "매화정보통신",
+  "phoneNumber": "031-316-1308",
+  "address": "경기 시흥시 매화동 199-1번지",
+  "latitude": "37.41556",
+  "longitude": "126.814735"
+},
+{
+  "number": "26",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-313-7683",
+  "address": "경기 시흥시 신천동 706-5",
+  "latitude": "37.44211",
+  "longitude": "126.783195"
+},
+{
+  "number": "27",
+  "storeName": "종합복권슈퍼",
+  "phoneNumber": "031-319-2034",
+  "address": "경기 시흥시 정왕동 1735-2번지 정일빌딩104",
+  "latitude": "37.345703",
+  "longitude": "126.73562"
+},
+{
+  "number": "28",
+  "storeName": "용꿈돼지꿈복권방",
+  "phoneNumber": "",
+  "address": "경기 시흥시 하중동 873-3번지 법조타운103호",
+  "latitude": "37.390842",
+  "longitude": "126.8065"
+},
+{
+  "number": "29",
+  "storeName": "로또복권방",
+  "phoneNumber": "031-311-1066",
+  "address": "경기 시흥시 대야동 568-2번지 AC빌딩101",
+  "latitude": "37.447235",
+  "longitude": "126.7918"
+},
+{
+  "number": "30",
+  "storeName": "로또명당",
+  "phoneNumber": "031-311-6362",
+  "address": "경기 시흥시 대야동 487-19번지",
+  "latitude": "37.444515",
+  "longitude": "126.78748"
+},
+{
+  "number": "31",
+  "storeName": "천하명당",
+  "phoneNumber": "031-404-3280",
+  "address": "경기 시흥시 신천동 760-7번지 1층1호",
+  "latitude": "37.43886",
+  "longitude": "126.78331"
+},
+{
+  "number": "32",
+  "storeName": "보물단지",
+  "phoneNumber": "031-498-7750",
+  "address": "경기 시흥시 정왕동 1728-13번지 정풍프라자1층101호",
+  "latitude": "37.346977",
+  "longitude": "126.73385"
+},
+{
+  "number": "33",
+  "storeName": "행운복권",
+  "phoneNumber": "031-434-1253",
+  "address": "경기 시흥시 정왕동 1989-1번지 1층 상가",
+  "latitude": "37.34623",
+  "longitude": "126.69075"
+},
+{
+  "number": "34",
+  "storeName": "둘리복권",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1811-5 102호",
+  "latitude": "37.350216",
+  "longitude": "126.743484"
+},
+{
+  "number": "35",
+  "storeName": "부엉이로또방",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 2037-1 1층 102호",
+  "latitude": "37.34215",
+  "longitude": "126.68899"
+},
+{
+  "number": "36",
+  "storeName": "월드마트",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 2211 오이도철강단지 6동 101호 월드마트",
+  "latitude": "37.348602",
+  "longitude": "126.72711"
+},
+{
+  "number": "37",
+  "storeName": "희망",
+  "phoneNumber": "031-498-9360",
+  "address": "경기 시흥시 정왕동 2558 1층",
+  "latitude": "37.382263",
+  "longitude": "126.76171"
+},
+{
+  "number": "38",
+  "storeName": "슈퍼복권방",
+  "phoneNumber": "031-405-5734",
+  "address": "경기 시흥시 조남동 169-11번지",
+  "latitude": "37.38432",
+  "longitude": "126.86002"
+},
+{
+  "number": "39",
+  "storeName": "은행복권방",
+  "phoneNumber": "031-312-4971",
+  "address": "경기 시흥시 은행동 599번지 우남상가2동101호",
+  "latitude": "37.445038",
+  "longitude": "126.800446"
+},
+{
+  "number": "40",
+  "storeName": "플러스복권",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1395-15번지 102호",
+  "latitude": "37.341125",
+  "longitude": "126.75273"
+},
+{
+  "number": "41",
+  "storeName": "머니머니",
+  "phoneNumber": "",
+  "address": "경기 시흥시 월곶동 991-22번지",
+  "latitude": "37.394424",
+  "longitude": "126.73945"
+},
+{
+  "number": "42",
+  "storeName": "로또명당",
+  "phoneNumber": "031-315-7303",
+  "address": "경기 시흥시 포동 1-13번지 101호",
+  "latitude": "37.40703",
+  "longitude": "126.787094"
+},
+{
+  "number": "43",
+  "storeName": "큐로또복권",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1855-9",
+  "latitude": "37.34688",
+  "longitude": "126.75429"
+},
+{
+  "number": "44",
+  "storeName": "행복복권",
+  "phoneNumber": "031-432-6150",
+  "address": "경기 시흥시 정왕동 1420-14 세븐일레븐 시흥정왕공원로점",
+  "latitude": "37.338314",
+  "longitude": "126.754395"
+},
+{
+  "number": "45",
+  "storeName": "아름드리(쉬어가기)",
+  "phoneNumber": "031-402-3330",
+  "address": "경기 시흥시 조남동 662",
+  "latitude": "37.37552",
+  "longitude": "126.85372"
+},
+{
+  "number": "46",
+  "storeName": "체크라인",
+  "phoneNumber": "",
+  "address": "경기 시흥시 신천동 701-20",
+  "latitude": "37.444622",
+  "longitude": "126.78182"
+},
+{
+  "number": "47",
+  "storeName": "까치복권방",
+  "phoneNumber": "031-432-7556",
+  "address": "경기 시흥시 정왕동 1782-18번지 1층102",
+  "latitude": "37.336655",
+  "longitude": "126.74823"
+},
+{
+  "number": "48",
+  "storeName": "복권전문점",
+  "phoneNumber": "031-317-7378",
+  "address": "경기 시흥시 장곡동 820-3번지 부석프라자114호",
+  "latitude": "37.37842",
+  "longitude": "126.785255"
+},
+{
+  "number": "49",
+  "storeName": "파인힐복권",
+  "phoneNumber": "031-486-6841",
+  "address": "경기 시흥시 정왕동 1366-14",
+  "latitude": "37.33763",
+  "longitude": "126.72855"
+},
+{
+  "number": "50",
+  "storeName": "카페테리아",
+  "phoneNumber": "031-317-1070",
+  "address": "경기 시흥시 월곶동 1010-4 111호",
+  "latitude": "37.566536",
+  "longitude": "126.97797"
+},
+{
+  "number": "51",
+  "storeName": "이안복권",
+  "phoneNumber": "",
+  "address": "경기 시흥시 거모동 1474-1",
+  "latitude": "37.34599",
+  "longitude": "126.78307"
+},
+{
+  "number": "52",
+  "storeName": "스마트로또",
+  "phoneNumber": "",
+  "address": "경기 시흥시 은행동 289-76 제에이동 비동호",
+  "latitude": "37.377342",
+  "longitude": "126.72749"
+},
+{
+  "number": "53",
+  "storeName": "로또판매점",
+  "phoneNumber": "",
+  "address": "경기 시흥시 과림동 305-7",
+  "latitude": "37.44685",
+  "longitude": "126.83199"
+},
+{
+  "number": "54",
+  "storeName": "대박로또방",
+  "phoneNumber": "",
+  "address": "경기 시흥시 장현동 543-4",
+  "latitude": "37.3807",
+  "longitude": "126.80162"
+},
+{
+  "number": "55",
+  "storeName": "복권전문점",
+  "phoneNumber": "031-319-1610",
+  "address": "경기 시흥시 정왕동 1625-6",
+  "latitude": "37.416836",
+  "longitude": "126.81044"
+},
+{
+  "number": "56",
+  "storeName": "능곡나눔로또복권방",
+  "phoneNumber": "031-311-5525",
+  "address": "경기 시흥시 능곡동 719 104호",
+  "latitude": "37.36954",
+  "longitude": "126.80991"
+},
+{
+  "number": "57",
+  "storeName": "배곧로또판매점",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1771-24",
+  "latitude": "37.367146",
+  "longitude": "126.72821"
+},
+{
+  "number": "58",
+  "storeName": "럭키로또",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1882-2",
+  "latitude": "37.363525",
+  "longitude": "126.72993"
+},
+{
+  "number": "59",
+  "storeName": "GS25(시화세종점)",
+  "phoneNumber": "031-497-6895",
+  "address": "경기 시흥시 정왕동 1861-1번지 세종월드빌딩114 115",
+  "latitude": "37.354492",
+  "longitude": "126.72302"
+},
+{
+  "number": "60",
+  "storeName": "행운로또판매점",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 2515",
+  "latitude": "37.371056",
+  "longitude": "126.72847"
+},
+{
+  "number": "61",
+  "storeName": "용윤",
+  "phoneNumber": "031-312-9970",
+  "address": "경기 시흥시 정왕동 2537-2",
+  "latitude": "37.43742",
+  "longitude": "126.790825"
+},
+{
+  "number": "62",
+  "storeName": "하이로또",
+  "phoneNumber": "",
+  "address": "경기 시흥시 하중동 820-4 1층 세븐일레븐 시흥하중로점",
+  "latitude": "37.40006",
+  "longitude": "126.79959"
+},
+{
+  "number": "63",
+  "storeName": "경남복권방",
+  "phoneNumber": "031-435-4540",
+  "address": "경기 시흥시 신천동 943-1 상가동 103호 세븐일레븐 시흥신천경남점",
+  "latitude": "37.43526",
+  "longitude": "126.791504"
+},
+{
+  "number": "64",
+  "storeName": "간이매점",
+  "phoneNumber": "031-312-1001",
+  "address": "경기 시흥시 신천동 741-17",
+  "latitude": "37.44012",
+  "longitude": "126.78202"
+},
+{
+  "number": "65",
+  "storeName": "세종",
+  "phoneNumber": "031-497-6181",
+  "address": "경기 시흥시 정왕동 2164-2 메가폴리스 A동 101호",
+  "latitude": "0.0",
+  "longitude": "0.0"
+},
+{
+  "number": "66",
+  "storeName": "윈복권",
+  "phoneNumber": "",
+  "address": "경기 시흥시 조남동 660 418동 1층 113호",
+  "latitude": "37.34191",
+  "longitude": "126.74941"
+},
+{
+  "number": "67",
+  "storeName": "럭키가이",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1820-7 1층 102호",
+  "latitude": "37.348537",
+  "longitude": "126.74657"
+},
+{
+  "number": "68",
+  "storeName": "천하명당",
+  "phoneNumber": "",
+  "address": "경기 시흥시 대야동 451 106호",
+  "latitude": "37.448406",
+  "longitude": "126.788445"
+},
+{
+  "number": "69",
+  "storeName": "따따블 대박로또",
+  "phoneNumber": "",
+  "address": "경기 시흥시 정왕동 1771-31 109호",
+  "latitude": "37.368877",
+  "longitude": "126.727844"
+}
+]

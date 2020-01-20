@@ -1,0 +1,122 @@
+[
+{
+  "number": "1",
+  "storeName": "대박찬스",
+  "phoneNumber": "052-288-0933",
+  "address": "울산 북구 양정동 436-1 복권판매점",
+  "latitude": "35.544193",
+  "longitude": "129.38501"
+},
+{
+  "number": "2",
+  "storeName": "중앙로또",
+  "phoneNumber": "052-297-8010",
+  "address": "울산 북구 상안동 357 104호",
+  "latitude": "35.628452",
+  "longitude": "129.35063"
+},
+{
+  "number": "3",
+  "storeName": "에스에프마트",
+  "phoneNumber": "052-295-8946",
+  "address": "울산 북구 호계동 257-2",
+  "latitude": "35.630215",
+  "longitude": "129.3517"
+},
+{
+  "number": "4",
+  "storeName": "우리들(북구청점)",
+  "phoneNumber": "052-287-7760",
+  "address": "울산 북구 연암동 417-1 1층 우리들편의점 내",
+  "latitude": "35.58123",
+  "longitude": "129.36351"
+},
+{
+  "number": "5",
+  "storeName": "셀피아",
+  "phoneNumber": "052-258-8827",
+  "address": "울산 북구 명촌동 994-17 복권판매점",
+  "latitude": "35.55292",
+  "longitude": "129.35834"
+},
+{
+  "number": "6",
+  "storeName": "송정복권명당",
+  "phoneNumber": "052-298-0645",
+  "address": "울산 북구 화봉동 251 1층. 106호",
+  "latitude": "35.631046",
+  "longitude": "129.35133"
+},
+{
+  "number": "7",
+  "storeName": "프라임24시편의점",
+  "phoneNumber": "052-286-0610",
+  "address": "울산 북구 상안동 367-7",
+  "latitude": "35.630455",
+  "longitude": "129.34036"
+},
+{
+  "number": "8",
+  "storeName": "보경복권",
+  "phoneNumber": "052-289-4503",
+  "address": "울산 북구 진장동 836번지",
+  "latitude": "35.55799",
+  "longitude": "129.36028"
+},
+{
+  "number": "9",
+  "storeName": "준복권방",
+  "phoneNumber": "052-289-6588",
+  "address": "울산 북구 명촌동 790-1 평창리비에르2차상가 105호",
+  "latitude": "35.551914",
+  "longitude": "129.35368"
+},
+{
+  "number": "10",
+  "storeName": "그린복권방",
+  "phoneNumber": "052-289-5513",
+  "address": "울산 북구 화봉동 447-10번지 1층그린플라워",
+  "latitude": "35.58944",
+  "longitude": "129.36581"
+},
+{
+  "number": "11",
+  "storeName": "세븐-일레븐(울산호계점)",
+  "phoneNumber": "052-298-9815",
+  "address": "울산 북구 호계동 683-1번지 세븐일레븐편의점",
+  "latitude": "35.623478",
+  "longitude": "129.3548"
+},
+{
+  "number": "12",
+  "storeName": "오렌지24시마트",
+  "phoneNumber": "052-289-6369",
+  "address": "울산 북구 진장동 787-4 1층복권판매점",
+  "latitude": "35.558365",
+  "longitude": "129.356"
+},
+{
+  "number": "13",
+  "storeName": "천하명당(염포점)",
+  "phoneNumber": "052-287-3962",
+  "address": "울산 북구 염포동 208-7번지 1층복권판매점",
+  "latitude": "35.534824",
+  "longitude": "129.38979"
+},
+{
+  "number": "14",
+  "storeName": "대한유통",
+  "phoneNumber": "",
+  "address": "울산 북구 중산동 737-3",
+  "latitude": "35.65593",
+  "longitude": "129.34253"
+},
+{
+  "number": "15",
+  "storeName": "예가유통",
+  "phoneNumber": "052-288-9300",
+  "address": "울산 북구 화봉동 1461-1 1층 GS편의점",
+  "latitude": "35.591225",
+  "longitude": "129.36877"
+}
+]

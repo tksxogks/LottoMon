@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "대박찬스로또복권방",
+  "phoneNumber": "054-832-8803",
+  "address": "경북 의성군 의성읍 후죽리 841-9번지",
+  "latitude": "36.3544",
+  "longitude": "128.69406"
+},
+{
+  "number": "2",
+  "storeName": "대박복권방",
+  "phoneNumber": "054-834-3999",
+  "address": "경북 의성군 의성읍 도동리 898-5 경북 의성군 의성읍 도동리 898-5",
+  "latitude": "36.34899",
+  "longitude": "128.69728"
+},
+{
+  "number": "3",
+  "storeName": "안계 나눔로또",
+  "phoneNumber": "054-861-2700",
+  "address": "경북 의성군 안계면 용기리 842-56",
+  "latitude": "36.385178",
+  "longitude": "128.43474"
+}
+]

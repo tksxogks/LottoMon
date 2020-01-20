@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="@font/dovemayo"
-            android:text="로또몬"
+            android:text="당첨조회"
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold" />

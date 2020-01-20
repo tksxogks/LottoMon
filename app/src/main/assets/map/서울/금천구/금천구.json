@@ -1,0 +1,290 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(트윈테크점)",
+  "phoneNumber": "02-839-2521",
+  "address": "서울 금천구 가산동 345-9번지 SK트윈테크타워A동-103호",
+  "latitude": "37.47591",
+  "longitude": "126.88289"
+},
+{
+  "number": "2",
+  "storeName": "한명당",
+  "phoneNumber": "02-883-5467",
+  "address": "서울 금천구 시흥동 266-1 지하1층",
+  "latitude": "37.449947",
+  "longitude": "126.914314"
+},
+{
+  "number": "3",
+  "storeName": "GS25(시흥별장점)",
+  "phoneNumber": "02-893-8722",
+  "address": "서울 금천구 시흥동 915번지",
+  "latitude": "37.44905",
+  "longitude": "126.90869"
+},
+{
+  "number": "4",
+  "storeName": "행운복권방",
+  "phoneNumber": "",
+  "address": "서울 금천구 가산동 371-28 A동 103호",
+  "latitude": "37.480778",
+  "longitude": "126.88205"
+},
+{
+  "number": "5",
+  "storeName": "또 로또",
+  "phoneNumber": "070-4202-6264",
+  "address": "서울 금천구 시흥동 849 1층 102호",
+  "latitude": "37.45707",
+  "longitude": "126.903534"
+},
+{
+  "number": "6",
+  "storeName": "금하로또(이마트24금천시흥점)",
+  "phoneNumber": "02-892-8992",
+  "address": "서울 금천구 시흥동 841-55 1층",
+  "latitude": "37.45408",
+  "longitude": "126.90333"
+},
+{
+  "number": "7",
+  "storeName": "한방복권방",
+  "phoneNumber": "",
+  "address": "서울 금천구 독산동 297-12 1층",
+  "latitude": "37.472107",
+  "longitude": "126.89436"
+},
+{
+  "number": "8",
+  "storeName": "천하명당복권방독산점",
+  "phoneNumber": "02-863-8121",
+  "address": "서울 금천구 독산동 989-16",
+  "latitude": "37.472492",
+  "longitude": "126.90222"
+},
+{
+  "number": "9",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-893-4953",
+  "address": "서울 금천구 독산동 378-235",
+  "latitude": "37.46504",
+  "longitude": "126.90366"
+},
+{
+  "number": "10",
+  "storeName": "세븐복권",
+  "phoneNumber": "",
+  "address": "서울 금천구 가산동 691-3 1층 108호",
+  "latitude": "37.476852",
+  "longitude": "126.88118"
+},
+{
+  "number": "11",
+  "storeName": "복권방",
+  "phoneNumber": "02-895-7695",
+  "address": "서울 금천구 시흥동 954-7 정송빌딩1층",
+  "latitude": "37.442112",
+  "longitude": "126.903946"
+},
+{
+  "number": "12",
+  "storeName": "복권당",
+  "phoneNumber": "02-6337-1800",
+  "address": "서울 금천구 시흥동 984 1동 116호",
+  "latitude": "37.44288",
+  "longitude": "126.90287"
+},
+{
+  "number": "13",
+  "storeName": "해태식품",
+  "phoneNumber": "02-895-5789",
+  "address": "서울 금천구 시흥동 890-15",
+  "latitude": "37.451412",
+  "longitude": "126.90255"
+},
+{
+  "number": "14",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-891-9845",
+  "address": "서울 금천구 시흥동 889-13 가판",
+  "latitude": "37.45297",
+  "longitude": "126.90157"
+},
+{
+  "number": "15",
+  "storeName": "영광생활유통",
+  "phoneNumber": "02-802-7558",
+  "address": "서울 금천구 독산동 1006-19",
+  "latitude": "37.466267",
+  "longitude": "126.893456"
+},
+{
+  "number": "16",
+  "storeName": "88수퍼",
+  "phoneNumber": "02-851-8837",
+  "address": "서울 금천구 가산동 145-23",
+  "latitude": "37.47718",
+  "longitude": "126.89212"
+},
+{
+  "number": "17",
+  "storeName": "교통카드충전소",
+  "phoneNumber": "02-855-4842",
+  "address": "서울 금천구 독산동 1012",
+  "latitude": "37.46918",
+  "longitude": "126.89819"
+},
+{
+  "number": "18",
+  "storeName": "행운미니슈퍼",
+  "phoneNumber": "02-893-3757",
+  "address": "서울 금천구 시흥동 793-1",
+  "latitude": "37.461967",
+  "longitude": "126.90786"
+},
+{
+  "number": "19",
+  "storeName": "선서적",
+  "phoneNumber": "02-869-4027",
+  "address": "서울 금천구 독산동 1020-3",
+  "latitude": "37.46862",
+  "longitude": "126.90262"
+},
+{
+  "number": "20",
+  "storeName": "반도서점",
+  "phoneNumber": "02-805-9839",
+  "address": "서울 금천구 시흥동 803-3",
+  "latitude": "37.45945",
+  "longitude": "126.90523"
+},
+{
+  "number": "21",
+  "storeName": "하이로또",
+  "phoneNumber": "",
+  "address": "서울 금천구 시흥동 908-2",
+  "latitude": "37.451855",
+  "longitude": "126.90635"
+},
+{
+  "number": "22",
+  "storeName": "코사마트독산점",
+  "phoneNumber": "02-868-6507",
+  "address": "서울 금천구 독산동 1018-26",
+  "latitude": "37.468826",
+  "longitude": "126.90147"
+},
+{
+  "number": "23",
+  "storeName": "CU마차길점복권방",
+  "phoneNumber": "02-855-9666",
+  "address": "서울 금천구 독산동 330-1 CU독산마차길점 편의점",
+  "latitude": "37.47019",
+  "longitude": "126.893486"
+},
+{
+  "number": "24",
+  "storeName": "영광생활유통",
+  "phoneNumber": "02-802-7558",
+  "address": "서울 금천구 독산동 1006-19",
+  "latitude": "37.466267",
+  "longitude": "126.893456"
+},
+{
+  "number": "25",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-891-9845",
+  "address": "서울 금천구 시흥동 889-13 가판",
+  "latitude": "37.45297",
+  "longitude": "126.90157"
+},
+{
+  "number": "26",
+  "storeName": "해태식품",
+  "phoneNumber": "02-895-5789",
+  "address": "서울 금천구 시흥동 890-15",
+  "latitude": "37.451412",
+  "longitude": "126.90255"
+},
+{
+  "number": "27",
+  "storeName": "복권당",
+  "phoneNumber": "02-6337-1800",
+  "address": "서울 금천구 시흥동 984 1동 116호",
+  "latitude": "37.44288",
+  "longitude": "126.90287"
+},
+{
+  "number": "28",
+  "storeName": "복권방",
+  "phoneNumber": "02-895-7695",
+  "address": "서울 금천구 시흥동 954-7 정송빌딩1층",
+  "latitude": "37.442112",
+  "longitude": "126.903946"
+},
+{
+  "number": "29",
+  "storeName": "세븐복권",
+  "phoneNumber": "",
+  "address": "서울 금천구 가산동 691-3 1층 108호",
+  "latitude": "37.476852",
+  "longitude": "126.88118"
+},
+{
+  "number": "30",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-893-4953",
+  "address": "서울 금천구 독산동 378-235",
+  "latitude": "37.46504",
+  "longitude": "126.90366"
+},
+{
+  "number": "31",
+  "storeName": "천하명당복권방독산점",
+  "phoneNumber": "02-863-8121",
+  "address": "서울 금천구 독산동 989-16",
+  "latitude": "37.472492",
+  "longitude": "126.90222"
+},
+{
+  "number": "32",
+  "storeName": "한방복권방",
+  "phoneNumber": "",
+  "address": "서울 금천구 독산동 297-12 1층",
+  "latitude": "37.472107",
+  "longitude": "126.89436"
+},
+{
+  "number": "33",
+  "storeName": "금하로또(이마트24금천시흥점)",
+  "phoneNumber": "02-892-8992",
+  "address": "서울 금천구 시흥동 841-55 1층",
+  "latitude": "37.45408",
+  "longitude": "126.90333"
+},
+{
+  "number": "34",
+  "storeName": "또 로또",
+  "phoneNumber": "070-4202-6264",
+  "address": "서울 금천구 시흥동 849 1층 102호",
+  "latitude": "37.45707",
+  "longitude": "126.903534"
+},
+{
+  "number": "35",
+  "storeName": "행운복권방",
+  "phoneNumber": "",
+  "address": "서울 금천구 가산동 371-28 A동 103호",
+  "latitude": "37.480778",
+  "longitude": "126.88205"
+},
+{
+  "number": "36",
+  "storeName": "한명당",
+  "phoneNumber": "02-883-5467",
+  "address": "서울 금천구 시흥동 266-1 지하1층",
+  "latitude": "37.449947",
+  "longitude": "126.914314"
+}
+]

@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "우리로또복권",
+  "phoneNumber": "031-835-9019",
+  "address": "경기 연천군 청산면 초성리 439-18번지",
+  "latitude": "37.982933",
+  "longitude": "127.06918"
+},
+{
+  "number": "2",
+  "storeName": "행복정보통신",
+  "phoneNumber": "031-834-3045",
+  "address": "경기 연천군 연천읍 차탄리 34-16번지",
+  "latitude": "38.100456",
+  "longitude": "127.07505"
+},
+{
+  "number": "3",
+  "storeName": "대박복권방",
+  "phoneNumber": "031-835-2010",
+  "address": "경기 연천군 전곡읍 전곡리 480-16번지",
+  "latitude": "38.02601",
+  "longitude": "127.06774"
+},
+{
+  "number": "4",
+  "storeName": "복권마당",
+  "phoneNumber": "031-832-3004",
+  "address": "경기 연천군 전곡읍 전곡리 336-76번지 1층",
+  "latitude": "38.02487",
+  "longitude": "127.07028"
+},
+{
+  "number": "5",
+  "storeName": "전곡복권",
+  "phoneNumber": "031-832-5016",
+  "address": "경기 연천군 전곡읍 전곡리 302-32번지",
+  "latitude": "38.02377",
+  "longitude": "127.068535"
+},
+{
+  "number": "6",
+  "storeName": "전곡삼일가구",
+  "phoneNumber": "",
+  "address": "경기 연천군 전곡읍 은대리 565-3",
+  "latitude": "38.028595",
+  "longitude": "127.066574"
+},
+{
+  "number": "7",
+  "storeName": "우물복권",
+  "phoneNumber": "",
+  "address": "경기 연천군 전곡읍 전곡리 333-166",
+  "latitude": "38.026585",
+  "longitude": "127.06908"
+}
+]

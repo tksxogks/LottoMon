@@ -1,0 +1,234 @@
+[
+{
+  "number": "1",
+  "storeName": "오복복권",
+  "phoneNumber": "033-648-0393",
+  "address": "강원 강릉시 옥천동 76-3번지",
+  "latitude": "37.755302",
+  "latitude": "128.89973"
+},
+{
+  "number": "2",
+  "storeName": "유명복권대박",
+  "phoneNumber": "033-642-2225",
+  "address": "강원 강릉시 성남동 27-4번지",
+  "latitude": "37.754295",
+  "longitude": "128.90088"
+},
+{
+  "number": "3",
+  "storeName": "청심건강원",
+  "phoneNumber": "033-647-3696",
+  "address": "강원 강릉시 교동 825-19번지 12통3반",
+  "latitude": "37.76484",
+  "longitude": "128.89128"
+},
+{
+  "number": "4",
+  "storeName": "홍익슈퍼",
+  "phoneNumber": "033-651-7650",
+  "address": "강원 강릉시 포남동 1081-11번지 5통4반",
+  "latitude": "37.771328",
+  "longitude": "128.90924"
+},
+{
+  "number": "5",
+  "storeName": "꿈로또복권전문점",
+  "phoneNumber": "033-645-4643",
+  "address": "강원 강릉시 옥천동 287-14번지",
+  "latitude": "37.75926",
+  "longitude": "128.90057"
+},
+{
+  "number": "6",
+  "storeName": "희망복권방",
+  "phoneNumber": "033-645-0787",
+  "address": "강원 강릉시 용강동 10-5번지",
+  "latitude": "37.75598",
+  "longitude": "128.89137"
+},
+{
+  "number": "7",
+  "storeName": "아성로또복권",
+  "phoneNumber": "033-661-6440",
+  "address": "강원 강릉시 주문진읍 주문리 312-140번지 9통7반",
+  "latitude": "37.891953",
+  "longitude": "128.8285"
+},
+{
+  "number": "8",
+  "storeName": "왕대박로또복권방",
+  "phoneNumber": "033-653-1434",
+  "address": "강원 강릉시 입암동 708-1번지 모닝프라자1층106호",
+  "latitude": "37.75964",
+  "longitude": "128.91895"
+},
+{
+  "number": "9",
+  "storeName": "일송로또",
+  "phoneNumber": "033-651-3066",
+  "address": "강원 강릉시 포남동 1293-1번지 일송상가102호",
+  "latitude": "37.771896",
+  "longitude": "128.91455"
+},
+{
+  "number": "10",
+  "storeName": "천하명당",
+  "phoneNumber": "033-662-0262",
+  "address": "강원 강릉시 주문진읍 교항리 61-2번지",
+  "latitude": "37.880203",
+  "longitude": "128.8266"
+},
+{
+  "number": "11",
+  "storeName": "TOTO",
+  "phoneNumber": "033-661-8661",
+  "address": "강원 강릉시 주문진읍 교항리 192-10",
+  "latitude": "37.89201",
+  "longitude": "128.82603"
+},
+{
+  "number": "12",
+  "storeName": "진평양행",
+  "phoneNumber": "033-646-1384",
+  "address": "강원 강릉시 남문동 7-12번지",
+  "latitude": "37.751232",
+  "longitude": "128.89406"
+},
+{
+  "number": "13",
+  "storeName": "프로토용강점",
+  "phoneNumber": "033-645-0061",
+  "address": "강원 강릉시 용강동 33-38 1층",
+  "latitude": "37.75405",
+  "longitude": "128.89005"
+},
+{
+  "number": "14",
+  "storeName": "CU강릉신세계점",
+  "phoneNumber": "033-648-0775",
+  "address": "강원 강릉시 옥천동 367-14 강원도 강릉시 옥천동 367-14 CU강릉신세계점",
+  "latitude": "37.75868",
+  "longitude": "128.90125"
+},
+{
+  "number": "15",
+  "storeName": "CU(강릉문화점)",
+  "phoneNumber": "033-641-4541",
+  "address": "강원 강릉시 임당동 40-16 CU강릉문화점",
+  "latitude": "37.75556",
+  "longitude": "128.89407"
+},
+{
+  "number": "16",
+  "storeName": "CU(정동진모래시계점)",
+  "phoneNumber": "033-643-5137",
+  "address": "강원 강릉시 강동면 정동진리 3-2번지",
+  "latitude": "37.686234",
+  "longitude": "129.03654"
+},
+{
+  "number": "17",
+  "storeName": "CU(강릉터미널점)",
+  "phoneNumber": "033-642-9427",
+  "address": "강원 강릉시 홍제동 990-6번지",
+  "latitude": "37.755184",
+  "longitude": "128.8794"
+},
+{
+  "number": "18",
+  "storeName": "CU(주문진점)",
+  "phoneNumber": "033-662-3029",
+  "address": "강원 강릉시 주문진읍 주문리 312-103번지",
+  "latitude": "37.89323",
+  "longitude": "128.8277"
+},
+{
+  "number": "19",
+  "storeName": "CU(강릉내곡점)",
+  "phoneNumber": "033-642-8625",
+  "address": "강원 강릉시 내곡동 471-6번지",
+  "latitude": "37.744495",
+  "longitude": "128.88188"
+},
+{
+  "number": "20",
+  "storeName": "CU(강릉관솔점)",
+  "phoneNumber": "033-643-4737",
+  "address": "강원 강릉시 내곡동 618-2번지",
+  "latitude": "37.739136",
+  "longitude": "128.87692"
+},
+{
+  "number": "21",
+  "storeName": "CU(강릉노암한라점)",
+  "phoneNumber": "033-645-9878",
+  "address": "강원 강릉시 노암동 614-3번지",
+  "latitude": "37.742443",
+  "longitude": "128.8941"
+},
+{
+  "number": "22",
+  "storeName": "CU(경포하나점)",
+  "phoneNumber": "033-644-2585",
+  "address": "강원 강릉시 안현동 862-6번지",
+  "latitude": "37.80471",
+  "longitude": "128.90384"
+},
+{
+  "number": "23",
+  "storeName": "강릉성산점(GS25 편의점내)",
+  "phoneNumber": "033-647-7264",
+  "address": "강원 강릉시 성산면 구산리 307-1 1층",
+  "latitude": "37.714664",
+  "longitude": "128.82726"
+},
+{
+  "number": "24",
+  "storeName": "동해복권방",
+  "phoneNumber": "033-652-4989",
+  "address": "강원 강릉시 포남동 1186-1번지",
+  "latitude": "37.77014",
+  "longitude": "128.91301"
+},
+{
+  "number": "25",
+  "storeName": "현대슈퍼",
+  "phoneNumber": "033-647-4833",
+  "address": "강원 강릉시 홍제동 992-1번지 터미널상가1-10",
+  "latitude": "37.754673",
+  "longitude": "128.878"
+},
+{
+  "number": "26",
+  "storeName": "서울복권",
+  "phoneNumber": "033-647-3555",
+  "address": "강원 강릉시 교동 1888-1번지 청호빌딩1층4호",
+  "latitude": "37.76355",
+  "longitude": "128.87718"
+},
+{
+  "number": "27",
+  "storeName": "CU(포남뷰티점)",
+  "phoneNumber": "033-645-7947",
+  "address": "강원 강릉시 포남동 1150번지",
+  "latitude": "37.767338",
+  "longitude": "128.90927"
+},
+{
+  "number": "28",
+  "storeName": "유천복권방",
+  "phoneNumber": "033-655-1211",
+  "address": "강원 강릉시 홍제동 1018-2 104호",
+  "latitude": "37.75778",
+  "longitude": "128.86697"
+},
+{
+  "number": "29",
+  "storeName": "에이스복권판매점",
+  "phoneNumber": "033-647-9368",
+  "address": "강원 강릉시 내곡동 444-13",
+  "latitude": "37.74568",
+  "longitude": "128.88573"
+}
+]

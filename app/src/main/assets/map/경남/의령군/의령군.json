@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "해피데이복권방",
+  "phoneNumber": "055-572-0505",
+  "address": "경남 의령군 의령읍 중동리 386-17번지",
+  "latitude": "35.318832",
+  "longitude": "128.26225"
+},
+{
+  "number": "2",
+  "storeName": "동신상회",
+  "phoneNumber": "055-574-6215",
+  "address": "경남 의령군 부림면 신반리 160-2번지",
+  "latitude": "35.464375",
+  "longitude": "128.32146"
+},
+{
+  "number": "3",
+  "storeName": "씨유 의령동동점",
+  "phoneNumber": "",
+  "address": "경남 의령군 의령읍 동동리 981 CU편의점",
+  "latitude": "35.31923",
+  "longitude": "128.26807"
+}
+]

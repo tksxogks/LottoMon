@@ -40,9 +40,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //로딩화면
-        Intent intent = new Intent(this, RodingActivity.class);
-        startActivity(intent);
 
         pager = findViewById(R.id.pager);
         bnv = findViewById(R.id.bnv);

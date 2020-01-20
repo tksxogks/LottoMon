@@ -1,0 +1,234 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(화원유천점)",
+  "phoneNumber": "053-642-2425",
+  "address": "대구 달성군 화원읍 구라리 1735-13번지",
+  "latitude": "35.809227",
+  "longitude": "128.51135"
+},
+{
+  "number": "2",
+  "storeName": "세븐일레븐 현풍대로점",
+  "phoneNumber": "053-617-7997",
+  "address": "대구 달성군 현풍읍 원교리 161 대구 달성군 현풍면 비슬로 581 세븐일레븐현풍대로점",
+  "latitude": "35.694817",
+  "longitude": "128.43448"
+},
+{
+  "number": "3",
+  "storeName": "논공24시복권방",
+  "phoneNumber": "053-615-1757",
+  "address": "대구 달성군 논공읍 북리 833-99 GS25편의점내",
+  "latitude": "35.727818",
+  "longitude": "128.44771"
+},
+{
+  "number": "4",
+  "storeName": "화성로또",
+  "phoneNumber": "053-633-0577",
+  "address": "대구 달성군 화원읍 성산리 220-1번지 명곡미래빌5단지106호",
+  "latitude": "35.79827",
+  "longitude": "128.49246"
+},
+{
+  "number": "5",
+  "storeName": "화원로또방",
+  "phoneNumber": "053-635-3652",
+  "address": "대구 달성군 화원읍 천내리 53-12 1층 복권방",
+  "latitude": "35.805576",
+  "longitude": "128.5036"
+},
+{
+  "number": "6",
+  "storeName": "로또복권",
+  "phoneNumber": "053-295-3438",
+  "address": "대구 달성군 현풍면 중리 320-3번지 세븐일레븐 내",
+  "latitude": "35.69147",
+  "longitude": "128.44647"
+},
+{
+  "number": "7",
+  "storeName": "복권명당",
+  "phoneNumber": "053-634-6586",
+  "address": "대구 달성군 화원읍 명곡리 105-1",
+  "latitude": "35.798344",
+  "longitude": "128.49573"
+},
+{
+  "number": "8",
+  "storeName": "미래로또",
+  "phoneNumber": "053-614-9674",
+  "address": "대구 달성군 논공읍 북리 803-244번지",
+  "latitude": "35.730106",
+  "longitude": "128.44844"
+},
+{
+  "number": "9",
+  "storeName": "로또 태크노폴리스점",
+  "phoneNumber": "",
+  "address": "대구 달성군 유가면 금리 1144-6 대구 달성군 유가면 금리 1144-6",
+  "latitude": "35.72913",
+  "longitude": "128.45168"
+},
+{
+  "number": "10",
+  "storeName": "로또복권방",
+  "phoneNumber": "053-637-5881",
+  "address": "대구 달성군 화원읍 명곡리 165-9번지",
+  "latitude": "35.800148",
+  "longitude": "128.49648"
+},
+{
+  "number": "11",
+  "storeName": "왕대박복권",
+  "phoneNumber": "053-591-0616",
+  "address": "대구 달성군 다사읍 죽곡리 129-1번지",
+  "latitude": "35.860973",
+  "longitude": "128.46097"
+},
+{
+  "number": "12",
+  "storeName": "토토닷컴",
+  "phoneNumber": "053-615-6051",
+  "address": "대구 달성군 논공읍 북리 490-16 대구 달성군 논공읍 북리490-16",
+  "latitude": "35.730778",
+  "longitude": "128.45148"
+},
+{
+  "number": "13",
+  "storeName": "왕대박복권",
+  "phoneNumber": "053-615-2022",
+  "address": "대구 달성군 옥포면 본리리 2414-3번지",
+  "latitude": "35.78834",
+  "longitude": "128.46344"
+},
+{
+  "number": "14",
+  "storeName": "복권나라",
+  "phoneNumber": "053-615-9102",
+  "address": "대구 달성군 논공읍 북리 833-152번지",
+  "latitude": "35.726807",
+  "longitude": "128.44768"
+},
+{
+  "number": "15",
+  "storeName": "유원상사",
+  "phoneNumber": "053-587-0415",
+  "address": "대구 달성군 다사읍 세천리 1685-1번지 코리아마트세천점",
+  "latitude": "35.874653",
+  "longitude": "128.47133"
+},
+{
+  "number": "16",
+  "storeName": "다사복권방",
+  "phoneNumber": "053-000-0000",
+  "address": "대구 달성군 옥포읍 간경리 868-1 대구 달성군 옥포면 비슬로 2283 1층",
+  "latitude": "35.790295",
+  "longitude": "128.47066"
+},
+{
+  "number": "17",
+  "storeName": "다사복권편의점",
+  "phoneNumber": "053-588-9339",
+  "address": "대구 달성군 다사읍 죽곡리 809-2번지 102호",
+  "latitude": "35.85715",
+  "longitude": "128.46506"
+},
+{
+  "number": "18",
+  "storeName": "화성전기",
+  "phoneNumber": "053-633-7645",
+  "address": "대구 달성군 화원읍 천내리 123-3번지",
+  "latitude": "35.80367",
+  "longitude": "128.49829"
+},
+{
+  "number": "19",
+  "storeName": "서재강변로또",
+  "phoneNumber": "053-591-3747",
+  "address": "대구 달성군 다사읍 서재리 58-2번지",
+  "latitude": "35.878685",
+  "longitude": "128.49692"
+},
+{
+  "number": "20",
+  "storeName": "가창복권",
+  "phoneNumber": "053-768-8802",
+  "address": "대구 달성군 가창면 용계리 69-4",
+  "latitude": "35.802353",
+  "longitude": "128.62227"
+},
+{
+  "number": "21",
+  "storeName": "복권나라",
+  "phoneNumber": "053-615-9072",
+  "address": "대구 달성군 현풍면 부리 457-2번지",
+  "latitude": "35.697594",
+  "longitude": "128.443"
+},
+{
+  "number": "22",
+  "storeName": "대박복권",
+  "phoneNumber": "053-641-5478",
+  "address": "대구 달성군 다사읍 세천리 1585-2 대구 달성군 세천리 1585-2 1층",
+  "latitude": "35.87396",
+  "longitude": "128.47362"
+},
+{
+  "number": "23",
+  "storeName": "GS25(논공점)",
+  "phoneNumber": "053-614-0956",
+  "address": "대구 달성군 논공읍 북리 803-129번지",
+  "latitude": "35.729496",
+  "longitude": "128.44417"
+},
+{
+  "number": "24",
+  "storeName": "승차권판매소(화원교도소앞)",
+  "phoneNumber": "053-634-2324",
+  "address": "대구 달성군 화원읍 천내리 465-2",
+  "latitude": "35.80506",
+  "longitude": "128.50314"
+},
+{
+  "number": "25",
+  "storeName": "코코편의점",
+  "phoneNumber": "053-782-8377",
+  "address": "대구 달성군 옥포면 강림리 575-1 대구 달성군 옥포면 강림리 575-1 1층",
+  "latitude": "35.779655",
+  "longitude": "128.43207"
+},
+{
+  "number": "26",
+  "storeName": "대박복권",
+  "phoneNumber": "053-0000-0000",
+  "address": "대구 달성군 화원읍 천내리 107-7 대구 달성군 성천로24길 1-19 1층",
+  "latitude": "35.65555",
+  "longitude": "128.41696"
+},
+{
+  "number": "27",
+  "storeName": "희망로또",
+  "phoneNumber": "053-611-5613",
+  "address": "대구 달성군 현풍면 부리 437-6번지 학우사 내",
+  "latitude": "35.696556",
+  "longitude": "128.44316"
+},
+{
+  "number": "28",
+  "storeName": "로또",
+  "phoneNumber": "053-637-0027",
+  "address": "대구 달성군 구지면 응암리 1199 반도유보라 상가 황금 부동산 내",
+  "latitude": "35.657764",
+  "longitude": "128.41838"
+},
+{
+  "number": "29",
+  "storeName": "대한로또",
+  "phoneNumber": "",
+  "address": "대구 달성군 매곡리 315 송원오피스텔 1층 104호",
+  "latitude": "35.865276",
+  "longitude": "128.46361"
+}
+]

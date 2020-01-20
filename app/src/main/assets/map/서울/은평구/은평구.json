@@ -1,0 +1,426 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(역촌제일점)",
+  "phoneNumber": "02-384-9066",
+  "address": "서울 은평구 역촌동 78-45",
+  "latitude": "37.60318",
+  "longitude": "126.910225"
+},
+{
+  "number": "2",
+  "storeName": "CU(새절역점)",
+  "phoneNumber": "02-306-3927",
+  "address": "서울 은평구 신사동 336-1번지",
+  "latitude": "37.59203",
+  "longitude": "126.91359"
+},
+{
+  "number": "3",
+  "storeName": "위드미",
+  "phoneNumber": "070-4191-1202",
+  "address": "서울 은평구 응암동 88-8번지",
+  "latitude": "37.6005",
+  "longitude": "126.92148"
+},
+{
+  "number": "4",
+  "storeName": "양광마트",
+  "phoneNumber": "02-376-1492",
+  "address": "서울 은평구 응암동 598-11번지",
+  "latitude": "37.587555",
+  "longitude": "126.91638"
+},
+{
+  "number": "5",
+  "storeName": "피터팬",
+  "phoneNumber": "02-387-6478",
+  "address": "서울 은평구 녹번동 206번지",
+  "latitude": "37.601727",
+  "longitude": "126.92908"
+},
+{
+  "number": "6",
+  "storeName": "월드마켓",
+  "phoneNumber": "02-358-4624",
+  "address": "서울 은평구 불광동 281-171",
+  "latitude": "37.610172",
+  "longitude": "126.93047"
+},
+{
+  "number": "7",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-306-0568",
+  "address": "서울 은평구 응암동 598-18번지 1층 3호",
+  "latitude": "37.588226",
+  "longitude": "126.91627"
+},
+{
+  "number": "8",
+  "storeName": "바이더웨이녹번중앙점",
+  "phoneNumber": "02-389-1480",
+  "address": "서울 은평구 녹번동 155-20번지",
+  "latitude": "37.602417",
+  "longitude": "126.92577"
+},
+{
+  "number": "9",
+  "storeName": "천하명당로또",
+  "phoneNumber": "02-308-6946",
+  "address": "서울 은평구 증산동 185-25번지 1층",
+  "latitude": "37.582294",
+  "longitude": "126.90564"
+},
+{
+  "number": "10",
+  "storeName": "가로대가판점",
+  "phoneNumber": "02-355-8760",
+  "address": "서울 은평구 대조동 6-5번지 롯데리아앞가판",
+  "latitude": "37.611332",
+  "longitude": "126.92851"
+},
+{
+  "number": "11",
+  "storeName": "종합가판점",
+  "phoneNumber": "02-352-2774",
+  "address": "서울 은평구 응암동 124-17번지",
+  "latitude": "37.594185",
+  "longitude": "126.91784"
+},
+{
+  "number": "12",
+  "storeName": "IGA(이가)편의점",
+  "phoneNumber": "02-352-1708",
+  "address": "서울 은평구 녹번동 252번지",
+  "latitude": "37.601234",
+  "longitude": "126.933235"
+},
+{
+  "number": "13",
+  "storeName": "로또복권방",
+  "phoneNumber": "02-358-0620",
+  "address": "서울 은평구 대조동 196-7번지",
+  "latitude": "37.62132",
+  "longitude": "126.925835"
+},
+{
+  "number": "14",
+  "storeName": "복마니복권방",
+  "phoneNumber": "02-357-3115",
+  "address": "서울 은평구 역촌동 27-13번지",
+  "latitude": "37.604202",
+  "longitude": "126.92153"
+},
+{
+  "number": "15",
+  "storeName": "종합가판점",
+  "phoneNumber": "02-385-2225",
+  "address": "서울 은평구 대조동 4-1번지",
+  "latitude": "37.61192",
+  "longitude": "126.92815"
+},
+{
+  "number": "16",
+  "storeName": "가판",
+  "phoneNumber": "02-382-5921",
+  "address": "서울 은평구 불광동 267-1번지",
+  "latitude": "37.612305",
+  "longitude": "126.92864"
+},
+{
+  "number": "17",
+  "storeName": "복권가판대",
+  "phoneNumber": "02-372-4396",
+  "address": "서울 은평구 수색동 368-1",
+  "latitude": "37.58213",
+  "longitude": "126.89446"
+},
+{
+  "number": "18",
+  "storeName": "문구뱅크",
+  "phoneNumber": "02-352-1396",
+  "address": "서울 은평구 역촌동 16-2 문구뱅크",
+  "latitude": "37.606457",
+  "longitude": "126.92238"
+},
+{
+  "number": "19",
+  "storeName": "드림스튜디오",
+  "phoneNumber": "02-358-7011",
+  "address": "서울 은평구 갈현동 468-3번지 1층",
+  "latitude": "37.612564",
+  "longitude": "126.91564"
+},
+{
+  "number": "20",
+  "storeName": "하이로또복권방",
+  "phoneNumber": "02-389-0436",
+  "address": "서울 은평구 응암동 427-140번지",
+  "latitude": "37.594395",
+  "longitude": "126.91837"
+},
+{
+  "number": "21",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-387-2268",
+  "address": "서울 은평구 녹번동 180번지",
+  "latitude": "37.602272",
+  "longitude": "126.92677"
+},
+{
+  "number": "22",
+  "storeName": "복권백화점",
+  "phoneNumber": "02-383-7999",
+  "address": "서울 은평구 갈현동 455-20 1층",
+  "latitude": "37.61866",
+  "longitude": "126.91916"
+},
+{
+  "number": "23",
+  "storeName": "황금어장",
+  "phoneNumber": "02-385-1221",
+  "address": "서울 은평구 불광동 90-3",
+  "latitude": "37.625042",
+  "longitude": "126.92855"
+},
+{
+  "number": "24",
+  "storeName": "하이25시편의점",
+  "phoneNumber": "02-355-9025",
+  "address": "서울 은평구 역촌동 85-12번지 센터폴리스 1층 107호",
+  "latitude": "37.600113",
+  "longitude": "126.91559"
+},
+{
+  "number": "25",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "02-355-0277",
+  "address": "서울 은평구 신사동 3-11번지",
+  "latitude": "37.598736",
+  "longitude": "126.913445"
+},
+{
+  "number": "26",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-386-6867",
+  "address": "서울 은평구 불광동 320-1 상가102호",
+  "latitude": "37.61977",
+  "longitude": "126.923325"
+},
+{
+  "number": "27",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-383-5918",
+  "address": "서울 은평구 응암동 90-14번지 1층 3호",
+  "latitude": "37.59993",
+  "longitude": "126.91905"
+},
+{
+  "number": "28",
+  "storeName": "로또와공인중개사사무소",
+  "phoneNumber": "02-353-4141",
+  "address": "서울 은평구 갈현동 424-7 1층",
+  "latitude": "37.62392",
+  "longitude": "126.91713"
+},
+{
+  "number": "29",
+  "storeName": "로또행운방",
+  "phoneNumber": "02-382-5128",
+  "address": "서울 은평구 구산동 1-1번지",
+  "latitude": "37.61111",
+  "longitude": "126.91681"
+},
+{
+  "number": "30",
+  "storeName": "대박복권",
+  "phoneNumber": "02-355-1815",
+  "address": "서울 은평구 역촌동 34-52번지 1층",
+  "latitude": "37.602848",
+  "longitude": "126.91841"
+},
+{
+  "number": "31",
+  "storeName": "평화슈퍼",
+  "phoneNumber": "02-357-3538",
+  "address": "서울 은평구 대조동 219-2번지",
+  "latitude": "37.61624",
+  "longitude": "126.91903"
+},
+{
+  "number": "32",
+  "storeName": "갈현토큰",
+  "phoneNumber": "02-387-0733",
+  "address": "서울 은평구 갈현동 392-5",
+  "latitude": "37.62373",
+  "longitude": "126.919586"
+},
+{
+  "number": "33",
+  "storeName": "수색마트 복권방",
+  "phoneNumber": "02-302-9000",
+  "address": "서울 은평구 수색동 106-1번지",
+  "latitude": "37.58225",
+  "longitude": "126.89589"
+},
+{
+  "number": "34",
+  "storeName": "월드24시",
+  "phoneNumber": "02-385-5664",
+  "address": "서울 은평구 갈현동 398-1번지",
+  "latitude": "37.61921",
+  "longitude": "126.91977"
+},
+{
+  "number": "35",
+  "storeName": "로또구파발점",
+  "phoneNumber": "02-386-1515",
+  "address": "서울 은평구 진관동 70 메트로프라자 103호",
+  "latitude": "37.638412",
+  "longitude": "126.91883"
+},
+{
+  "number": "36",
+  "storeName": "대박.COM복권휴계실",
+  "phoneNumber": "02-355-4622",
+  "address": "서울 은평구 대조동 89-84",
+  "latitude": "37.61142",
+  "longitude": "126.92204"
+},
+{
+  "number": "37",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-309-0645",
+  "address": "서울 은평구 갈현동 462-19",
+  "latitude": "37.619114",
+  "longitude": "126.91522"
+},
+{
+  "number": "38",
+  "storeName": "갈현베르빌부동산공인중개사사무소",
+  "phoneNumber": "02-358-8030",
+  "address": "서울 은평구 갈현동 465-12번지 동광갈현베르빌 1층 119호",
+  "latitude": "37.6119",
+  "longitude": "126.91681"
+},
+{
+  "number": "39",
+  "storeName": "로또명당",
+  "phoneNumber": "02-376-3533",
+  "address": "서울 은평구 신사동 16-30 인더라인",
+  "latitude": "37.583786",
+  "longitude": "126.909225"
+},
+{
+  "number": "40",
+  "storeName": "오거리마트",
+  "phoneNumber": "02-307-0115",
+  "address": "서울 은평구 응암동 323-5번지",
+  "latitude": "37.590076",
+  "longitude": "126.9179"
+},
+{
+  "number": "41",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-307-8775",
+  "address": "서울 은평구 응암동 589-38",
+  "latitude": "37.59054",
+  "longitude": "126.91627"
+},
+{
+  "number": "42",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "02-383-0703",
+  "address": "서울 은평구 신사동 17-10번지",
+  "latitude": "37.598618",
+  "longitude": "126.91"
+},
+{
+  "number": "43",
+  "storeName": "은평식품",
+  "phoneNumber": "02-304-1843",
+  "address": "서울 은평구 응암동 721-1",
+  "latitude": "37.58766",
+  "longitude": "126.9181"
+},
+{
+  "number": "44",
+  "storeName": "대박천하복권방",
+  "phoneNumber": "02-356-0645",
+  "address": "서울 은평구 대조동 224-3번지 1층 1호",
+  "latitude": "37.612144",
+  "longitude": "126.91764"
+},
+{
+  "number": "45",
+  "storeName": "나눔로또",
+  "phoneNumber": "",
+  "address": "서울 은평구 응암동 591-39",
+  "latitude": "37.588882",
+  "longitude": "126.91408"
+},
+{
+  "number": "46",
+  "storeName": "제이로또",
+  "phoneNumber": "",
+  "address": "서울 은평구 불광동 312-129",
+  "latitude": "37.620083",
+  "longitude": "126.92163"
+},
+{
+  "number": "47",
+  "storeName": "드림로또",
+  "phoneNumber": "02-387-9886",
+  "address": "서울 은평구 진관동 73 1층 108호 일부",
+  "latitude": "37.635742",
+  "longitude": "126.91934"
+},
+{
+  "number": "48",
+  "storeName": "무지개복권방",
+  "phoneNumber": "",
+  "address": "서울 은평구 신사동 33-5번지",
+  "latitude": "37.594864",
+  "longitude": "126.913445"
+},
+{
+  "number": "49",
+  "storeName": "CU 은평어드밴스힐점",
+  "phoneNumber": "02-302-3416",
+  "address": "서울 은평구 진관동 100-4 상가동1층 117,118호 CU어드밴스힐점",
+  "latitude": "37.608868",
+  "longitude": "126.91112"
+},
+{
+  "number": "50",
+  "storeName": "153마트",
+  "phoneNumber": "",
+  "address": "서울 은평구 대조동 44-21",
+  "latitude": "37.609493",
+  "longitude": "126.91972"
+},
+{
+  "number": "51",
+  "storeName": "꿈이 있는 로또점",
+  "phoneNumber": "02-6369-1588",
+  "address": "서울 은평구 녹번동 117-116",
+  "latitude": "37.60834",
+  "longitude": "126.93146"
+},
+{
+  "number": "52",
+  "storeName": "리치하우스",
+  "phoneNumber": "",
+  "address": "서울 은평구 불광동 13-35 1층",
+  "latitude": "37.61805",
+  "longitude": "126.93301"
+},
+{
+  "number": "53",
+  "storeName": "혜안마트",
+  "phoneNumber": "02-6012-4826",
+  "address": "서울 은평구 역촌동 42-34",
+  "latitude": "37.60102",
+  "longitude": "126.91886"
+}
+]

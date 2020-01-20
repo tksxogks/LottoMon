@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "대광복권방",
+  "phoneNumber": "061-373-3003",
+  "address": "전남 화순군 화순읍 대리 97-3 대광그린상가동 1층109호",
+  "latitude": "35.055443",
+  "longitude": "126.977036"
+},
+{
+  "number": "2",
+  "storeName": "로또만사통사",
+  "phoneNumber": "061-371-0645",
+  "address": "전남 화순군 화순읍 유천리 337 5번째칸",
+  "latitude": "35.063686",
+  "longitude": "126.99273"
+},
+{
+  "number": "3",
+  "storeName": "CU(화순중앙점)",
+  "phoneNumber": "061-374-8242",
+  "address": "전남 화순군 화순읍 만연리 220번지",
+  "latitude": "35.06025",
+  "longitude": "126.99146"
+},
+{
+  "number": "4",
+  "storeName": "대박복권",
+  "phoneNumber": "",
+  "address": "전남 화순군 화순읍 광덕리 379 고인돌공원 교차로 부근 1층 건물, 현대자동차 옆",
+  "latitude": "35.055996",
+  "longitude": "126.992226"
+}
+]

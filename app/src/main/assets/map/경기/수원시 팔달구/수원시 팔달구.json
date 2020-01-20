@@ -1,0 +1,298 @@
+[
+{
+  "number": "1",
+  "storeName": "경민복권방",
+  "phoneNumber": "031-241-3844",
+  "address": "경기 수원시 팔달구 북수동 225",
+  "latitude": "37.285446",
+  "longitude": "127.01585"
+},
+{
+  "number": "2",
+  "storeName": "선일복권방",
+  "phoneNumber": "031-251-0400",
+  "address": "경기 수원시 팔달구 화서동 71-13",
+  "latitude": "37.280148",
+  "longitude": "127.0042"
+},
+{
+  "number": "3",
+  "storeName": "월드컵",
+  "phoneNumber": "031-256-6883",
+  "address": "경기 수원시 팔달구 우만동 519-3",
+  "latitude": "37.28529",
+  "longitude": "127.0351"
+},
+{
+  "number": "4",
+  "storeName": "매향슈퍼",
+  "phoneNumber": "031-258-3338",
+  "address": "경기 수원시 팔달구 남수동 16-19",
+  "latitude": "37.282627",
+  "longitude": "127.02106"
+},
+{
+  "number": "5",
+  "storeName": "대성식품",
+  "phoneNumber": "031-256-2814",
+  "address": "경기 수원시 팔달구 교동 92-2",
+  "latitude": "37.272198",
+  "longitude": "127.01477"
+},
+{
+  "number": "6",
+  "storeName": "서문복권판매소",
+  "phoneNumber": "031-247-1161",
+  "address": "경기 수원시 팔달구 화서동 32-11 도로",
+  "latitude": "37.28466",
+  "longitude": "127.00678"
+},
+{
+  "number": "7",
+  "storeName": "로또명당매표소",
+  "phoneNumber": "031-212-3673",
+  "address": "경기 수원시 팔달구 우만동 85-1",
+  "latitude": "37.27547",
+  "longitude": "127.042534"
+},
+{
+  "number": "8",
+  "storeName": "버스표가두판매점",
+  "phoneNumber": "031-215-6313",
+  "address": "경기 수원시 팔달구 우만동 146-2번지",
+  "latitude": "37.27769",
+  "longitude": "127.03525"
+},
+{
+  "number": "9",
+  "storeName": "복권판매소",
+  "phoneNumber": "031-243-2150",
+  "address": "경기 수원시 팔달구 우만동 300 우만3,4단지앞",
+  "latitude": "37.292263",
+  "longitude": "127.03093"
+},
+{
+  "number": "10",
+  "storeName": "버스표판매소",
+  "phoneNumber": "031-221-8727",
+  "address": "경기 수원시 팔달구 인계동 1125-2 벽산그랜드코아아파트앞",
+  "latitude": "37.26042",
+  "longitude": "127.03185"
+},
+{
+  "number": "11",
+  "storeName": "매표소",
+  "phoneNumber": "031-247-7932",
+  "address": "경기 수원시 팔달구 팔달로2가 67-3",
+  "latitude": "37.27793",
+  "longitude": "127.01699"
+},
+{
+  "number": "12",
+  "storeName": "남문가판점",
+  "phoneNumber": "031-252-6705",
+  "address": "경기 수원시 팔달구 팔달로3가 24-9",
+  "latitude": "37.277306",
+  "longitude": "127.01733"
+},
+{
+  "number": "13",
+  "storeName": "웅진",
+  "phoneNumber": "031-231-8095",
+  "address": "경기 수원시 팔달구 인계동 1045 동수원홈플러스 1층",
+  "latitude": "37.26274",
+  "longitude": "127.03012"
+},
+{
+  "number": "14",
+  "storeName": "천하명당우만점",
+  "phoneNumber": "031-257-7769",
+  "address": "경기 수원시 팔달구 우만동 466-5",
+  "latitude": "37.290237",
+  "longitude": "127.030174"
+},
+{
+  "number": "15",
+  "storeName": "복권방",
+  "phoneNumber": "031-239-0128",
+  "address": "경기 수원시 팔달구 인계동 1037-2",
+  "latitude": "37.2666",
+  "longitude": "127.033356"
+},
+{
+  "number": "16",
+  "storeName": "명당복권점",
+  "phoneNumber": "031-239-8891",
+  "address": "경기 수원시 팔달구 인계동 750-49",
+  "latitude": "37.275124",
+  "longitude": "127.02244"
+},
+{
+  "number": "17",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "031-247-9762",
+  "address": "경기 수원시 팔달구 매산로3가 128-4",
+  "latitude": "37.270374",
+  "longitude": "127.00875"
+},
+{
+  "number": "18",
+  "storeName": "케이케이물류",
+  "phoneNumber": "070-8184-3956",
+  "address": "경기 수원시 팔달구 화서동 108-2",
+  "latitude": "37.278645",
+  "longitude": "127.00062"
+},
+{
+  "number": "19",
+  "storeName": "탑스",
+  "phoneNumber": "031-212-8988",
+  "address": "경기 수원시 팔달구 우만동 578-1",
+  "latitude": "37.27574",
+  "longitude": "127.0437"
+},
+{
+  "number": "20",
+  "storeName": "복권전문점",
+  "phoneNumber": "031-241-4863",
+  "address": "경기 수원시 팔달구 매산로1가 43-12",
+  "latitude": "37.26758",
+  "longitude": "127.00333"
+},
+{
+  "number": "21",
+  "storeName": "엑스트라",
+  "phoneNumber": "031-242-7074",
+  "address": "경기 수원시 팔달구 우만동 477-14",
+  "latitude": "37.2883",
+  "longitude": "127.02922"
+},
+{
+  "number": "22",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "031-246-1266",
+  "address": "경기 수원시 팔달구 매산로1가 58-20",
+  "latitude": "37.26661",
+  "longitude": "127.00185"
+},
+{
+  "number": "23",
+  "storeName": "씨스페이스(수원빈센트)",
+  "phoneNumber": "031-221-9651",
+  "address": "경기 수원시 팔달구 인계동 211-5",
+  "latitude": "37.276382",
+  "longitude": "127.026665"
+},
+{
+  "number": "24",
+  "storeName": "동행편의점",
+  "phoneNumber": "031-239-9926",
+  "address": "경기 수원시 팔달구 팔달로3가 98-3 101호(팔달로3가)",
+  "latitude": "37.277042",
+  "longitude": "127.016464"
+},
+{
+  "number": "25",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 화서동 648 1층 111호",
+  "latitude": "37.285767",
+  "longitude": "126.99389"
+},
+{
+  "number": "26",
+  "storeName": "나눔로또",
+  "phoneNumber": "031-244-3810",
+  "address": "경기 수원시 팔달구 팔달로2가 91-1 병원 앞 가판점",
+  "latitude": "37.278774",
+  "longitude": "127.01629"
+},
+{
+  "number": "27",
+  "storeName": "도로시",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 인계동 974-4",
+  "latitude": "37.269012",
+  "longitude": "127.025475"
+},
+{
+  "number": "28",
+  "storeName": "성광복권방",
+  "phoneNumber": "031-234-2257",
+  "address": "경기 수원시 팔달구 인계동 968",
+  "latitude": "37.271572",
+  "longitude": "127.026474"
+},
+{
+  "number": "29",
+  "storeName": "행복로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 화서동 126-13 1층",
+  "latitude": "37.27978",
+  "longitude": "126.998436"
+},
+{
+  "number": "30",
+  "storeName": "삼둥이네",
+  "phoneNumber": "031-243-1251",
+  "address": "경기 수원시 팔달구 고등동 3-5 가동 101호 CU편의점",
+  "latitude": "37.27808",
+  "longitude": "127.00678"
+},
+{
+  "number": "31",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-245-7843",
+  "address": "경기 수원시 팔달구 고등동 300-7",
+  "latitude": "37.27013",
+  "longitude": "127.00249"
+},
+{
+  "number": "32",
+  "storeName": "세븐로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 인계동 1043-9 103-2호 세븐일레븐",
+  "latitude": "37.263912",
+  "longitude": "127.03128"
+},
+{
+  "number": "33",
+  "storeName": "남문시장",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 영동 8 영동시장 101호",
+  "latitude": "37.276814",
+  "longitude": "127.01866"
+},
+{
+  "number": "34",
+  "storeName": "정통복권방",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 매교동 77-70",
+  "latitude": "37.26984",
+  "longitude": "127.01399"
+},
+{
+  "number": "35",
+  "storeName": "명당복권",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 매산로2가 120-1",
+  "latitude": "37.268616",
+  "longitude": "127.00473"
+},
+{
+  "number": "36",
+  "storeName": "라스베가스 복권",
+  "phoneNumber": "031-256-0336",
+  "address": "경기 수원시 팔달구 매산로1가 16-7 1층 위드미편의점",
+  "latitude": "37.267616",
+  "longitude": "127.00128"
+},
+{
+  "number": "37",
+  "storeName": "다옴로또",
+  "phoneNumber": "",
+  "address": "경기 수원시 팔달구 매산로2가 8-7 1층",
+  "latitude": "37.26956",
+  "longitude": "127.00651"
+}
+]

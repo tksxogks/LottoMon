@@ -1,0 +1,162 @@
+[
+{
+  "number": "1",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "041-634-0808",
+  "address": "충남 홍성군 홍성읍 오관리 321-4",
+  "latitude": "36.60068",
+  "longitude": "126.6695"
+},
+{
+  "number": "2",
+  "storeName": "한아름매점",
+  "phoneNumber": "041-641-4701",
+  "address": "충남 홍성군 광천읍 광천리 173-6",
+  "latitude": "36.503204",
+  "longitude": "126.62557"
+},
+{
+  "number": "3",
+  "storeName": "로또",
+  "phoneNumber": "041-632-8855",
+  "address": "충남 홍성군 홍성읍 오관리 311-5",
+  "latitude": "36.600964",
+  "longitude": "126.667625"
+},
+{
+  "number": "4",
+  "storeName": "로또홍성휴게소(하행)판매점",
+  "phoneNumber": "",
+  "address": "충남 홍성군 은하면 금국리 292-3 서해안고속도로 홍성휴게소 하행내 하이샵코너내",
+  "latitude": "36.55199",
+  "longitude": "126.580154"
+},
+{
+  "number": "5",
+  "storeName": "복권나라",
+  "phoneNumber": "041-633-2361",
+  "address": "충남 홍성군 홍성읍 오관리 222-3",
+  "latitude": "36.600323",
+  "longitude": "126.6648"
+},
+{
+  "number": "6",
+  "storeName": "수채화",
+  "phoneNumber": "041-633-6432",
+  "address": "충남 홍성군 홍성읍 오관리 118-1",
+  "latitude": "36.602474",
+  "longitude": "126.662735"
+},
+{
+  "number": "7",
+  "storeName": "터미널복권방",
+  "phoneNumber": "",
+  "address": "충남 홍성군 홍성읍 고암리 1042 110호 CU편의점 내",
+  "latitude": "36.601147",
+  "longitude": "126.67655"
+},
+{
+  "number": "8",
+  "storeName": "일등로또",
+  "phoneNumber": "041-633-7350",
+  "address": "충남 홍성군 고암리 977",
+  "latitude": "3.601411",
+  "longitude": "126.67467"
+},
+{
+  "number": "9",
+  "storeName": "황금로또",
+  "phoneNumber": "041-635-1255",
+  "address": "충남 홍성군 홍성읍 대교리 452-1번지",
+  "latitude": "36.605904",
+  "longitude": "126.66268"
+},
+{
+  "number": "10",
+  "storeName": "세븐일레븐 홍성신동아점",
+  "phoneNumber": "",
+  "address": "충남 홍성군 홍성읍 고암리 602-1 1층 세븐일레븐 편의점내",
+  "latitude": "36.59486",
+  "longitude": "126.67414"
+},
+{
+  "number": "11",
+  "storeName": "나눔로또복권",
+  "phoneNumber": "041-977-6500",
+  "address": "충남 홍성군 홍성읍 대교리 221-9 세분일레븐 내",
+  "latitude": "36.61022",
+  "longitude": "126.663666"
+},
+{
+  "number": "12",
+  "storeName": "행운복권방",
+  "phoneNumber": "",
+  "address": "충남 홍성군 홍성읍 대교리 535",
+  "latitude": "36.603268",
+  "longitude": "126.67141"
+},
+{
+  "number": "13",
+  "storeName": "로또법원점",
+  "phoneNumber": "041-632-6741",
+  "address": "충남 홍성군 홍성읍 월산리 828-3 101호",
+  "latitude": "36.599773",
+  "longitude": "126.647415"
+},
+{
+  "number": "14",
+  "storeName": "으뜸로또복권방",
+  "phoneNumber": "041-631-6268",
+  "address": "충남 홍성군 홍성읍 오관리 453 4필지",
+  "latitude": "36.597694",
+  "longitude": "126.66287"
+},
+{
+  "number": "15",
+  "storeName": "남당항로또",
+  "phoneNumber": "041-632-8209",
+  "address": "충남 홍성군 서부면 남당리 434-16",
+  "latitude": "36.539066",
+  "longitude": "126.473526"
+},
+{
+  "number": "16",
+  "storeName": "세븐일레븐 홍성대로점",
+  "phoneNumber": "041-356-2122",
+  "address": "충남 홍성군 금마면 신곡리 365-3 1층 세븐일레븐 편의점내",
+  "latitude": "36.60884",
+  "longitude": "126.70137"
+},
+{
+  "number": "17",
+  "storeName": "내포로또대박점",
+  "phoneNumber": "041-632-9525",
+  "address": "충남 홍성군 홍북읍 신경리 945 상가 A동 115호 GS25 편의점내",
+  "latitude": "36.654297",
+  "longitude": "126.68284"
+},
+{
+  "number": "18",
+  "storeName": "대박복권",
+  "phoneNumber": "041-631-1831",
+  "address": "충남 홍성군 구항면 마온리 135-1 위드미 편의점내",
+  "latitude": "36.561684",
+  "longitude": "126.647804"
+},
+{
+  "number": "19",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "충남 홍성군 홍성읍 옥암리 394-9 1층 미니스톱 102~103호",
+  "latitude": "36.59304",
+  "longitude": "126.64853"
+},
+{
+  "number": "20",
+  "storeName": "서해대박복권",
+  "phoneNumber": "",
+  "address": "충남 홍성군 갈산면 상촌리 334-6 서해마트내",
+  "latitude": "36.60345",
+  "longitude": "126.54775"
+}
+]

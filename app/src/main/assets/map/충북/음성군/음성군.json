@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "혹시나도",
+  "phoneNumber": "043-883-3376",
+  "address": "충북 음성군 감곡면 왕장리 521-9번지 복권방",
+  "latitude": "37.119125",
+  "longitude": "127.639366"
+},
+{
+  "number": "2",
+  "storeName": "로또판매점",
+  "phoneNumber": "043-883-3043",
+  "address": "충북 음성군 대소면 태생리 533-1 비디오대여점",
+  "latitude": "36.966545",
+  "longitude": "127.49064"
+},
+{
+  "number": "3",
+  "storeName": "은성로또",
+  "phoneNumber": "043-881-3677",
+  "address": "충북 음성군 감곡면 왕장리 447-11번지 1층 낚시가게",
+  "latitude": "37.118305",
+  "longitude": "127.63549"
+},
+{
+  "number": "4",
+  "storeName": "로또명당금왕점",
+  "phoneNumber": "043-881-9010",
+  "address": "충북 음성군 금왕읍 무극리 669번지 세븐일레븐 금왕점",
+  "latitude": "36.990932",
+  "longitude": "127.586334"
+},
+{
+  "number": "5",
+  "storeName": "노다지복권방",
+  "phoneNumber": "043-883-1250",
+  "address": "충북 음성군 금왕읍 내곡리 100-7번지",
+  "latitude": "36.992653",
+  "longitude": "127.5975"
+},
+{
+  "number": "6",
+  "storeName": "한국대박복권방",
+  "phoneNumber": "043-873-0006",
+  "address": "충북 음성군 음성읍 읍내리 466-11번지",
+  "latitude": "36.93086",
+  "longitude": "127.68895"
+},
+{
+  "number": "7",
+  "storeName": "친절할인마트",
+  "phoneNumber": "043-883-2060",
+  "address": "충북 음성군 맹동면 쌍정리 97-7번지 친절할인마트 내",
+  "latitude": "36.927074",
+  "longitude": "127.56533"
+},
+{
+  "number": "8",
+  "storeName": "영로또",
+  "phoneNumber": "043-881-7909",
+  "address": "충북 음성군 대소면 오산리 114-30 GS25대소파크점",
+  "latitude": "36.968224",
+  "longitude": "127.483604"
+},
+{
+  "number": "9",
+  "storeName": "GS25대소개나리",
+  "phoneNumber": "043-881-2255",
+  "address": "충북 음성군 대소면 태생리 423-2 GS25대소개나리점",
+  "latitude": "36.971058",
+  "longitude": "127.48555"
+},
+{
+  "number": "10",
+  "storeName": "지호로또",
+  "phoneNumber": "",
+  "address": "충북 음성군 생극면 신양리 377-6 상진할인마트",
+  "latitude": "37.033047",
+  "longitude": "127.607796"
+},
+{
+  "number": "11",
+  "storeName": "복권로또",
+  "phoneNumber": "",
+  "address": "충북 음성군 음성읍 읍내리 632-6 나동 세븐일레븐 음성군청점",
+  "latitude": "36.939552",
+  "longitude": "127.689835"
+},
+{
+  "number": "12",
+  "storeName": "삼성복권마을",
+  "phoneNumber": "",
+  "address": "충북 음성군 삼성면 덕정리 526-13",
+  "latitude": "37.019203",
+  "longitude": "127.49792"
+},
+{
+  "number": "13",
+  "storeName": "혁신대박",
+  "phoneNumber": "",
+  "address": "충북 음성군 맹동면 동성리 489 103호(에스타워)",
+  "latitude": "36.907627",
+  "longitude": "127.541176"
+}
+]

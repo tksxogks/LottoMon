@@ -1,0 +1,466 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(가양2점)",
+  "phoneNumber": "02-3665-2995",
+  "address": "서울 강서구 가양동 1461번지 2단지상가1층106호",
+  "latitude": "37.57037",
+  "longitude": "126.84744"
+},
+{
+  "number": "2",
+  "storeName": "로또",
+  "phoneNumber": "070-4230-4658",
+  "address": "서울 강서구 마곡동 784-13 CU마곡아르디에점",
+  "latitude": "37.533188",
+  "longitude": "126.845535"
+},
+{
+  "number": "3",
+  "storeName": "명당",
+  "phoneNumber": "02-2605-5835",
+  "address": "서울 강서구 화곡동 339-23",
+  "latitude": "37.533897",
+  "longitude": "126.84648"
+},
+{
+  "number": "4",
+  "storeName": "대박로또",
+  "phoneNumber": "02-2604-0994",
+  "address": "서울 강서구 화곡동 343-66",
+  "latitude": "37.530685",
+  "longitude": "126.846565"
+},
+{
+  "number": "5",
+  "storeName": "공원수퍼",
+  "phoneNumber": "02-2696-3861",
+  "address": "서울 강서구 화곡동 372-95번지",
+  "latitude": "37.536526",
+  "longitude": "126.83502"
+},
+{
+  "number": "6",
+  "storeName": "대박복권마트",
+  "phoneNumber": "02-2606-0034",
+  "address": "서울 강서구 화곡동 111-67번지 1층 2호",
+  "latitude": "37.54553",
+  "longitude": "126.84442"
+},
+{
+  "number": "7",
+  "storeName": "공항로또",
+  "phoneNumber": "02-2664-6697",
+  "address": "서울 강서구 공항동 28-5번지 7호",
+  "latitude": "37.5615",
+  "longitude": "126.81149"
+},
+{
+  "number": "8",
+  "storeName": "하나로유통",
+  "phoneNumber": "02-2093-1995",
+  "address": "서울 강서구 염창동 240-21번지 우림블루나인쎈터상가 세븐일레븐내",
+  "latitude": "37.556904",
+  "longitude": "126.86429"
+},
+{
+  "number": "9",
+  "storeName": "만복가판",
+  "phoneNumber": "02-2695-9981",
+  "address": "서울 강서구 화곡동 109-45 화곡시장입구 가판",
+  "latitude": "37.54332",
+  "longitude": "126.84325"
+},
+{
+  "number": "10",
+  "storeName": "복권명당우장산역점",
+  "phoneNumber": "02-2663-2514",
+  "address": "서울 강서구 마곡동 772-8",
+  "latitude": "37.56062",
+  "longitude": "126.83316"
+},
+{
+  "number": "11",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-2662-4741",
+  "address": "서울 강서구 공항동 53-41번지 가판",
+  "latitude": "37.561104",
+  "longitude": "126.81027"
+},
+{
+  "number": "12",
+  "storeName": "만세로또",
+  "phoneNumber": "02-2601-8080",
+  "address": "서울 강서구 화곡동 848-23번지",
+  "latitude": "37.531452",
+  "longitude": "126.857376"
+},
+{
+  "number": "13",
+  "storeName": "잉크와복권",
+  "phoneNumber": "02-2695-8825",
+  "address": "서울 강서구 화곡동 354-88번지",
+  "latitude": "37.533047",
+  "longitude": "126.839615"
+},
+{
+  "number": "14",
+  "storeName": "노다지방",
+  "phoneNumber": "02-2607-2193",
+  "address": "서울 강서구 화곡동 898-1번지 화곡심포니타운105",
+  "latitude": "37.53032",
+  "longitude": "126.84716"
+},
+{
+  "number": "15",
+  "storeName": "까치복권방",
+  "phoneNumber": "02-2699-6014",
+  "address": "서울 강서구 화곡동 368-32",
+  "latitude": "37.537785",
+  "longitude": "126.839714"
+},
+{
+  "number": "16",
+  "storeName": "화곡본마트",
+  "phoneNumber": "02-2690-7282",
+  "address": "서울 강서구 화곡동 98-60번지",
+  "latitude": "37.542458",
+  "longitude": "126.84413"
+},
+{
+  "number": "17",
+  "storeName": "씨유 개화산역점",
+  "phoneNumber": "02-2663-7643",
+  "address": "서울 강서구 방화동 498-4번지",
+  "latitude": "37.572723",
+  "longitude": "126.80599"
+},
+{
+  "number": "18",
+  "storeName": "방화식품",
+  "phoneNumber": "02-2665-3315",
+  "address": "서울 강서구 방화동 562-23번지",
+  "latitude": "37.572968",
+  "longitude": "126.810104"
+},
+{
+  "number": "19",
+  "storeName": "새로나슈퍼",
+  "phoneNumber": "02-2696-8397",
+  "address": "서울 강서구 화곡동 904-10번지",
+  "latitude": "37.528713",
+  "longitude": "126.84771"
+},
+{
+  "number": "20",
+  "storeName": "진영슈퍼",
+  "phoneNumber": "02-2644-2346",
+  "address": "서울 강서구 등촌동 565-6번지",
+  "latitude": "37.537014",
+  "longitude": "126.86322"
+},
+{
+  "number": "21",
+  "storeName": "강서슈퍼",
+  "phoneNumber": "02-3661-4256",
+  "address": "서울 강서구 등촌동 646-32번지",
+  "latitude": "37.55294",
+  "longitude": "126.86349"
+},
+{
+  "number": "22",
+  "storeName": "금강식품",
+  "phoneNumber": "02-2608-9462",
+  "address": "서울 강서구 화곡동 1024-9번지",
+  "latitude": "37.544548",
+  "longitude": "126.8372"
+},
+{
+  "number": "23",
+  "storeName": "신영정보통신",
+  "phoneNumber": "02-2646-4016",
+  "address": "서울 강서구 화곡동 772-64번지 세영빌딩1층",
+  "latitude": "37.53547",
+  "longitude": "126.86318"
+},
+{
+  "number": "24",
+  "storeName": "그랑프리안경",
+  "phoneNumber": "02-2691-5479",
+  "address": "서울 강서구 화곡동 1007-2",
+  "latitude": "37.547825",
+  "longitude": "126.83538"
+},
+{
+  "number": "25",
+  "storeName": "아카데미안경",
+  "phoneNumber": "02-2695-3006",
+  "address": "서울 강서구 화곡동 1068-32번지",
+  "latitude": "37.540176",
+  "longitude": "126.8342"
+},
+{
+  "number": "26",
+  "storeName": "9TO5공항점",
+  "phoneNumber": "02-2666-0250",
+  "address": "서울 강서구 공항동 48-27번지",
+  "latitude": "37.562374",
+  "longitude": "126.80922"
+},
+{
+  "number": "27",
+  "storeName": "소리창고",
+  "phoneNumber": "02-3665-3021",
+  "address": "서울 강서구 내발산동 677-10번지",
+  "latitude": "37.55285",
+  "longitude": "126.83673"
+},
+{
+  "number": "28",
+  "storeName": "고마트",
+  "phoneNumber": "02-914-8080",
+  "address": "서울 강서구 방화동 607-214번지 102호",
+  "latitude": "37.566387",
+  "longitude": "126.812744"
+},
+{
+  "number": "29",
+  "storeName": "세븐일레븐강서화곡예스점",
+  "phoneNumber": "02-2693-3721",
+  "address": "서울 강서구 화곡동 29-52",
+  "latitude": "37.545944",
+  "longitude": "126.84747"
+},
+{
+  "number": "30",
+  "storeName": "편의점사랑",
+  "phoneNumber": "02-2602-8966",
+  "address": "서울 강서구 화곡동 341-1번지 1층",
+  "latitude": "37.533123",
+  "longitude": "126.848274"
+},
+{
+  "number": "31",
+  "storeName": "그린마트복권방",
+  "phoneNumber": "02-2608-1828",
+  "address": "서울 강서구 화곡동 98-49번지",
+  "latitude": "37.5432",
+  "longitude": "126.84463"
+},
+{
+  "number": "32",
+  "storeName": "복권천국",
+  "phoneNumber": "02-2666-1339",
+  "address": "서울 강서구 방화동 249-110번지",
+  "latitude": "37.56822",
+  "longitude": "126.81295"
+},
+{
+  "number": "33",
+  "storeName": "신명",
+  "phoneNumber": "02-2663-6500",
+  "address": "서울 강서구 방화동 620-192번지",
+  "latitude": "37.56241",
+  "longitude": "126.80845"
+},
+{
+  "number": "34",
+  "storeName": "아그네스",
+  "phoneNumber": "02-2662-2688",
+  "address": "서울 강서구 방화동 609-187번지 1층 4호",
+  "latitude": "37.564487",
+  "longitude": "126.811554"
+},
+{
+  "number": "35",
+  "storeName": "523마트",
+  "phoneNumber": "02-3662-7276",
+  "address": "서울 강서구 등촌동 633-7번지 1층",
+  "latitude": "37.554012",
+  "longitude": "126.86702"
+},
+{
+  "number": "36",
+  "storeName": "현대마트",
+  "phoneNumber": "02-2668-7687",
+  "address": "서울 강서구 염창동 283-12번지 103호",
+  "latitude": "37.547314",
+  "longitude": "126.87697"
+},
+{
+  "number": "37",
+  "storeName": "길부동산공인중개사사무소",
+  "phoneNumber": "02-2652-7080",
+  "address": "서울 강서구 등촌동 509-2번지",
+  "latitude": "37.548943",
+  "longitude": "126.86324"
+},
+{
+  "number": "38",
+  "storeName": "삼보복권",
+  "phoneNumber": "02-2607-8432",
+  "address": "서울 강서구 공항동 14-17",
+  "latitude": "37.548714",
+  "longitude": "126.85016"
+},
+{
+  "number": "39",
+  "storeName": "뚜레쥬르화곡역점",
+  "phoneNumber": "02-2693-0021",
+  "address": "서울 강서구 화곡동 1052-9번지",
+  "latitude": "37.542454",
+  "longitude": "126.83993"
+},
+{
+  "number": "40",
+  "storeName": "명당마트",
+  "phoneNumber": "02-6212-4665",
+  "address": "서울 강서구 방화동 571-48번지",
+  "latitude": "37.573563",
+  "longitude": "126.81403"
+},
+{
+  "number": "41",
+  "storeName": "강서대박로또판매",
+  "phoneNumber": "070-7715-9193",
+  "address": "서울 강서구 화곡동 1086-15",
+  "latitude": "37.559875",
+  "longitude": "126.84553"
+},
+{
+  "number": "42",
+  "storeName": "금솔로또",
+  "phoneNumber": "02-2662-0103",
+  "address": "서울 강서구 공항동 1359-9번지 CU공항단지점",
+  "latitude": "37.554688",
+  "longitude": "126.819115"
+},
+{
+  "number": "43",
+  "storeName": "로또방",
+  "phoneNumber": "02-2666-8856",
+  "address": "서울 강서구 방화동 618-14",
+  "latitude": "37.564095",
+  "longitude": "126.806725"
+},
+{
+  "number": "44",
+  "storeName": "미나식품(로또판매점)",
+  "phoneNumber": "02-2664-6793",
+  "address": "서울 강서구 방화동 484-23번지",
+  "latitude": "37.57347",
+  "longitude": "126.81067"
+},
+{
+  "number": "45",
+  "storeName": "복권마을",
+  "phoneNumber": "02-2604-6555",
+  "address": "서울 강서구 화곡동 1117-10번지",
+  "latitude": "37.552246",
+  "longitude": "126.85047"
+},
+{
+  "number": "46",
+  "storeName": "또와식품",
+  "phoneNumber": "02-3665-4377",
+  "address": "서울 강서구 염창동 264-8번지",
+  "latitude": "37.55007",
+  "longitude": "126.87284"
+},
+{
+  "number": "47",
+  "storeName": "강서스포츠",
+  "phoneNumber": "02-2693-8510",
+  "address": "서울 강서구 화곡동 987-6번지",
+  "latitude": "37.550484",
+  "longitude": "126.848175"
+},
+{
+  "number": "48",
+  "storeName": "신일",
+  "phoneNumber": "02-2699-1881",
+  "address": "서울 강서구 화곡동 1115-37번지",
+  "latitude": "37.55304",
+  "longitude": "126.85334"
+},
+{
+  "number": "49",
+  "storeName": "바우개복권",
+  "phoneNumber": "02-2698-4935",
+  "address": "서울 강서구 공항동 22-205",
+  "latitude": "37.53262",
+  "longitude": "126.84236"
+},
+{
+  "number": "50",
+  "storeName": "아비스",
+  "phoneNumber": "02-2642-5101",
+  "address": "서울 강서구 화곡제4동 799-10",
+  "latitude": "37.52808",
+  "longitude": "126.8403"
+},
+{
+  "number": "51",
+  "storeName": "오피스복권",
+  "phoneNumber": "",
+  "address": "서울 강서구 방화동 567-4",
+  "latitude": "37.560623",
+  "longitude": "126.83692"
+},
+{
+  "number": "52",
+  "storeName": "대림슈퍼복권방",
+  "phoneNumber": "",
+  "address": "서울 강서구 화곡동 370-55번지",
+  "latitude": "37.534946",
+  "longitude": "126.837875"
+},
+{
+  "number": "53",
+  "storeName": "주희",
+  "phoneNumber": "070-4143-4658",
+  "address": "서울 강서구 마곡동 793-4번지 CU편의점",
+  "latitude": "37.57649",
+  "longitude": "126.83075"
+},
+{
+  "number": "54",
+  "storeName": "행복나눔통신",
+  "phoneNumber": "02-3664-6473",
+  "address": "서울 강서구 가양동 155-8번지",
+  "latitude": "37.56883",
+  "longitude": "126.84112"
+},
+{
+  "number": "55",
+  "storeName": "씨유마곡푸르지오점로또",
+  "phoneNumber": "",
+  "address": "서울 강서구 마곡동 773-1 1층 122호",
+  "latitude": "37.560345",
+  "longitude": "126.82762"
+},
+{
+  "number": "56",
+  "storeName": "일등복권방",
+  "phoneNumber": "",
+  "address": "서울 강서구 화곡동 781-1",
+  "latitude": "37.53226",
+  "longitude": "126.86342"
+},
+{
+  "number": "57",
+  "storeName": "로또복권",
+  "phoneNumber": "02-2664-1223",
+  "address": "서울 강서구 마곡동 739-2 우성르보와 2차 1층 세븐일레븐 편의점",
+  "latitude": "37.567173",
+  "longitude": "126.81778"
+},
+{
+  "number": "58",
+  "storeName": "레피드복권",
+  "phoneNumber": "",
+  "address": "서울 강서구 방화제2동 580-11",
+  "latitude": "37.570034",
+  "longitude": "126.8126"
+}
+]

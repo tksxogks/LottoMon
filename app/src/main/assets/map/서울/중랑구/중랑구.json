@@ -1,0 +1,426 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(면목한신점)",
+  "phoneNumber": "02-436-6480",
+  "address": "서울 중랑구 면목동 178-30",
+  "latitude": "37.588352",
+  "longitude": "127.07675"
+},
+{
+  "number": "2",
+  "storeName": "GS25(상봉동부점)",
+  "phoneNumber": "02-438-2722",
+  "address": "서울 중랑구 상봉동 129-65번지",
+  "latitude": "37.59325",
+  "longitude": "127.0767"
+},
+{
+  "number": "3",
+  "storeName": "CU(망우점)",
+  "phoneNumber": "02-436-4475",
+  "address": "서울 중랑구 망우동 470-10번지",
+  "latitude": "37.59896",
+  "longitude": "127.09759"
+},
+{
+  "number": "4",
+  "storeName": "대부",
+  "phoneNumber": "02-2207-8899",
+  "address": "서울 중랑구 묵동 181-61 1층",
+  "latitude": "37.606422",
+  "longitude": "127.078835"
+},
+{
+  "number": "5",
+  "storeName": "다연마트",
+  "phoneNumber": "02-435-0087",
+  "address": "서울 중랑구 면목동 150-4번지",
+  "latitude": "37.586727",
+  "longitude": "127.08133"
+},
+{
+  "number": "6",
+  "storeName": "골드복권방(웨이스탑면목점)",
+  "phoneNumber": "",
+  "address": "서울 중랑구 면목동 126-4 1층",
+  "latitude": "37.589817",
+  "longitude": "127.08699"
+},
+{
+  "number": "7",
+  "storeName": "축복마트",
+  "phoneNumber": "02-437-1813",
+  "address": "서울 중랑구 면목동 151-7",
+  "latitude": "37.585415",
+  "longitude": "127.08007"
+},
+{
+  "number": "8",
+  "storeName": "용꿈복권",
+  "phoneNumber": "",
+  "address": "서울 중랑구 망우동 461-6번지 1층",
+  "latitude": "37.596016",
+  "longitude": "127.09871"
+},
+{
+  "number": "9",
+  "storeName": "일등복권방",
+  "phoneNumber": "02-3421-7100",
+  "address": "서울 중랑구 신내동 646번지 금강리빙스텔149호",
+  "latitude": "37.616394",
+  "longitude": "127.092606"
+},
+{
+  "number": "10",
+  "storeName": "일등나라",
+  "phoneNumber": "",
+  "address": "서울 중랑구 중화동 283-11 현대블루핸즈 중화점 옆",
+  "latitude": "37.604256",
+  "longitude": "127.07708"
+},
+{
+  "number": "11",
+  "storeName": "로뎀로또",
+  "phoneNumber": "02-493-5120",
+  "address": "서울 중랑구 상봉동 261-12번지 1층 K마트내",
+  "latitude": "37.60078",
+  "longitude": "127.08761"
+},
+{
+  "number": "12",
+  "storeName": "인생역전복권방",
+  "phoneNumber": "",
+  "address": "서울 중랑구 묵동 308-1번지 1층",
+  "latitude": "37.61573",
+  "longitude": "127.07924"
+},
+{
+  "number": "13",
+  "storeName": "그린수퍼",
+  "phoneNumber": "02-491-3502",
+  "address": "서울 중랑구 중화동 291-40 1층",
+  "latitude": "37.59983",
+  "longitude": "127.08246"
+},
+{
+  "number": "14",
+  "storeName": "신안할인마트",
+  "phoneNumber": "02-949-7418",
+  "address": "서울 중랑구 묵동 382번지 신안2차아파트상가101",
+  "latitude": "37.614086",
+  "longitude": "127.079926"
+},
+{
+  "number": "15",
+  "storeName": "묵동식품",
+  "phoneNumber": "02-979-3157",
+  "address": "서울 중랑구 묵동 238-11번지",
+  "latitude": "37.61243",
+  "longitude": "127.07705"
+},
+{
+  "number": "16",
+  "storeName": "대박드림복권",
+  "phoneNumber": "02-435-9340",
+  "address": "서울 중랑구 중화동 208-33번지 동양엔파트131호",
+  "latitude": "37.59392",
+  "longitude": "127.07493"
+},
+{
+  "number": "17",
+  "storeName": "부안식품",
+  "phoneNumber": "02-496-4407",
+  "address": "서울 중랑구 면목동 133-23번지",
+  "latitude": "37.591846",
+  "longitude": "127.083916"
+},
+{
+  "number": "18",
+  "storeName": "우정상회",
+  "phoneNumber": "02-437-8509",
+  "address": "서울 중랑구 망우동 486-3번지",
+  "latitude": "37.599453",
+  "longitude": "127.099724"
+},
+{
+  "number": "19",
+  "storeName": "부영마트",
+  "phoneNumber": "02-434-1747",
+  "address": "서울 중랑구 상봉동 108번지",
+  "latitude": "37.594353",
+  "longitude": "127.085686"
+},
+{
+  "number": "20",
+  "storeName": "현대슈퍼",
+  "phoneNumber": "02-494-8759",
+  "address": "서울 중랑구 망우동 514-80번지",
+  "latitude": "37.59475",
+  "longitude": "127.09529"
+},
+{
+  "number": "21",
+  "storeName": "무지개슈퍼",
+  "phoneNumber": "02-979-3901",
+  "address": "서울 중랑구 묵동 250-17번지 우성아파트상가2-108",
+  "latitude": "37.60633",
+  "longitude": "127.07762"
+},
+{
+  "number": "22",
+  "storeName": "노다지로또",
+  "phoneNumber": "02-434-3020",
+  "address": "서울 중랑구 면목동 74-35번지",
+  "latitude": "37.58943",
+  "longitude": "127.091774"
+},
+{
+  "number": "23",
+  "storeName": "트윙클용마점",
+  "phoneNumber": "02-432-4172",
+  "address": "서울 중랑구 망우동 410-1번지 상아빌딩1층",
+  "latitude": "37.59501",
+  "longitude": "127.100235"
+},
+{
+  "number": "24",
+  "storeName": "열린문구",
+  "phoneNumber": "02-434-4166",
+  "address": "서울 중랑구 신내동 492-24",
+  "latitude": "37.60063",
+  "longitude": "127.09987"
+},
+{
+  "number": "25",
+  "storeName": "리더스",
+  "phoneNumber": "02-3423-2288",
+  "address": "서울 중랑구 신내동 666 신아타운105",
+  "latitude": "37.606407",
+  "longitude": "127.09468"
+},
+{
+  "number": "26",
+  "storeName": "태원정보통신",
+  "phoneNumber": "02-435-2744",
+  "address": "서울 중랑구 상봉동 88-75번지",
+  "latitude": "37.595398",
+  "longitude": "127.08966"
+},
+{
+  "number": "27",
+  "storeName": "행운나라",
+  "phoneNumber": "02-493-2232",
+  "address": "서울 중랑구 면목동 89-2번지",
+  "latitude": "37.59382",
+  "longitude": "127.09255"
+},
+{
+  "number": "28",
+  "storeName": "갈렙분식한식",
+  "phoneNumber": "02-436-6614",
+  "address": "서울 중랑구 망우동 490-13번지",
+  "latitude": "37.59816",
+  "longitude": "127.095276"
+},
+{
+  "number": "29",
+  "storeName": "우진음악사",
+  "phoneNumber": "02-491-2674",
+  "address": "서울 중랑구 면목동 87-8번지",
+  "latitude": "37.59047",
+  "longitude": "127.09332"
+},
+{
+  "number": "30",
+  "storeName": "왕자사진관",
+  "phoneNumber": "02-493-6722",
+  "address": "서울 중랑구 망우동 128-4번지 일흥빌딩1층1,2호",
+  "latitude": "37.600796",
+  "longitude": "127.10861"
+},
+{
+  "number": "31",
+  "storeName": "예스로또",
+  "phoneNumber": "02-439-2267",
+  "address": "서울 중랑구 면목동 349-29번지",
+  "latitude": "37.575977",
+  "longitude": "127.08275"
+},
+{
+  "number": "32",
+  "storeName": "테크노",
+  "phoneNumber": "",
+  "address": "서울 중랑구 면목동 175-3",
+  "latitude": "37.596745",
+  "longitude": "127.075485"
+},
+{
+  "number": "33",
+  "storeName": "대박찬스",
+  "phoneNumber": "",
+  "address": "서울 중랑구 면목동 103-7번지",
+  "latitude": "37.589344",
+  "longitude": "127.08977"
+},
+{
+  "number": "34",
+  "storeName": "아이센스복권방",
+  "phoneNumber": "02-436-6473",
+  "address": "서울 중랑구 중화동 320-140번지",
+  "latitude": "37.595642",
+  "longitude": "127.07597"
+},
+{
+  "number": "35",
+  "storeName": "수연식품(대박찬스)",
+  "phoneNumber": "02-492-2476",
+  "address": "서울 중랑구 면목동 458-120번지",
+  "latitude": "37.582253",
+  "longitude": "127.08938"
+},
+{
+  "number": "36",
+  "storeName": "부자랑복권방",
+  "phoneNumber": "02-494-3432",
+  "address": "서울 중랑구 면목동 607-6번지",
+  "latitude": "37.581482",
+  "longitude": "127.08103"
+},
+{
+  "number": "37",
+  "storeName": "갤러리마트",
+  "phoneNumber": "02-492-8251",
+  "address": "서울 중랑구 면목동 604-5번지",
+  "latitude": "37.580887",
+  "longitude": "127.08772"
+},
+{
+  "number": "38",
+  "storeName": "은혜",
+  "phoneNumber": "02-492-7153",
+  "address": "서울 중랑구 상봉동 112-51번지",
+  "latitude": "37.594044",
+  "longitude": "127.08341"
+},
+{
+  "number": "39",
+  "storeName": "복권명당",
+  "phoneNumber": "02-434-2446",
+  "address": "서울 중랑구 면목동 413-3번지 1층",
+  "latitude": "37.58419",
+  "longitude": "127.08859"
+},
+{
+  "number": "40",
+  "storeName": "오성마트",
+  "phoneNumber": "",
+  "address": "서울 중랑구 망우동 184-31번지",
+  "latitude": "37.599564",
+  "longitude": "127.10376"
+},
+{
+  "number": "41",
+  "storeName": "복권",
+  "phoneNumber": "070-8849-8958",
+  "address": "서울 중랑구 상봉동 136-50번지 105호",
+  "latitude": "37.5927",
+  "longitude": "127.07426"
+},
+{
+  "number": "42",
+  "storeName": "복권나라",
+  "phoneNumber": "02-495-4263",
+  "address": "서울 중랑구 중화동 312-1번지",
+  "latitude": "37.6014",
+  "longitude": "127.077545"
+},
+{
+  "number": "43",
+  "storeName": "서울복권방",
+  "phoneNumber": "02-438-8412",
+  "address": "서울 중랑구 중화동 305-17번지",
+  "latitude": "37.602562",
+  "longitude": "127.0789"
+},
+{
+  "number": "44",
+  "storeName": "할인마트부흥점",
+  "phoneNumber": "02-491-3368",
+  "address": "서울 중랑구 면목동 142-43번지",
+  "latitude": "37.590042",
+  "longitude": "127.08201"
+},
+{
+  "number": "45",
+  "storeName": "면목세븐복권",
+  "phoneNumber": "02-495-1258",
+  "address": "서울 중랑구 면목동 14-45 1층",
+  "latitude": "37.588997",
+  "longitude": "127.097496"
+},
+{
+  "number": "46",
+  "storeName": "로또방",
+  "phoneNumber": "",
+  "address": "서울 중랑구 면목동 119-19",
+  "latitude": "37.587948",
+  "longitude": "127.082886"
+},
+{
+  "number": "47",
+  "storeName": "장보고복권방",
+  "phoneNumber": "02-2208-0911",
+  "address": "서울 중랑구 면목동 627-16번지",
+  "latitude": "37.578342",
+  "longitude": "127.08621"
+},
+{
+  "number": "48",
+  "storeName": "로또코리아",
+  "phoneNumber": "02-437-2957",
+  "address": "서울 중랑구 면목동 131-6번지",
+  "latitude": "37.592003",
+  "longitude": "127.08595"
+},
+{
+  "number": "49",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-436-0824",
+  "address": "서울 중랑구 상봉동 130 가로판매대",
+  "latitude": "37.59287",
+  "longitude": "127.07622"
+},
+{
+  "number": "50",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-438-2334",
+  "address": "서울 중랑구 면목동 183-24 1층",
+  "latitude": "37.590782",
+  "longitude": "127.07786"
+},
+{
+  "number": "51",
+  "storeName": "로또복권",
+  "phoneNumber": "",
+  "address": "서울 중랑구 면목동 68-2 105호",
+  "latitude": "37.586433",
+  "longitude": "127.09438"
+},
+{
+  "number": "52",
+  "storeName": "GS25(용마산역점)",
+  "phoneNumber": "02-494-2924",
+  "address": "서울 중랑구 면목동 372-20번지",
+  "latitude": "37.57511",
+  "longitude": "127.08524"
+},
+{
+  "number": "53",
+  "storeName": "CU(중랑우림점)",
+  "phoneNumber": "02-432-3036",
+  "address": "서울 중랑구 망우동 458-3번지",
+  "latitude": "37.595272",
+  "longitude": "127.09936"
+}
+]

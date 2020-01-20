@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "홍천대명로또",
+  "phoneNumber": "033-433-8899",
+  "address": "강원 홍천군 홍천읍 진리 16-13 1층 세방마트",
+  "latitude": "37.69313",
+  "longitude": "127.89307"
+},
+{
+  "number": "2",
+  "storeName": "홍천비발디로또",
+  "phoneNumber": "033-435-0355",
+  "address": "강원 홍천군 서면 대곡리 544 1층",
+  "latitude": "37.6276",
+  "longitude": "127.64916"
+},
+{
+  "number": "3",
+  "storeName": "복권나라",
+  "phoneNumber": "033-435-7209",
+  "address": "강원 홍천군 홍천읍 신장대리 78-15 1층",
+  "latitude": "37.6908",
+  "longitude": "127.88291"
+},
+{
+  "number": "4",
+  "storeName": "남산로또복권방",
+  "phoneNumber": "033-433-6045",
+  "address": "강원 홍천군 홍천읍 연봉리 469-1 1층",
+  "latitude": "37.681618",
+  "longitude": "127.87561"
+},
+{
+  "number": "5",
+  "storeName": "연봉로또",
+  "phoneNumber": "033-432-0015",
+  "address": "강원 홍천군 홍천읍 연봉리 452-5 1층",
+  "latitude": "37.68585",
+  "longitude": "127.872925"
+},
+{
+  "number": "6",
+  "storeName": "복권마트",
+  "phoneNumber": "033-432-7440",
+  "address": "강원 홍천군 홍천읍 진리 83-2 1층",
+  "latitude": "37.69023",
+  "longitude": "127.88953"
+},
+{
+  "number": "7",
+  "storeName": "너브내로또",
+  "phoneNumber": "033-432-1182",
+  "address": "강원 홍천군 홍천읍 희망리 324-38 1층",
+  "latitude": "37.69046",
+  "longitude": "127.881966"
+}
+]

@@ -1,0 +1,304 @@
+{
+  "number": "1",
+  "storeName": "푸른마트",
+  "phoneNumber": "031-454-8890",
+  "address": "경기 군포시 금정동 726-7 1층상가",
+  "latitude": "37.365097",
+  "longitude": "126.94032"
+},
+{
+  "number": "2",
+  "storeName": "산본전기",
+  "phoneNumber": "031-391-1787",
+  "address": "경기 군포시 금정동 873-1 현대프라자105호",
+  "latitude": "37.358055",
+  "longitude": "126.93425"
+},
+{
+  "number": "3",
+  "storeName": "신정로또복권방",
+  "phoneNumber": "031-460-2166",
+  "address": "경기 군포시 부곡동 451번지 한국복합물류1층106호",
+  "latitude": "37.330853",
+  "longitude": "126.93751"
+},
+{
+  "number": "4",
+  "storeName": "복권방",
+  "phoneNumber": "031-458-4959",
+  "address": "경기 군포시 당동 771-15",
+  "latitude": "37.35091",
+  "longitude": "126.9437"
+},
+{
+  "number": "5",
+  "storeName": "올웨이즈",
+  "phoneNumber": "031-393-5440",
+  "address": "경기 군포시 산본동 1097-1 사이버텔109호",
+  "latitude": "37.364094",
+  "longitude": "126.93057"
+},
+{
+  "number": "6",
+  "storeName": "24시슈퍼",
+  "phoneNumber": "031-396-0720",
+  "address": "경기 군포시 산본동 1142-5 금화프라자102호",
+  "latitude": "37.358273",
+  "longitude": "126.932274"
+},
+{
+  "number": "7",
+  "storeName": "코사마트",
+  "phoneNumber": "031-396-8060",
+  "address": "경기 군포시 산본동 1146-7 1층101호",
+  "latitude": "37.359776",
+  "longitude": "126.92719"
+},
+{
+  "number": "8",
+  "storeName": "CU(군포당동점)",
+  "phoneNumber": "031-429-5451",
+  "address": "경기 군포시 당동 752-14 1층 CU편의점",
+  "latitude": "37.353207",
+  "longitude": "126.94525"
+},
+{
+  "number": "9",
+  "storeName": "CU(군포덕산점)",
+  "phoneNumber": "031-399-3949",
+  "address": "경기 군포시 당동 902번지 덕산아파트상가1층",
+  "latitude": "37.34886",
+  "longitude": "126.94522"
+},
+{
+  "number": "10",
+  "storeName": "GS25(금정역점)",
+  "phoneNumber": "031-391-2524",
+  "address": "경기 군포시 산본동 266-4",
+  "latitude": "37.371548",
+  "longitude": "126.94289"
+},
+{
+  "number": "11",
+  "storeName": "GS25(군포당정본)",
+  "phoneNumber": "031-452-0955",
+  "address": "경기 군포시 당정동 417-3",
+  "latitude": "37.322186",
+  "longitude": "126.94422"
+},
+{
+  "number": "12",
+  "storeName": "훈이슈퍼",
+  "phoneNumber": "031-391-1174",
+  "address": "경기 군포시 산본동 1052-2 주공아파트상가108호,113호",
+  "latitude": "37.36517",
+  "longitude": "126.93367"
+},
+{
+  "number": "13",
+  "storeName": "아이지에이(산본시장점)",
+  "phoneNumber": "",
+  "address": "경기 군포시 산본동 91-6 1층",
+  "latitude": "37.370758",
+  "longitude": "126.93988"
+},
+{
+  "number": "14",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "경기 군포시 대야미동 664-2",
+  "latitude": "37.326397",
+  "longitude": "126.91904"
+},
+{
+  "number": "15",
+  "storeName": "365복권잔치",
+  "phoneNumber": "031-427-4496",
+  "address": "경기 군포시 당정동 522 sk 벤티움 101동 217호",
+  "latitude": "37.348946",
+  "longitude": "126.952675"
+},
+{
+  "number": "16",
+  "storeName": "푸른마트",
+  "phoneNumber": "031-454-8890",
+  "address": "경기 군포시 금정동 726-7 1층상가",
+  "latitude": "37.365097",
+  "longitude": "126.94032"
+},
+{
+  "number": "17",
+  "storeName": "산본전기",
+  "phoneNumber": "031-391-1787",
+  "address": "경기 군포시 금정동 873-1 현대프라자105호",
+  "latitude": "37.358055",
+  "longitude": "126.93425"
+},
+{
+  "number": "18",
+  "storeName": "신정로또복권방",
+  "phoneNumber": "031-460-2166",
+  "address": "경기 군포시 부곡동 451번지 한국복합물류1층106호",
+  "latitude": "37.330853",
+  "longitude": "126.93751"
+},
+{
+  "number": "19",
+  "storeName": "복권방",
+  "phoneNumber": "031-458-4959",
+  "address": "경기 군포시 당동 771-15",
+  "latitude": "37.35091",
+  "longitude": "126.9437"
+},
+{
+  "number": "20",
+  "storeName": "올웨이즈",
+  "phoneNumber": "031-393-5440",
+  "address": "경기 군포시 산본동 1097-1 사이버텔109호",
+  "latitude": "37.364094",
+  "longitude": "126.93057"
+},
+{
+  "number": "21",
+  "storeName": "24시슈퍼",
+  "phoneNumber": "031-396-0720",
+  "address": "경기 군포시 산본동 1142-5 금화프라자102호",
+  "latitude": "37.358273",
+  "longitude": "126.932274"
+},
+{
+  "number": "22",
+  "storeName": "코사마트",
+  "phoneNumber": "031-396-8060",
+  "address": "경기 군포시 산본동 1146-7 1층101호",
+  "latitude": "37.359776",
+  "longitude": "126.92719"
+},
+{
+  "number": "23",
+  "storeName": "CU(군포당동점)",
+  "phoneNumber": "031-429-5451",
+  "address": "경기 군포시 당동 752-14 1층 CU편의점",
+  "latitude": "37.353207",
+  "longitude": "126.94525"
+},
+{
+  "number": "24",
+  "storeName": "CU(군포덕산점)",
+  "phoneNumber": "031-399-3949",
+  "address": "경기 군포시 당동 902번지 덕산아파트상가1층",
+  "latitude": "37.34886",
+  "longitude": "126.94522"
+},
+{
+  "number": "25",
+  "storeName": "GS25(금정역점)",
+  "phoneNumber": "031-391-2524",
+  "address": "경기 군포시 산본동 266-4",
+  "latitude": "37.371548",
+  "longitude": "126.94289"
+},
+{
+  "number": "26",
+  "storeName": "GS25(군포당정본)",
+  "phoneNumber": "031-452-0955",
+  "address": "경기 군포시 당정동 417-3",
+  "latitude": "37.322186",
+  "longitude": "126.94422"
+},
+{
+  "number": "27",
+  "storeName": "훈이슈퍼",
+  "phoneNumber": "031-391-1174",
+  "address": "경기 군포시 산본동 1052-2 주공아파트상가108호,113호",
+  "latitude": "37.36517",
+  "longitude": "126.93367"
+},
+{
+  "number": "28",
+  "storeName": "아이지에이(산본시장점)",
+  "phoneNumber": "",
+  "address": "경기 군포시 산본동 91-6 1층",
+  "latitude": "37.370758",
+  "longitude": "126.93988"
+},
+{
+  "number": "29",
+  "storeName": "행운복권",
+  "phoneNumber": "",
+  "address": "경기 군포시 대야미동 664-2",
+  "latitude": "37.326397",
+  "longitude": "126.91904"
+},
+{
+  "number": "30",
+  "storeName": "365복권잔치",
+  "phoneNumber": "031-427-4496",
+  "address": "경기 군포시 당정동 522 sk 벤티움 101동 217호",
+  "latitude": "37.348946",
+  "longitude": "126.952675"
+},
+{
+  "number": "31",
+  "storeName": "부곡복권방",
+  "phoneNumber": "",
+  "address": "경기 군포시 부곡동 1249-5 102호",
+  "latitude": "37.325886",
+  "longitude": "126.94134"
+},
+{
+  "number": "32",
+  "storeName": "행복드림복권",
+  "phoneNumber": "031-393-1816",
+  "address": "경기 군포시 산본동 1240 3105호 세븐일레븐",
+  "latitude": "37.368122",
+  "longitude": "126.93794"
+},
+{
+  "number": "33",
+  "storeName": "GS25(산본우정점)",
+  "phoneNumber": "031-399-3667",
+  "address": "경기 군포시 산본동 1138번지 우정빌딩1층101호",
+  "latitude": "37.35961",
+  "longitude": "126.93086"
+},
+{
+  "number": "34",
+  "storeName": "새희망로또",
+  "phoneNumber": "031-429-6804",
+  "address": "경기 군포시 산본동 74-37 1층",
+  "latitude": "37.37515",
+  "longitude": "126.939606"
+},
+{
+  "number": "35",
+  "storeName": "대박로또",
+  "phoneNumber": "031-398-2629",
+  "address": "경기 군포시 금정동 41-10 1층",
+  "latitude": "37.369373",
+  "longitude": "126.94311"
+},
+{
+  "number": "36",
+  "storeName": "제이티",
+  "phoneNumber": "",
+  "address": "경기 군포시 수리동 1151-5 121호",
+  "latitude": "37.35786",
+  "longitude": "126.92367"
+},
+{
+  "number": "37",
+  "storeName": "보민로또",
+  "phoneNumber": "",
+  "address": "경기 군포시 금정동 769-8 1층 중간",
+  "latitude": "37.362835",
+  "longitude": "126.94512"
+},
+{
+  "number": "38",
+  "storeName": "명당복권",
+  "phoneNumber": "",
+  "address": "경기 군포시 산본1동 97-43 103호",
+  "latitude": "37.37315",
+  "longitude": "126.94218"
+},

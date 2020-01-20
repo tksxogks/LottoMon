@@ -1,0 +1,106 @@
+[
+{
+  "number": "1",
+  "storeName": "사천큰마트",
+  "phoneNumber": "055-852-8552",
+  "address": "경남 사천시 사천읍 평화리 156-13번지",
+  "latitude": "35.083046",
+  "longitude": "128.08705"
+},
+{
+  "number": "2",
+  "storeName": "CU(사천평화점)",
+  "phoneNumber": "055-855-0015",
+  "address": "경남 사천시 사천읍 평화리 134번지",
+  "latitude": "35.081745",
+  "longitude": "128.09029"
+},
+{
+  "number": "3",
+  "storeName": "신우운동구",
+  "phoneNumber": "055-852-2233",
+  "address": "경남 사천시 사천읍 평화리 231-13번지",
+  "latitude": "35.08377",
+  "longitude": "128.08792"
+},
+{
+  "number": "4",
+  "storeName": "청양로또",
+  "phoneNumber": "055-832-0301",
+  "address": "경남 사천시 향촌동 996-7번지 청양주유소내",
+  "latitude": "34.931263",
+  "longitude": "128.09013"
+},
+{
+  "number": "5",
+  "storeName": "홍익명당",
+  "phoneNumber": "",
+  "address": "경남 사천시 정동면 고읍리 602-2 좌측 복권방",
+  "latitude": "35.074818",
+  "longitude": "128.08354"
+},
+{
+  "number": "6",
+  "storeName": "목화휴게소",
+  "phoneNumber": "055-835-2780",
+  "address": "경남 사천시 용현면 주문리 4",
+  "latitude": "35.001953",
+  "longitude": "128.05418"
+},
+{
+  "number": "7",
+  "storeName": "돈방석(로또)",
+  "phoneNumber": "",
+  "address": "경남 사천시 사남면 월성리 9-4번지 이마트24편의점",
+  "latitude": "35.068924",
+  "longitude": "128.07498"
+},
+{
+  "number": "8",
+  "storeName": "복권방",
+  "phoneNumber": "055-832-8210",
+  "address": "경남 사천시 선구동 58-56번지",
+  "latitude": "34.928432",
+  "longitude": "128.0732"
+},
+{
+  "number": "9",
+  "storeName": "억만금로또복권",
+  "phoneNumber": "055-852-6657",
+  "address": "경남 사천시 사남면 월성리 451 상가 112호 푸르지오마트 내",
+  "latitude": "35.059925",
+  "longitude": "128.06404"
+},
+{
+  "number": "10",
+  "storeName": "CU(삼천포점)",
+  "phoneNumber": "055-833-2270",
+  "address": "경남 사천시 벌리동 258-4번지",
+  "latitude": "34.94023",
+  "longitude": "128.08676"
+},
+{
+  "number": "11",
+  "storeName": "취미의집",
+  "phoneNumber": "055-852-0104",
+  "address": "경남 사천시 사천읍 수석리 254-12번지",
+  "latitude": "35.08415",
+  "longitude": "128.08575"
+},
+{
+  "number": "12",
+  "storeName": "행복복권판매점",
+  "phoneNumber": "055-854-5989",
+  "address": "경남 사천시 사남면 죽천리 16-12 GS25편의점 내",
+  "latitude": "35.053158",
+  "longitude": "128.07489"
+},
+{
+  "number": "13",
+  "storeName": "로또 닭갈비",
+  "phoneNumber": "",
+  "address": "경남 사천시 사천읍 사주리 1-4",
+  "latitude": "35.07834",
+  "longitude": "128.0856"
+}
+]

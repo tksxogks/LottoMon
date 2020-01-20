@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "터미널 로또",
+  "phoneNumber": "061-863-8906",
+  "address": "전남 장흥군 장흥읍 건산리 384-16 세븐일레븐 내",
+  "latitude": "34.678005",
+  "longitude": "126.90663"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "061-867-2653",
+  "address": "전남 장흥군 관산읍 옥당리 453-13번지",
+  "latitude": "34.562687",
+  "longitude": "126.9379"
+},
+{
+  "number": "3",
+  "storeName": "토토복권장흥점",
+  "phoneNumber": "061-864-5325",
+  "address": "전남 장흥군 장흥읍 건산리 720-13번지",
+  "latitude": "34.680546",
+  "longitude": "126.906815"
+},
+{
+  "number": "4",
+  "storeName": "강변마트",
+  "phoneNumber": "061-864-5777",
+  "address": "전남 장흥군 장흥읍 예양리 121-153",
+  "latitude": "34.672874",
+  "longitude": "126.90194"
+}
+]

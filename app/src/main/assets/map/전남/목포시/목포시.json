@@ -1,0 +1,402 @@
+[
+{
+  "number": "1",
+  "storeName": "하당마크사로또",
+  "phoneNumber": "061-283-7374",
+  "address": "전남 목포시 옥암동 990-5 외 1필지",
+  "latitude": "34.806313",
+  "longitude": "126.42769"
+},
+{
+  "number": "2",
+  "storeName": "고속로또",
+  "phoneNumber": "061-245-0225",
+  "address": "전남 목포시 명륜동 6-5번지 약국 내",
+  "latitude": "34.791157",
+  "longitude": "126.38567"
+},
+{
+  "number": "3",
+  "storeName": "대동",
+  "phoneNumber": "061-242-5224",
+  "address": "전남 목포시 산정동 1346-7번지 코사마트",
+  "latitude": "34.788513",
+  "longitude": "126.39759"
+},
+{
+  "number": "4",
+  "storeName": "가자복권천국",
+  "phoneNumber": "061-282-3320",
+  "address": "전남 목포시 상동 878-4번지",
+  "latitude": "34.80348",
+  "longitude": "126.425804"
+},
+{
+  "number": "5",
+  "storeName": "알리바이하당점",
+  "phoneNumber": "061-284-1282",
+  "address": "전남 목포시 상동 1층 알리바이 내",
+  "latitude": "34.80143",
+  "longitude": "126.42253"
+},
+{
+  "number": "6",
+  "storeName": "알리바이부영점",
+  "phoneNumber": "061-284-7141",
+  "address": "전남 목포시 옥암동 1007-5번지 알리바이",
+  "latitude": "34.804543",
+  "longitude": "126.431816"
+},
+{
+  "number": "7",
+  "storeName": "로또존",
+  "phoneNumber": "061-244-8881",
+  "address": "전남 목포시 수강동2가 1번지 행운마트",
+  "latitude": "34.786465",
+  "longitude": "126.38491"
+},
+{
+  "number": "8",
+  "storeName": "복권세상",
+  "phoneNumber": "061-276-2937",
+  "address": "전남 목포시 용당동 960-108번지 복권세상",
+  "latitude": "34.80379",
+  "longitude": "126.39559"
+},
+{
+  "number": "9",
+  "storeName": "훼미리마트 석현점",
+  "phoneNumber": "061-285-0789",
+  "address": "전남 목포시 석현동 1170-23 스타펠리스상가 102동 102호",
+  "latitude": "34.816082",
+  "longitude": "126.4232"
+},
+{
+  "number": "10",
+  "storeName": "이삭",
+  "phoneNumber": "061-287-4545",
+  "address": "전남 목포시 옥암동 1274-3번지 남악프라자A동103호",
+  "latitude": "34.8099",
+  "longitude": "126.45525"
+},
+{
+  "number": "11",
+  "storeName": "코사마트정훈점",
+  "phoneNumber": "061-274-3595",
+  "address": "전남 목포시 용당동 960-184번지 정훈마트",
+  "latitude": "34.80287",
+  "longitude": "126.39384"
+},
+{
+  "number": "12",
+  "storeName": "횃불복권",
+  "phoneNumber": "061-284-5211",
+  "address": "전남 목포시 옥암동 1096 우미아파트상가106호",
+  "latitude": "34.800323",
+  "longitude": "126.43582"
+},
+{
+  "number": "13",
+  "storeName": "신안비치아파트3차슈퍼",
+  "phoneNumber": "070-8868-2665",
+  "address": "전남 목포시 산정동 1259-3번지",
+  "latitude": "34.8062",
+  "longitude": "126.36767"
+},
+{
+  "number": "14",
+  "storeName": "신신마트편의점",
+  "phoneNumber": "061-276-9350",
+  "address": "전남 목포시 산정동 178-88번지 신신마트",
+  "latitude": "34.804546",
+  "longitude": "126.384995"
+},
+{
+  "number": "15",
+  "storeName": "삼호복권",
+  "phoneNumber": "061-276-2787",
+  "address": "전남 목포시 용당동 1110-14 1층",
+  "latitude": "34.804504",
+  "longitude": "126.39857"
+},
+{
+  "number": "16",
+  "storeName": "황금열쇠금고",
+  "phoneNumber": "061-243-9988",
+  "address": "전남 목포시 호남동 453번지",
+  "latitude": "34.794537",
+  "longitude": "126.386856"
+},
+{
+  "number": "17",
+  "storeName": "열린서점",
+  "phoneNumber": "061-281-0864",
+  "address": "전남 목포시 상동 823-6번지 열린서점",
+  "latitude": "34.804585",
+  "longitude": "126.41834"
+},
+{
+  "number": "18",
+  "storeName": "대박복권방",
+  "phoneNumber": "061-277-5423",
+  "address": "전남 목포시 산정동 1779-8번지 대박복권방",
+  "latitude": "34.804974",
+  "longitude": "126.37581"
+},
+{
+  "number": "19",
+  "storeName": "한솔복권방",
+  "phoneNumber": "061-244-4118",
+  "address": "전남 목포시 남교동 34-1번지 한솔복권방",
+  "latitude": "34.794003",
+  "longitude": "126.38017"
+},
+{
+  "number": "20",
+  "storeName": "굿데이복권방",
+  "phoneNumber": "061-287-6606",
+  "address": "전남 목포시 상동 849-13번지 CU편의점",
+  "latitude": "34.807186",
+  "longitude": "126.42322"
+},
+{
+  "number": "21",
+  "storeName": "대박복권나라",
+  "phoneNumber": "061-243-6990",
+  "address": "전남 목포시 호남동 524번지 우성마트 내",
+  "latitude": "34.790413",
+  "longitude": "126.38994"
+},
+{
+  "number": "22",
+  "storeName": "드림복권",
+  "phoneNumber": "061-276-8949",
+  "address": "전남 목포시 산정동 1041-66번지 드림복권",
+  "latitude": "34.80284",
+  "longitude": "126.39237"
+},
+{
+  "number": "23",
+  "storeName": "복권나라",
+  "phoneNumber": "061-279-3638",
+  "address": "전남 목포시 옥암동 1153-5번지 103호 복권나라",
+  "latitude": "34.807632",
+  "longitude": "126.43713"
+},
+{
+  "number": "24",
+  "storeName": "미래유통",
+  "phoneNumber": "061-285-0170",
+  "address": "전남 목포시 석현동 815-8번지",
+  "latitude": "34.821083",
+  "longitude": "126.42197"
+},
+{
+  "number": "25",
+  "storeName": "하당복권방",
+  "phoneNumber": "061-283-5167",
+  "address": "전남 목포시 옥암동 998번지",
+  "latitude": "34.803852",
+  "longitude": "126.42949"
+},
+{
+  "number": "26",
+  "storeName": "명품복권방",
+  "phoneNumber": "061-274-0285",
+  "address": "전남 목포시 상동 799-10 상가 1,2,3호",
+  "latitude": "34.810555",
+  "longitude": "126.41895"
+},
+{
+  "number": "27",
+  "storeName": "복권천국",
+  "phoneNumber": "061-285-1575",
+  "address": "전남 목포시 상동 1013-10번지 복권천국",
+  "latitude": "34.801373",
+  "longitude": "126.42772"
+},
+{
+  "number": "28",
+  "storeName": "복권방(상동1호점)",
+  "phoneNumber": "061-277-4980",
+  "address": "전남 목포시 상동 748-5번지 복권방 상동1호점",
+  "latitude": "34.813652",
+  "longitude": "126.41483"
+},
+{
+  "number": "29",
+  "storeName": "보물섬",
+  "phoneNumber": "061-278-4662",
+  "address": "전남 목포시 산정동 326-10번지 근화상가 110호",
+  "latitude": "34.81175",
+  "longitude": "126.386765"
+},
+{
+  "number": "30",
+  "storeName": "씨유 목포세진점",
+  "phoneNumber": "061-243-0346",
+  "address": "전남 목포시 보광동3가 4-10번지 CU편의점",
+  "latitude": "34.787636",
+  "longitude": "126.38714"
+},
+{
+  "number": "31",
+  "storeName": "송도하우스",
+  "phoneNumber": "061-272-5840",
+  "address": "전남 목포시 상동 220번지 목포터미널 내",
+  "latitude": "34.81272",
+  "longitude": "126.4172"
+},
+{
+  "number": "32",
+  "storeName": "로또마트",
+  "phoneNumber": "061-281-6666",
+  "address": "전남 목포시 옥암동 1027번지 부영아파트상가109호",
+  "latitude": "34.802063",
+  "longitude": "126.43245"
+},
+{
+  "number": "33",
+  "storeName": "씨유 목포시네마점",
+  "phoneNumber": "061-287-4621",
+  "address": "전남 목포시 상동 1129-6 1층 CU편의점",
+  "latitude": "34.79941",
+  "longitude": "126.43308"
+},
+{
+  "number": "34",
+  "storeName": "준혁복권방",
+  "phoneNumber": "061-276-5258",
+  "address": "전남 목포시 용당동 1153-13 1층",
+  "latitude": "34.79915",
+  "longitude": "126.39711"
+},
+{
+  "number": "35",
+  "storeName": "정아복권방",
+  "phoneNumber": "061-282-8815",
+  "address": "전남 목포시 상동 1141-16 1층",
+  "latitude": "34.798603",
+  "longitude": "126.43452"
+},
+{
+  "number": "36",
+  "storeName": "하당미니로또",
+  "phoneNumber": "061-283-0016",
+  "address": "전남 목포시 옥암동 1244 옥암2휴먼시아 주상가동 101호, 102호",
+  "latitude": "34.811146",
+  "longitude": "126.44873"
+},
+{
+  "number": "37",
+  "storeName": "에이데이마트",
+  "phoneNumber": "061-283-2878",
+  "address": "전남 목포시 옥암동 957번지 에이데이마트",
+  "latitude": "34.810448",
+  "longitude": "126.42564"
+},
+{
+  "number": "38",
+  "storeName": "복권세상",
+  "phoneNumber": "061-273-1042",
+  "address": "전남 목포시 산정동 1693-4 1층 복권세상",
+  "latitude": "34.803898",
+  "longitude": "126.375854"
+},
+{
+  "number": "39",
+  "storeName": "금강로또",
+  "phoneNumber": "061-276-0343",
+  "address": "전남 목포시 용당동 183-8번지 금강서점",
+  "latitude": "34.800888",
+  "longitude": "126.40074"
+},
+{
+  "number": "40",
+  "storeName": "안경명가",
+  "phoneNumber": "061-281-1172",
+  "address": "전남 목포시 상동 1000번지 안경명가",
+  "latitude": "34.80345",
+  "longitude": "126.42683"
+},
+{
+  "number": "41",
+  "storeName": "대박",
+  "phoneNumber": "061-277-5374",
+  "address": "전남 목포시 산정동 1732번지 신중앙시장 제79-80호",
+  "latitude": "34.809986",
+  "longitude": "126.37741"
+},
+{
+  "number": "42",
+  "storeName": "포미로또",
+  "phoneNumber": "061-274-3189",
+  "address": "전남 목포시 용해동 978-1번지 포미도서대여점",
+  "latitude": "34.81742",
+  "longitude": "126.39871"
+},
+{
+  "number": "43",
+  "storeName": "꿈동산복권방",
+  "phoneNumber": "061-278-8422",
+  "address": "전남 목포시 산정동 1082-2 세븐일레븐",
+  "latitude": "34.79381",
+  "longitude": "126.393524"
+},
+{
+  "number": "44",
+  "storeName": "남악복권방",
+  "phoneNumber": "061-245-0012",
+  "address": "전남 목포시 옥암동 1247-1",
+  "latitude": "34.809566",
+  "longitude": "126.445786"
+},
+{
+  "number": "45",
+  "storeName": "골든박스",
+  "phoneNumber": "061-272-9626",
+  "address": "전남 목포시 죽교동 575-220번지 골든박스",
+  "latitude": "34.79962",
+  "longitude": "126.377106"
+},
+{
+  "number": "46",
+  "storeName": "남해공인중개사",
+  "phoneNumber": "",
+  "address": "전남 목포시 산정동 1382-6 A08호",
+  "latitude": "34.793125",
+  "longitude": "126.40179"
+},
+{
+  "number": "47",
+  "storeName": "이로동복권판매점",
+  "phoneNumber": "",
+  "address": "전남 목포시 용해동 239-1 1층",
+  "latitude": "34.805355",
+  "longitude": "126.405914"
+},
+{
+  "number": "48",
+  "storeName": "이룸로또복권방",
+  "phoneNumber": "061-284-5662",
+  "address": "전남 목포시 상동 817 1층",
+  "latitude": "34.807102",
+  "longitude": "126.41814"
+},
+{
+  "number": "49",
+  "storeName": "맘마트우미점",
+  "phoneNumber": "061-284-3388",
+  "address": "전남 목포시 옥암동 964 우미아파트상가",
+  "latitude": "34.80982",
+  "longitude": "126.42964"
+},
+{
+  "number": "50",
+  "storeName": "경동복권",
+  "phoneNumber": "",
+  "address": "전남 목포시 하당동 794-2 1층 102호",
+  "latitude": "34.80895",
+  "longitude": "126.4211"
+}
+]

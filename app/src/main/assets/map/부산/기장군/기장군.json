@@ -1,0 +1,98 @@
+[
+{
+  "number": "1",
+  "storeName": "돼지복권명당",
+  "phoneNumber": "",
+  "address": "부산 기장군 장안읍 월내리 167",
+  "latitude": "35.326767",
+  "longitude": "129.27667"
+},
+{
+  "number": "2",
+  "storeName": "로또복권",
+  "phoneNumber": "051-724-4009",
+  "address": "부산 기장군 기장읍 대라리 129-1 기장아름공원점내",
+  "latitude": "35.241016",
+  "longitude": "129.21454"
+},
+{
+  "number": "3",
+  "storeName": "천하명당",
+  "phoneNumber": "051-728-2416",
+  "address": "부산 기장군 정관읍 용수리 1336 501동112호",
+  "latitude": "35.334072",
+  "longitude": "129.16554"
+},
+{
+  "number": "4",
+  "storeName": "서원탑훼미리마트",
+  "phoneNumber": "051-722-4013",
+  "address": "부산 기장군 기장읍 동부리 152-4번지",
+  "latitude": "35.24793",
+  "longitude": "129.21596"
+},
+{
+  "number": "5",
+  "storeName": "기장슈퍼",
+  "phoneNumber": "051-722-1187",
+  "address": "부산 기장군 기장읍 동부리 162-20번지",
+  "latitude": "35.2439",
+  "longitude": "129.21654"
+},
+{
+  "number": "6",
+  "storeName": "노다지복권방",
+  "phoneNumber": "051-721-2492",
+  "address": "부산 기장군 기장읍 대라리 73-3번지",
+  "latitude": "35.242928",
+  "longitude": "129.21526"
+},
+{
+  "number": "7",
+  "storeName": "돈벼락맞는곳",
+  "phoneNumber": "051-723-0244",
+  "address": "부산 기장군 기장읍 동부리 274-17번지",
+  "latitude": "35.24522",
+  "longitude": "129.21634"
+},
+{
+  "number": "8",
+  "storeName": "가나다자동차용품",
+  "phoneNumber": "051-722-3400",
+  "address": "부산 기장군 기장읍 교리 344-9번지",
+  "latitude": "35.252434",
+  "longitude": "129.21701"
+},
+{
+  "number": "9",
+  "storeName": "지원로또",
+  "phoneNumber": "",
+  "address": "부산 기장군 정관읍 달산리 1221-14",
+  "latitude": "351.32098",
+  "longitude": "129.18924"
+},
+{
+  "number": "10",
+  "storeName": "뉴빅마트",
+  "phoneNumber": "",
+  "address": "부산 기장군 매학리 748-5 106호",
+  "latitude": "35.32074",
+  "longitude": "129.17908"
+},
+{
+  "number": "11",
+  "storeName": "행운편의점",
+  "phoneNumber": "",
+  "address": "부산 기장군 정관읍 용수리 613-3",
+  "latitude": "35.330875",
+  "longitude": "129.17165"
+},
+{
+  "number": "12",
+  "storeName": "다인로또",
+  "phoneNumber": "051-753-8293",
+  "address": "부산 기장군 정관읍 예림리 846-3",
+  "latitude": "35.32451",
+  "longitude": "129.20287"
+}
+]

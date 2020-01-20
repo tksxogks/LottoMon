@@ -1,0 +1,42 @@
+[
+{
+  "number": "1",
+  "storeName": "나눔로또하이원점",
+  "phoneNumber": "033-592-1100",
+  "address": "강원 정선군 사북읍 사북리 366-142번지",
+  "latitude": "37.227203",
+  "longitude": "128.81607"
+},
+{
+  "number": "2",
+  "storeName": "한성로또복권",
+  "phoneNumber": "033-592-3713",
+  "address": "강원 정선군 고한읍 고한리 57-5번지",
+  "latitude": "37.196884",
+  "longitude": "128.85832"
+},
+{
+  "number": "3",
+  "storeName": "로또사북교차로점",
+  "phoneNumber": "",
+  "address": "강원 정선군 사북읍 사북리 356-52 세븐일레븐 편의점",
+  "latitude": "37.765614",
+  "longitude": "128.87437"
+},
+{
+  "number": "4",
+  "storeName": "복권나라",
+  "phoneNumber": "033-562-5085",
+  "address": "강원 정선군 정선읍 봉양리 329-4",
+  "latitude": "37.379616",
+  "longitude": "128.66205"
+},
+{
+  "number": "5",
+  "storeName": "나눔로또 민둥산점",
+  "phoneNumber": "",
+  "address": "강원 정선군 남면 무릉리 488-2 1층",
+  "latitude": "37.24483",
+  "longitude": "128.7755"
+}
+]

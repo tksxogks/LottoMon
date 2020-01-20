@@ -1,0 +1,26 @@
+[
+{
+  "number": "1",
+  "storeName": "SKY정보통신",
+  "phoneNumber": "054-373-3773",
+  "address": "경북 청도군 청도읍 고수리 478-153번지",
+  "latitude": "35.64454",
+  "longitude": "128.74146"
+},
+{
+  "number": "2",
+  "storeName": "복운당로또복권청도점",
+  "phoneNumber": "054-371-5944",
+  "address": "경북 청도군 청도읍 고수리 825-1 복운당로또복권판매점",
+  "latitude": "35.641808",
+  "longitude": "128.74649"
+},
+{
+  "number": "3",
+  "storeName": "로또풍각점",
+  "phoneNumber": "054-373-8033",
+  "address": "경북 청도군 풍각면 송서리 577-8 CU편의점_풍각점",
+  "latitude": "35.64148",
+  "longitude": "128.61945"
+}
+]

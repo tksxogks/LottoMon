@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "삼호복권방",
+  "phoneNumber": "061-464-4988",
+  "address": "전남 영암군 삼호읍 삼포리 1883-1번지 삼호복권방",
+  "latitude": "34.744984",
+  "longitude": "126.381744"
+},
+{
+  "number": "2",
+  "storeName": "명당복권방",
+  "phoneNumber": "061-473-8778",
+  "address": "전남 영암군 삼호읍 용앙리 212-7번지 명당복권방",
+  "latitude": "34.745518",
+  "longitude": "126.473175"
+},
+{
+  "number": "3",
+  "storeName": "기찬복권방",
+  "phoneNumber": "061-471-1420",
+  "address": "전남 영암군 영암읍 역리 269-1 1층",
+  "latitude": "34.80309",
+  "longitude": "126.69954"
+},
+{
+  "number": "4",
+  "storeName": "대불로또판매점",
+  "phoneNumber": "070-7721-1770",
+  "address": "전남 영암군 삼호읍 용앙리 1691-12 1층 101호",
+  "latitude": "34.75155",
+  "longitude": "126.455505"
+},
+{
+  "number": "5",
+  "storeName": "제일로또",
+  "phoneNumber": "",
+  "address": "전남 영암군 신북면 월평리 134-3 신북터미널",
+  "latitude": "34.887917",
+  "longitude": "126.68999"
+},
+{
+  "number": "6",
+  "storeName": "황금로또복권",
+  "phoneNumber": "061-462-1561",
+  "address": "전남 영암군 삼호읍 난전리 1685-39 CU편의점",
+  "latitude": "34.775703",
+  "longitude": "126.42809"
+},
+{
+  "number": "7",
+  "storeName": "영암로또복권",
+  "phoneNumber": "061-471-1112",
+  "address": "전남 영암군 영암읍 남풍리 4-1 1층",
+  "latitude": "34.796597",
+  "longitude": "126.70295"
+},
+{
+  "number": "8",
+  "storeName": "금호 동행복권",
+  "phoneNumber": "",
+  "address": "전남 영암군 삼호읍 용앙리 1678-3 1층",
+  "latitude": "34.75357",
+  "longitude": "126.460205"
+}
+]

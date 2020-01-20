@@ -1,0 +1,58 @@
+[
+{
+  "number": "1",
+  "storeName": "행운복권방",
+  "phoneNumber": "033-461-1536",
+  "address": "강원 인제군 북면 원통리 681-5번지 1층",
+  "latitude": "38.122414",
+  "longitude": "128.20686"
+},
+{
+  "number": "2",
+  "storeName": "로또복권방",
+  "phoneNumber": "033-461-7473",
+  "address": "강원 인제군 북면 원통리 656-14번지",
+  "latitude": "38.123398",
+  "longitude": "128.20525"
+},
+{
+  "number": "3",
+  "storeName": "로또명당",
+  "phoneNumber": "033-461-2062",
+  "address": "강원 인제군 인제읍 상동리 298-16",
+  "latitude": "38.068256",
+  "longitude": "128.17018"
+},
+{
+  "number": "4",
+  "storeName": "신남복권나라",
+  "phoneNumber": "033-461-0049",
+  "address": "강원 인제군 남면 신남리 524번지",
+  "latitude": "37.96581",
+  "longitude": "128.07712"
+},
+{
+  "number": "5",
+  "storeName": "인제복권방",
+  "phoneNumber": "033-463-0645",
+  "address": "강원 인제군 인제읍 상동리 39-9번지",
+  "latitude": "38.068108",
+  "longitude": "128.17276"
+},
+{
+  "number": "6",
+  "storeName": "대왕로또",
+  "phoneNumber": "033-463-8563",
+  "address": "강원 인제군 기린면 현리 645-1",
+  "latitude": "37.954323",
+  "longitude": "128.31665"
+},
+{
+  "number": "7",
+  "storeName": "황금복권방",
+  "phoneNumber": "033-462-2274",
+  "address": "강원 인제군 인제읍 상동리 31-4",
+  "latitude": "38.07051",
+  "longitude": "128.17557"
+}
+]

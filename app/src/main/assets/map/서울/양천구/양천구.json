@@ -1,0 +1,330 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(목동희망점)",
+  "phoneNumber": "02-2651-5504",
+  "address": "서울 양천구 목동 405-282",
+  "latitude": "37.52455",
+  "longitude": "126.87301"
+},
+{
+  "number": "2",
+  "storeName": "GS25(신정중앙점)",
+  "phoneNumber": "02-2643-3262",
+  "address": "서울 양천구 신정동 1020-1",
+  "latitude": "37.520844",
+  "longitude": "126.85996"
+},
+{
+  "number": "3",
+  "storeName": "CU(신정점)",
+  "phoneNumber": "070-8873-6349",
+  "address": "서울 양천구 신정동 1026-1번지 미성빌딩",
+  "latitude": "37.5215",
+  "longitude": "126.85852"
+},
+{
+  "number": "4",
+  "storeName": "터져라로또",
+  "phoneNumber": "02-2654-3382",
+  "address": "서울 양천구 목동 406-21번지",
+  "latitude": "37.525078",
+  "longitude": "126.87363"
+},
+{
+  "number": "5",
+  "storeName": "해태24시",
+  "phoneNumber": "02-2696-1735",
+  "address": "서울 양천구 신월동 126-35 1층",
+  "latitude": "37.535244",
+  "longitude": "126.829056"
+},
+{
+  "number": "6",
+  "storeName": "로또행운마트",
+  "phoneNumber": "02-2696-1907",
+  "address": "서울 양천구 신월동 52-11번지 1층",
+  "latitude": "37.537704",
+  "longitude": "126.82747"
+},
+{
+  "number": "7",
+  "storeName": "일등복권방",
+  "phoneNumber": "02-2691-8011",
+  "address": "서울 양천구 신정동 992-1번지 보성빌딩105호",
+  "latitude": "37.52572",
+  "longitude": "126.8632"
+},
+{
+  "number": "8",
+  "storeName": "드림공인중개사사무소",
+  "phoneNumber": "02-2648-7722",
+  "address": "서울 양천구 목동 526번지 광진상가1층104",
+  "latitude": "37.545918",
+  "longitude": "126.8739"
+},
+{
+  "number": "9",
+  "storeName": "중앙복권",
+  "phoneNumber": "02-2606-0393",
+  "address": "서울 양천구 신월동 961-5번지 이프랜드내",
+  "latitude": "37.522213",
+  "longitude": "126.83381"
+},
+{
+  "number": "10",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-2696-5654",
+  "address": "서울 양천구 신월동 550-3번지 승일뷰티타워 103호",
+  "latitude": "37.51848",
+  "longitude": "126.87457"
+},
+{
+  "number": "11",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-2605-6832",
+  "address": "서울 양천구 신정동 902-10번지 1층1호",
+  "latitude": "37.52612",
+  "longitude": "126.86327"
+},
+{
+  "number": "12",
+  "storeName": "로또하우스",
+  "phoneNumber": "02-2655-1206",
+  "address": "서울 양천구 목동 907-10번지 현대파리지앙107호",
+  "latitude": "37.536644",
+  "longitude": "126.87985"
+},
+{
+  "number": "13",
+  "storeName": "엠복권",
+  "phoneNumber": "02-2696-6843",
+  "address": "서울 양천구 신월동 491-8 1층 M마트내",
+  "latitude": "37.523",
+  "longitude": "126.84556"
+},
+{
+  "number": "14",
+  "storeName": "1등로또",
+  "phoneNumber": "02-2065-9831",
+  "address": "서울 양천구 신정동 114-10",
+  "latitude": "37.524624",
+  "longitude": "126.85443"
+},
+{
+  "number": "15",
+  "storeName": "홈플러스앞가로판매점",
+  "phoneNumber": "02-2642-2477",
+  "address": "서울 양천구 목동 657-21",
+  "latitude": "37.544975",
+  "longitude": "126.86247"
+},
+{
+  "number": "16",
+  "storeName": "복권세상",
+  "phoneNumber": "02-2644-7598",
+  "address": "서울 양천구 신월동 535-4번지",
+  "latitude": "37.519665",
+  "longitude": "126.843666"
+},
+{
+  "number": "17",
+  "storeName": "까치복권방",
+  "phoneNumber": "02-2698-1677",
+  "address": "서울 양천구 신월동 23-17 1층 (신월동)",
+  "latitude": "37.539547",
+  "longitude": "126.83362"
+},
+{
+  "number": "18",
+  "storeName": "바로정보",
+  "phoneNumber": "02-2652-1016",
+  "address": "서울 양천구 목동 603-8번지",
+  "latitude": "37.54903",
+  "longitude": "126.867516"
+},
+{
+  "number": "19",
+  "storeName": "세종장식",
+  "phoneNumber": "02-2696-4536",
+  "address": "서울 양천구 신정동 987-7번지",
+  "latitude": "37.525368",
+  "longitude": "126.860054"
+},
+{
+  "number": "20",
+  "storeName": "오목미니슈퍼",
+  "phoneNumber": "02-2645-9868",
+  "address": "서울 양천구 목동 406-316번지",
+  "latitude": "37.525024",
+  "longitude": "126.876236"
+},
+{
+  "number": "21",
+  "storeName": "농가마트",
+  "phoneNumber": "02-2646-5470",
+  "address": "서울 양천구 신정동 1031-8번지 1층",
+  "latitude": "37.519936",
+  "longitude": "126.85327"
+},
+{
+  "number": "22",
+  "storeName": "행복복권방",
+  "phoneNumber": "02-2644-4483",
+  "address": "서울 양천구 신정동 118-7",
+  "latitude": "37.5222",
+  "longitude": "126.8751"
+},
+{
+  "number": "23",
+  "storeName": "로또복권",
+  "phoneNumber": "02-2606-8092",
+  "address": "서울 양천구 신월동 205-44번지 훼미리마트",
+  "latitude": "37.52908",
+  "longitude": "126.83246"
+},
+{
+  "number": "24",
+  "storeName": "정평복권",
+  "phoneNumber": "02-2651-9835",
+  "address": "서울 양천구 목3동 717-16 101호",
+  "latitude": "37.529537",
+  "longitude": "126.875175"
+},
+{
+  "number": "25",
+  "storeName": "복권세상",
+  "phoneNumber": "02-2693-3622",
+  "address": "서울 양천구 신월동 110-18번지",
+  "latitude": "37.53187",
+  "longitude": "126.83369"
+},
+{
+  "number": "26",
+  "storeName": "복권판매소",
+  "phoneNumber": "02-2692-6044",
+  "address": "서울 양천구 신정동 1182-2 101호",
+  "latitude": "37.513817",
+  "longitude": "126.8542"
+},
+{
+  "number": "27",
+  "storeName": "신정복권",
+  "phoneNumber": "02-2652-8872",
+  "address": "서울 양천구 신정동 89-29 1층",
+  "latitude": "37.521225",
+  "longitude": "126.873825"
+},
+{
+  "number": "28",
+  "storeName": "뉴신명",
+  "phoneNumber": "070-7383-0780",
+  "address": "서울 양천구 목동 788-16번지 1층",
+  "latitude": "37.53369",
+  "longitude": "126.86391"
+},
+{
+  "number": "29",
+  "storeName": "호야식품",
+  "phoneNumber": "02-2646-0247",
+  "address": "서울 양천구 신정동 1052-1번지",
+  "latitude": "37.517426",
+  "longitude": "126.8543"
+},
+{
+  "number": "30",
+  "storeName": "대일복권방",
+  "phoneNumber": "02-2653-8994",
+  "address": "서울 양천구 신정동 203-6번지",
+  "latitude": "37.508926",
+  "longitude": "126.86531"
+},
+{
+  "number": "31",
+  "storeName": "농심가슈퍼마트",
+  "phoneNumber": "02-2642-9060",
+  "address": "서울 양천구 목동 234-4 1층",
+  "latitude": "37.54153",
+  "longitude": "126.8692"
+},
+{
+  "number": "32",
+  "storeName": "삼육구마트",
+  "phoneNumber": "02-2651-1687",
+  "address": "서울 양천구 목동 744-17번지",
+  "latitude": "37.53735",
+  "longitude": "126.86832"
+},
+{
+  "number": "33",
+  "storeName": "금사랑",
+  "phoneNumber": "02-2692-3148",
+  "address": "서울 양천구 신월동 445-5번지",
+  "latitude": "37.523167",
+  "longitude": "126.8426"
+},
+{
+  "number": "34",
+  "storeName": "또또행복",
+  "phoneNumber": "02-2691-2629",
+  "address": "서울 양천구 신월동 520-1번지",
+  "latitude": "37.52118",
+  "longitude": "126.83927"
+},
+{
+  "number": "35",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-2691-5019",
+  "address": "서울 양천구 신월동 116-14번지",
+  "latitude": "37.53113",
+  "longitude": "126.837456"
+},
+{
+  "number": "36",
+  "storeName": "써머스로또",
+  "phoneNumber": "02-2608-3536",
+  "address": "서울 양천구 신월동 11-12",
+  "latitude": "37.541607",
+  "longitude": "126.827324"
+},
+{
+  "number": "37",
+  "storeName": "로또판매점",
+  "phoneNumber": "",
+  "address": "서울 양천구 신정동 1316",
+  "latitude": "37.51335",
+  "longitude": "126.82936"
+},
+{
+  "number": "38",
+  "storeName": "로또판매점",
+  "phoneNumber": "02-2698-0815",
+  "address": "서울 양천구 신월동 148-6 CU편의점내",
+  "latitude": "37.535526",
+  "longitude": "126.827446"
+},
+{
+  "number": "39",
+  "storeName": "황금로또복권방",
+  "phoneNumber": "070-8639-7341",
+  "address": "서울 양천구 신월동 1029번지",
+  "latitude": "37.517887",
+  "longitude": "126.8465"
+},
+{
+  "number": "40",
+  "storeName": "GS25(목동고목점)",
+  "phoneNumber": "02-2651-9500",
+  "address": "서울 양천구 목동 751-2",
+  "latitude": "37.53325",
+  "longitude": "126.86947"
+},
+{
+  "number": "41",
+  "storeName": "세븐일레븐",
+  "phoneNumber": "02-2644-9967",
+  "address": "서울 양천구 신정동 1029-15",
+  "latitude": "37.520954",
+  "longitude": "126.855415"
+}
+]

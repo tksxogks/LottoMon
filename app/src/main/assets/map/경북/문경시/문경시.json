@@ -1,0 +1,74 @@
+[
+{
+  "number": "1",
+  "storeName": "왕대박복권방",
+  "phoneNumber": "054-556-6404",
+  "address": "경북 문경시 모전동 81-89번지",
+  "latitude": "36.588104",
+  "longitude": "128.19296"
+},
+{
+  "number": "2",
+  "storeName": "천하명당(행운의집)",
+  "phoneNumber": "054-555-7560",
+  "address": "경북 문경시 점촌동 240-1",
+  "latitude": "36.595333",
+  "longitude": "128.1976"
+},
+{
+  "number": "3",
+  "storeName": "복권명당",
+  "phoneNumber": "054-556-2121",
+  "address": "경북 문경시 점촌동 271-27번지",
+  "latitude": "36.594246",
+  "longitude": "128.20073"
+},
+{
+  "number": "4",
+  "storeName": "씨유로또 문경 흥덕점",
+  "phoneNumber": "054-556-2116",
+  "address": "경북 문경시 흥덕동 198-1번지 CU편의점 내",
+  "latitude": "36.599834",
+  "longitude": "128.20258"
+},
+{
+  "number": "5",
+  "storeName": "동부대박복권방",
+  "phoneNumber": "054-556-6901",
+  "address": "경북 문경시 흥덕동 789-9번지 동부코사마트",
+  "latitude": "36.600967",
+  "longitude": "128.20638"
+},
+{
+  "number": "6",
+  "storeName": "행운복권",
+  "phoneNumber": "054-572-1600",
+  "address": "경북 문경시 마성면 오천리 823-1",
+  "latitude": "36.69238",
+  "longitude": "128.11942"
+},
+{
+  "number": "7",
+  "storeName": "CU로또문경모전",
+  "phoneNumber": "054-556-2115",
+  "address": "경북 문경시 모전동 883-9 경북 문경시 당교로 199 CU문경모전점",
+  "latitude": "36.585255",
+  "longitude": "128.18488"
+},
+{
+  "number": "8",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "경북 문경시 모전동 279-6 문경한우두메산골",
+  "latitude": "36.589054",
+  "longitude": "128.18982"
+},
+{
+  "number": "9",
+  "storeName": "문경영풍",
+  "phoneNumber": "054-555-7084",
+  "address": "경북 문경시 모전동 873-7",
+  "latitude": "36.58637",
+  "longitude": "128.18292"
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "한마음복권",
+  "phoneNumber": "",
+  "address": "충남 부여군 부여읍 동남리 709-2",
+  "latitude": "36.277996",
+  "longitude": "126.91032"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "041-833-2304",
+  "address": "충남 부여군 부여읍 동남리 722-18번지 1층",
+  "latitude": "36.27657",
+  "longitude": "126.910286"
+},
+{
+  "number": "3",
+  "storeName": "부여복권방",
+  "phoneNumber": "041-832-5468",
+  "address": "충남 부여군 부여읍 구아리 198",
+  "latitude": "36.28111",
+  "longitude": "126.91077"
+},
+{
+  "number": "4",
+  "storeName": "부여수입코너",
+  "phoneNumber": "041-837-5949",
+  "address": "충남 부여군 부여읍 구아리 257",
+  "latitude": "36.280205",
+  "longitude": "126.91106"
+},
+{
+  "number": "5",
+  "storeName": "장미슈퍼",
+  "phoneNumber": "041-833-3087",
+  "address": "충남 부여군 부여읍 동남리 739-9번지 부여군청 로터리 부근",
+  "latitude": "36.2763",
+  "longitude": "126.909424"
+},
+{
+  "number": "6",
+  "storeName": "돼지복권방",
+  "phoneNumber": "",
+  "address": "충남 부여군 부여읍 동남리 709-2",
+  "latitude": "36.277996",
+  "longitude": "126.91032"
+}
+]

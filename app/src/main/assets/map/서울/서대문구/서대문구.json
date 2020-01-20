@@ -1,0 +1,322 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(북가좌공원점)",
+  "phoneNumber": "02-308-8213",
+  "address": "서울 서대문구 북가좌동 3-16 1층 CU북가좌공원점",
+  "latitude": "37.58254",
+  "longitude": "126.91995"
+},
+{
+  "number": "2",
+  "storeName": "GS25(연희점)",
+  "phoneNumber": "02-323-9973",
+  "address": "서울 서대문구 연희동 122-7",
+  "latitude": "37.57008",
+  "longitude": "126.930626"
+},
+{
+  "number": "3",
+  "storeName": "CU(홍은벽산점)",
+  "phoneNumber": "02-379-3315",
+  "address": "서울 서대문구 홍은동 48-80",
+  "latitude": "37.59455",
+  "longitude": "126.94617"
+},
+{
+  "number": "4",
+  "storeName": "CU(남가좌현대점)",
+  "phoneNumber": "02-308-7688",
+  "address": "서울 서대문구 남가좌동 74-22번지",
+  "latitude": "37.575188",
+  "longitude": "126.921814"
+},
+{
+  "number": "5",
+  "storeName": "GS25(북가좌점)",
+  "phoneNumber": "02-372-8411",
+  "address": "서울 서대문구 북가좌동 309-1번지",
+  "latitude": "37.580765",
+  "longitude": "126.91169"
+},
+{
+  "number": "6",
+  "storeName": "CU경기대사거리점",
+  "phoneNumber": "02-365-4097",
+  "address": "서울 서대문구 충정로2가 184-7",
+  "latitude": "37.564262",
+  "longitude": "126.9638"
+},
+{
+  "number": "7",
+  "storeName": "로또",
+  "phoneNumber": "02-306-3065",
+  "address": "서울 서대문구 홍제동 91-4번지 1층 가호",
+  "latitude": "37.583893",
+  "longitude": "126.94899"
+},
+{
+  "number": "8",
+  "storeName": "이대역4번출구앞가판점",
+  "phoneNumber": "02-392-2578",
+  "address": "서울 서대문구 대현동 45-21",
+  "latitude": "37.559006",
+  "longitude": "126.94009"
+},
+{
+  "number": "9",
+  "storeName": "롯데리아앞가판점",
+  "phoneNumber": "02-313-0504",
+  "address": "서울 서대문구 북아현동 135-4번지",
+  "latitude": "37.557674",
+  "longitude": "126.95668"
+},
+{
+  "number": "10",
+  "storeName": "가판점",
+  "phoneNumber": "02-362-4848",
+  "address": "서울 서대문구 영천동 280번지",
+  "latitude": "37.571144",
+  "longitude": "126.96097"
+},
+{
+  "number": "11",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-324-0715",
+  "address": "서울 서대문구 창천동 510-5번지",
+  "latitude": "37.55864",
+  "longitude": "126.9277"
+},
+{
+  "number": "12",
+  "storeName": "우미6호가판점",
+  "phoneNumber": "02-3147-1283",
+  "address": "서울 서대문구 충정로3가 190-21",
+  "latitude": "37.562263",
+  "longitude": "126.96359"
+},
+{
+  "number": "13",
+  "storeName": "가판점",
+  "phoneNumber": "02-364-4065",
+  "address": "서울 서대문구 대현동 101-25번지",
+  "latitude": "37.556957",
+  "longitude": "126.94322"
+},
+{
+  "number": "14",
+  "storeName": "로또 행운마트",
+  "phoneNumber": "02-363-5131",
+  "address": "서울 서대문구 북아현동 180-27",
+  "latitude": "37.562916",
+  "longitude": "126.95498"
+},
+{
+  "number": "15",
+  "storeName": "가로판매점18호",
+  "phoneNumber": "02-312-5834",
+  "address": "서울 서대문구 대현동 27-20 주소앞 가판대 이전건",
+  "latitude": "37.55896",
+  "longitude": "126.94339"
+},
+{
+  "number": "16",
+  "storeName": "충남슈퍼",
+  "phoneNumber": "02-309-7540",
+  "address": "서울 서대문구 북가좌동 289-6번지",
+  "latitude": "37.58008",
+  "longitude": "126.91579"
+},
+{
+  "number": "17",
+  "storeName": "홍제삼거리마트",
+  "phoneNumber": "02-735-8054",
+  "address": "서울 서대문구 홍제동 147-2번지",
+  "latitude": "37.585835",
+  "longitude": "126.94692"
+},
+{
+  "number": "18",
+  "storeName": "민영슈퍼",
+  "phoneNumber": "02-309-3827",
+  "address": "서울 서대문구 북가좌동 292-11번지",
+  "latitude": "37.5817",
+  "longitude": "126.913"
+},
+{
+  "number": "19",
+  "storeName": "연보슈퍼",
+  "phoneNumber": "070-8113-8000",
+  "address": "서울 서대문구 연희동 78-43번지",
+  "latitude": "37.572983",
+  "longitude": "126.935234"
+},
+{
+  "number": "20",
+  "storeName": "제일슈퍼",
+  "phoneNumber": "02-373-8084",
+  "address": "서울 서대문구 북가좌동 309-3번지 문화빌딩1층5호",
+  "latitude": "37.580242",
+  "longitude": "126.91126"
+},
+{
+  "number": "21",
+  "storeName": "굿타임",
+  "phoneNumber": "070-8274-8967",
+  "address": "서울 서대문구 연희동 353-94번지",
+  "latitude": "37.56179",
+  "longitude": "126.92749"
+},
+{
+  "number": "22",
+  "storeName": "팬시겔러리",
+  "phoneNumber": "02-363-4764",
+  "address": "서울 서대문구 냉천동 227번지",
+  "latitude": "37.567703",
+  "longitude": "126.96445"
+},
+{
+  "number": "23",
+  "storeName": "스타복권방(스타문구)",
+  "phoneNumber": "02-313-6013",
+  "address": "서울 서대문구 냉천동 194번지",
+  "latitude": "37.56912",
+  "longitude": "126.96311"
+},
+{
+  "number": "24",
+  "storeName": "제일식품",
+  "phoneNumber": "02-303-9492",
+  "address": "서울 서대문구 남가좌동 350-6번지",
+  "latitude": "37.577415",
+  "longitude": "126.92167"
+},
+{
+  "number": "25",
+  "storeName": "상진식품",
+  "phoneNumber": "02-364-2267",
+  "address": "서울 서대문구 북아현동 125-20번지",
+  "latitude": "37.5579",
+  "longitude": "126.95709"
+},
+{
+  "number": "26",
+  "storeName": "한삼인 홍제역점",
+  "phoneNumber": "02-3217-6698",
+  "address": "서울 서대문구 홍제동 330-60번지",
+  "latitude": "37.589172",
+  "longitude": "126.94322"
+},
+{
+  "number": "27",
+  "storeName": "복권마트",
+  "phoneNumber": "02-396-9195",
+  "address": "서울 서대문구 홍제동 265-5번지",
+  "latitude": "37.59193",
+  "longitude": "126.944916"
+},
+{
+  "number": "28",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-364-0658",
+  "address": "서울 서대문구 미근동 167번지 경찰청 로얄빌딩 101호",
+  "latitude": "37.563408",
+  "longitude": "126.96781"
+},
+{
+  "number": "29",
+  "storeName": "뉴서울슈퍼",
+  "phoneNumber": "02-365-1423",
+  "address": "서울 서대문구 미근동 319번지",
+  "latitude": "37.56192",
+  "longitude": "126.968445"
+},
+{
+  "number": "30",
+  "storeName": "인더라인북가좌점",
+  "phoneNumber": "02-309-3700",
+  "address": "서울 서대문구 북가좌동 418-22번지 1층101호",
+  "latitude": "37.57709",
+  "longitude": "126.90927"
+},
+{
+  "number": "31",
+  "storeName": "천하명당로또복권",
+  "phoneNumber": "02-394-0645",
+  "address": "서울 서대문구 홍제동 174-21",
+  "latitude": "37.5924",
+  "longitude": "126.94312"
+},
+{
+  "number": "32",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-365-2112",
+  "address": "서울 서대문구 북아현동 220-43",
+  "latitude": "37.55741",
+  "longitude": "126.95281"
+},
+{
+  "number": "33",
+  "storeName": "정원쇼핑",
+  "phoneNumber": "02-395-5611",
+  "address": "서울 서대문구 홍은동 9-333번지",
+  "latitude": "37.59953",
+  "longitude": "126.948395"
+},
+{
+  "number": "34",
+  "storeName": "강원슈퍼",
+  "phoneNumber": "02-303-2549",
+  "address": "서울 서대문구 홍은동 277-18번지",
+  "latitude": "37.581608",
+  "longitude": "126.93555"
+},
+{
+  "number": "35",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-392-6588",
+  "address": "서울 서대문구 창천동 18-42번지",
+  "latitude": "37.555534",
+  "longitude": "126.93745"
+},
+{
+  "number": "36",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-312-3764",
+  "address": "서울 서대문구 북아현동 4-33번지",
+  "latitude": "37.560593",
+  "longitude": "126.956345"
+},
+{
+  "number": "37",
+  "storeName": "베스트로또",
+  "phoneNumber": "02-379-6271",
+  "address": "서울 서대문구 홍제동 268-14번지",
+  "latitude": "37.591106",
+  "longitude": "126.946945"
+},
+{
+  "number": "38",
+  "storeName": "대박종합복권가로판매점",
+  "phoneNumber": "02-324-9175",
+  "address": "서울 서대문구 창천동 72-7번지",
+  "latitude": "37.556484",
+  "longitude": "126.93403"
+},
+{
+  "number": "39",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-303-1206",
+  "address": "서울 서대문구 남가좌동 293-85 명동의류앞",
+  "latitude": "37.570408",
+  "longitude": "126.916046"
+},
+{
+  "number": "40",
+  "storeName": "GS25(남가좌명지점)",
+  "phoneNumber": "02-303-0725",
+  "address": "서울 서대문구 남가좌동 343-50",
+  "latitude": "37.578434",
+  "longitude": "126.92259"
+}
+]

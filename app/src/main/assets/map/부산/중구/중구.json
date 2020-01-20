@@ -1,0 +1,138 @@
+[
+{
+  "number": "1",
+  "storeName": "GS25(광복점)",
+  "phoneNumber": "051-247-0951",
+  "address": "부산 중구 동광동2가 7-2번지",
+  "latitude": "35.09992",
+  "longitude": "129.03511"
+},
+{
+  "number": "2",
+  "storeName": "GS25(광복센타점)",
+  "phoneNumber": "000-0000-0000",
+  "address": "부산 중구 남포동5가 2-1번지",
+  "latitude": "35.09857",
+  "longitude": "129.03052"
+},
+{
+  "number": "3",
+  "storeName": "행운당(로또)담배",
+  "phoneNumber": "",
+  "address": "부산 중구 부평동1가 29-61",
+  "latitude": "35.100513",
+  "longitude": "129.02728"
+},
+{
+  "number": "4",
+  "storeName": "대박유통",
+  "phoneNumber": "051-246-1034",
+  "address": "부산 중구 남포동5가 41-1번지 세븐일레븐편의점",
+  "latitude": "35.097435",
+  "longitude": "129.02846"
+},
+{
+  "number": "5",
+  "storeName": "프로토베팅샵",
+  "phoneNumber": "051-245-8484",
+  "address": "부산 중구 창선동2가 27-6번지 4호",
+  "latitude": "35.099667",
+  "longitude": "129.02838"
+},
+{
+  "number": "6",
+  "storeName": "대박골드",
+  "phoneNumber": "051-248-0290",
+  "address": "부산 중구 보수동2가 106-12번지 1층 101호",
+  "latitude": "35.104656",
+  "longitude": "129.0249"
+},
+{
+  "number": "7",
+  "storeName": "중앙동역 나들가게24",
+  "phoneNumber": "051-469-4853",
+  "address": "부산 중구 중앙동4가 89-2번지 흥우빌딩1층 나들가게편의점",
+  "latitude": "35.106277",
+  "longitude": "129.03659"
+},
+{
+  "number": "8",
+  "storeName": "원바이원",
+  "phoneNumber": "051-231-5558",
+  "address": "부산 중구 부평동2가 68-4번지",
+  "latitude": "35.101124",
+  "longitude": "129.02533"
+},
+{
+  "number": "9",
+  "storeName": "행운복권방",
+  "phoneNumber": "051-255-0152",
+  "address": "부산 중구 남포동5가 64-3번지",
+  "latitude": "35.098064",
+  "longitude": "129.03053"
+},
+{
+  "number": "10",
+  "storeName": "재벌 로터리",
+  "phoneNumber": "070-8851-4888",
+  "address": "부산 중구 남포동1가 28번지 재벌마트",
+  "latitude": "35.09761",
+  "longitude": "129.03543"
+},
+{
+  "number": "11",
+  "storeName": "부산슈퍼",
+  "phoneNumber": "051-255-2985",
+  "address": "부산 중구 부평동4가 11-1번지",
+  "latitude": "35.102238",
+  "longitude": "129.02374"
+},
+{
+  "number": "12",
+  "storeName": "부자",
+  "phoneNumber": "051-466-3872",
+  "address": "부산 중구 대청동2가 21-2번지 1층담배포",
+  "latitude": "35.10303",
+  "longitude": "129.03033"
+},
+{
+  "number": "13",
+  "storeName": "24슈퍼",
+  "phoneNumber": "051-254-3746",
+  "address": "부산 중구 부평동3가 69-1번지",
+  "latitude": "35.10178",
+  "longitude": "129.02449"
+},
+{
+  "number": "14",
+  "storeName": "행운나눔로또",
+  "phoneNumber": "051-256-2510",
+  "address": "부산 중구 남포동2가 25-10번지 가판집",
+  "latitude": "35.0983",
+  "longitude": "129.03232"
+},
+{
+  "number": "15",
+  "storeName": "복권나라",
+  "phoneNumber": "051-469-7229",
+  "address": "부산 중구 중앙동3가 9-2번지",
+  "latitude": "35.103165",
+  "longitude": "129.03545"
+},
+{
+  "number": "16",
+  "storeName": "플러스할인마트",
+  "phoneNumber": "051-464-4112",
+  "address": "부산 중구 중앙동4가 26-3 중앙 지하철역 임시상가 3호",
+  "latitude": "35.10333",
+  "longitude": "129.0368"
+},
+{
+  "number": "17",
+  "storeName": "부엉이",
+  "phoneNumber": "",
+  "address": "부산 중구 중앙동 47-1 1층",
+  "latitude": "35.1051",
+  "longitude": "129.03539"
+}
+]

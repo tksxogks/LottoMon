@@ -1,0 +1,50 @@
+[
+{
+  "number": "1",
+  "storeName": "씨유(거창대동점)",
+  "phoneNumber": "055-942-5589",
+  "address": "경남 거창군 거창읍 대동리 702번지",
+  "latitude": "35.68989",
+  "longitude": "127.91475"
+},
+{
+  "number": "2",
+  "storeName": "씨유 거창마리점",
+  "phoneNumber": "055-942-4387",
+  "address": "경남 거창군 마리면 월계리 190번지",
+  "latitude": "35.698807",
+  "longitude": "127.85647"
+},
+{
+  "number": "3",
+  "storeName": "노다지복권방거창점",
+  "phoneNumber": "055-943-1927",
+  "address": "경남 거창군 거창읍 상림리 134-12번지",
+  "latitude": "35.686047",
+  "longitude": "127.91029"
+},
+{
+  "number": "4",
+  "storeName": "시네마천국",
+  "phoneNumber": "055-944-8160",
+  "address": "경남 거창군 거창읍 중앙리 336-7번지",
+  "latitude": "35.689476",
+  "longitude": "127.9095"
+},
+{
+  "number": "5",
+  "storeName": "수승대복권",
+  "phoneNumber": "055-943-0574",
+  "address": "경남 거창군 가조면 마상리 190-5 세븐일레븐 內",
+  "latitude": "35.707676",
+  "longitude": "128.0159"
+},
+{
+  "number": "6",
+  "storeName": "모티점빵",
+  "phoneNumber": "055-943-4975",
+  "address": "경남 거창군 거창읍 상림리 835 1층 모티점빵",
+  "latitude": "35.685993",
+  "longitude": "127.90043"
+}
+]

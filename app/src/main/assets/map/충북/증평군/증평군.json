@@ -1,0 +1,66 @@
+[
+{
+  "number": "1",
+  "storeName": "도깨비 복권 전문점",
+  "phoneNumber": "043-836-8272",
+  "address": "충북 증평군 증평읍 교동리 154-3",
+  "latitude": "36.78419",
+  "longitude": "127.585045"
+},
+{
+  "number": "2",
+  "storeName": "복권나라",
+  "phoneNumber": "043-836-1113",
+  "address": "충북 증평군 증평읍 중동리 15-3번지",
+  "latitude": "36.783913",
+  "longitude": "127.58089"
+},
+{
+  "number": "3",
+  "storeName": "대일마켓",
+  "phoneNumber": "043-836-4312",
+  "address": "충북 증평군 증평읍 중동리 1-3번지",
+  "latitude": "36.78521",
+  "longitude": "127.582275"
+},
+{
+  "number": "4",
+  "storeName": "증평로또판매점",
+  "phoneNumber": "",
+  "address": "충북 증평군 증평읍 교동리 21-2",
+  "latitude": "36.78643",
+  "longitude": "127.58387"
+},
+{
+  "number": "5",
+  "storeName": "도깨비 복권 전문점",
+  "phoneNumber": "043-836-8272",
+  "address": "충북 증평군 증평읍 교동리 154-3",
+  "latitude": "36.78419",
+  "longitude": "127.585045"
+},
+{
+  "number": "6",
+  "storeName": "복권나라",
+  "phoneNumber": "043-836-1113",
+  "address": "충북 증평군 증평읍 중동리 15-3번지",
+  "latitude": "36.783913",
+  "longitude": "127.58089"
+},
+{
+  "number": "7",
+  "storeName": "대일마켓",
+  "phoneNumber": "043-836-4312",
+  "address": "충북 증평군 증평읍 중동리 1-3번지",
+  "latitude": "36.78521",
+  "longitude": "127.582275"
+},
+{
+  "number": "8",
+  "storeName": "증평로또판매점",
+  "phoneNumber": "",
+  "address": "충북 증평군 증평읍 교동리 21-2",
+  "latitude": "36.78643",
+  "longitude": "127.58387"
+}
+]

@@ -1,0 +1,90 @@
+[
+{
+  "number": "1",
+  "storeName": "행운복권방",
+  "phoneNumber": "031-771-0676",
+  "address": "경기 양평군 용문면 다문리 731-6 1층",
+  "latitude": "37.484352",
+  "longitude": "127.59367"
+},
+{
+  "number": "2",
+  "storeName": "종합복권나라",
+  "phoneNumber": "031-774-7950",
+  "address": "경기 양평군 양평읍 양근리 176-14 1층",
+  "latitude": "37.49053",
+  "longitude": "127.49594"
+},
+{
+  "number": "3",
+  "storeName": "복권나라",
+  "phoneNumber": "031-774-8920",
+  "address": "경기 양평군 양평읍 양근리 342-2 1층",
+  "latitude": "37.489613",
+  "longitude": "127.49023"
+},
+{
+  "number": "4",
+  "storeName": "서종로또",
+  "phoneNumber": "031-772-4978",
+  "address": "경기 양평군 서종면 문호리 394-1 1층 CU 옆",
+  "latitude": "37.60387",
+  "longitude": "127.352585"
+},
+{
+  "number": "5",
+  "storeName": "찬스365",
+  "phoneNumber": "031-775-0365",
+  "address": "경기 양평군 양서면 양수리 562-6 1층",
+  "latitude": "37.544758",
+  "longitude": "127.31807"
+},
+{
+  "number": "6",
+  "storeName": "신세계로또",
+  "phoneNumber": "031-772-4798",
+  "address": "경기 양평군 양평읍 공흥리 595-4 1층",
+  "latitude": "37.49316",
+  "longitude": "127.50149"
+},
+{
+  "number": "7",
+  "storeName": "양근로또",
+  "phoneNumber": "",
+  "address": "경기 양평군 양평읍 양근리 269-18 1층",
+  "latitude": "37.487568",
+  "longitude": "127.49149"
+},
+{
+  "number": "8",
+  "storeName": "역전로또방",
+  "phoneNumber": "",
+  "address": "경기 양평군 양평읍 양근리 400-5 1층",
+  "latitude": "37.491753",
+  "longitude": "127.48904"
+},
+{
+  "number": "9",
+  "storeName": "경서로또",
+  "phoneNumber": "",
+  "address": "경기 양평군 양서면 국수리 326-38 1층",
+  "latitude": "37.512135",
+  "longitude": "127.40169"
+},
+{
+  "number": "10",
+  "storeName": "양동복권판매",
+  "phoneNumber": "031-771-0093",
+  "address": "경기 양평군 양동면 쌍학리 176-6 1층 후계자건강원",
+  "latitude": "37.419727",
+  "longitude": "127.75207"
+},
+{
+  "number": "11",
+  "storeName": "금도끼복권방",
+  "phoneNumber": "",
+  "address": "경기 양평군 용문면 광탄리 162-2 1층",
+  "latitude": "37.50786",
+  "longitude": "127.63167"
+}
+]

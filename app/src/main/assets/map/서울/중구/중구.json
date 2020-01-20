@@ -1,0 +1,610 @@
+[
+{
+  "number": "1",
+  "storeName": "CU(신당6동점)",
+  "phoneNumber": "02-2238-9996",
+  "address": "서울 중구 신당동 52-299번지",
+  "latitude": "37.563786",
+  "longitude": "127.01673"
+},
+{
+  "number": "2",
+  "storeName": "CU(소피텔점)",
+  "phoneNumber": "02-2269-8839",
+  "address": "서울 중구 묵정동 18-9번지",
+  "latitude": "37.560528",
+  "longitude": "127.00166"
+},
+{
+  "number": "3",
+  "storeName": "GS25 동대문 쇼핑점",
+  "phoneNumber": "02-2233-1674",
+  "address": "서울 중구 신당동 251-77 신세계빌딩 1층",
+  "latitude": "37.560997",
+  "longitude": "127.0184"
+},
+{
+  "number": "4",
+  "storeName": "만물사",
+  "phoneNumber": "02-757-2861",
+  "address": "서울 중구 남대문로4가 20-10번지",
+  "latitude": "37.56005",
+  "longitude": "126.97623"
+},
+{
+  "number": "5",
+  "storeName": "YG복권방",
+  "phoneNumber": "02-6031-8934",
+  "address": "서울 중구 다동 155번지 YG타워 1층 111호",
+  "latitude": "37.567196",
+  "longitude": "126.98066"
+},
+{
+  "number": "6",
+  "storeName": "로또",
+  "phoneNumber": "02-2233-3885",
+  "address": "서울 중구 신당동 133-14번지",
+  "latitude": "37.56375",
+  "longitude": "127.01941"
+},
+{
+  "number": "7",
+  "storeName": "가판대",
+  "phoneNumber": "02-2269-1951",
+  "address": "서울 중구 을지로4가 28번지",
+  "latitude": "37.56674",
+  "longitude": "126.99609"
+},
+{
+  "number": "8",
+  "storeName": "국민은행앞가판점",
+  "phoneNumber": "02-2233-1757",
+  "address": "서울 중구 을지로2가 9-1번지",
+  "latitude": "37.563873",
+  "longitude": "126.98206"
+},
+{
+  "number": "9",
+  "storeName": "종합가판제141호",
+  "phoneNumber": "02-2236-5931",
+  "address": "서울 중구 황학동 686번지",
+  "latitude": "37.56571",
+  "longitude": "127.021576"
+},
+{
+  "number": "10",
+  "storeName": "가로판매점117호",
+  "phoneNumber": "02-2273-6671",
+  "address": "서울 중구 을지로6가 18-88번지",
+  "latitude": "37.567574",
+  "longitude": "127.008484"
+},
+{
+  "number": "11",
+  "storeName": "토큰박스45",
+  "phoneNumber": "02-2277-0379",
+  "address": "서울 중구 광희동1가 186-1번지",
+  "latitude": "37.565052",
+  "longitude": "127.007164"
+},
+{
+  "number": "12",
+  "storeName": "상호없음",
+  "phoneNumber": "02-2238-0417",
+  "address": "서울 중구 신당동 365-13",
+  "latitude": "37.561573",
+  "longitude": "127.019455"
+},
+{
+  "number": "13",
+  "storeName": "가판점",
+  "phoneNumber": "02-2279-1953",
+  "address": "서울 중구 을지로4가 140-1",
+  "latitude": "37.56684",
+  "longitude": "126.99955"
+},
+{
+  "number": "14",
+  "storeName": "스카라극장초동가판점",
+  "phoneNumber": "02-2267-2097",
+  "address": "서울 중구 초동 40-1",
+  "latitude": "37.564064",
+  "longitude": "126.99257"
+},
+{
+  "number": "15",
+  "storeName": "상호없음",
+  "phoneNumber": "02-756-1097",
+  "address": "서울 중구 태평로2가 43",
+  "latitude": "37.563076",
+  "longitude": "126.97656"
+},
+{
+  "number": "16",
+  "storeName": "명동2가로또가판대",
+  "phoneNumber": "02-777-7949",
+  "address": "서울 중구 명동2가 97-2번지",
+  "latitude": "37.56258",
+  "longitude": "126.98196"
+},
+{
+  "number": "17",
+  "storeName": "가판100호",
+  "phoneNumber": "02-2277-6022",
+  "address": "서울 중구 을지로3가 5-4번지",
+  "latitude": "37.566418",
+  "longitude": "126.99076"
+},
+{
+  "number": "18",
+  "storeName": "남대문회현역가판15호",
+  "phoneNumber": "02-319-3243",
+  "address": "서울 중구 남창동 47-31번지",
+  "latitude": "37.556656",
+  "longitude": "126.976524"
+},
+{
+  "number": "19",
+  "storeName": "신가로판매점",
+  "phoneNumber": "02-756-7830",
+  "address": "서울 중구 태평로2가 360-1번지",
+  "latitude": "37.564636",
+  "longitude": "126.976616"
+},
+{
+  "number": "20",
+  "storeName": "가로판매대제152호(신)",
+  "phoneNumber": "02-734-0659",
+  "address": "서울 중구 남대문로1가 22-6번지",
+  "latitude": "37.567257",
+  "longitude": "126.98301"
+},
+{
+  "number": "21",
+  "storeName": "가로가판대제57호(구)",
+  "phoneNumber": "02-319-2598",
+  "address": "서울 중구 태평로2가 69-1번지",
+  "latitude": "37.562878",
+  "longitude": "126.97706"
+},
+{
+  "number": "22",
+  "storeName": "종합가로가판점",
+  "phoneNumber": "02-2279-6931",
+  "address": "서울 중구 광희동1가 202-1번지",
+  "latitude": "37.564335",
+  "longitude": "127.00628"
+},
+{
+  "number": "23",
+  "storeName": "중구가판12호",
+  "phoneNumber": "02-3789-1440",
+  "address": "서울 중구 남대문로5가 541번지",
+  "latitude": "37.555466",
+  "longitude": "126.97375"
+},
+{
+  "number": "24",
+  "storeName": "가로판매대제18호",
+  "phoneNumber": "02-777-5573",
+  "address": "서울 중구 회현동1가 203",
+  "latitude": "37.558945",
+  "longitude": "126.98291"
+},
+{
+  "number": "25",
+  "storeName": "중구-가로가판대-37",
+  "phoneNumber": "02-773-8798",
+  "address": "서울 중구 남대문로3가 30-6번지",
+  "latitude": "37.56079",
+  "longitude": "126.97805"
+},
+{
+  "number": "26",
+  "storeName": "가로판매대제13호",
+  "phoneNumber": "02-319-2065",
+  "address": "서울 중구 남창동 169-2번지",
+  "latitude": "37.557274",
+  "longitude": "126.97685"
+},
+{
+  "number": "27",
+  "storeName": "가판14호",
+  "phoneNumber": "02-778-8638",
+  "address": "서울 중구 남창동 61-4번지",
+  "latitude": "37.55778",
+  "longitude": "126.97673"
+},
+{
+  "number": "28",
+  "storeName": "신문가판대",
+  "phoneNumber": "02-777-4576",
+  "address": "서울 중구 남대문로5가 63-13",
+  "latitude": "37.557697",
+  "longitude": "126.97354"
+},
+{
+  "number": "29",
+  "storeName": "가로판매대",
+  "phoneNumber": "02-319-2731",
+  "address": "서울 중구 회현동1가 202-2번지",
+  "latitude": "37.561077",
+  "longitude": "126.98006"
+},
+{
+  "number": "30",
+  "storeName": "신간판",
+  "phoneNumber": "02-318-8245",
+  "address": "서울 중구 무교동 12-1번지",
+  "latitude": "37.56806",
+  "longitude": "126.97947"
+},
+{
+  "number": "31",
+  "storeName": "태양비디오",
+  "phoneNumber": "02-2236-2646",
+  "address": "서울 중구 신당동 355-8 건물내 CU 편의점",
+  "latitude": "37.55457",
+  "longitude": "127.00919"
+},
+{
+  "number": "32",
+  "storeName": "샌드빈(SANDBEAN)",
+  "phoneNumber": "02-2277-8956",
+  "address": "서울 중구 장충동2가 9-2번지",
+  "latitude": "37.561302",
+  "longitude": "127.005585"
+},
+{
+  "number": "33",
+  "storeName": "꿈이현실로",
+  "phoneNumber": "02-2285-6324",
+  "address": "서울 중구 주교동 135-1번지",
+  "latitude": "37.56853",
+  "longitude": "126.99776"
+},
+{
+  "number": "34",
+  "storeName": "우리마트",
+  "phoneNumber": "02-2268-5053",
+  "address": "서울 중구 충무로4가 62-9번지",
+  "latitude": "37.563156",
+  "longitude": "126.99817"
+},
+{
+  "number": "35",
+  "storeName": "샛별복권방",
+  "phoneNumber": "02-2236-3987",
+  "address": "서울 중구 신당동 349-57 1층",
+  "latitude": "37.554466",
+  "longitude": "127.01198"
+},
+{
+  "number": "36",
+  "storeName": "필동반점",
+  "phoneNumber": "02-2272-2782",
+  "address": "서울 중구 필동2가 74-3번지",
+  "latitude": "37.559998",
+  "longitude": "126.99648"
+},
+{
+  "number": "37",
+  "storeName": "로또와토토",
+  "phoneNumber": "02-776-2010",
+  "address": "서울 중구 태평로2가 52-1번지",
+  "latitude": "37.563667",
+  "longitude": "126.97761"
+},
+{
+  "number": "38",
+  "storeName": "팡팡복권방",
+  "phoneNumber": "02-753-7960",
+  "address": "서울 중구 회현동1가 194-11번지",
+  "latitude": "37.55797",
+  "longitude": "126.978355"
+},
+{
+  "number": "39",
+  "storeName": "복권",
+  "phoneNumber": "070-8849-8958",
+  "address": "서울 중구 을지로2가 9-7번지 을지입구지하도상가 92호",
+  "latitude": "37.566624",
+  "longitude": "126.99456"
+},
+{
+  "number": "40",
+  "storeName": "행운마트",
+  "phoneNumber": "02-2274-4251",
+  "address": "서울 중구 인현동1가 97-2번지",
+  "latitude": "37.564224",
+  "longitude": "126.99387"
+},
+{
+  "number": "41",
+  "storeName": "복권나라",
+  "phoneNumber": "02-319-5519",
+  "address": "서울 중구 남대문로5가 21-1",
+  "latitude": "37.55797",
+  "longitude": "126.97376"
+},
+{
+  "number": "42",
+  "storeName": "사과나무",
+  "phoneNumber": "02-2275-5619",
+  "address": "서울 중구 오장동 206-37번지",
+  "latitude": "37.564392",
+  "longitude": "127.00176"
+},
+{
+  "number": "43",
+  "storeName": "하이로또복권방",
+  "phoneNumber": "02-2252-6633",
+  "address": "서울 중구 신당동 387-60번지",
+  "latitude": "37.561108",
+  "longitude": "127.01189"
+},
+{
+  "number": "44",
+  "storeName": "행운복권방",
+  "phoneNumber": "02-2236-4122",
+  "address": "서울 중구 신당동 241-5번지",
+  "latitude": "37.56352",
+  "longitude": "127.01481"
+},
+{
+  "number": "45",
+  "storeName": "두산타워앞로또판매점",
+  "phoneNumber": "02-2269-9626",
+  "address": "서울 중구 을지로6가 18-12번지",
+  "latitude": "37.56893",
+  "longitude": "127.0088"
+},
+{
+  "number": "46",
+  "storeName": "늘푸른복권방",
+  "phoneNumber": "02-2232-6181",
+  "address": "서울 중구 을지로3가 108",
+  "latitude": "37.56769",
+  "longitude": "126.99265"
+},
+{
+  "number": "47",
+  "storeName": "신가로판매점",
+  "phoneNumber": "",
+  "address": "서울 중구 남대문로5가 19-4번지",
+  "latitude": "37.5587",
+  "longitude": "126.97444"
+},
+{
+  "number": "48",
+  "storeName": "명동역5번출구가판",
+  "phoneNumber": "02-319-8753",
+  "address": "서울 중구 충무로1가 24-1번지",
+  "latitude": "37.561012",
+  "longitude": "126.98451"
+},
+{
+  "number": "49",
+  "storeName": "훼밀리24",
+  "phoneNumber": "02-2253-4598",
+  "address": "서울 중구 신당동 249-68번지",
+  "latitude": "37.565273",
+  "longitude": "127.014084"
+},
+{
+  "number": "50",
+  "storeName": "수정식품",
+  "phoneNumber": "02-2274-1305",
+  "address": "서울 중구 을지로4가 156-1번지",
+  "latitude": "37.566963",
+  "longitude": "127.00021"
+},
+{
+  "number": "51",
+  "storeName": "을지복권방",
+  "phoneNumber": "02-2279-4477",
+  "address": "서울 중구 을지로3가 295-2번지 남강빌딩1층",
+  "latitude": "37.56591",
+  "longitude": "126.99247"
+},
+{
+  "number": "52",
+  "storeName": "동광상회",
+  "phoneNumber": "02-2231-9244",
+  "address": "서울 중구 신당동 372-31번지 동호빌딩1층",
+  "latitude": "37.55292",
+  "longitude": "127.01172"
+},
+{
+  "number": "53",
+  "storeName": "하임마트",
+  "phoneNumber": "02-2233-6388",
+  "address": "서울 중구 황학동 714번지 1층",
+  "latitude": "37.565865",
+  "longitude": "127.02078"
+},
+{
+  "number": "54",
+  "storeName": "로또복권방",
+  "phoneNumber": "070-8285-9143",
+  "address": "서울 중구 저동2가 17-1번지",
+  "latitude": "37.564903",
+  "longitude": "126.990265"
+},
+{
+  "number": "55",
+  "storeName": "남산골",
+  "phoneNumber": "02-2274-0184",
+  "address": "서울 중구 필동2가 37-11번지",
+  "latitude": "37.561584",
+  "longitude": "126.996574"
+},
+{
+  "number": "56",
+  "storeName": "한밭식품",
+  "phoneNumber": "02-2267-8398",
+  "address": "서울 중구 을지로4가 85-1",
+  "latitude": "37.56715",
+  "longitude": "126.99787"
+},
+{
+  "number": "57",
+  "storeName": "충남상회",
+  "phoneNumber": "02-2252-5611",
+  "address": "서울 중구 황학동 1362번지",
+  "latitude": "37.568794",
+  "longitude": "127.020645"
+},
+{
+  "number": "58",
+  "storeName": "흥인식품",
+  "phoneNumber": "02-2237-5430",
+  "address": "서울 중구 흥인동 72번지",
+  "latitude": "37.565598",
+  "longitude": "127.01726"
+},
+{
+  "number": "59",
+  "storeName": "육일슈퍼마켓",
+  "phoneNumber": "02-319-2001",
+  "address": "서울 중구 다동 50번지",
+  "latitude": "37.567863",
+  "longitude": "126.9803"
+},
+{
+  "number": "60",
+  "storeName": "한성식품",
+  "phoneNumber": "02-2274-5313",
+  "address": "서울 중구 저동2가 48-7번지",
+  "latitude": "37.56346",
+  "longitude": "126.990395"
+},
+{
+  "number": "61",
+  "storeName": "무교식품",
+  "phoneNumber": "02-752-7707",
+  "address": "서울 중구 다동 70 135호",
+  "latitude": "37.567738",
+  "longitude": "126.98093"
+},
+{
+  "number": "62",
+  "storeName": "행운충전소",
+  "phoneNumber": "02-2237-3655",
+  "address": "서울 중구 황학동 732번지",
+  "latitude": "37.56593",
+  "longitude": "127.01916"
+},
+{
+  "number": "63",
+  "storeName": "프레야행운방",
+  "phoneNumber": "02-2048-1472",
+  "address": "서울 중구 신당동 291-1번지",
+  "latitude": "37.562454",
+  "longitude": "127.016495"
+},
+{
+  "number": "64",
+  "storeName": "복권방",
+  "phoneNumber": "",
+  "address": "서울 중구 중림동 144-2 1층 중간지점",
+  "latitude": "37.56196",
+  "longitude": "126.99647"
+},
+{
+  "number": "65",
+  "storeName": "대박복권방",
+  "phoneNumber": "02-2235-4010",
+  "address": "서울 중구 무학동 11-2번지 1층3호",
+  "latitude": "37.564987",
+  "longitude": "127.01578"
+},
+{
+  "number": "66",
+  "storeName": "노다지복권방",
+  "phoneNumber": "02-2233-6331",
+  "address": "서울 중구 신당동 110-10번지",
+  "latitude": "37.564995",
+  "longitude": "127.01778"
+},
+{
+  "number": "67",
+  "storeName": "하나더마트",
+  "phoneNumber": "02-2238-3190",
+  "address": "서울 중구 신당동 152-7번지",
+  "latitude": "37.564358",
+  "longitude": "127.02191"
+},
+{
+  "number": "68",
+  "storeName": "대호식품",
+  "phoneNumber": "02-2263-3743",
+  "address": "서울 중구 을지로6가 29-3번지",
+  "latitude": "37.565903",
+  "longitude": "127.00569"
+},
+{
+  "number": "69",
+  "storeName": "가로판매점",
+  "phoneNumber": "02-752-7657",
+  "address": "서울 중구 서소문동 53-6번지",
+  "latitude": "37.56303",
+  "longitude": "126.97326"
+},
+{
+  "number": "70",
+  "storeName": "하나은행별관앞가판43호",
+  "phoneNumber": "02-776-2995",
+  "address": "서울 중구 을지로2가 9-10번지 하나은행별관앞가판",
+  "latitude": "37.56637",
+  "longitude": "126.98401"
+},
+{
+  "number": "71",
+  "storeName": "종합가로판매점113호패션TV앞",
+  "phoneNumber": "02-2263-9932",
+  "address": "서울 중구 을지로6가 21-31",
+  "latitude": "37.569046",
+  "longitude": "127.00506"
+},
+{
+  "number": "72",
+  "storeName": "다동로또",
+  "phoneNumber": "02-2236-7787",
+  "address": "서울 중구 신당동 52-107 107",
+  "latitude": "37.56236",
+  "longitude": "127.01893"
+},
+{
+  "number": "73",
+  "storeName": "코코주",
+  "phoneNumber": "02-2265-5118",
+  "address": "서울 중구 을지로6가 18-71 1층",
+  "latitude": "37.567425",
+  "longitude": "127.005905"
+},
+{
+  "number": "74",
+  "storeName": "천하명당복권방",
+  "phoneNumber": "02-2268-1906",
+  "address": "서울 중구 쌍림동 25-12 1층 104호",
+  "latitude": "37.563316",
+  "longitude": "127.00417"
+},
+{
+  "number": "75",
+  "storeName": "을지상회",
+  "phoneNumber": "02-2285-3303",
+  "address": "서울 중구 을지로6가 18-188번지 동화연쇄상가1층특3",
+  "latitude": "37.568146",
+  "longitude": "127.0059"
+},
+{
+  "number": "76",
+  "storeName": "무교식품",
+  "phoneNumber": "02-752-7707",
+  "address": "서울 중구 다동 70 135호",
+  "latitude": "37.567738",
+  "longitude": "126.98093"
+}
+]

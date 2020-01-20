@@ -1,0 +1,34 @@
+[
+{
+  "number": "1",
+  "storeName": "씨유 함양한주점",
+  "phoneNumber": "055-963-6589",
+  "address": "경남 함양군 함양읍 용평리 684-8번지",
+  "latitude": "35.52086",
+  "longitude": "127.73024"
+},
+{
+  "number": "2",
+  "storeName": "믿음사복권방",
+  "phoneNumber": "055-962-9710",
+  "address": "경남 함양군 안의면 당본리 159-3번지",
+  "latitude": "35.62843",
+  "longitude": "127.81198"
+},
+{
+  "number": "3",
+  "storeName": "한솔슈퍼",
+  "phoneNumber": "055-963-1156",
+  "address": "경남 함양군 함양읍 교산리 156-2번지",
+  "latitude": "35.522545",
+  "longitude": "127.7317"
+},
+{
+  "number": "4",
+  "storeName": "한들복권(동행복권)",
+  "phoneNumber": "055-963-3855",
+  "address": "경남 함양군 함양읍 용평리 628-2 1층 (CU한들점)",
+  "latitude": "35.519157",
+  "longitude": "127.73101"
+}
+]
