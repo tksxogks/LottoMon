@@ -7,21 +7,24 @@
     tools:context=".RodingActivity"
     android:background="#F5F5F5">
 
+
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_centerInParent="true">
-    <ImageView
-        android:id="@+id/iv_Roding"
-        android:src="@drawable/character"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        />
         <ImageView
             android:layout_width="200dp"
             android:layout_height="100dp"
             android:src="@drawable/title"/>
+        <ImageView
+        android:id="@+id/iv_Roding"
+        android:src="@drawable/character"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="150px"
+        />
     </LinearLayout>
 
 </RelativeLayout>

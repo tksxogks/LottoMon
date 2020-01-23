@@ -4,10 +4,14 @@ import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.graphics.LinearGradient;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
+import android.util.Base64;
 import android.util.Log;
 
 import androidx.core.app.ActivityCompat;
@@ -28,7 +32,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -47,9 +54,25 @@ public class RodingActivity extends Activity {
 
     public static int lotto_round;
     public static ArrayList<SearchItem> searchItems = new ArrayList<>();
-    public static JSONArray jsonArray;
+    public JSONArray jsonArray;
 
-    ArrayList<MapItem> mapItems = new ArrayList<>();
+    public static ArrayList<MapItem> gangwon[] = new ArrayList[17]; //강원
+    public static ArrayList<MapItem> gyeonggi[] = new ArrayList[42]; //경기
+    public static ArrayList<MapItem> gyeongnam[] = new ArrayList[22]; //경남
+    public static ArrayList<MapItem> gyeongbuk[] = new ArrayList[24]; //경북
+    public static ArrayList<MapItem> gwangju[] = new ArrayList[5]; //광주
+    public static ArrayList<MapItem> daegu[] = new ArrayList[8]; //대구
+    public static ArrayList<MapItem> daejeon[] = new ArrayList[5]; //대전
+    public static ArrayList<MapItem> busan[] = new ArrayList[16]; //부산
+    public static ArrayList<MapItem> seoul[] = new ArrayList[25]; //서울
+    public static ArrayList<MapItem> sejong = new ArrayList<>(); //세종
+    public static ArrayList<MapItem> ulsan[] = new ArrayList[5]; //울산
+    public static ArrayList<MapItem> incheon[] = new ArrayList[10]; //인천
+    public static ArrayList<MapItem> jeonnam[] = new ArrayList[22]; //전남
+    public static ArrayList<MapItem> jeonbuk[] = new ArrayList[15]; //전북
+    public static ArrayList<MapItem> jeju[] = new ArrayList[2]; //제주
+    public static ArrayList<MapItem> chungnam[] = new ArrayList[16]; //충남
+    public static ArrayList<MapItem> chungbuk[] = new ArrayList[14]; //충북
 
     private String drwNo;
     private String drwNoDate;
@@ -101,26 +124,32 @@ public class RodingActivity extends Activity {
 
         permissionsCheck();
 
-
     }
 
-    public void permissionsCheck(){
-        if (!hasPermissions(this, permissions)) {
-            ActivityCompat.requestPermissions(this, permissions, PERMISSION_ALL);
-        }
-        // 권한이 허용되어있다면 다음 화면 진행
-        else {
-            Log.e("TAG", "퍼미션허용완료");
-            lottoRound();
-            jsonCopy();
-            lottoParser();
-            try {
-                netParser.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+
+    public void permissionsCheck() {
+        Handler handler = new Handler();
+        handler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                if (!hasPermissions(RodingActivity.this, permissions)) {
+                    ActivityCompat.requestPermissions(RodingActivity.this, permissions, PERMISSION_ALL);
+                }
+                // 권한이 허용되어있다면 다음 화면 진행
+                else {
+                    Log.e("TAG", "퍼미션허용완료");
+                    lottoRound();
+                    jsonCopy();
+                    lottoParser();
+                    try {
+                        netParser.join();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                    mapParser();
+                }
             }
-            mapParser();
-        }
+        }, 3000);
     }
 
     public boolean hasPermissions(Context context, String... permissions) {
@@ -147,31 +176,353 @@ public class RodingActivity extends Activity {
     public void mapParser(){
         try {
             dosi = getAssets().list("map/");
-            for (int i = 0; i<dosi.length; i++) {
-                String[] g = getAssets().list("map/"+dosi[i]+"/");
+            for (int i = 0; i < dosi.length; i++) {
+                String[] g = getAssets().list("map/" + dosi[i] + "/");
+                for(int n=0 ; n<g.length ; n++){
+                    g[n] = g[n];
+                }
                 gunsi.add(g);
+            }
+            for (int i = 0; i < dosi.length; i++) {
+                //dosi - 17개
+                for (int j = 0; j < gunsi.get(i).length; j++) {
+                    //gunsi.get(i) = 군or시
+                    if (dosi[i].equals("세종")) {
+                    InputStream is = getAssets().open("map/" + dosi[i] + "/" + dosi[i] + ".json");
+                    int size = is.available();
+                    byte[] buffer = new byte[size];
+                    is.read(buffer);
+                    is.close();
+                    String json = new String(buffer, "UTF-8");
+                    jsonArray = new JSONArray(json);
+
+                    for (int k = 0; k < jsonArray.length(); k++) {
+                        JSONObject jsonObject = jsonArray.getJSONObject(k);
+                        storeName = jsonObject.getString("storeName");
+                        phoneNumber = jsonObject.getString("phoneNumber");
+                        address = jsonObject.getString("address");
+                        lat = jsonObject.getDouble("latitude");
+                        lon = jsonObject.getDouble("latitude");
+                        sejong.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                    }
+                        Log.e("TAG", gunsi.get(i)[j]+"완료 "+sejong.size()+"개");
+                }else{
+                        InputStream is = getAssets().open("map/" + dosi[i] + "/" + gunsi.get(i)[j] + "/" + gunsi.get(i)[j] + ".json");
+                    int size = is.available();
+                    byte[] buffer = new byte[size];
+                    is.read(buffer);
+                    is.close();
+                    String json = new String(buffer, "UTF-8");
+                    jsonArray = new JSONArray(json);
+
+                        switch (dosi[i]) {
+                            case "강원":
+                                ArrayList<MapItem> mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                gangwon[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "경기":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                gyeonggi[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "경남":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                gyeongnam[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "경북":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                gyeongbuk[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "광주":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                gwangju[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "대구":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                daegu[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "대전":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                daejeon[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "부산":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                busan[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "서울":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                seoul[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "울산":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                ulsan[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "인천":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                incheon[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "전남":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                jeonnam[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "전북":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                jeonbuk[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "제주":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                jeju[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "충남":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                chungnam[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                            case "충북":
+                                mapItems = new ArrayList<>();
+                                for (int l = 0; l < jsonArray.length(); l++) {
+                                    try {
+                                        JSONObject jsonObject = jsonArray.getJSONObject(l);
+                                        storeName = jsonObject.getString("storeName");
+                                        phoneNumber = jsonObject.getString("phoneNumber");
+                                        address = jsonObject.getString("address");
+                                        lat = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("latitude");
+                                        mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                                chungbuk[j] = mapItems;
+                                Log.e("TAG", gunsi.get(i)[j]+"완료 "+mapItems.size()+"개");
+                                break;
+                        }
+                    }
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
-        }
-        Log.e("TAG", "mapParser진입");
-
-        for(int i=0 ; i<dosi.length ; i++){
-            for(int j=0 ; j<gunsi.get(i).length ; j++){
-                mapAssetsParse(dosi[i], gunsi.get(i)[j]);
-            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
         Intent intent = new Intent(RodingActivity.this, MainActivity.class);
         startActivity(intent);
         finish();
-
     }
 
 
-    public void mapAssetsParse(String dosi, String gunsi){
 
+    public void mapAssetsParse(String dosi){
         try {
-            InputStream is = getAssets().open("map/"+dosi+"/"+gunsi+"/"+gunsi+".json");
+            InputStream is = getAssets().open("map/"+dosi+"/"+dosi+".json");
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);
@@ -186,17 +537,15 @@ public class RodingActivity extends Activity {
                 address = jsonObject.getString("address");
                 lat = jsonObject.getDouble("latitude");
                 lon = jsonObject.getDouble("latitude");
-
-                mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                sejong.add(new MapItem(storeName, phoneNumber, address, lat, lon));
             }
-            Log.e("TAG", "map파싱완료 : "+dosi+"/"+gunsi+jsonArray.length());
+            Log.e("TAG", "map파싱완료 : "+dosi+"/"+dosi+jsonArray.length());
         } catch (IOException e) {
             e.printStackTrace();
         } catch (JSONException e) {
             e.printStackTrace();
         }
     }
-
 
     //날짜로 로또 회차수 계산하는 메소드
     public void lottoRound() {
@@ -582,6 +931,20 @@ public class RodingActivity extends Activity {
             e.printStackTrace();
         }
         Log.e("add완료", "add완료" + searchItems.size());
+    }
+
+    private void getHashKey(){
+        try {
+            PackageInfo info = getPackageManager().getPackageInfo("패키지이름", PackageManager.GET_SIGNATURES);
+            for (Signature signature : info.signatures) {
+                MessageDigest md = MessageDigest.getInstance("SHA"); md.update(signature.toByteArray());
+                Log.d("TAG","key_hash="+Base64.encodeToString(md.digest(), Base64.DEFAULT));
+            }
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        } catch (NoSuchAlgorithmException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override

@@ -22,92 +22,317 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
+        android:gravity="center_horizontal"
         android:padding="16dp">
 
-    <TextView
-        android:id="@+id/searchMenu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="회차 조회"
-        android:textSize="24dp"
-        android:fontFamily="@font/dovemayo"
-        android:clickable="true"
-        android:layout_marginBottom="8dp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+            <TextView
+                android:id="@+id/menu_drwNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="886회"
+                android:fontFamily="@font/dovemayo"
+                android:textStyle="bold"
+                android:textSize="24sp"
+                android:layout_marginRight="8dp"/>
+            <TextView
+                android:id="@+id/menu_drwDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/dovemayo"
+                android:text="(2019-11-26)"
+                android:textSize="16sp"/>
+        </LinearLayout>
 
-    <TextView
-        android:id="@+id/analysisMenu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="번호 분석"
-        android:textSize="24dp"
-        android:fontFamily="@font/dovemayo"
-        android:layout_marginBottom="8dp"/>
-
-    <TextView
-        android:id="@+id/createMenu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="번호 생성"
-        android:layout_marginBottom="8dp"
-        android:fontFamily="@font/dovemayo"
-        android:textSize="24dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginBottom="4dp">
+            <ImageView
+                android:id="@+id/menu_drwNo1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball01"/>
+            <ImageView
+                android:id="@+id/menu_drwNo2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball12"/>
+            <ImageView
+                android:id="@+id/menu_drwNo3"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball23"/>
+            <ImageView
+                android:id="@+id/menu_drwNo4"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball34"/>
+            <ImageView
+                android:id="@+id/menu_drwNo5"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="4dp"
+                android:src="@drawable/ball45"/>
+            <ImageView
+                android:id="@+id/menu_drwNo6"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/ball06"/>
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/plus"
+                android:layout_marginRight="8dp"
+                android:layout_gravity="center"/>
+            <ImageView
+                android:id="@+id/menu_drwBNo"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/ball28"/>
+        </LinearLayout>
 
         <TextView
-            android:id="@+id/saveNumberMenu"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="저장 번호 확인"
-            android:layout_marginBottom="8dp"
+            android:text="메뉴"
+            android:textSize="28dp"
+            android:textStyle="bold"
             android:fontFamily="@font/dovemayo"
-            android:textSize="24dp" />
+            android:clickable="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"/>
 
-        <TextView
-            android:id="@+id/storeSearchMenu"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="당첨 판매점 조회"
-            android:layout_marginBottom="8dp"
-            android:fontFamily="@font/dovemayo"
-            android:textSize="24dp" />
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
 
-    <TextView
-        android:id="@+id/calculatorMenu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="세금 계산기"
-        android:fontFamily="@font/dovemayo"
-        android:textSize="24dp"
-        android:layout_marginBottom="8dp" />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/lookup"
+                android:layout_marginRight="12dp"/>
 
-        <TextView
-            android:id="@+id/DrawVideoMenu"
+            <TextView
+                android:id="@+id/searchMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="회차 조회"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="추첨 방송 보기"
-            android:fontFamily="@font/dovemayo"
-            android:textSize="24dp"
-            android:layout_marginBottom="8dp" />
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
 
-    <TextView
-        android:id="@+id/infoMenu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="로또 정보"
-        android:fontFamily="@font/dovemayo"
-        android:textSize="24dp"
-        android:layout_marginBottom="8dp" />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/lookup"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/analysisMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="번호 분석"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/createnum"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/createMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="번호 생성"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/savenum"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/saveNumberMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="저장 번호 확인"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/store"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/storeSearchMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="당첨 판매점 조회"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/calculator"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/calculatorMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="세금 계산기"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/broadcast"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/DrawVideoMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="추첨 방송 보기"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/lottoinfo"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/infoMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="로또 정보"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/diagnosis"
+                android:layout_marginRight="12dp"/>
+
+            <TextView
+                android:id="@+id/testMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="셀프 자가 진단"
+                android:textSize="24dp"
+                android:fontFamily="@font/dovemayo"
+                android:clickable="true"/>
+
+        </LinearLayout>
+
         <!-- 로또소개와규칙, 추첨안내, 당첨금지급안내, 추첨방송참관, 미수령당첨금현황, 로또 히스토리(홈페이지) -->
 
         <!-- 건전구매 메뉴 - 과몰입자가진단test, 도박중독test -->
-        <TextView
-            android:id="@+id/testMenu"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="셀프 자가 진단"
-            android:fontFamily="@font/dovemayo"
-            android:textSize="24dp"
-            android:layout_marginBottom="8dp" />
-
 
     </LinearLayout>
 </LinearLayout>

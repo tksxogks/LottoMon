@@ -21,6 +21,13 @@
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/write_backBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_keyboard_backspace_white_24dp"/>
+
     </androidx.appcompat.widget.Toolbar>
 
     <LinearLayout

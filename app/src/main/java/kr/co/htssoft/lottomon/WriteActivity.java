@@ -38,6 +38,8 @@ public class WriteActivity extends AppCompatActivity {
     ViewGroup view;
     Button btn;
 
+    private ImageView backBtn;
+
     ArrayList<WriteNumberItem> numberItems = new ArrayList<>();
     ArrayList<Integer> num = new ArrayList<>();
 
@@ -63,7 +65,14 @@ public class WriteActivity extends AppCompatActivity {
         write_ll_42 = findViewById(R.id.write_ll_42);
         write_ll_45 = findViewById(R.id.write_ll_45);
         view = findViewById(R.id.ll);
+        backBtn = findViewById(R.id.write_backBtn);
 
+        backBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
     }
 
     public void clickNumBtn(View view) {
