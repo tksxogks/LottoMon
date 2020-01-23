@@ -8,6 +8,7 @@ import android.text.Selection;
 import android.text.TextWatcher;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import org.jsoup.parser.Parser;
@@ -23,14 +24,23 @@ public class CalculatorActivity extends AppCompatActivity {
     TextView easyPrizeMoney;
     TextView easyResultPrizeMoney;
 
+    private ImageView backBtn;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculator);
 
+        backBtn = findViewById(R.id.calculator_backBtn);
+
+        backBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
+
     }
-
-
 
     public void clickBtn(View view) {
         prizeMoney = findViewById(R.id.prizeMoney);

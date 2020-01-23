@@ -17,13 +17,12 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:theme="@style/AppTheme.Toolbar">
-
             <ImageView
                 android:layout_width="90dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
                 android:src="@drawable/title"
                 android:layout_gravity="center"/>
-
         </androidx.appcompat.widget.Toolbar>
 
         <RelativeLayout
@@ -31,131 +30,694 @@
             android:layout_height="match_parent"
             android:layout_weight="1">
 
+            <ImageView
+                android:id="@+id/qrBtn"
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/qricon"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="24dp"/>
+            <ImageView
+                android:id="@+id/writeBtn"
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/search"
+                android:layout_marginTop="16dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="24dp"/>
+
             <LinearLayout
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                android:layout_centerInParent="true">
+                android:padding="24dp">
 
                 <TextView
                     android:id="@+id/tv_round"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="878회차"
-                    android:textStyle="bold"
-                    android:textSize="56sp"
                     android:layout_gravity="center"
-                    android:fontFamily="@font/dovemayo"/>
+                    android:fontFamily="@font/dovemayo"
+                    android:text="878회"
+                    android:textSize="56sp"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/tv_drtdate"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="(2019년 09월 28일 추첨)"
                     android:layout_gravity="center"
+                    android:layout_marginBottom="8dp"
                     android:fontFamily="@font/dovemayo"
-                    android:layout_marginBottom="16dp"/>
+                    android:text="(2019년 09월 28일 추첨)" />
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:layout_marginBottom="16dp">
+                    android:layout_marginBottom="8dp">
 
                     <ImageView
                         android:id="@+id/iv_num1"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="4dp"
-                        android:src="@drawable/ball01"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball01" />
+
                     <ImageView
                         android:id="@+id/iv_num2"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="4dp"
-                        android:src="@drawable/ball12"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball12" />
+
                     <ImageView
                         android:id="@+id/iv_num3"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="4dp"
-                        android:src="@drawable/ball23"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball23" />
+
                     <ImageView
                         android:id="@+id/iv_num4"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="4dp"
-                        android:src="@drawable/ball34"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball34" />
+
                     <ImageView
                         android:id="@+id/iv_num5"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="4dp"
-                        android:src="@drawable/ball45"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball45" />
+
                     <ImageView
                         android:id="@+id/iv_num6"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
                         android:layout_marginRight="8dp"
-                        android:src="@drawable/ball06"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball06" />
+
                     <ImageView
-                        android:layout_width="32dp"
+                        android:layout_width="0dp"
                         android:layout_height="32dp"
-                        android:src="@drawable/plus"
+                        android:layout_gravity="center"
                         android:layout_marginRight="8dp"
-                        android:layout_gravity="center"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/plus" />
+
                     <ImageView
                         android:id="@+id/iv_num7"
-                        android:layout_width="44dp"
+                        android:layout_width="0dp"
                         android:layout_height="44dp"
-                        android:src="@drawable/ball28"/>
+                        android:layout_weight="1"
+                        android:src="@drawable/ball28" />
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:layout_gravity="center">
-                    <Button
-                        android:id="@+id/home_info"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="자세히보기"/>
-                    <Button
-                        android:id="@+id/home_storeSearch"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="당첨판매점 확인"/>
-                </LinearLayout>
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
 
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:layout_gravity="center">
-                    <Button
-                        android:id="@+id/qrBtn"
+                    <TextView
+                        android:id="@+id/home_totalSellAmount"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="qr코드"/>
-                    <Button
-                        android:id="@+id/writeBtn"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="직접입력"/>
-                </LinearLayout>
+                        android:layout_gravity="right"
+                        android:layout_marginBottom="4dp"
+                        android:fontFamily="@font/dovemayo"
+                        android:text="총판매금액 : 422억 5911만 3000원" />
 
-                <!--<TextView
-                    android:id="@+id/tv_winnerinfo"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="1등 당첨금 : 32억 799만 3500원 / 6명"
-                    android:layout_gravity="center"
-                    android:fontFamily="@font/dovemayo"
-                    android:layout_marginBottom="16dp"/>-->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="1dp"
+                            android:background="@drawable/customlayout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="1등"
+                                android:textSize="16sp" />
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_firstWinner"
+                                    android:layout_width="100dp"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="7명" />
+
+                                <TextView
+                                    android:id="@+id/home_auto"
+                                    android:layout_width="100dp"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="(자동4수동3반자동1)"
+                                    android:textSize="11sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="50dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="50dp"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="총액" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="당첨금" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_firstTotalAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="208억 2250만 6502원" />
+
+                                <TextView
+                                    android:id="@+id/home_firstAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="29억 7464원 3786원" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="1dp"
+                            android:background="@drawable/customlayout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="2등"
+                                android:textSize="16sp" />
+
+                            <TextView
+                                android:id="@+id/home_secondWinner"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:gravity="right"
+                                android:text="59명" />
+
+                            <LinearLayout
+                                android:layout_width="50dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="총액" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="당첨금" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_secondTotalAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="34억 7041만 7760원" />
+
+                                <TextView
+                                    android:id="@+id/home_secondAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="5882만 640원" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="1dp"
+                            android:background="@drawable/customlayout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="3등"
+                                android:textSize="16sp" />
+
+                            <TextView
+                                android:id="@+id/home_thirdWinner"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:gravity="right"
+                                android:text="2,140명" />
+
+                            <LinearLayout
+                                android:layout_width="50dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="총액" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="당첨금" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_thirdTotalAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="34억 7041만 8740원" />
+
+                                <TextView
+                                    android:id="@+id/home_thirdAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="162만 1691원" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="1dp"
+                            android:background="@drawable/customlayout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="4등"
+                                android:textSize="16sp" />
+
+                            <TextView
+                                android:id="@+id/home_fourthWinner"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:gravity="right"
+                                android:text="109,766명" />
+
+                            <LinearLayout
+                                android:layout_width="50dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="총액" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="당첨금" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_fourthTotalAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="54억 8830만원" />
+
+                                <TextView
+                                    android:id="@+id/home_fourthAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="5만원" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="1dp"
+                            android:background="@drawable/customlayout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="5등"
+                                android:textSize="16sp" />
+
+                            <TextView
+                                android:id="@+id/home_fifthWinner"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/dovemayo"
+                                android:gravity="right"
+                                android:text="1,768,281명" />
+
+                            <LinearLayout
+                                android:layout_width="50dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="총액" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="당첨금" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/home_fifthTotalAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="88억 4140만 5000원" />
+
+                                <TextView
+                                    android:id="@+id/home_fifthAmount"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:gravity="right"
+                                    android:text="5000원" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/customlayout"
+                            android:orientation="vertical"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:id="@+id/home_oddEven"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="홀짝 : 홀2짝4" />
+
+                            <TextView
+                                android:id="@+id/home_sum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="번호 합 : 144" />
+
+                            <TextView
+                                android:id="@+id/home_lastNum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="끝수 : 1-2-3-4-5-6-8" />
+
+                            <TextView
+                                android:id="@+id/home_sameLastNum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="동끝수 : " />
+
+                            <TextView
+                                android:id="@+id/home_lastNumSum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="끝수 합 : 24" />
+
+                            <TextView
+                                android:id="@+id/home_numSize"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="고저 : 고3저3" />
+
+                            <TextView
+                                android:id="@+id/home_twinNum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/dovemayo"
+                                android:text="쌍수 : " />
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:id="@+id/tv"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:fontFamily="@font/dovemayo"
+                                    android:text="출현횟수 :" />
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/tv"
+                                    android:layout_centerInParent="true"
+                                    android:gravity="center"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:orientation="horizontal">
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo1"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball01" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo1"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 151번" />
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo2"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball12" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo2"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 143번" />
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo3"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball23" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo3"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 121번" />
+                                    </LinearLayout>
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal">
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo4"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball34" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo4"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 144번" />
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo5"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball45" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo5"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 122번" />
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwNo6"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball06" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwNo6"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 141번" />
+
+                                        <ImageView
+                                            android:id="@+id/home_iv_infoDrwBNo"
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:src="@drawable/ball28" />
+
+                                        <TextView
+                                            android:id="@+id/home_tv_infoDrwBNo"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginRight="4dp"
+                                            android:text=": 122번" />
+                                    </LinearLayout>
+                                </LinearLayout>
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
             </LinearLayout>
         </RelativeLayout>
-
     </LinearLayout>
 
 </androidx.drawerlayout.widget.DrawerLayout>

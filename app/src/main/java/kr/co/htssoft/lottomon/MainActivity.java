@@ -8,6 +8,7 @@ import androidx.viewpager.widget.ViewPager;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -120,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(result.getContents().toString()));
                     startActivityForResult(intent, 0);
                 } catch (Exception e){
+                    Log.e("TAG", "IOException");
                 }
             }
         } else {

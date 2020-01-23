@@ -23,6 +23,12 @@
             android:fontFamily="@font/dovemayo"
             android:layout_gravity="center"/>
 
+        <ImageView
+            android:id="@+id/calculator_backBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_keyboard_backspace_white_24dp"/>
+
     </androidx.appcompat.widget.Toolbar>
 
     <LinearLayout
