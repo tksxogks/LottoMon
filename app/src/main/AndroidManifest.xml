@@ -48,6 +48,12 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBVUAVZa8rcUNF1ufxTUwne6KImh4wjq-E" />
 
+        <service android:name=".PushNotification">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
     </application>
 
 </manifest>
