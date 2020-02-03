@@ -7,8 +7,8 @@ android {
         applicationId "kr.co.htssoft.lottomon"
         minSdkVersion 19
         targetSdkVersion 29
-        versionCode 3
-        versionName "1.003"
+        versionCode 4
+        versionName "1.004"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -48,5 +48,7 @@ dependencies {
     implementation 'com.android.support:preference-v7:28.0.0'
     implementation 'com.google.android.gms:play-services-maps:17.0.0'
     implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'com.google.firebase:firebase-core:17.0.0'
+    implementation 'com.google.firebase:firebase-messaging:20.0.0'
 
 }

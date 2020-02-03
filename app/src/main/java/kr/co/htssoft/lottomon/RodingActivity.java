@@ -74,6 +74,7 @@ public class RodingActivity extends Activity {
     public static ArrayList<MapItem> chungnam[] = new ArrayList[16]; //충남
     public static ArrayList<MapItem> chungbuk[] = new ArrayList[14]; //충북
 
+
     private String drwNo;
     private String drwNoDate;
     private String drwNo1;
@@ -188,32 +189,32 @@ public class RodingActivity extends Activity {
                 for (int j = 0; j < gunsi.get(i).length; j++) {
                     //gunsi.get(i) = 군or시
                     if (dosi[i].equals("세종")) {
-                    InputStream is = getAssets().open("map/" + dosi[i] + "/" + dosi[i] + ".json");
-                    int size = is.available();
-                    byte[] buffer = new byte[size];
-                    is.read(buffer);
-                    is.close();
-                    String json = new String(buffer, "UTF-8");
-                    jsonArray = new JSONArray(json);
+                        InputStream is = getAssets().open("map/" + dosi[i] + "/" + dosi[i] + ".json");
+                        int size = is.available();
+                        byte[] buffer = new byte[size];
+                        is.read(buffer);
+                        is.close();
+                        String json = new String(buffer, "UTF-8");
+                        jsonArray = new JSONArray(json);
 
-                    for (int k = 0; k < jsonArray.length(); k++) {
-                        JSONObject jsonObject = jsonArray.getJSONObject(k);
-                        storeName = jsonObject.getString("storeName");
-                        phoneNumber = jsonObject.getString("phoneNumber");
-                        address = jsonObject.getString("address");
-                        lat = jsonObject.getDouble("latitude");
-                        lon = jsonObject.getDouble("latitude");
-                        sejong.add(new MapItem(storeName, phoneNumber, address, lat, lon));
-                    }
+                        for (int k = 0; k < jsonArray.length(); k++) {
+                            JSONObject jsonObject = jsonArray.getJSONObject(k);
+                            storeName = jsonObject.getString("storeName");
+                            phoneNumber = jsonObject.getString("phoneNumber");
+                            address = jsonObject.getString("address");
+                            lat = jsonObject.getDouble("latitude");
+                            lon = jsonObject.getDouble("longitude");
+                            sejong.add(new MapItem(storeName, phoneNumber, address, lat, lon));
+                        }
                         Log.e("TAG", gunsi.get(i)[j]+"완료 "+sejong.size()+"개");
-                }else{
+                    }else{
                         InputStream is = getAssets().open("map/" + dosi[i] + "/" + gunsi.get(i)[j] + "/" + gunsi.get(i)[j] + ".json");
-                    int size = is.available();
-                    byte[] buffer = new byte[size];
-                    is.read(buffer);
-                    is.close();
-                    String json = new String(buffer, "UTF-8");
-                    jsonArray = new JSONArray(json);
+                        int size = is.available();
+                        byte[] buffer = new byte[size];
+                        is.read(buffer);
+                        is.close();
+                        String json = new String(buffer, "UTF-8");
+                        jsonArray = new JSONArray(json);
 
                         switch (dosi[i]) {
                             case "강원":
@@ -225,7 +226,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -243,7 +244,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -261,7 +262,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -279,7 +280,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -297,7 +298,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -315,7 +316,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -333,7 +334,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -351,7 +352,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -369,7 +370,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -387,7 +388,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -405,7 +406,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -423,7 +424,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -441,7 +442,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -459,7 +460,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -477,7 +478,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();
@@ -495,7 +496,7 @@ public class RodingActivity extends Activity {
                                         phoneNumber = jsonObject.getString("phoneNumber");
                                         address = jsonObject.getString("address");
                                         lat = jsonObject.getDouble("latitude");
-                                        lon = jsonObject.getDouble("latitude");
+                                        lon = jsonObject.getDouble("longitude");
                                         mapItems.add(new MapItem(storeName, phoneNumber, address, lat, lon));
                                     } catch (JSONException e) {
                                         e.printStackTrace();

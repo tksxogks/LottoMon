@@ -6,7 +6,6 @@ import android.content.pm.PackageManager;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
-import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Looper;
 import android.util.Log;
@@ -34,19 +33,35 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.MapsInitializer;
 import com.google.android.gms.maps.OnMapReadyCallback;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
+import kr.co.htssoft.lottomon.MapItem;
 import kr.co.htssoft.lottomon.R;
+
+import static kr.co.htssoft.lottomon.RodingActivity.busan;
+import static kr.co.htssoft.lottomon.RodingActivity.chungbuk;
+import static kr.co.htssoft.lottomon.RodingActivity.chungnam;
+import static kr.co.htssoft.lottomon.RodingActivity.daegu;
+import static kr.co.htssoft.lottomon.RodingActivity.daejeon;
+import static kr.co.htssoft.lottomon.RodingActivity.gangwon;
+import static kr.co.htssoft.lottomon.RodingActivity.gwangju;
+import static kr.co.htssoft.lottomon.RodingActivity.gyeongbuk;
+import static kr.co.htssoft.lottomon.RodingActivity.gyeonggi;
+import static kr.co.htssoft.lottomon.RodingActivity.gyeongnam;
+import static kr.co.htssoft.lottomon.RodingActivity.incheon;
+import static kr.co.htssoft.lottomon.RodingActivity.jeju;
+import static kr.co.htssoft.lottomon.RodingActivity.jeonbuk;
+import static kr.co.htssoft.lottomon.RodingActivity.jeonnam;
+import static kr.co.htssoft.lottomon.RodingActivity.sejong;
+import static kr.co.htssoft.lottomon.RodingActivity.seoul;
+import static kr.co.htssoft.lottomon.RodingActivity.ulsan;
 
 
 public class MapFragment extends Fragment implements OnMapReadyCallback {
@@ -67,7 +82,11 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
     private int UPDATE_INTERVAL = 1000 * 60 * 1;  // 1분 단위 시간 갱신
     private int FASTEST_UPDATE_INTERVAL = 1000 * 30 ; // 30초 단위로 화면 갱신
 
-    private Marker currentMarker = null;
+    String storeName;
+    String storePhoneNumber;
+    String storeAddress;
+    Double storeLon;
+    Double storeLat;
 
     @Override
     public void onAttach(Activity activity) {
@@ -133,6 +152,9 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
         updateLocationUI();
 
         getDeviceLocation();
+
+        getIndeMarkerItems();
+
     }
 
     private void updateLocationUI() {
@@ -154,17 +176,8 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
         }
     }
 
+
     private void setDefaultLocation() {
-        if (currentMarker != null) currentMarker.remove();
-
-        MarkerOptions markerOptions = new MarkerOptions();
-        markerOptions.position(mDefaultLocation);
-        markerOptions.title("위치정보 가져올 수 없음");
-        markerOptions.snippet("위치 퍼미션과 GPS 활성 여부 확인하세요");
-        markerOptions.draggable(true);
-        markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED));
-        currentMarker = mMap.addMarker(markerOptions);
-
         CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(mDefaultLocation, 15);
         mMap.moveCamera(cameraUpdate);
     }
@@ -205,45 +218,352 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
             if (locationList.size() > 0) {
                 Location location = locationList.get(locationList.size() - 1);
 
-                LatLng currentPosition
-                        = new LatLng(location.getLatitude(), location.getLongitude());
-
-                String markerTitle = getCurrentAddress(currentPosition);
-                String markerSnippet = "위도:" + String.valueOf(location.getLatitude())
-                        + " 경도:" + String.valueOf(location.getLongitude());
-
-                Log.d(TAG, "Time :" + CurrentTime() + " onLocationResult : " + markerSnippet);
-
-
-                setCurrentLocation(location, markerTitle, markerSnippet);
+                setCurrentLocation(location);
                 mCurrentLocatiion = location;
+                Log.e("TAG", "Location로딩완료");
             }
         }
-
     };
 
-    private String CurrentTime(){
-        Date today = new Date();
-        SimpleDateFormat date = new SimpleDateFormat("yyyy/MM/dd");
-        SimpleDateFormat time = new SimpleDateFormat("hh:mm:ss a");
-        return time.format(today);
-    }
-
-    public void setCurrentLocation(Location location, String markerTitle, String markerSnippet) {
-        if (currentMarker != null) currentMarker.remove();
+    public void setCurrentLocation(Location location) {
 
         LatLng currentLatLng = new LatLng(location.getLatitude(), location.getLongitude());
 
-        MarkerOptions markerOptions = new MarkerOptions();
-        markerOptions.position(currentLatLng);
-        markerOptions.title(markerTitle);
-        markerOptions.snippet(markerSnippet);
-        markerOptions.draggable(true);
-
-        currentMarker = mMap.addMarker(markerOptions);
-
         CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLng(currentLatLng);
         mMap.moveCamera(cameraUpdate);
+    }
+
+    private void getIndeMarkerItems() {
+
+
+//        String address = getAddress(getContext(), mCurrentLocatiion.getLatitude(), mCurrentLocatiion.getLongitude());
+//        String[] mnt = address.split(" ");
+//        Log.e("TAG", address);
+//        addressNum(mnt[0], mnt[1]);
+
+        storePoint("서울특별시");
+
+    }
+
+
+    private Marker addMarker(MapItem markerItem) {
+
+
+        LatLng positionLatLng = new LatLng(markerItem.getLat(), markerItem.getLon());
+        Log.e("TAG", markerItem.getStoreName()+" "+markerItem.getLat()+","+markerItem.getLon());
+        MarkerOptions markerOptions = new MarkerOptions();
+        markerOptions.title(markerItem.getStoreName());
+        markerOptions.position(positionLatLng);
+        markerOptions.snippet(markerItem.getAddress()+"("+markerItem.getPhoneNumber()+")");
+
+
+        return mMap.addMarker(markerOptions);
+
+    }
+
+    public void addressNum(String dosi, String gunsi){
+
+    }
+
+
+
+    public void storePoint(String sido){
+        Log.e("TAG", sido);
+        switch (sido){
+            case "강원도":
+                for(int i=0 ; i<gangwon.length ; i++){
+                    for(int j=0 ; j<gangwon[i].size() ; j++){
+
+                        storeName = gangwon[i].get(j).getStoreName();
+                        storePhoneNumber = gangwon[i].get(j).getPhoneNumber();
+                        storeAddress = gangwon[i].get(j).getAddress();
+                        storeLon = gangwon[i].get(j).getLon();
+                        storeLat = gangwon[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "경기도":
+                for(int i=0 ; i<gyeonggi.length ; i++){
+                    for(int j=0 ; j<gyeonggi[i].size() ; j++){
+
+                        storeName = gyeonggi[i].get(j).getStoreName();
+                        storePhoneNumber = gyeonggi[i].get(j).getPhoneNumber();
+                        storeAddress = gyeonggi[i].get(j).getAddress();
+                        storeLon = gyeonggi[i].get(j).getLon();
+                        storeLat = gyeonggi[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "경상남도":
+                for(int i=0 ; i<gyeongnam.length ; i++){
+                    for(int j=0 ; j<gyeongnam[i].size() ; j++){
+
+                        storeName = gyeongnam[i].get(j).getStoreName();
+                        storePhoneNumber = gyeongnam[i].get(j).getPhoneNumber();
+                        storeAddress = gyeongnam[i].get(j).getAddress();
+                        storeLon = gyeongnam[i].get(j).getLon();
+                        storeLat = gyeongnam[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "경상북도":
+                for(int i=0 ; i<gyeongbuk.length ; i++){
+                    for(int j=0 ; j<gyeongbuk[i].size() ; j++){
+                        storeName = gyeongbuk[i].get(j).getStoreName();
+                        storePhoneNumber = gyeongbuk[i].get(j).getPhoneNumber();
+                        storeAddress = gyeongbuk[i].get(j).getAddress();
+                        storeLon = gyeongbuk[i].get(j).getLon();
+                        storeLat = gyeongbuk[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "광주광역시":
+                for(int i=0 ; i<gwangju.length ; i++){
+                    for(int j=0 ; j<gwangju[i].size() ; j++){
+                        storeName = gwangju[i].get(j).getStoreName();
+                        storePhoneNumber = gwangju[i].get(j).getPhoneNumber();
+                        storeAddress = gwangju[i].get(j).getAddress();
+                        storeLon = gwangju[i].get(j).getLon();
+                        storeLat = gwangju[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "대구광역시":
+                for(int i=0 ; i<daegu.length ; i++){
+                    for(int j=0 ; j<daegu[i].size() ; j++){
+                        storeName = daegu[i].get(j).getStoreName();
+                        storePhoneNumber = daegu[i].get(j).getPhoneNumber();
+                        storeAddress = daegu[i].get(j).getAddress();
+                        storeLon = daegu[i].get(j).getLon();
+                        storeLat = daegu[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "대전광역시":
+                for(int i=0 ; i<daejeon.length ; i++){
+                    for(int j=0 ; j<daejeon[i].size() ; j++){
+                        storeName = daejeon[i].get(j).getStoreName();
+                        storePhoneNumber = daejeon[i].get(j).getPhoneNumber();
+                        storeAddress = daejeon[i].get(j).getAddress();
+                        storeLon = daejeon[i].get(j).getLon();
+                        storeLat = daejeon[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "부산광역시":
+                for(int i=0 ; i<busan.length ; i++){
+                    for(int j=0 ; j<busan[i].size() ; j++){
+                        storeName = busan[i].get(j).getStoreName();
+                        storePhoneNumber = busan[i].get(j).getPhoneNumber();
+                        storeAddress = busan[i].get(j).getAddress();
+                        storeLon = busan[i].get(j).getLon();
+                        storeLat = busan[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "서울특별시":
+                for(int i=0 ; i<seoul.length ; i++){
+                    for(int j=0 ; j<seoul[i].size() ; j++){
+                        storeName = seoul[i].get(j).getStoreName();
+                        storePhoneNumber = seoul[i].get(j).getPhoneNumber();
+                        storeAddress = seoul[i].get(j).getAddress();
+                        storeLon = seoul[i].get(j).getLon();
+                        storeLat = seoul[i].get(j).getLat();
+
+                        Log.e("TAG", storeName+", "+storeAddress+", "+storeLat+", "+storeLon);
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "세종특별자치시":
+                for(int i=0 ; i<sejong.size() ; i++) {
+                    storeName = sejong.get(i).getStoreName();
+                    storePhoneNumber = sejong.get(i).getPhoneNumber();
+                    storeAddress = sejong.get(i).getAddress();
+                    storeLon = sejong.get(i).getLon();
+                    storeLat = sejong.get(i).getLat();
+
+                    MarkerOptions options = new MarkerOptions();
+                    options.position(new LatLng(storeLat, storeLon));
+                    options.title(storeName);
+                    options.snippet(storePhoneNumber);
+                    mMap.addMarker(options);
+                }
+
+                break;
+            case "울산광역시":
+                for(int i=0 ; i<ulsan.length ; i++){
+                    for(int j=0 ; j<ulsan[i].size() ; j++){
+                        storeName = ulsan[i].get(j).getStoreName();
+                        storePhoneNumber = ulsan[i].get(j).getPhoneNumber();
+                        storeAddress = ulsan[i].get(j).getAddress();
+                        storeLon = ulsan[i].get(j).getLon();
+                        storeLat = ulsan[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "인천광역시":
+                for(int i=0 ; i<incheon.length ; i++){
+                    for(int j=0 ; j<incheon[i].size() ; j++){
+                        storeName = incheon[i].get(j).getStoreName();
+                        storePhoneNumber = incheon[i].get(j).getPhoneNumber();
+                        storeAddress = incheon[i].get(j).getAddress();
+                        storeLon = incheon[i].get(j).getLon();
+                        storeLat = incheon[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "전라남도":
+                for(int i=0 ; i<jeonnam.length ; i++){
+                    for(int j=0 ; j<jeonnam[i].size() ; j++){
+                        storeName = jeonnam[i].get(j).getStoreName();
+                        storePhoneNumber = jeonnam[i].get(j).getPhoneNumber();
+                        storeAddress = jeonnam[i].get(j).getAddress();
+                        storeLon = jeonnam[i].get(j).getLon();
+                        storeLat = jeonnam[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "전라북도":
+                for(int i=0 ; i<jeonbuk.length ; i++){
+                    for(int j=0 ; j<jeonbuk[i].size() ; j++){
+                        storeName = jeonbuk[i].get(j).getStoreName();
+                        storePhoneNumber = jeonbuk[i].get(j).getPhoneNumber();
+                        storeAddress = jeonbuk[i].get(j).getAddress();
+                        storeLon = jeonbuk[i].get(j).getLon();
+                        storeLat = jeonbuk[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "제주특별자치도":
+                for(int i=0 ; i<jeju.length ; i++){
+                    for(int j=0 ; j<jeju[i].size() ; j++){
+                        storeName = jeju[i].get(j).getStoreName();
+                        storePhoneNumber = jeju[i].get(j).getPhoneNumber();
+                        storeAddress = jeju[i].get(j).getAddress();
+                        storeLon = jeju[i].get(j).getLon();
+                        storeLat = jeju[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "충청남도":
+                for(int i=0 ; i<chungnam.length ; i++){
+                    for(int j=0 ; j<chungnam[i].size() ; j++){
+                        storeName = chungnam[i].get(j).getStoreName();
+                        storePhoneNumber = chungnam[i].get(j).getPhoneNumber();
+                        storeAddress = chungnam[i].get(j).getAddress();
+                        storeLon = chungnam[i].get(j).getLon();
+                        storeLat = chungnam[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+            case "충청북도":
+                for(int i=0 ; i<chungbuk.length ; i++){
+                    for(int j=0 ; j<chungbuk[i].size() ; j++){
+                        storeName = chungbuk[i].get(j).getStoreName();
+                        storePhoneNumber = chungbuk[i].get(j).getPhoneNumber();
+                        storeAddress = chungbuk[i].get(j).getAddress();
+                        storeLon = chungbuk[i].get(j).getLon();
+                        storeLat = chungbuk[i].get(j).getLat();
+
+                        MarkerOptions options = new MarkerOptions();
+                        options.position(new LatLng(storeLat, storeLon));
+                        options.title(storeName);
+                        options.snippet(storePhoneNumber);
+                        mMap.addMarker(options);
+                    }
+                }
+                break;
+        }
     }
 
     private void getDeviceLocation() {
@@ -268,6 +588,32 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
         }
     }
 
+    public static String getAddress(Context context, double LATITUDE, double LONGITUDE) {
+        String strAdd = "";
+        Geocoder geocoder = new Geocoder(context, Locale.getDefault());
+        try {
+            List<Address> addresses = geocoder.getFromLocation(LATITUDE, LONGITUDE, 1);
+            if (addresses != null) {
+                Address returnedAddress = addresses.get(0);
+                StringBuilder strReturnedAddress = new StringBuilder("");
+
+                for (int i = 0; i <= returnedAddress.getMaxAddressLineIndex(); i++) {
+                    strReturnedAddress.append(returnedAddress.getAddressLine(i)).append("\n");
+                }
+                strAdd = strReturnedAddress.toString();
+                Log.w("MyCurrentloctionaddress", strReturnedAddress.toString());
+            } else {
+                Log.w("MyCurrentloctionaddress", "No Address returned!");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            Log.w("MyCurrentloctionaddress", "Canont get Address!");
+        }
+
+        strAdd = strAdd.substring(5);
+        return strAdd;
+    }
+
     @Override
     public void onRequestPermissionsResult(int requestCode,
                                            @NonNull String permissions[],
@@ -282,14 +628,6 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
             }
         }
         updateLocationUI();
-    }
-
-
-    public boolean checkLocationServicesStatus() {
-        LocationManager locationManager = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
-
-        return locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER) ||
-                locationManager.isProviderEnabled(LocationManager.NETWORK_PROVIDER);
     }
 
     @Override
